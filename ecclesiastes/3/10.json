@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ho visto ⟨את⟩ l'occupazione che Elohim ha dato ai figli dell'uomo, per affatigarsi in essa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'occupazione"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "l'occupazione"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "per affatigarsi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in essa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:21.443110543Z",
+  "model": "glm-5.3"
+}

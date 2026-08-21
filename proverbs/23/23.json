@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "La verità comprala e non venderla: ⟨anche⟩ la sapienza, la disciplina e il discernimento.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "La verità"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "comprala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "venderla"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "e la disciplina"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "e il discernimento"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:42.405947814Z",
+  "model": "glm-5.3"
+}

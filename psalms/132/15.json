@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "Il suo cibo benedirò, benedirò: i suoi poveri sazierò di pane.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "il suo cibo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "benedirò"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "benedirò"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "i suoi poveri"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "sazierò"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "di pane"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:47.647814067Z",
+  "model": "glm-5.3"
+}

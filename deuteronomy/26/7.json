@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E gridammo a YHWH, Elohim dei nostri padri, e YHWH udì ⟨את⟩ la nostra voce e vide ⟨את⟩ la nostra miseria e ⟨את⟩ la nostra fatica e ⟨את⟩ la nostra oppressione.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "e gridammo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "dei nostri padri"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nostra voce"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "la nostra voce"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nostra miseria"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "la nostra miseria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la nostra fatica"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "la nostra fatica"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la nostra oppressione"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "la nostra oppressione"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:17.985450025Z",
+  "model": "glm-5.3"
+}

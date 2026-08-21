@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Ha giurato YHWH ⟨per⟩ il vanto di Giacobbe: non dimenticherò mai tutte le loro opere.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ha giurato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "⟨per⟩ il vanto"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨mai⟩"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "dimenticherò"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "le loro opere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:55.638984001Z",
+  "model": "glm-5.3"
+}

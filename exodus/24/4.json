@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E scrisse Mosè ⟨את⟩ tutte le parole di YHWH; e si levò di buon mattino e costruì un altare ai piedi del monte, e dodici stele per le dodici tribù di Israele.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "e scrisse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole di YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "e si levò di buon mattino"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altare"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ai piedi di"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e dodici"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stele"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "per le dodici"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribù di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:04.946871014Z",
+  "model": "glm-5.3"
+}

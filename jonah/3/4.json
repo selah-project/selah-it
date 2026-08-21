@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Giona cominciò a entrare nella città un cammino di un giorno, e proclamò e disse: ancora quaranta giorni e Ninive è rovesciata.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "E cominciò"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Giona"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a entrare"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "un cammino"
+    },
+    {
+      "surface": "יום",
+      "gloss": "di un giorno"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e proclamò"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quaranta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "e Ninive"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "è rovesciata"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:50.106197759Z",
+  "model": "glm-5.3"
+}

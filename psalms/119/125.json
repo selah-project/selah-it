@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Tuo servo ⟨sono⟩ io: fammi comprendere, e conoscerò le tue testimonianze.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "tuo servo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "fammi comprendere"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "e conoscerò"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "le tue testimonianze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:53.204793991Z",
+  "model": "glm-5.3"
+}

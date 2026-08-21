@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "La voce di YHWH fa tremare ⟨il⟩ deserto — fa tremare YHWH il deserto di Qadesh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "La voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "fa tremare"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "il deserto"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "fa tremare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "il deserto di"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:47.558883163Z",
+  "model": "glm-5.3"
+}

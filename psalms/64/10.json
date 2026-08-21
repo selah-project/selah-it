@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "E temerà ogni uomo, e racconterà l'opera di Elohim, e la sua opera comprenderanno con sapienza.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "e temeranno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "e racconteranno"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "e la sua opera"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "comprenderanno con sapienza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:43.695946319Z",
+  "model": "glm-5.3"
+}

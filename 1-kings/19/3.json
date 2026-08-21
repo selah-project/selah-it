@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Ed ⟨egli⟩ vide, e si alzò, e andò per ⟨la sua⟩ nefesh, e arrivò a Beer-Sheva, che ⟨appartiene⟩ a Yehudah, e vi lasciò là ⟨את⟩ il suo ragazzo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "per"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e arrivò"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "a Yehudah ⟨appartiene⟩"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "e lasciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo ragazzo"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "il suo ragazzo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:45.303394211Z",
+  "model": "glm-5.3"
+}

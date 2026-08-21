@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Mikhal, figlia di Sha'ul, amò ⟨את⟩ David; e riferirono a Sha'ul, e la cosa fu retta ai suoi occhi.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "e amò"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "e riferirono"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Sha'ul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "e fu retta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ai suoi occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:51.020424093Z",
+  "model": "glm-5.3"
+}

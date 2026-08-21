@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E disse: ecco, ho sentito che c'è grano in Egitto. Scendete laggiù e comprateci di là, perché possiamo vivere e non morire.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ho sentito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "grano"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "scendete"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "laggiù"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "e comprate"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "e viviamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "moriamo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:51.400573242Z",
+  "model": "glm-5.3"
+}

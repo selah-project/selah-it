@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Le bontà di YHWH canterò in eterno, di generazione in generazione farò conoscere con la mia bocca la tua fedeltà.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "le bontà (chesed)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in eterno"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "di generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "in generazione"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "farò conoscere"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "la tua fedeltà"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "con la mia bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:34.373714351Z",
+  "model": "glm-5.3"
+}

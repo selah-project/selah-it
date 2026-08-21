@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Quando Efraim parlava, ⟨era⟩ tremore; egli si era innalzato in Israele, ma si rese colpevole con il Baal e morì.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "quando parlava"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "tremore"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "si innalzò"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "e si rese colpevole"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "con il Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:16.735129744Z",
+  "model": "glm-5.3"
+}

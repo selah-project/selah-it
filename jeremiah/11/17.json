@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 11:17",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E YHWH degli eserciti, che ti ha piantata, ha parlato contro di te il male, a causa del male della casa di Israele e della casa di Giuda, che essi hanno fatto a se stessi, per provocarmi all'ira, bruciando incenso ⟨al⟩ Baal.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "E YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "הנוטע",
+      "gloss": "che ti ha piantata"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te (il soggetto piantato, con suffisso)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "del male"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e della casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "essi hanno fatto"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a se stessi"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "per provocarmi all'ira"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "bruciando incenso"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "al Baal"
+    }
+  ],
+  "timestamp": "2026-08-21T08:02:25.827653201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Questa ⟨è⟩ la generazione di quelli che lo cercano, che cercano il tuo volto — ⟨quelli di⟩ Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "la generazione"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "di quelli che lo cercano"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "che cercano"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:29.087492538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 39:25",
+  "book": "job",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Al suono dello shofar egli dice: «הֶאָח!», e da lontano fiuta ⟨la⟩ battaglia, il tuono dei capi e il grido di guerra.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "al suono di"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "egli dice"
+    },
+    {
+      "surface": "האח",
+      "gloss": "הֶאָח!"
+    },
+    {
+      "surface": "ומרחוק",
+      "gloss": "e da lontano"
+    },
+    {
+      "surface": "יריח",
+      "gloss": "fiuta"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "battaglia"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "il tuono"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "dei capi"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "e il grido di guerra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:04.838398135Z",
+  "model": "glm-5.3"
+}

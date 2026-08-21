@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Ma tu, YHWH, mi conosci, mi vedi e hai provato il mio cuore ⟨את⟩ con te: strappali come gregge per la macellazione, e consacrali per il giorno della strage.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "mi conosci"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "mi vedi"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "e hai provato"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te",
+      "marks": "il mio cuore con te"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "strappali"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "come gregge"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "per la macellazione"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "e consacrali"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per il giorno"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "della strage"
+    }
+  ],
+  "timestamp": "2026-08-21T08:02:11.534989756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E voi custodirete ⟨את⟩ la custodia del santuario e ⟨את⟩ la custodia dell'altare, e non ci sarà più ira sui figli d'Israele.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "e voi custodirete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la custodia del santuario"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la custodia"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santuario"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "la custodia dell'altare"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la custodia"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dell'altare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ci sarà"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ira"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:05.828625009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "I figli dello straniero appassiscono e tremano ⟨escono⟩ dalle loro fortezze.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "lo straniero"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "appassiscono"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "e tremano"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "dalle loro fortezze"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:16.370773117Z",
+  "model": "glm-5.3"
+}

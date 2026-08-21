@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Come è lontano l'oriente dall'occidente, ⟨Egli⟩ ha allontanato da noi ⟨את⟩ le nostre ribellioni.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "come è lontano"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "l'oriente"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "dall'occidente"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ha allontanato"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nostre ribellioni"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "le nostre ribellioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:15.501206214Z",
+  "model": "glm-5.3"
+}

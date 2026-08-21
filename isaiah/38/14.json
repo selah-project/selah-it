@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Come la gru, come la rondine, così cinguetto; gemo come la colomba; si indeboliscono i miei occhi ⟨guardando⟩ verso l'alto: Adonai, sono oppresso dall'angoscia, fatti garante per me!",
+  "tokens": [
+    {
+      "surface": "כסוס",
+      "gloss": "come la gru"
+    },
+    {
+      "surface": "עגור",
+      "gloss": "come la rondine"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "אצפצף",
+      "gloss": "cinguetto"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "gemo"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "come la colomba"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "si indeboliscono"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "verso l'alto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשקה",
+      "gloss": "sono oppresso dall'angoscia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "fatti garante per me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:56.917015085Z",
+  "model": "glm-5.3"
+}

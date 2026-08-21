@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Poiché sazia di mali ⟨è⟩ la mia nefesh, e la mia vita allo Sheol è giunta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sazia"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "di mali"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "e la mia vita"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "allo Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "è giunta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:24.374706044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Chi soffia fuori fedeltà dichiara giustizia, ma un testimone di menzogne ⟨produce⟩ frode.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "soffia fuori"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "fedeltà"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "dichiara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ma un testimone"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "di menzogne"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "frode"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:02.986444034Z",
+  "model": "glm-5.3"
+}

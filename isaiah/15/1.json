@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Oracolo su Moab: perché in una notte ⟨fu⟩ devastata Ar di Moab, ⟨ed⟩ ⟨fu⟩ ridotta al silenzio; perché in una notte ⟨fu⟩ devastata Kir di Moab, ⟨ed⟩ ⟨fu⟩ ridotta al silenzio.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Oracolo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "su Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "in una notte"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "⟨fu⟩ devastata"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ridotta al silenzio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "in una notte"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "⟨fu⟩ devastata"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ridotta al silenzio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:07.346796653Z",
+  "model": "glm-5.3"
+}

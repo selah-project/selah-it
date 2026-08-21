@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E Mosè diede ⟨את⟩ il Gilad a Makhir, figlio di Menashe, ed egli vi si stabilì.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "E diede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "il Gilad"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "a Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ed egli si stabilì"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in esso"
+    }
+  ],
+  "timestamp": "2026-08-21T06:37:10.970581761Z",
+  "model": "glm-5.3"
+}

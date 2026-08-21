@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E ogni nefesh che mangi una carogna o una bestia sbranata, sia nativo che straniero, laverà le sue vesti e si bagnerà nell'acqua, e sarà impuro fino alla sera; poi sarà puro.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "una carogna"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "o una bestia sbranata"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "il nativo"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "e lo straniero"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e si bagnerà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "poi sarà puro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:48.616761996Z",
+  "model": "glm-5.3"
+}

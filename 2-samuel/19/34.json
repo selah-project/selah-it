@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E disse il re a Barzillai: tu, passa ⟨את⟩ con me, e io provvederò ⟨את⟩ te con me a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ con"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "e io provvederò"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:14.922511468Z",
+  "model": "glm-5.3"
+}

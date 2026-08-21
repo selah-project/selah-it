@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Regna Elohim sui popoli, Elohim siede sul trono della sua santità.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "regna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "siede"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "il trono"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "della sua santità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:18.735159042Z",
+  "model": "glm-5.3"
+}

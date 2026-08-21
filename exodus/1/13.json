@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E gli egiziani fecero servire ⟨את⟩ i figli d'Israele con durezza.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "fecero servire"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "gli egiziani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "con durezza"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:04.888121102Z",
+  "model": "glm-5.3"
+}

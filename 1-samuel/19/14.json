@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Saul mandò messaggeri a prendere ⟨את⟩ Davide, e lei disse: ⟨È⟩ malato.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "a prendere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "malato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:13.904972187Z",
+  "model": "glm-5.3"
+}

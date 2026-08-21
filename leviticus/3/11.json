@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E il sacerdote le farà bruciare sull'altare: pane dell'offerta di fuoco per YHWH.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "e le farà bruciare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dell'offerta di fuoco"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:35.977573029Z",
+  "model": "glm-5.3"
+}

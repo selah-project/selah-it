@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 85,
+  "translation": "Voglio ascoltare ciò che parlerà l'El YHWH, perché ⟨egli⟩ parlerà shalom al suo popolo e ai suoi fedeli (chasidav); e non tornino alla follia.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "voglio ascoltare"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parlerà"
+    },
+    {
+      "surface": "האל",
+      "gloss": "l'El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parlerà"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "al suo popolo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ai suoi fedeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "tornino"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "alla follia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:00.409734237Z",
+  "model": "glm-5.3"
+}

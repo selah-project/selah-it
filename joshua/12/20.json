@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "il re di Shimron-Meron, uno; il re di Akshaf, uno.",
+  "tokens": [
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "il re"
+    },
+    {
+      "surface": "שִׁמְר֤וֹן",
+      "gloss": "di Shimron"
+    },
+    {
+      "surface": "מְראוֹן֙",
+      "gloss": "-Meron"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אַכְשָׁ֖ף",
+      "gloss": "di Akshaf"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:15.570624916Z",
+  "model": "glm-5.3"
+}

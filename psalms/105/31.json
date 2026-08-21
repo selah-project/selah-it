@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Egli parlò, e vennero gli sciami di moscerini, i pidocchi in tutto il loro territorio.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "parlò"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e vennero"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gli sciami di moscerini"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "i pidocchi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutto"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "il loro territorio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:37.384966792Z",
+  "model": "glm-5.3"
+}

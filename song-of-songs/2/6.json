@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "La sua sinistra ⟨è⟩ sotto la mia testa, e la sua destra mi abbraccia.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "la sua sinistra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "la mia testa"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "e la sua destra"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "mi abbraccia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:27.157671837Z",
+  "model": "glm-5.3"
+}

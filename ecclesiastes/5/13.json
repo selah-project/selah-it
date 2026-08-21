@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E quella ricchezza perisce in un cattivo affanno, ed egli genera un figlio, e non ⟨c'è⟩ nulla in mano sua.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "e perisce"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "quella ricchezza"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "in un affanno"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cattivo"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ed egli genera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨c'è⟩"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in mano sua"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nulla"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:09.300713364Z",
+  "model": "glm-5.3"
+}

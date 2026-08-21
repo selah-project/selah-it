@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 101,
+  "translation": "Un cuore perverso si allontanerà da me; il male non lo conoscerò.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "un cuore"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "perverso"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "si allontanerà"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "lo conoscerò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:44.285930637Z",
+  "model": "glm-5.3"
+}

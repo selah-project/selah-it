@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "allora gli anziani della sua città manderanno ⟨a prenderlo⟩ e lo prenderanno di là ⟨אתו⟩, e lo consegneranno ⟨אתו⟩ in mano al goel del sangue, ed egli morirà.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "e manderanno"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "della sua città"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "e lo prenderanno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lui (dall'insieme « di là »)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "e lo consegneranno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "in mano al goel del sangue"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "al goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "del sangue"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ed egli morirà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:36.664071332Z",
+  "model": "glm-5.3"
+}

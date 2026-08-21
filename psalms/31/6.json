@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Nella tua mano affido il mio spirito (Ruach); tu mi hai riscattato ⟨את⟩, YHWH, El di verità.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "nella tua mano"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "affido"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "il mio spirito (Ruach)"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "tu hai riscattato"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "me — il segnapunto anticipa il Nome: mi hai riscattato, YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "di verità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:59.529540191Z",
+  "model": "glm-5.3"
+}

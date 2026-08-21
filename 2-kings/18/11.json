@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Il re di Ashur deportò Israele in Ashur e li stabilì in Chalach e in Chavor, fiume di Gozan, e nelle città della Media.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "e deportò"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "in Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "e li stabilì"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "in Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "e in Chavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "fiume"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "di Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "e nelle città"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "della Media"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:41.844309320Z",
+  "model": "glm-5.3"
+}

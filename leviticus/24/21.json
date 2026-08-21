@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E chi colpisce una bestia la risarcirà, e chi colpisce un uomo sarà messo a morte.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "e chi colpisce"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "una bestia"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "la risarcirà"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "e chi colpisce"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:41.925691425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E il sacerdote guarderà ⟨את⟩ la piaga nella pelle della carne, e se il pelo nella piaga si è fatto bianco e l'aspetto della piaga è più profondo della pelle della sua carne — piaga di tzaraat ⟨è⟩; e il sacerdote lo guarderà e lo dichiarerà impuro.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "e guarderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la piaga"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la piaga"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nella pelle"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "della carne"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "e il pelo"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "nella piaga"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "si è fatto"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bianco"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "e l'aspetto"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "della piaga"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "è più profondo"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "della pelle"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "della sua carne"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "piaga"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "di tzaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩ essa"
+    },
+    {
+      "surface": "וראהו",
+      "gloss": "e lo guarderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e dichiarerà impuro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui (l'uomo con la piaga)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:39.357259896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché ecco, io mando contro di voi serpenti, vipere, che non hanno ⟨per loro⟩ incantamento, e vi morderanno ⟨את⟩, oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco, io"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mando"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contro di voi"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "serpenti"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "vipere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non hanno"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨per loro⟩"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "incantamento"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "e morderanno"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vi",
+      "marks": "vi (voi, oggetto del morso)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:01.780610459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E disse YHWH a Mosè: vieni da Faraone e gli dirai: così ha detto YHWH: manda via ⟨את⟩ il mio popolo, perché mi serva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vieni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e gli dirai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "manda via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "perché mi serva"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:28.566543576Z",
+  "model": "glm-5.3"
+}

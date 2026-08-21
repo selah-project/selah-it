@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Poiché come è alto ⟨il⟩ cielo sopra la terra, così ha prevalso il suo chesed su quelli che lo temono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "come è alto"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cielo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ha prevalso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "quelli che lo temono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:15.501093775Z",
+  "model": "glm-5.3"
+}

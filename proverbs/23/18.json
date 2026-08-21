@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Poiché ⟨c'è⟩ un futuro, e la tua speranza non sarà recisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אם",
+      "gloss": "certamente"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "un futuro"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "e la tua speranza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "sarà recisa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:52.611084078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Un capo di gregge compiuto, maschio, figlio di un anno, sarà per voi; dagli agnelli o dai capri lo prenderete.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "un capo di gregge"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "compiuto"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "di un anno"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "gli agnelli"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "o da"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "i capri"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "prenderete"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:11.172514498Z",
+  "model": "glm-5.3"
+}

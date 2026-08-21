@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E Nachshon generò ⟨את⟩ Salmon, e Salmon generò ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "E Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmon"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmon"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "e Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-21T09:45:04.801215654Z",
+  "model": "glm-5.3"
+}

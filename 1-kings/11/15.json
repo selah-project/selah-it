@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E avvenne, mentre David ⟨era⟩ ⟨את⟩ con ⟨את⟩ Edom, quando Ioab capo dell'esercito salì per seppellire ⟨את⟩ i trafitti, che percosse ogni maschio in Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "mentre ⟨era⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ con"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "quando salì"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "dell'esercito"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "per seppellire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i trafitti"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "i trafitti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "che percosse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:40.823000180Z",
+  "model": "glm-5.3"
+}

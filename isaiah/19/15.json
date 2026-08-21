@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E non vi sarà per l'Egitto opera che capo o coda, fronda di palma o giunco possa fare.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vi sarà"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "per l'Egitto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "possa fare"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capo"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "o coda"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "fronda di palma"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "o giunco"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:19.559962820Z",
+  "model": "glm-5.3"
+}

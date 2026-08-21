@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E feci uscire ⟨את⟩ i vostri padri dall'Egitto, e voi giungeste al mare, e gli Egiziani inseguirono i vostri padri con carri e con cavalieri — il mare dei Giunchi.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "e feci uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri padri"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "i vostri padri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "e giungeste"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "al mare"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "e inseguirono"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "gli Egiziani"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "i vostri padri"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "con carri"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "e con cavalieri"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "dei Giunchi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:43.037525593Z",
+  "model": "glm-5.3"
+}

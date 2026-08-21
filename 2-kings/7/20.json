@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E gli avvenne così: il popolo lo calpestò ⟨את⟩⟨lui⟩ nella porta, ed egli morì.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "calpestò"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nella porta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ed egli morì"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:09.084792269Z",
+  "model": "glm-5.3"
+}

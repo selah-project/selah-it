@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E gli diede ⟨את⟩ Bilha la sua serva per moglie, e Giacobbe entrò da lei.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "la sua serva"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "per moglie"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ed entrò"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "da lei"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:46.012775308Z",
+  "model": "glm-5.3"
+}

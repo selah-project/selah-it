@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e il suo esercito e i suoi contati: cinquantaquattromila e quattrocento.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "e il suo esercito"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "e i suoi contati"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e cinquanta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "migliaia"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e quattro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centinaia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:55.604287986Z",
+  "model": "glm-5.3"
+}

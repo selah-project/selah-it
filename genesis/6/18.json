@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E io stabilirò ⟨את⟩ il mio patto con te ⟨(את)⟩; e entrerai nell'arca, tu e i tuoi figli e tua moglie e le mogli dei tuoi figli con te ⟨(את)⟩.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "e stabilirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio patto"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "con te ⟨את⟩"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "e entrerai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "e i tuoi figli"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "e tua moglie"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "e le mogli"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dei tuoi figli"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "con te ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:35.069841449Z",
+  "model": "glm-5.3"
+}

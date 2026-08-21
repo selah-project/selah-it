@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E i servi di Saul gli riferirono, dicendo: «Secondo queste parole ha parlato David».",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "e riferirono"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "secondo queste parole"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:43.761350566Z",
+  "model": "glm-5.3"
+}

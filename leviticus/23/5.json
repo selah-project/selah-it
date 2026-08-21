@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Nel primo mese, il quattordici del mese, tra le sere, ⟨il⟩ Pesach ⟨è⟩ per YHWH.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Nel mese"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "primo"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "il quattordici"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(quattor)dici"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "le sere"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "il Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:23.444535103Z",
+  "model": "glm-5.3"
+}

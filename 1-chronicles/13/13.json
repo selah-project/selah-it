@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E Davide non trasferì ⟨את⟩ l'arca a sé, nella città di Davide, e la diresse verso la casa di Obed-Edom il Gattonita.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "trasferì"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a sé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "città"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "e la diresse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "di Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "il Gattonita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:11.119339113Z",
+  "model": "glm-5.3"
+}

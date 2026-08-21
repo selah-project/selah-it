@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E quanto a Ismael, ti ho esaudito: ecco, l'ho benedetto ⟨את⟩ e lo renderò fecondo ⟨את⟩ e lo moltiplicherò ⟨את⟩ grandemente, grandemente; dodici principi genererà, e io lo farò diventare una nazione grande.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "e quanto a Ismael"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ti ho esaudito"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "ho benedetto"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (Ismael)"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "e renderò fecondo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (Ismael)"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "e moltiplicherò"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (Ismael)"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "grandemente"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandemente"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dodici"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dieci)"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "principi"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "genererà"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "e lo farò diventare"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "una nazione"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:02.253538986Z",
+  "model": "glm-5.3"
+}

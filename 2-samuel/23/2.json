@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Il Ruach di YHWH ha parlato in me, e la sua parola ⟨è⟩ sulla mia lingua.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "il Ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in me"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "e la sua parola"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "la mia lingua"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:37.941621586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 24:36",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E Sarah, moglie del mio signore, ha partorito un figlio al mio signore dopo la sua vecchiaia; e gli ha dato ⟨את⟩ tutto ciò che ha.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "e ha partorito"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moglie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "del mio signore"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "al mio signore"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "la sua vecchiaia"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e ha dato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ci che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:44.316380706Z",
+  "model": "glm-5.3"
+}

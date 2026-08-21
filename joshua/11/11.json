@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Colpirono ⟨את⟩ ogni nefesh che vi era, al filo della spada, votandole allo cherem — non restò alcun respiro — e ⟨את⟩ Chatsor bruciò con il fuoco.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בה",
+      "gloss": "vi era"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "della spada"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "votandole allo cherem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "restò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alcun"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "respiro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bruciò"
+    },
+    {
+      "surface": "באש",
+      "gloss": "con il fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:52.857700640Z",
+  "model": "glm-5.3"
+}

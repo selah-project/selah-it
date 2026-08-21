@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "Se i tuoi figli custodiranno il mio patto e le mie testimonianze che insegnerò loro, anche i loro figli, fino in eterno, siederanno sul trono per te.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "custodiranno"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "i tuoi figli"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "e le mie testimonianze"
+    },
+    {
+      "surface": "זו",
+      "gloss": "che"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "insegnerò loro"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "i loro figli"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "fino"
+    },
+    {
+      "surface": "עד",
+      "gloss": "in eterno"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "siederanno"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "sul trono"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:41.610438555Z",
+  "model": "glm-5.3"
+}

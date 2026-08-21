@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Poiché YHWH, l'Altissimo, ⟨è⟩ tremendo, re grande su tutta la terra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "l'Altissimo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "tremendo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:00.355819360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E Yokshan generò ⟨את⟩ Sheba e ⟨את⟩ Dedan; e i figli di Dedan furono gli Ashuriti, i Letushiti e i Leummiti.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "E Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e i figli di"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "furono"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "gli Ashuriti"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "i Letushiti"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "i Leummiti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:34.573142271Z",
+  "model": "glm-5.3"
+}

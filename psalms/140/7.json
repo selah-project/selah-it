@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 140,
+  "translation": "Ho detto a YHWH: ⟨El⟩ mio sei tu; porgi l'orecchio, YHWH, alla voce delle mie suppliche.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "porgi l'orecchio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קול",
+      "gloss": "alla voce"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "delle mie suppliche"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:13.493656938Z",
+  "model": "glm-5.3"
+}

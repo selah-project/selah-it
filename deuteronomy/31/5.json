@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E YHWH li darà davanti a voi, e voi farete loro secondo tutto il comandamento che io ho comandato ⟨את⟩ voi.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "e li darà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "e farete"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "il comandamento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ho comandato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:10.819738500Z",
+  "model": "glm-5.3"
+}

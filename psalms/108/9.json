@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 108,
+  "translation": "Mio ⟨è⟩ Gilad, mio ⟨è⟩ Menashsheh; Efrayim ⟨è⟩ la rocca del mio capo; Yehudah ⟨è⟩ il mio legislatore.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "la rocca"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "del mio capo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "il mio legislatore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:40.605598868Z",
+  "model": "glm-5.3"
+}

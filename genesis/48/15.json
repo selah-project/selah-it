@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "E benedisse ⟨את⟩ Giuseppe e disse: l'Elohim davanti al quale camminarono i miei padri Abramo e Isacco, l'Elohim che mi pastoreggia ⟨את⟩ da quando sono, fino a questo giorno —",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuseppe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "camminarono"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "i miei padri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "e Isacco"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "che pastoreggia"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "da quando sono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:51.915852480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E avvenne, quando Rachele partorì ⟨את⟩ Giuseppe, che Giacobbe disse a Laban: rimandami, e io andrò al mio luogo e alla mia terra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuseppe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "rimandami"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "e io andrò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "al mio luogo"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "e alla mia terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:20.853485412Z",
+  "model": "glm-5.3"
+}

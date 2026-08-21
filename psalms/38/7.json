@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Sono contorto, mi sono curvato fino all'eccesso; tutto il giorno sono andato annerito ⟨in lutto⟩.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "sono contorto"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "mi sono curvato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "all'eccesso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "annerito"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "sono andato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:31.113961840Z",
+  "model": "glm-5.3"
+}

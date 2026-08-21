@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Ci dai come pecore da mangiare, e tra le nazioni ci hai dispersi.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "ci dai"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "come pecore"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "da mangiare"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "e tra le nazioni"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "ci hai dispersi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:34.320514186Z",
+  "model": "glm-5.3"
+}

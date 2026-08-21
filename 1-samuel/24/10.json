@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E Dawid disse a Shaul: «Perché ascolti ⟨את⟩ le parole degli uomini, che dicono: Ecco, Dawid cerca il tuo male?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ascolti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "degli uomini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "il tuo male"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:13.754310203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Poiché il figlio tratta da stolto il padre, la figlia si leva contro sua madre, la nuora contro la suocera; i nemici dell'uomo ⟨sono⟩ gli uomini della sua casa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "tratta da stolto"
+    },
+    {
+      "surface": "אב",
+      "gloss": "il padre"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "si leva"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "contro sua madre"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "la nuora"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "contro la suocera"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i nemici"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "della sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:14.605621276Z",
+  "model": "glm-5.3"
+}

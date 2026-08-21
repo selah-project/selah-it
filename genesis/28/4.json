@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E ti dia ⟨את⟩ la benedizione di Abramo, a te e alla tua discendenza ⟨את⟩ con te, per farti possedere ⟨את⟩ la terra dei tuoi soggiorni, che Elohim diede ad Abramo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e ti dia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la benedizione di Abramo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "la benedizione"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "di Abramo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "e alla tua discendenza"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "per farti possedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra dei tuoi soggiorni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "dei tuoi soggiorni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ad Abramo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:40.651481833Z",
+  "model": "glm-5.3"
+}

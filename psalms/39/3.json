@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Sono rimasto ammutolito nel silenzio, ho taciuto perfino ⟨parlare⟩ del bene, e il mio dolore si è agitato.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "sono rimasto ammutolito"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nel silenzio"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ho taciuto"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "perfino ⟨parlare⟩ del bene"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "e il mio dolore"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "si è agitato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:45.498256074Z",
+  "model": "glm-5.3"
+}

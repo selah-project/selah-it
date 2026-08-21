@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "per dargli quiete dai giorni del male, finché si scavì ⟨la⟩ fossa per il malvagio.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "per dare quiete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "dai giorni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "del male"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "si scaverà"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "per il malvagio"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "la fossa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:20.805612520Z",
+  "model": "glm-5.3"
+}

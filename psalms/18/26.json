@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Con il chasid ti mostri chesed, con l'uomo integro ti mostri integro.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "il chasid (il pio)"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ti mostri chesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "integro"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ti mostri integro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:12.958099356Z",
+  "model": "glm-5.3"
+}

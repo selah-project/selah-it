@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Avvenne nel terzo anno di Hoshea figlio di Elah, re di Israele, che divenne re Chizkiyahu figlio di Achaz, re di Giuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "avvenne"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "terzo"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "di Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "di Elah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "divenne re"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "di Achaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:56.936436619Z",
+  "model": "glm-5.3"
+}

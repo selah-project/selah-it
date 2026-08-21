@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E Davide finì di far salire l'olà e le offerte di pace, e benedisse ⟨את⟩ il popolo nel nome di YHWH Tsevaot.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "E finì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "di far salire"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "e le offerte di pace"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel nome di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:42.283382120Z",
+  "model": "glm-5.3"
+}

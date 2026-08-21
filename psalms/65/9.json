@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Temono gli abitanti delle estremità ⟨della terra⟩ davanti ai tuoi segni; le uscite del mattino e della sera tu fai esultare di giubilo.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "temono"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "delle estremità"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "davanti ai tuoi segni"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "le uscite"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "del mattino"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "e della sera"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "tu fai esultare di giubilo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:47.462460542Z",
+  "model": "glm-5.3"
+}

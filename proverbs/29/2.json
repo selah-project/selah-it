@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Quando i giusti sono molti, esulta ⟨il⟩ popolo; ma quando domina un malvagio, ⟨il⟩ popolo sospira.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "quando sono molti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "esulta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "ma quando domina"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "un malvagio"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "sospira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:44.097532918Z",
+  "model": "glm-5.3"
+}

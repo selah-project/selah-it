@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Se tuo fratello impoverisce e vende ⟨della⟩ sua proprietà, e viene il suo goel, il parente prossimo a lui, e riscatta ⟨את⟩ la vendita di suo fratello:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "impoverisce"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "e vende"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "della sua proprietà"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e viene"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "il suo goel"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "il prossimo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "e riscatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vendita"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "la vendita"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "di suo fratello"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:28.523946450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Davide radunò tutto il popolo e andò a Rabbah, e combatté contro di essa e la catturò.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "e radunò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il popolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "a Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "e combatté"
+    },
+    {
+      "surface": "בה",
+      "gloss": "contro di essa"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "e la catturò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:45.980682817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Al maestro del coro. Di Davide. Un mizmor. Elohim della mia lode, non tacere.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al maestro del coro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "della mia lode"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tacere"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:40.747855069Z",
+  "model": "glm-5.3"
+}

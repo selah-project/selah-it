@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E farai un altare per far salire il fumo dell'incenso; di legno di acacia lo farai.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altare"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "per far salire il fumo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dell'incenso"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "di legno"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "di acacia"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "lo farai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (l'altare dell'incenso)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:07.854351582Z",
+  "model": "glm-5.3"
+}

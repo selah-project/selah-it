@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Chi la nasconde nasconde ⟨il⟩ vento, e l'olio della sua destra chiama ⟨contro di lui⟩.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "chi la nasconde"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "nasconde"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il vento"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "e l'olio"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "della sua destra"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "chiama"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:39.910471027Z",
+  "model": "glm-5.3"
+}

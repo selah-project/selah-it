@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Sera, mattina e mezzogiorno mediterò e gemerò, ed ⟨egli⟩ udì la mia voce.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "sera"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e mattina"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "e mezzogiorno"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mediterò"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "e gemerò"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ed ⟨egli⟩ udì"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:43.370992075Z",
+  "model": "glm-5.3"
+}

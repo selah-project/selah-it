@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "La tua creatura abitò in essa; nella tua bontà tu provvedi per il povero, o Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "la tua creatura"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "abitò"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tu provvedi"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "nella tua bontà"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "per il povero"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.493080010Z",
+  "model": "glm-5.3"
+}

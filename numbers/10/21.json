@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E partirono i kehatiti, portatori del santuario; ed ⟨altri⟩ eressero il mishkan finché ⟨essi⟩ non fossero arrivati.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "e partirono"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "i kehatiti"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "portatori"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "del santuario"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ed eressero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "באם",
+      "gloss": "non fossero arrivati"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:13.947042740Z",
+  "model": "glm-5.3"
+}

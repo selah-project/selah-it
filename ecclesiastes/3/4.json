@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Un'ora per piangere e un'ora per ridere, un'ora per fare lutto e un'ora per danzare.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un'ora"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "per piangere"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un'ora"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "per ridere"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un'ora"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "per fare lutto"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un'ora"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "per danzare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:18.952644842Z",
+  "model": "glm-5.3"
+}

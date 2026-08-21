@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E gli disse: così ha detto YHWH: poiché hai lasciato andare ⟨את⟩ l'uomo del mio cherem, dalla tua mano, la tua nefesh ⟨sarà⟩ al posto della sua nefesh, e il tuo popolo al posto del suo popolo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e gli disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יען",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "hai lasciato andare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo del mio cherem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "del mio cherem (devoto allo sterminio)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua nefesh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "e il tuo popolo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "del suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:35.854951931Z",
+  "model": "glm-5.3"
+}

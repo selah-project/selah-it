@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Poiché mille anni nei tuoi occhi ⟨sono⟩ come il giorno di ieri, quando è passato, e come una veglia nella notte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nei tuoi occhi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come il giorno"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "di ieri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "è passato"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "e una veglia"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nella notte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:09.717140870Z",
+  "model": "glm-5.3"
+}

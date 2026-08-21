@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 62,
+  "translation": "Solo per abbatterlo dalla sua dignità hanno tramato; si compiacciono della menzogna: con la bocca benedicono, ma nell'intimo maledicono. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "dalla sua dignità"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "hanno tramato"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "per abbatterlo"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "si compiacciono"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "della menzogna"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "con la bocca"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "benedicono"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ma nell'intimo"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "maledicono"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:29.487877348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 21:2",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "«Interroga, ti prego, per noi ⟨את⟩ YHWH, perché Nebukadnetsar re di Babilonia combatte contro di noi; forse YHWH opererà ⟨את⟩ noi secondo tutte le sue meraviglie, e farà ritirare da su di noi».",
+  "tokens": [
+    {
+      "surface": "דרש",
+      "gloss": "Interroga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Babilonia"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "combatte"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "contro di noi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "forse"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "opererà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩",
+      "marks": "noi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutte"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "le sue meraviglie"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "e farà ritirare"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "da su di noi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:16.035740959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Benedetto ⟨sia⟩ YHWH, Elohim d'Israele, dall'eternità e fino all'eternità. Amen e amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Benedetto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "dall'eternità"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "all'eternità"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "e amen"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:08.582318535Z",
+  "model": "glm-5.3"
+}

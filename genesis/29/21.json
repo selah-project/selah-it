@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E disse Yaakov a Lavan: « Dammi ⟨את⟩ mia moglie, perché i miei giorni sono compiuti, e io entrerò da lei ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "dammi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mia moglie"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mia moglie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sono compiuti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i miei giorni"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "e io entrerò"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "da lei"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:52.113717963Z",
+  "model": "glm-5.3"
+}

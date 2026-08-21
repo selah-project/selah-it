@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Quando tacevo, si consumavano le mie ossa, col mio ruggire tutto il giorno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "tacevo"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "si consumavano"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "le mie ossa"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "col mio ruggire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:38.694643478Z",
+  "model": "glm-5.3"
+}

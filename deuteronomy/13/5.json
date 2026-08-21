@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Dietro a YHWH, ⟨il⟩ vostro Elohim, voi camminerete, e ⟨את⟩ lui temerete, e ⟨את⟩ i suoi comandamenti custodirete, e alla sua voce ascolterete, e ⟨את⟩ lui servirete, e a lui vi aggrapperete.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "voi camminerete"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui (YHWH, oggetto di temerete)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temerete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi comandamenti"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "i suoi comandamenti"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "custodirete"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "e alla sua voce"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ascolterete"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui (YHWH, oggetto di servirete)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "servirete"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "e a lui"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "vi aggrapperete"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:36.457216231Z",
+  "model": "glm-5.3"
+}

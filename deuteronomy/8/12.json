@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Che tu non venga a mangiare e a saziarti, e a costruire case buone e ad abitarvi —",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "che non"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu mangi"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "e ti sazierai"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "e case"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "buone"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "costruirai"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "e abiterai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:50.679432509Z",
+  "model": "glm-5.3"
+}

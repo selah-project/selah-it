@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Il cuore conosce l'amarezza della propria nefesh, e nella sua gioia non si mescola un estraneo.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "l'amarezza"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "della propria nefesh"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "e nella sua gioia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "si mescola"
+    },
+    {
+      "surface": "זר",
+      "gloss": "un estraneo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:11.732234447Z",
+  "model": "glm-5.3"
+}

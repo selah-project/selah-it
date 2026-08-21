@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E avvenne dopo la morte di Saul, che Davide tornò dal colpire ⟨את⟩ gli Amaleciti, e Davide dimorò a Ziklag due giorni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la morte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Saul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e Davide"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tornò"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "dal colpire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli Amaleciti"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "gli Amaleciti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e dimorò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "a Ziklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:16.005465681Z",
+  "model": "glm-5.3"
+}

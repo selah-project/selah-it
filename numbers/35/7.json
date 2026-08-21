@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Tutte le città che darete ai leviti: quarantotto città, ⟨את⟩ esse e ⟨את⟩ i loro territori aperti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "le città"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "darete"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ai leviti"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quaranta"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "e otto"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "città"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "esse (le città)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i loro territori aperti"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "i loro territori aperti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:12.947107433Z",
+  "model": "glm-5.3"
+}

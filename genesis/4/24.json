@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Poiché sette volte sarà vendicato Cain, ma di Lemek settanta volte sette.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sette volte"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "sarà vendicato"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Cain"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "ma di Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "settanta"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "e sette"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:26.114319287Z",
+  "model": "glm-5.3"
+}

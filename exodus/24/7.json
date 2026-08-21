@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E prese il libro del patto e lesse alle orecchie del popolo; e dissero: tutto ciò che ha parlato YHWH lo faremo e lo ascolteremo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "E prese"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "il libro"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "del patto"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e lesse"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "alle orecchie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "lo faremo"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "e lo ascolteremo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:02.158079363Z",
+  "model": "glm-5.3"
+}

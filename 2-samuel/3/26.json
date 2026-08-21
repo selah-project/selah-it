@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E uscì Ioab di presso Davide, e mandò messaggeri dietro ad Avner, e riportarono ⟨את⟩ lui dalla cisterna di Sirah; e Davide non sapeva.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "di presso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e riportarono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "Avner"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "dalla cisterna"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "di Sirah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e Davide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sapeva"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:47.839633182Z",
+  "model": "glm-5.3"
+}

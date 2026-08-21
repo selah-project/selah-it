@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E tornarono le acque da su ⟨la⟩ terra, andando e tornando; e scemarono le acque alla fine di centocinquanta giorni.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "e tornarono"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "andando"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "e tornando"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "e scemarono"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "alla fine"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquanta"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e cento"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:57.422799034Z",
+  "model": "glm-5.3"
+}

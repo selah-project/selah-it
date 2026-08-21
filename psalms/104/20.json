@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Rechi ⟨tu⟩ il buio e viene la notte; in essa striscia ogni bestia della foresta.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Rechi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "il buio"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e viene"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la notte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "striscia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bestia"
+    },
+    {
+      "surface": "יער",
+      "gloss": "della foresta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:21.459153818Z",
+  "model": "glm-5.3"
+}

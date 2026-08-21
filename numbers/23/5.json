@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E YHWH pose una parola in bocca a Bilam, e disse: torna da Balak, e così parlerai.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in bocca a"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "e così"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "parlerai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:10.405469486Z",
+  "model": "glm-5.3"
+}

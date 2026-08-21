@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "La voce di YHWH fa contorcere le cerve, e spoglia ⟨i⟩ boschi — e nel suo tempio tutto, tutto dice: Gloria.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "fa contorcere"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "le cerve"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "e spoglia"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "i boschi"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "e nel suo tempio"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tutto, tutto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:39.112173254Z",
+  "model": "glm-5.3"
+}

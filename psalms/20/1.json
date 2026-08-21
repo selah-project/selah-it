@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Al direttore del coro. Un mizmor di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:55.287715903Z",
+  "model": "glm-5.3"
+}

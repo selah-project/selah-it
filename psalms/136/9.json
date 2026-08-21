@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "⟨את⟩ la luna e ⟨le⟩ stelle per dominare nella notte, perché per sempre ⟨dure⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la luna"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "la luna"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "e le stelle"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "per dominare"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nella notte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:42.524614915Z",
+  "model": "glm-5.3"
+}

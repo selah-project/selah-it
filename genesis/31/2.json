@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E Giacobbe guardò ⟨את⟩ il volto di Lavan, ed ecco, non ⟨era⟩ verso di lui come ieri e l'altro ieri.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "guardò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il volto"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "di Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "non ⟨era⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "verso di lui"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "come ieri"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "e l'altro ieri"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:02.171822352Z",
+  "model": "glm-5.3"
+}

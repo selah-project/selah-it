@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Ester non aveva rivelato ⟨את⟩ il suo popolo né ⟨את⟩ la sua parentela, perché Mardocai le aveva comandato di non rivelare.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "aveva-rivelato"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo popolo"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "né-⟨את⟩",
+      "marks": "la sua parentela"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "la sua parentela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardocai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva-comandato"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di lei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "rivelare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:04.625162841Z",
+  "model": "glm-5.3"
+}

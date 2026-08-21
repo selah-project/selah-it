@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Poiché tu sei ⟨il⟩ Dio della mia roccia: perché mi hai respinto? Perché ⟨vado⟩ oscurato dal dolore sotto l'oppressione del nemico?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Dio"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "della mia roccia"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "mi hai respinto"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "oscurato dal dolore"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "⟨vado⟩"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sotto l'oppressione"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "del nemico"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:01.911290540Z",
+  "model": "glm-5.3"
+}

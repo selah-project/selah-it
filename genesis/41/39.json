@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "E disse Faraone a Giuseppe: « Dopo che Elohim ti ha fatto conoscere ⟨אותך→te⟩ tutto questo, non ⟨c'è⟩ nessuno intelligente e saggio come te ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo che"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "ha fatto conoscere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ te",
+      "marks": "אותך — marcatore di oggetto con suffisso: « ti »"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto questo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "intelligente"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "e saggio"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "come te"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:40.675620694Z",
+  "model": "glm-5.3"
+}

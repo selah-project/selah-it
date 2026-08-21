@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E tutto Israele udì, dicendo: « Sha'ul ha colpito ⟨את⟩ il presidio dei Filistei, e anche Israele ⟨è diventato⟩ in odor di disgusto presso i Filistei ». E il popolo gridò dietro a Sha'ul al Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "udì"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ha colpito"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il presidio dei Filistei"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "il presidio"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei Filistei"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "è diventato in odor di disgusto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "presso i Filistei"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "e gridò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "al Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:25.519456433Z",
+  "model": "glm-5.3"
+}

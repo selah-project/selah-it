@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E andò Mosè, e parlò ⟨את⟩ le parole queste a tutto Israele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:20.200683875Z",
+  "model": "glm-5.3"
+}

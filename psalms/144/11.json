@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "Liberami e salvami dalla mano dei figli dello straniero, la cui bocca parla menzogna e la loro destra ⟨è⟩ una destra d'inganno.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Liberami"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "e salvami"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "dello straniero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "il cui"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bocca"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "menzogna"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "e la loro destra"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "una destra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "d'inganno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:48.505129645Z",
+  "model": "glm-5.3"
+}

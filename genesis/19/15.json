@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E come l'alba salì, fecero premere gli angeli su Lot, dicendo: alzati, prendi ⟨את⟩ tua moglie e ⟨את⟩ le tue due figlie, le trovate qui, perché tu non sia spazzato via nel peccato della città.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "e come"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "l'alba"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "salì"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "fecero premere"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "gli angeli"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "su Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "קום",
+      "gloss": "alzati"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tua moglie"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tua moglie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le tue due figlie"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "due"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "le tue figlie"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "le trovate qui"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "tu sia spazzato via"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "nel peccato"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:43.979003238Z",
+  "model": "glm-5.3"
+}

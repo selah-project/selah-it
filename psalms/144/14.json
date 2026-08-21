@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "I nostri buoi ⟨sono⟩ ben carichi; non ⟨c'è⟩ breccia, non ⟨c'è⟩ uscita, e non ⟨c'è⟩ grido di lamento nelle nostre piazze.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "i nostri buoi"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "ben carichi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "breccia"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "uscita"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "grido di lamento"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "nelle nostre piazze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:38.652529012Z",
+  "model": "glm-5.3"
+}

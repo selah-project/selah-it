@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E dissero: non ci hai frodati, non ci hai oppressi, e non hai preso nulla dalla mano di nessun uomo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "ci hai frodati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ci hai oppressi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hai preso"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di nessun uomo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nulla"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:19.340952114Z",
+  "model": "glm-5.3"
+}

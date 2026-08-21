@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "e la trebbiatura vi raggiungerà fino alla vendemmia, e la vendemmia raggiungerà ⟨את⟩ la semina; e mangerete il vostro pane a sazietà e abiterete in sicurezza nella vostra terra.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "raggiungerà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "la trebbiatura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vendemmia"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "la vendemmia"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "e la vendemmia"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "raggiungerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la semina"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "la semina"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "e mangerete"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "il vostro pane"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "a sazietà"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "e abiterete"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "in sicurezza"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "nella vostra terra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:22.923410894Z",
+  "model": "glm-5.3"
+}

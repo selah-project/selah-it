@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 24:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Fuori dal velo della Testimonianza, nella tenda del convegno, lo disporrà Aharon dalla sera fino al mattino, davanti a YHWH, di continuo: statuto perpetuo per le vostre generazioni.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "dal velo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "della Testimonianza"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nella tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "disporrà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (il lume)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "dalla sera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "di continuo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "statuto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpetuo"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "per le vostre generazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:02.221913720Z",
+  "model": "glm-5.3"
+}

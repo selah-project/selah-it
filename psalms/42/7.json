@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Elohim mio, su di me si affonda la mia nefesh; perciò io ti ricordo, dalla terra del Giordano e dell'Hermonim, dal monte Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "si affonda"
+    },
+    {
+      "surface": "על",
+      "gloss": "percio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "[con על:] perciò"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "io ti ricordo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "del Giordano"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "e dell'Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dal monte"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:17.074359177Z",
+  "model": "glm-5.3"
+}

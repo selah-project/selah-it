@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Poiché yovel ⟨esso⟩, santo sarà per voi; dal campo mangerete ⟨את⟩ il suo prodotto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨esso⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prodotto"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "il suo prodotto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:53.737359288Z",
+  "model": "glm-5.3"
+}

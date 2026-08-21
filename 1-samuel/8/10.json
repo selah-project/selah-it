@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E Samuele disse ⟨את⟩ tutte le parole di YHWH al popolo che gli chiedeva un re.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole di YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "che chiedeva"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ da lui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:47.383854901Z",
+  "model": "glm-5.3"
+}

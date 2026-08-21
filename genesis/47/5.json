@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E parlò Faraone a Giuseppe, dicendo: «Tuo padre e i tuoi fratelli sono venuti da te:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "e i tuoi fratelli"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sono venuti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "da te"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:06.100242903Z",
+  "model": "glm-5.3"
+}

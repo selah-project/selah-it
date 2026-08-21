@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse YHWH a lui: chiama il suo nome Izreel, perché ancora un poco e visiterò ⟨את⟩ il sangue di Izreel sulla casa di Iehu, e farò cessare il regno della casa d'Israele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chiama"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Izreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un poco"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "e visiterò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sangue di Izreel"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "di Izreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "sulla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "di Iehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "e farò cessare"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:45.503202299Z",
+  "model": "glm-5.3"
+}

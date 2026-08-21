@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E tu parlerai a lui e porrai ⟨את⟩ le parole nella sua bocca; e io sarò con la tua bocca e con la sua bocca, e vi insegnerò ⟨את⟩ ciò che dovrete fare.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "E parlerai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "e porrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "nella sua bocca"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sarò"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "la tua bocca"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e con"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "la sua bocca"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "e vi insegnerò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che dovrete fare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "dovrete fare"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:38.071127820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Voi avete visto ciò che ho fatto all'Egitto, e vi ho portati ⟨את⟩ su ali di aquile e vi ho condotti ⟨את⟩ a me.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "avete visto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ho fatto"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "all'Egitto"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "e vi ho portati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi (portati)"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ali"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "di aquile"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "e vi ho condotti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi (condotti)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:31.912467225Z",
+  "model": "glm-5.3"
+}

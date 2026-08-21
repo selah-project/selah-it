@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 113,
+  "translation": "fa alzare dal_polline il_povero, dal letamaio solleva il bisognoso,",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "fa alzare"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "dal polline"
+    },
+    {
+      "surface": "דל",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "dal letamaio"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "solleva"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "il bisognoso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:40.826005406Z",
+  "model": "glm-5.3"
+}

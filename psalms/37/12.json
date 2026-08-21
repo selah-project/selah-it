@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Trama il malvagio contro il giusto, e digrigna contro di lui i suoi denti.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "trama"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "contro il giusto"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "e digrigna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contro di lui"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "i suoi denti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:30.712939445Z",
+  "model": "glm-5.3"
+}

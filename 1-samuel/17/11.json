@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E udì Saul e tutto Israele ⟨את⟩ le parole del filisteo, queste, e furono sgomenti e temettero molto.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole del filisteo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "del filisteo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "e furono sgomenti"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "e temettero"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:34.038113310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "I nostri granai ⟨sono⟩ pieni, che danno provvista di sorta in sorta; il nostro gregge ⟨è⟩ moltiplicato per migliaia, per decine di migliaia nelle nostre piazze.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "i nostri granai"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "pieni"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "che danno provvista"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "di sorta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "זן",
+      "gloss": "sorta"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "il nostro gregge"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "moltiplicato per migliaia"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "per decine di migliaia"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "nelle nostre piazze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:38.652311618Z",
+  "model": "glm-5.3"
+}

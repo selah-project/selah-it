@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 87,
+  "translation": "Ama YHWH le porte di Sion più di tutte le dimore di Giacobbe.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "le porte di"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "più di tutte"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "le dimore"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:51.543797285Z",
+  "model": "glm-5.3"
+}

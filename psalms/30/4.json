@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "YHWH, hai fatto salire dallo Sheol la mia nefesh, mi hai dato vita tra quelli che scendono ⟨nella⟩ fossa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "hai fatto salire"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lo Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "mi hai dato vita"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "tra quelli che scendono"
+    },
+    {
+      "surface": "בור",
+      "gloss": "fossa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:33.397553126Z",
+  "model": "glm-5.3"
+}

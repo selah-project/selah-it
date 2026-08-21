@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E porterà fuori ⟨את⟩ il toro fuori dall'accampamento, e lo brucerà come bruciò ⟨את⟩ il primo toro: peccato-offerta della comunità ⟨è⟩ essa.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "e porterà fuori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il toro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il toro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "dall'accampamento"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "e lo brucerà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩esso",
+      "marks": "il toro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bruciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il primo toro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il toro"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "il primo"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "peccato-offerta"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "della comunità"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:49.446313214Z",
+  "model": "glm-5.3"
+}

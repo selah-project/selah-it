@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E si alzò Abramo e si prostrò davanti al popolo ⟨della⟩ terra, ai figli di Chet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "e si prostrò"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "al popolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:22.290907289Z",
+  "model": "glm-5.3"
+}

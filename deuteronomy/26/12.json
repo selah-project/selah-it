@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 26:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Quando avrai finito di decimare ⟨את⟩ tutta la decima del tuo raccolto, nell'anno terzo, l'anno della decima, la darai al levita, al forestiero, all'orfano e alla vedova, ed essi mangeranno dentro le tue porte e si sazieranno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "avrai finito"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "di decimare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la decima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "la decima"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "del tuo raccolto"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "השלישת",
+      "gloss": "terzo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "l'anno"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "della decima"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "la darai"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "al levita"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "al forestiero"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "all'orfano"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "e alla vedova"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ed essi mangeranno"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "dentro le tue porte"
+    },
+    {
+      "surface": "ושבעו",
+      "gloss": "e si sazieranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:45.573277718Z",
+  "model": "glm-5.3"
+}

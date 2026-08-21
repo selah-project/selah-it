@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Ho posto YHWH davanti a me sempre, perché alla mia destra, non sarò smosso.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "ho posto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "alla mia destra"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarò smosso"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:40.504958967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Sia ricordata davanti a YHWH l'iniquità dei suoi padri, e il peccato di sua madre non sia cancellato.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "sia ricordata"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dei suoi padri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "e il peccato"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "di sua madre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "sia cancellato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:07.846880071Z",
+  "model": "glm-5.3"
+}

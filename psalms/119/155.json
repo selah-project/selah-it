@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Lontana dai malvagi ⟨è⟩ la salvezza, perché i tuoi statuti non hanno cercato.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Lontana"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "dai malvagi"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "la salvezza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i tuoi statuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "hanno cercato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:52.833204489Z",
+  "model": "glm-5.3"
+}

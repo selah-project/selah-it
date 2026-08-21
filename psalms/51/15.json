@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Insegnerò ai trasgressori le tue vie, e i peccatori torneranno a te.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "insegnerò"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ai trasgressori"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "le tue vie"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "e i peccatori"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "torneranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:55.146521240Z",
+  "model": "glm-5.3"
+}

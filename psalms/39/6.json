@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Ecco, come palmi hai fatto i miei giorni, e la mia durata ⟨è⟩ come nulla davanti a te; solo un soffio — ogni uomo che sta ⟨ritto⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "come palmi"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i miei giorni"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "e la mia durata"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "come nulla"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "un soffio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "che sta ⟨ritto⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:46.380991746Z",
+  "model": "glm-5.3"
+}

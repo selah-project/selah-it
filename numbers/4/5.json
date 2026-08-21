@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E verrà Aharon e i suoi figli quando il campo si metterà in viaggio, e staccheranno ⟨את⟩ il parokhet del velo, e con esso copriranno ⟨את⟩ l'aron della testimonianza.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "e verrà"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "quando si metterà in viaggio"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "e staccheranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il parokhet"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "il parokhet"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "del velo"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "e copriranno"
+    },
+    {
+      "surface": "בה",
+      "gloss": "con esso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'aron"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "l'aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "della testimonianza"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:50.286906946Z",
+  "model": "glm-5.3"
+}

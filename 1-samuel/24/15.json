@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Dietro chi è uscito il re d'Israele? Chi insegui? Dietro un cane morto, dietro una sola pulce.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "è uscito"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "insegui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "un cane"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morto"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "una pulce"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una sola"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:05.211361168Z",
+  "model": "glm-5.3"
+}

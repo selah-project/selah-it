@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Gli occhi di tutti a te si levano in attesa, e tu dai a loro ⟨את⟩ il loro cibo a suo tempo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "si levano in attesa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "dai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il loro cibo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "il loro cibo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "a suo tempo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:01.309821780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Strappami dal fango, e che io non affondi; sia io strappato dai miei odiatori e dalle profondità delle acque.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "strappami"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "dal fango"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "io affondi"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "sia io strappato"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "dai miei odiatori"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "e dalle profondità"
+    },
+    {
+      "surface": "מים",
+      "gloss": "delle acque"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:13.037939617Z",
+  "model": "glm-5.3"
+}

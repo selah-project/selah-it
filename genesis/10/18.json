@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "e ⟨את⟩ l'Arvadita e ⟨את⟩ lo Zemarita e ⟨את⟩ l'Hamatita; e dopo si dispersero le famiglie del Cananeo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'Arvadita"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "l'Arvadita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lo Zemarita"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "lo Zemarita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'Hamatita"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "l'Hamatita"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "si dispersero"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "le famiglie"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "del Cananeo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:46.748219432Z",
+  "model": "glm-5.3"
+}

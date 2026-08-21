@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Se prendo le ali dell'alba, se vado ad abitare all'estremità del mare,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "se prendo"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "le ali"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dell'alba"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "se vado ad abitare"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "all'estremità"
+    },
+    {
+      "surface": "ים",
+      "gloss": "del mare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.236962819Z",
+  "model": "glm-5.3"
+}

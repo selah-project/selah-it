@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Più di tutti i miei maestri ⟨ho⟩ compreso, perché le tue testimonianze ⟨sono⟩ meditazione per me.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "più di tutti"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "i miei maestri"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ho compreso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "le tue testimonianze"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "meditazione"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:04.013548791Z",
+  "model": "glm-5.3"
+}

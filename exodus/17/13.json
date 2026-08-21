@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E Yehoshua indebolì ⟨את⟩ Amaleq e ⟨את⟩ la sua gente al filo della spada.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "indebolì"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua gente"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "la sua gente"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo di"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "spada"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:41.706859495Z",
+  "model": "glm-5.3"
+}

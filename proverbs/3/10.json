@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "e si riempiranno i tuoi granai di abbondanza, e di mosto i tuoi tini traboccheranno.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "e si riempiranno"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "i tuoi granai"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "di abbondanza"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "e di mosto"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "i tuoi tini"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "traboccheranno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:47.909392837Z",
+  "model": "glm-5.3"
+}

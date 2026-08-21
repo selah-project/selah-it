@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "ma fino a un mese di giorni, finché esca dalle vostre narici e vi diventi nausea, perché avete disprezzato ⟨את⟩ YHWH che ⟨è⟩ in mezzo a voi, e avete pianto davanti a lui, dicendo: « Perché siamo usciti dall'Egitto? »",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "un mese"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di giorni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "esca"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "dalle vostre narici"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e diventerà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "in nausea"
+    },
+    {
+      "surface": "יען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "avete disprezzato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH, che è in mezzo a voi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in mezzo a voi"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "e avete pianto"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "siamo usciti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:28.136224212Z",
+  "model": "glm-5.3"
+}

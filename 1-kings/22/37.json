@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E il re morì e ⟨fu portato⟩ a Shomeron, e seppellirono ⟨את⟩ il re a Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "e ⟨fu portato⟩"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "a Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e seppellirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "a Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:22.126794502Z",
+  "model": "glm-5.3"
+}

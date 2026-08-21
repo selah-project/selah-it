@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "La loro spada entrerà nel loro cuore, e i loro archi saranno spezzati.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "la loro spada"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "entrerà"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "nel loro cuore"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "e i loro archi"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "saranno spezzati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:02.660113983Z",
+  "model": "glm-5.3"
+}

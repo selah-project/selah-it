@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "e bevve del vino e si ubriacò, e si scoprì dentro ⟨la⟩ sua tenda.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "e bevve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "del"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "e si ubriacò"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "e si scoprì"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dentro"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "⟨la⟩ sua tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:53.582486879Z",
+  "model": "glm-5.3"
+}

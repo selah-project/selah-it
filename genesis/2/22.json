@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E costruì YHWH Elohim ⟨את⟩ la costola che aveva preso dall'umano in una donna, e la condusse all'umano.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la costola"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "la costola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aveva preso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "in una donna"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "e la condusse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'umano"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:38.478274615Z",
+  "model": "glm-5.3"
+}

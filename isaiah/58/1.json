@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Grida con ⟨la⟩ gola, non trattenerti; come lo shofar alza la tua voce, e annuncia al mio popolo la loro rivolta, e alla casa di Giacobbe i loro peccati.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Grida"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "con ⟨la⟩ gola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "trattenerti"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "come lo shofar"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "alza"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "la tua voce"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "e annuncia"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "al mio popolo"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "la loro rivolta"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "e alla casa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "i loro peccati"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:06.841153612Z",
+  "model": "glm-5.3"
+}

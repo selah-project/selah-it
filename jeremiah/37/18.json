@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 37:18",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E Geremia disse al re Tsidkijah: «Che cosa ho peccato contro di te, contro i tuoi servi e contro questo popolo, che mi avete messo ⟨את⟩ nella casa della prigione?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Geremia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa?"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ho peccato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "contro i tuoi servi"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "e contro il popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתתם",
+      "gloss": "avete messo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mi (Geremia, oggetto dell'azione)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "della prigione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:10:26.237918557Z",
+  "model": "glm-5.3"
+}

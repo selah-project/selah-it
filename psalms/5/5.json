@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Poiché non ⟨un⟩ El che si compiace di malvagità sei tu, il male non dimorerà presso di te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "che si compiace"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "di malvagità"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "dimorerà presso di te"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:08.021851974Z",
+  "model": "glm-5.3"
+}

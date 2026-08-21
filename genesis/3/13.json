@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse YHWH Elohim alla donna: che cosa ⟨hai⟩ fatto ⟨questo⟩? E la donna disse: il serpente mi ha ingannata, e io ho mangiato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "alla donna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "il serpente"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "mi ha ingannata"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "e ho mangiato"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:15.720905562Z",
+  "model": "glm-5.3"
+}

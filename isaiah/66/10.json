@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Rallegratevi ⟨את⟩ con Gerusalemme ed esultate in lei, tutti voi che l'amate; gioite con lei di gioia, tutti voi che fate lutto per lei.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Rallegratevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ed esultate"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in lei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "che l'amate"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "gioite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "con lei ⟨את⟩"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "di gioia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "che fate lutto"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "per lei"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:22.555349418Z",
+  "model": "glm-5.3"
+}

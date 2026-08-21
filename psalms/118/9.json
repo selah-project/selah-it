@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Meglio rifugiarsi in YHWH che confidare nei nobili.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Meglio"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "rifugiarsi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "che confidare"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "nei nobili"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:04.512904800Z",
+  "model": "glm-5.3"
+}

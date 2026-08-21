@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E vagheranno da mare a mare, e da nord fino a est; correranno qua e là per cercare ⟨את⟩ la parola di YHWH, e non la troveranno.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "e vagheranno"
+    },
+    {
+      "surface": "מים",
+      "gloss": "da"
+    },
+    {
+      "surface": "עד",
+      "gloss": "a"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "e da nord"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "est"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "correranno qua e là"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "per cercare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parola di YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "la troveranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:35.983222118Z",
+  "model": "glm-5.3"
+}

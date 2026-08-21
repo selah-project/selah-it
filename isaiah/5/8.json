@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Guai a chi aggiunge casa a casa, campo a campo accosta, fino a che non vi sia più luogo; e sarete fatti abitare da soli in mezzo alla terra!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "guai"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "a chi aggiunge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a casa"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a campo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "accosta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a che"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "non vi sia più"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "luogo"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "e sarete fatti abitare"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "da soli"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:45.377896161Z",
+  "model": "glm-5.3"
+}

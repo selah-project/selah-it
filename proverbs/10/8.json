@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Il saggio di cuore accetta comandamenti, e lo stolto di labbra sarà rovesciato.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "il saggio"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "accetta"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "comandamenti"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "e lo stolto"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "di labbra"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "sarà rovesciato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:25.064457255Z",
+  "model": "glm-5.3"
+}

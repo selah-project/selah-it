@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 128,
+  "translation": "Ecco, sì: così ⟨sarà⟩ benedetto l'uomo che teme YHWH.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "⟨sarà⟩ benedetto"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "che teme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:13.507146850Z",
+  "model": "glm-5.3"
+}

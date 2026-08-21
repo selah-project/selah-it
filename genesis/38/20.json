@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "E Giuda mandò ⟨את⟩ il capretto delle capre per mano del suo amico l'Adullamita, per prendere il pegno dalla mano della donna; ma ⟨egli⟩ non la trovò.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il capretto"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "il capretto"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "delle capre"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "del suo amico"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "l'Adullamita"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "per prendere"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "il pegno"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "della donna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "la trovò"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:06.589254509Z",
+  "model": "glm-5.3"
+}

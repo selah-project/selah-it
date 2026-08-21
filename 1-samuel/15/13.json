@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E venne Shemuël da Shaùl, e Shaùl gli disse: «Benedetto tu a YHWH; ho eseguito ⟨את⟩ la parola di YHWH».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaùl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaùl"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "ho eseguito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parola"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:48.057414119Z",
+  "model": "glm-5.3"
+}

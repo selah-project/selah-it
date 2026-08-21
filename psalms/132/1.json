@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "Canzone delle salite. Ricorda, YHWH, per Davide, ⟨את⟩ tutta la sua afflizione.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canzone"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ricorda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "per Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la sua afflizione"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "la sua afflizione"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:55.310265587Z",
+  "model": "glm-5.3"
+}

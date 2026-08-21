@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Cantate ⟨la⟩ gloria del suo nome, ponete gloria ⟨alla⟩ sua lode.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloria"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "del suo nome"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ponete"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloria"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sua lode"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:18.593893424Z",
+  "model": "glm-5.3"
+}

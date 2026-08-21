@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Piegherò ⟨alla⟩ parabola il mio orecchio; aprirò ⟨al⟩ liuto la mia enigma.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Piegherò"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "alla parabola"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "il mio orecchio"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "aprirò"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "al liuto"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "la mia enigma"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:55.648390923Z",
+  "model": "glm-5.3"
+}

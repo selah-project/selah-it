@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse il re: «Questa dice: costui ⟨è⟩ mio figlio, il vivo, e tuo figlio il morto; e quella dice: No! Tuo figlio ⟨è⟩ il morto, e mio figlio il vivo».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dice"
+    },
+    {
+      "surface": "זה",
+      "gloss": "costui"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "החי",
+      "gloss": "il vivo"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "e tuo figlio"
+    },
+    {
+      "surface": "המת",
+      "gloss": "il morto"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "e quella"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "dice"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "!"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tuo figlio"
+    },
+    {
+      "surface": "המת",
+      "gloss": "il morto"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e mio figlio"
+    },
+    {
+      "surface": "החי",
+      "gloss": "il vivo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:45.979989158Z",
+  "model": "glm-5.3"
+}

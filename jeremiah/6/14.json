@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E hanno curato ⟨את⟩ la frattura del mio popolo con leggerezza, dicendo: « shalom, shalom » — ma non ⟨c'è⟩ shalom.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "e hanno curato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la frattura del mio popolo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "la frattura"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "del mio popolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "con"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "leggerezza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "« shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom »"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma non ⟨c'è⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-21T08:00:44.540792922Z",
+  "model": "glm-5.3"
+}

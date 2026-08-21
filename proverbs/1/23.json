@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Tornate alla mia correzione — ecco, farò sgorgare per voi il mio Ruach, vi farò conoscere le mie parole ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "tornate"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "alla mia correzione"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "farò sgorgare"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "il mio Ruach"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "farò conoscere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi — l'oggetto marcato dal ל di אודיעה ל…; BSB read conditionally"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:22.879552156Z",
+  "model": "glm-5.3"
+}

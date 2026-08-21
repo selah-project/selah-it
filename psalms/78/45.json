@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Mandò in mezzo a loro lo sciame di mosche, e divorò ⟨li⟩; e rane, e devastò ⟨le⟩ ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Mandò"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in mezzo a loro"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "lo sciame di mosche"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "e divorò ⟨li⟩"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "e rane"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "e devastò ⟨li⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:54.827530243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "L'albero crebbe e si rafforzò, e la sua altezza giungeva fino ai cieli e la sua vista fino all'estremità di tutta la terra.",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "crebbe"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "l'albero"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "e si rafforzò"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "e la sua altezza"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "giungeva"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "fino ai cieli"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "e la sua vista"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "fino all'estremità"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutta"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:33:53.731753335Z",
+  "model": "glm-5.3"
+}

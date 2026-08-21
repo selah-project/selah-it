@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Ricorda in eterno il suo patto, la parola che ha comandato per mille generazioni",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ricorda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "in eterno"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il suo patto"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "per mille"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:45.535543306Z",
+  "model": "glm-5.3"
+}

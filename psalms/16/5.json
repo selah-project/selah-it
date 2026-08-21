@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "YHWH ⟨è⟩ la porzione della mia parte e ⟨il calice⟩ mio: tu sostieni la mia sorte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "porzione"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "della mia parte"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "e il mio calice"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "sostieni"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "la mia sorte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:40.504330236Z",
+  "model": "glm-5.3"
+}

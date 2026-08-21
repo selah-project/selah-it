@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E Giacobbe rimase solo, e un uomo lottò con lui fino al sorgere dell'alba.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "e rimase"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "solo"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "e lottò"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "al sorgere"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "l'alba"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:12.931109465Z",
+  "model": "glm-5.3"
+}

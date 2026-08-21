@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "E l'uomo in onore non permane: è reso simile alle bestie, periscono.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "in onore"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "permane"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "è reso simile"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "alle bestie"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "periscono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:58.564603639Z",
+  "model": "glm-5.3"
+}

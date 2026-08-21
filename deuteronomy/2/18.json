@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Tu attraversi oggi ⟨את⟩ il confine di Moab, ⟨את⟩ Ar:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "attraversi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il confine di Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "il confine"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:27.260092857Z",
+  "model": "glm-5.3"
+}

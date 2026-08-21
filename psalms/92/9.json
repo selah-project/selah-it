@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "Ma tu ⟨sei⟩ nell'alto per sempre, YHWH.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "nell'alto"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:05.159711285Z",
+  "model": "glm-5.3"
+}

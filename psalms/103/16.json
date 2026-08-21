@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Poiché un soffio passa su di lui e non ⟨è⟩ più, e il suo luogo non lo riconosce più.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un soffio"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "passa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "e non ⟨è⟩ più"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "lo riconosce"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "il suo luogo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:00.654977300Z",
+  "model": "glm-5.3"
+}

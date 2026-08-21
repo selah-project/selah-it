@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Innalzati sopra i cieli, Elohim, e sopra tutta la terra la tua gloria!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "innalzati"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "la tua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:07.567997370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Il cuore ⟨del⟩ saggio ⟨è⟩ alla sua destra, e il cuore ⟨dello⟩ stolto alla sua sinistra.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "del saggio"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "alla sua destra"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "e il cuore"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dello stolto"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "alla sua sinistra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:41.388425725Z",
+  "model": "glm-5.3"
+}

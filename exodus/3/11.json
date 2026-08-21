@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse Moshè a ⟨il⟩ Elohim: chi sono io, che io vada da Parò e che io faccia uscire ⟨את⟩ i figli d'Israele dall'Egitto?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sono io"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "io vada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parò"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e che"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "io faccia uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:56.318399661Z",
+  "model": "glm-5.3"
+}

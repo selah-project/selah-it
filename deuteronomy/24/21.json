@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Quando vendemmierai la tua vigna, non razzolerai ⟨את⟩ ciò che resta dopo di te: sarà per il forestiero, per l'orfano e per la vedova.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "vendemmierai"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "la tua vigna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "razzolerai"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dopo di te"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "per il forestiero"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "per l'orfano"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "e per la vedova"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:34.732735522Z",
+  "model": "glm-5.3"
+}

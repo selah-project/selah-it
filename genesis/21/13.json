@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Anche ⟨את⟩ il figlio della schiava farò ⟨diventare⟩ una nazione, perché egli ⟨è⟩ la tua discendenza.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il figlio della schiava"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "della schiava"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "una nazione"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "lo farò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "la tua discendenza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:13.957311633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E vide Sara ⟨את⟩ il figlio di Hagar l'egiziana, che ella aveva partorito ad Abramo, che scherzava.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il figlio di Hagar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "di Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "l'egiziana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "aveva partorito"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ad Abramo"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "scherzava"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:00.530955305Z",
+  "model": "glm-5.3"
+}

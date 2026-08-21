@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "⟨את⟩ il grasso mangiate, e ⟨את⟩ la lana vi vestite, ⟨l'⟩ingrassata scannate, il gregge non pascolate.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il grasso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangiate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la lana"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "la lana"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "vi vestite"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "⟨l'⟩ingrassata"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "scannate"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "pascolate"
+    }
+  ],
+  "timestamp": "2026-08-21T08:25:50.982798460Z",
+  "model": "glm-5.3"
+}

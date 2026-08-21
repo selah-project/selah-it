@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E disse Giuseppe al popolo: ecco, oggi ho comprato ⟨את⟩ voi e ⟨את⟩ la vostra terra per Faraone; ecco, per voi il seme, e seminerete ⟨את⟩ la terra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ho comprato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la vostra terra"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "la vostra terra"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "per Faraone"
+    },
+    {
+      "surface": "הא",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "il seme"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "e seminerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:42.180673843Z",
+  "model": "glm-5.3"
+}

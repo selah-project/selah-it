@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "In cambio del mio amore mi accusano, e io ⟨sono⟩ preghiera.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "il mio amore"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "mi accusano"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "preghiera"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:45.459506757Z",
+  "model": "glm-5.3"
+}

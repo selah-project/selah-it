@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Dal frutto della bocca un uomo mangia il bene, ma la ⟨nefesh⟩ dei traditori ⟨prova⟩ violenza.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "dal frutto"
+    },
+    {
+      "surface": "פי",
+      "gloss": "della bocca"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ma la nefesh"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "dei traditori"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violenza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:11.098562063Z",
+  "model": "glm-5.3"
+}

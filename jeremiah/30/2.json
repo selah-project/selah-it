@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Così ha parlato YHWH, Elohim di Israele, dicendo: Scriviti in un libro tutte le parole che ti ho detto ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "scrivi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti (scriviti)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ti ho detto"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "un libro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:08:07.045127474Z",
+  "model": "glm-5.3"
+}

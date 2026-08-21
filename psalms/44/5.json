@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Tu ⟨sei⟩ il mio re, Elohim: comanda le salvezze di Jaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨sei⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "il mio re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "comanda"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "le salvezze"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Jaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:58.124701405Z",
+  "model": "glm-5.3"
+}

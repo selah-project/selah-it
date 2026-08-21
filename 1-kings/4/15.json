@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Achimaats in Neftali — anche lui prese ⟨את⟩ Basmat figlia di Shelomoh come moglie.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "in Neftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "come moglie"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:00.578194512Z",
+  "model": "glm-5.3"
+}

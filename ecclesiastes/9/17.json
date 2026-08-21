@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Le parole dei saggi, nella calma, ⟨sono⟩ ascoltate più del grido di chi domina fra gli stolti.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dei saggi"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "nella calma"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "⟨sono⟩ ascoltate"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "più del grido"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "di chi domina"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "fra gli stolti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:50.259557273Z",
+  "model": "glm-5.3"
+}

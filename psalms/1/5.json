@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Perciò i malvagi non sussisteranno ⟨nel⟩ giudizio, né i peccatori ⟨staranno⟩ nell'assemblea dei giusti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "percioò"
+    },
+    {
+      "surface": "כן",
+      "gloss": "percioò (su-questo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "sussisteranno"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨nel⟩ giudizio"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "né i peccatori"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "nell'assemblea"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:43.030324699Z",
+  "model": "glm-5.3"
+}

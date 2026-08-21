@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E gli disse Samuele: YHWH ha strappato ⟨את⟩ il regno di Israele da te, oggi, e lo ha dato al tuo prossimo, il migliore di te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "ha strappato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il regno di Israele"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "e lo ha dato"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "al tuo prossimo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "il migliore"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "di te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:15.498427440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ma il frumento e la farra non furono colpiti, perché tardivi esse ⟨sono⟩.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ma il frumento"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "e la farra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "furono colpiti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "tardive"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "esse"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:28.878874064Z",
+  "model": "glm-5.3"
+}

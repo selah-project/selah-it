@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Questi, dei figli di Gad, capi dell'esercito: il più piccolo ⟨era⟩ pari a cento ⟨e⟩ il grande a mille.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Questi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capi di"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "l'esercito"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno\/pari a"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "a cento"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "il più piccolo"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "e il grande"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "a mille"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:51.077374971Z",
+  "model": "glm-5.3"
+}

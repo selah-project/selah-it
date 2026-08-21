@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E YHWH vi parlò dal mezzo del fuoco: voce di parole voi udivate, e ⟨una⟩ forma non vedevate — soltanto ⟨una⟩ voce.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dal mezzo di"
+    },
+    {
+      "surface": "האש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "di parole"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "udivate"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "e una forma"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "vedevate"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "קול",
+      "gloss": "una voce"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:53.042219688Z",
+  "model": "glm-5.3"
+}

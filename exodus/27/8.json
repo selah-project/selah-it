@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "cavo, a tavole, lo farai ⟨את⟩: come ti fu mostrato ⟨את⟩ sul monte, così lo faranno.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "cavo"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "a tavole"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "lo farai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (l'altare)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ti fu mostrato"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "lo faranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:40.665365107Z",
+  "model": "glm-5.3"
+}

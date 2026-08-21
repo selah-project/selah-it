@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Nel luogo dove si scanna ⟨את⟩ l'olà, lì scanneranno ⟨את⟩ l'asham, e ⟨את⟩ il suo sangue spruzzerà sull'altare, tutt'intorno.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "si scanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'olà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "scanneranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "l'asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo sangue"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "spruzzerà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutt'intorno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:40.272383485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Se acquisti uno schiavo ebreo, sei anni servirà, e nel settimo uscirà libero, senza compenso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "acquisti"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "uno schiavo"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ebreo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "servirà"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "e nel settimo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uscirà"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "libero"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "senza compenso"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:05.214028465Z",
+  "model": "glm-5.3"
+}

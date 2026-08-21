@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Meonotai generò ⟨את⟩ Ophrah; e Seraiah generò ⟨את⟩ Yoav, padre di Ge-Charashim, perché ⟨erano⟩ artefici.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "e Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ophrah"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ophrah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "e Seraiah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre di"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "valle di"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Ge-Charashim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "artefici"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨erano⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:46:32.115227971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 140,
+  "translation": "L'uomo di lingua non duri nella terra; l'uomo di violenza — il male lo caccerà verso le rovine.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "di lingua"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "duri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "di violenza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "lo caccerà"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "verso le rovine"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:38.659519667Z",
+  "model": "glm-5.3"
+}

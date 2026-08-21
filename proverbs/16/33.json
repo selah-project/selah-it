@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "In gremio si getta ⟨את⟩ il sorteggio, ma da YHWH ⟨è⟩ ogni suo verdetto.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "in gremio"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "si getta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sorteggio"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "il sorteggio"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ma da YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "suo verdetto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:24.090145789Z",
+  "model": "glm-5.3"
+}

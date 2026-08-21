@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Oracolo della valle della visione. Che hai dunque, che sei salita tutta quanta sui tetti?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "valle"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "visione"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hai"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "dunque"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "sei salita"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "tutta quanta"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "sui tetti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:36.370385346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "anche la tenebra non si fa buia davanti a te, e la notte come il giorno risplende; come tenebra, così luce.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "la tenebra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "si fa buia"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e la notte"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come il giorno"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "risplende"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "come tenebra"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "così luce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.237489387Z",
+  "model": "glm-5.3"
+}

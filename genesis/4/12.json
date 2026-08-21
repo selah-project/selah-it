@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Quando lavorerai ⟨את⟩ la terra, essa non continuerà a dare la sua forza a te; errabondo e fuggiasco tu sarai sulla terra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "lavorerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "continuerà"
+    },
+    {
+      "surface": "תת",
+      "gloss": "a dare"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "la sua forza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "נע",
+      "gloss": "errabondo"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "e fuggiasco"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tu sarai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:17.888271392Z",
+  "model": "glm-5.3"
+}

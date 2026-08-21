@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E l'assemblea dei popoli ti circondi, e su di essa, in alto, fa' ritorno.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "e l'assemblea"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dei popoli"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "ti circondi"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "e su di essa"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "in alto"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "fa' ritorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:00.813744277Z",
+  "model": "glm-5.3"
+}

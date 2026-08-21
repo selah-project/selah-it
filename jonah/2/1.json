@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E YHWH dispose un grande pesce per inghiottire ⟨את⟩ Giona; e Giona fu nel ventre del pesce tre giorni e tre notti.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "e dispose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דג",
+      "gloss": "un pesce"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "per inghiottire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Giona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Giona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "nel ventre"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "del pesce"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "e tre"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "notti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:06.841123027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Saggiami, YHWH, e mettimi alla prova, raffina i miei reni e il mio cuore.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Saggiami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "e mettimi alla prova"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "raffina"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "i miei reni"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "e il mio cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:41.385053680Z",
+  "model": "glm-5.3"
+}

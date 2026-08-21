@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Vieni, facciamo bere ⟨את⟩ nostro padre con il vino, e giacciamo con lui, e facciamo vivere dalla nostra discendenza ⟨un⟩ seme.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Vieni"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "facciamo bere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nostro padre"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nostro padre"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "e giacciamo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "e facciamo vivere"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "da nostro padre"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "una discendenza"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:21.326228946Z",
+  "model": "glm-5.3"
+}

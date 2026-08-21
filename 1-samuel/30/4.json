@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E Davide e il popolo che ⟨era⟩ con lui alzarono ⟨את⟩ la loro voce e piansero, finché non vi ⟨fu⟩ in loro forza per piangere.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "E alzarono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "e il popolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui (con lui)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro voce"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "la loro voce"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "e piansero"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non vi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in loro"
+    },
+    {
+      "surface": "כח",
+      "gloss": "forza"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "per piangere"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:08.422741539Z",
+  "model": "glm-5.3"
+}

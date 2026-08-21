@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E porrai ⟨את⟩ l'altare dell'oro per l'incenso davanti all'arca della testimonianza, e porrai ⟨את⟩ la cortina dell'ingresso per il mishkan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "e porrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare dell'oro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dell'oro"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "per l'incenso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "all'arca"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "della testimonianza"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "e porrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cortina dell'ingresso"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "la cortina"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "dell'ingresso"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "per il mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:22.469502231Z",
+  "model": "glm-5.3"
+}

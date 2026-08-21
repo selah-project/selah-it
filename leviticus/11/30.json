@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e il gecko, e il cocodrillo di terra, e la lucertola, e il ramarro, e il camaleonte.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "il gecko"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "il cocodrillo di terra"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "la lucertola"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "il ramarro"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "il camaleonte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:08.170642171Z",
+  "model": "glm-5.3"
+}

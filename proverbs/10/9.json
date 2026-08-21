@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Chi cammina nell'integrità cammina al sicuro, ma chi rende tortuose le sue vie sarà smascherato.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "chi cammina"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "nell'integrità"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "camminerà"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "al sicuro"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "ma chi rende tortuose"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "le sue vie"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sarà smascherato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:24.829856695Z",
+  "model": "glm-5.3"
+}

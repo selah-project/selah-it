@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "YHWH combatterà per voi, e voi tacete.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "combatterà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e voi"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "tacete"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:02.865434034Z",
+  "model": "glm-5.3"
+}

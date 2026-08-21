@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Colui con cui la mia mano ⟨sarà⟩ ferma, anche il mio braccio lo rafforzerà.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Colui con cui"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨sarà⟩ ferma"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "il mio braccio"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "lo rafforzerà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:20.213230320Z",
+  "model": "glm-5.3"
+}

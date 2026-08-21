@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché da Israele ⟨proviene⟩, e un artigiano lo ha fatto, e non ⟨è⟩ Elohim ⟨lui⟩; poiché in frantumi sarà il vitello di Shomeron.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "da Israele"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨proviene⟩"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "un artigiano"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "lo ha fatto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "in frantumi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "il vitello"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "di Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:30.900927324Z",
+  "model": "glm-5.3"
+}

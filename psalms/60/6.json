@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Hai dato a quelli che ti temono una bandiera, perché sia innalzata davanti alla verità. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Hai dato"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "a quelli che ti temono"
+    },
+    {
+      "surface": "נס",
+      "gloss": "una bandiera"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "perché sia innalzata"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "alla verità"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:50.733719836Z",
+  "model": "glm-5.3"
+}

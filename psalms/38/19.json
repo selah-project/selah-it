@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Poiché la mia colpa dichiarerò, sarò in ansia per il mio peccato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "la mia colpa"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "dichiarerò"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "sarò in ansia"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "per il mio peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:27.456427363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "fuoco e grandine, neve e nube, Ruach di tempesta che fa la sua parola:",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "e grandine"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "neve"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "e nube"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruach"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "di tempesta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "che fa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "la sua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:43.752724982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "« L'uomo, il signore del paese, ci ha parlato duramente e ci ha trattati ⟨את⟩ come spie del paese ».",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "il signore"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ noi"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "duramente"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e ci ha trattati"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ noi"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "come spie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "del paese"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "il paese"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:02.021297918Z",
+  "model": "glm-5.3"
+}

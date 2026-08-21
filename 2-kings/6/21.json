@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E disse il re d'Israele a Eliseo, al vederli ⟨את⟩: «Padre mio, colpirò? colpirò?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseo"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "al vedere"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "li (loro, i prigionieri aramei)"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "colpirò?"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "colpirò?"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre mio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:05.974046060Z",
+  "model": "glm-5.3"
+}

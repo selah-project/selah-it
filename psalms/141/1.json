@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 141,
+  "translation": "Mizmor di Davide. YHWH, ti ho invocato: accorri a me, porgi l'orecchio alla mia voce quando grido a te.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ti ho invocato"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "accorri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "porgi l'orecchio"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "alla mia voce"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "quando grido"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:27.388418144Z",
+  "model": "glm-5.3"
+}

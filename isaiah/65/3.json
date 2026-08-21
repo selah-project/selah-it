@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Il popolo che mi provoca ⟨את⟩ a ira continuamente, in faccia a me; che sacrifica nei giardini e brucia incenso sui mattoni.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "che provoca a ira"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "continuamente"
+    },
+    {
+      "surface": "פני",
+      "gloss": "in faccia"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "a me"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "che sacrifica"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "nei giardini"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "e brucia incenso"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "i mattoni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:47.291132831Z",
+  "model": "glm-5.3"
+}

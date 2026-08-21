@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Di YHWH ⟨è⟩ la salvezza; sul tuo popolo ⟨è⟩ la tua benedizione. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Di YHWH"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "la salvezza"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tuo popolo"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "la tua benedizione"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:38.711425923Z",
+  "model": "glm-5.3"
+}

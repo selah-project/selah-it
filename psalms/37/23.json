@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Da YHWH i passi dell'uermo ⟨sono⟩ ordinati, e la sua via Egli desidera.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "da YHWH"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "i passi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ordinati"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "e la sua via"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Egli desidera"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:27.930006072Z",
+  "model": "glm-5.3"
+}

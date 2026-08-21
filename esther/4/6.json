@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E uscì Hatakh verso Mordekhài, alla piazza della città che ⟨era⟩ davanti alla porta del re.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "alla piazza"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la porta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:50.183197504Z",
+  "model": "glm-5.3"
+}

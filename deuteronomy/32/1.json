@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Porgete l'orecchio, o cieli, e io parlerò; e ascolti la terra le parole della mia bocca.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Porgete l'orecchio"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "o cieli"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "e io parlerò"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "e ascolti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "פי",
+      "gloss": "della mia bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:12.774225508Z",
+  "model": "glm-5.3"
+}

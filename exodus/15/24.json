@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E il popolo mormorò contro Moshè, dicendo: che cosa berremo?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "e mormorò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "berremo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:40.285753338Z",
+  "model": "glm-5.3"
+}

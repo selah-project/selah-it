@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E ha messo nella mia bocca un canto nuovo, una lode al nostro Elohim; molti vedranno e temeranno, e confideranno in YHWH.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e ha messo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nella mia bocca"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un canto"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuovo"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "una lode"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "al nostro Elohim"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "molti vedranno"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "e temeranno"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "e confideranno"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:00.555247298Z",
+  "model": "glm-5.3"
+}

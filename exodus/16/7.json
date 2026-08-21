@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E al mattino vedrete ⟨את⟩ la gloria di YHWH, quando avrà udito ⟨את⟩ i vostri mormorî contro YHWH; e noi che ⟨siamo⟩? Poiché mormorate contro di noi.»",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "e al mattino"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "vedrete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la gloria di YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "quando avrà udito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri mormorî"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "i vostri mormorî"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "e noi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che?"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "mormorate"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "contro di noi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:27.806371398Z",
+  "model": "glm-5.3"
+}

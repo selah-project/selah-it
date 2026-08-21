@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E farà al toro come fece al toro del sacrificio per il peccato: così farà ad esso; e il sacerdote farà copertura per loro, e sarà perdonato loro.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "e farà"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "al toro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "al toro"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "del sacrificio per il peccato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ad esso"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "e farà copertura"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "e sarà perdonato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:16.452756979Z",
+  "model": "glm-5.3"
+}

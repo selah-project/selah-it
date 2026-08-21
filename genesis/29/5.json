@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E disse loro: conoscete ⟨את⟩ Lavan, figlio di Nacor? E dissero: lo conosciamo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "conoscete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nacor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "lo conosciamo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:39.297464682Z",
+  "model": "glm-5.3"
+}

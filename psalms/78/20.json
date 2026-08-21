@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Ecco, ⟨egli⟩ colpì la roccia e fluirono acque, e torrenti strariparono; potrà anche dare pane? Preparerà carne per il suo popolo?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "colpì"
+    },
+    {
+      "surface": "צור",
+      "gloss": "la roccia"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "e fluirono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "e torrenti"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "strariparono"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "potrà anche"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "potrà"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dare"
+    },
+    {
+      "surface": "אם",
+      "gloss": "preparerà?"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "preparerà"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "per il suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:45.361788482Z",
+  "model": "glm-5.3"
+}

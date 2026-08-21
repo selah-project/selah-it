@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E gli uomini fecero così, e presero due vacche che allattavano e le legarono al carro, e ⟨את⟩ i loro vitelli chiusero in casa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e presero"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "due"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "vacche"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "che allattavano"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "e le legarono"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "al carro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i loro vitelli"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "i loro vitelli"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "chiusero"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:10.478814622Z",
+  "model": "glm-5.3"
+}

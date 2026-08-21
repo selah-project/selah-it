@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ed essi dissero: « ⟨È⟩ menzogna! Racconta, ti prego, a noi ». Ed ⟨egli⟩ disse: « Così e così mi ha detto, dicendo: Così ha detto YHWH: ti ho unto come re su Israele ».",
+  "tokens": [
+    {
+      "surface": "ואאמרו",
+      "gloss": "Ed essi dissero",
+      "note": "superficie: ויאמרו"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "menzogna"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "racconta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ed ⟨egli⟩ disse"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "così"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "e così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "ti ho unto"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "come re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:39.972441312Z",
+  "model": "glm-5.3"
+}

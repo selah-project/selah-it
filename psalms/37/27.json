@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Allontanati dal male e fa' il bene, e abita per sempre.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "allontanati"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dal male"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e fa'"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "e abita"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:05.820850397Z",
+  "model": "glm-5.3"
+}

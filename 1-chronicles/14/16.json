@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E Davide fece come gli aveva comandato Elohim, e colpirono ⟨את⟩ l'accampamento dei Filistei da Gabaon fino a Ghezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fece"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gli aveva comandato"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'accampamento"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "accampamento"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei Filistei"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "da Gabaon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Ghezer"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:42.061444544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E disse Davide ad Akish: «Perciò tu conoscerai ⟨את⟩ ciò che farà il tuo servo». E disse Akish a Davide: «Perciò guardia del mio capo ti porrò per tutti i giorni».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "perciò"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "conoscerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che farà il tuo servo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "perciò"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "guardia"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "del mio capo"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "ti porrò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "i giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:30.523065033Z",
+  "model": "glm-5.3"
+}

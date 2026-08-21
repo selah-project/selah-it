@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "La ricchezza ⟨ottenuta⟩ dal vuoto diminuisce, ma chi raccoglie con la mano moltiplicherà.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "la ricchezza"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "⟨ottenuta⟩ dal vuoto"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "diminuisce"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ma chi raccoglie"
+    },
+    {
+      "surface": "על",
+      "gloss": "con"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "moltiplicherà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:32.492900276Z",
+  "model": "glm-5.3"
+}

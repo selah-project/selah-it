@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "La violenza dei malvagi li trascinerà via, perché hanno rifiutato di fare giustizia.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "la violenza"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "li trascinerà via"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "hanno rifiutato"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:15.218129270Z",
+  "model": "glm-5.3"
+}

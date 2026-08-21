@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E il popolo accampato udì dire: « Zimri ha congiurato e ha anche colpito ⟨את⟩ il re ». E tutto Israele fece regnare ⟨את⟩ Omri, capo dell'esercito, su Israele, quel giorno, nell'accampamento.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "accampato"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dire"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ha congiurato"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ha colpito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "e fece regnare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "dell'esercito"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(quello)"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nell'accampamento"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:14.046930787Z",
+  "model": "glm-5.3"
+}

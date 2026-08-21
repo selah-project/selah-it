@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Boaz prese ⟨את⟩ Ruth, ed ella fu sua moglie; ed egli entrò da lei, e YHWH le diede una gravidanza, ed ella partorì un figlio.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ruth"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruth"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ed ella fu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sua"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "moglie"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ed entrò"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "da lei"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "una gravidanza"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ed ella partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:41.583261545Z",
+  "model": "glm-5.3"
+}

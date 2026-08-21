@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Hanno dato ⟨את⟩ i cadaveri dei tuoi servi come cibo all'uccello dei cieli, la carne dei tuoi fedeli alla belva della terra.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Hanno dato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cadaveri dei tuoi servi"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "i cadaveri"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dei tuoi servi"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "come cibo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "all'uccello"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "dei tuoi fedeli"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "alla belva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:12.486084146Z",
+  "model": "glm-5.3"
+}

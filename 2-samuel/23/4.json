@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "e come la luce dell'alba quando sorge il sole, un mattino senza nubi — dallo splendore, dalla pioggia, l'erba verde dalla terra.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "e come la luce"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dell'alba"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "sorge"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "un mattino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "senza"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "nubi"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "dallo splendore"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "dalla pioggia"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "l'erba verde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:37.941881204Z",
+  "model": "glm-5.3"
+}

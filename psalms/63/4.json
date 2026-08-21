@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Perché il tuo chesed ⟨è⟩ migliore ⟨della⟩ vita, le mie labbra ti loderanno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "migliore"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "⟨della⟩ vita"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "le mie labbra"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ti loderanno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:03.493063605Z",
+  "model": "glm-5.3"
+}

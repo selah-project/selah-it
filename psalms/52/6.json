@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Ami ogni parola divorante, o lingua d'inganno.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "parola"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "divorante"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lingua"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "d'inganno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:35.665465961Z",
+  "model": "glm-5.3"
+}

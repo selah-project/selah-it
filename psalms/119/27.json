@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Fammi comprendere la via dei tuoi precetti, e mediterò sulle tue meraviglie.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dei tuoi precetti"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "fammi comprendere"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "e mediterò"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "sulle tue meraviglie"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:50.703305568Z",
+  "model": "glm-5.3"
+}

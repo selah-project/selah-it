@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Desolazioni su di loro! Scendano nello Sheol da vivi, poiché mali ⟨dimorano⟩ nella loro dimora, in mezzo a loro.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "desolazioni"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "scendano"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "nello Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "da vivi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mali"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "nella loro dimora"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "in mezzo a loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:47.261629033Z",
+  "model": "glm-5.3"
+}

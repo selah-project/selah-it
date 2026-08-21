@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Mentre il re ⟨stava⟩ al suo banchetto, il mio nardo diede il suo profumo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mentre"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "al suo banchetto"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "il mio nardo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "il suo profumo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:36.752137668Z",
+  "model": "glm-5.3"
+}

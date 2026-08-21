@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Naarah gli partorì ⟨את⟩ Achuzzam e ⟨את⟩ Chefer e ⟨את⟩ Temeni e ⟨את⟩ Haachashtari; questi ⟨sono⟩ i figli di Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Chefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Haachashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haachashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:46:16.641023931Z",
+  "model": "glm-5.3"
+}

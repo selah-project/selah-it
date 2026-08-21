@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Lavami molto ⟨dal⟩ mio torto, e dal mio peccato purificami.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "molto"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Lavami"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "dal mio torto"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "e dal mio peccato"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "purificami"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:37.783693814Z",
+  "model": "glm-5.3"
+}

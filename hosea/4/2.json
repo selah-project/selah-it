@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Spergiurare e mentire, e uccidere, e rubare, e commettere adulterio: hanno rotto ⟨ogni argine⟩, e sangue tocca sangue.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Spergiurare"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "e mentire"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "e uccidere"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "e rubare"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "e commettere adulterio"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "hanno rotto ⟨ogni argine⟩"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "e sangue"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "sangue"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "tocca"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:40.528144877Z",
+  "model": "glm-5.3"
+}

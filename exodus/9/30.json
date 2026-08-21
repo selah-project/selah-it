@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ma quanto a te e ai tuoi servi, io so che non ancora temete il volto di YHWH, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma quanto a te"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "e ai tuoi servi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "io so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "non ancora"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "temete"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "il volto di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:28.878571335Z",
+  "model": "glm-5.3"
+}

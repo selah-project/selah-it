@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Poiché il suo piacere ⟨è⟩ nella Torah di YHWH, e nella sua Torah medita giorno e notte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "nella Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "il suo piacere"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "e nella sua Torah"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "medita"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e notte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:41.948796436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "I nostri segni non li vediamo: non ⟨c'è⟩ più un profeta, e non ⟨c'è⟩ con noi ⟨את⟩ chi sappia fino a quando.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "i nostri segni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "vediamo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "un profeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ con noi",
+      "marks": "chi sa fino a quando"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "מה",
+      "gloss": "a quando"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:44.829486073Z",
+  "model": "glm-5.3"
+}

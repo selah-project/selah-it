@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "e ⟨את⟩ i Patrusei e ⟨את⟩ i Casluchim, dai quali uscirono i Filistei, e ⟨את⟩ i Kaftorim.",
+  "tokens": [
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i Patrusei"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "i Patrusei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i Casluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "i Casluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dai quali"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "uscirono"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "i Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:16.240252751Z",
+  "model": "glm-5.3"
+}

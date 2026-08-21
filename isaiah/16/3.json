@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 16:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Portate consiglio, fate giustizia; rendi la tua ombra come la notte in mezzo al mezzogiorno; nascondi i dispersi, non smascherare chi vaga.",
+  "tokens": [
+    {
+      "surface": "הביאו",
+      "gloss": "Portate"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "consiglio"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fate"
+    },
+    {
+      "surface": "פלילה",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "שיתי",
+      "gloss": "rendi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "come la notte"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "la tua ombra"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo al"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "mezzogiorno"
+    },
+    {
+      "surface": "סתרי",
+      "gloss": "nascondi"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "i dispersi"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "chi vaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגלי",
+      "gloss": "smascherare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:11.130252119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E fece Elohim ⟨את⟩ il firmamento, e separò tra le acque che ⟨sono⟩ sotto il firmamento e tra le acque che ⟨sono⟩ sopra il firmamento; e fu così.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il firmamento"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "il firmamento"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "e separò"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "il firmamento"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "il firmamento"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:32.277514949Z",
+  "model": "glm-5.3"
+}

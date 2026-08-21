@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "YHWH, quanto si sono moltiplicati i miei avversari! Molti si levano contro di me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "si sono moltiplicati"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "i miei avversari"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "si levano"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:55.106398682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Mi hanno circondato tori numerosi, i forti di Bashan mi hanno assediato.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "mi hanno circondato"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "tori"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "numerosi"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "i forti"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "mi hanno assediato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:05.995270948Z",
+  "model": "glm-5.3"
+}

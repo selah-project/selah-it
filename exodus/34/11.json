@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Osserva per te ⟨את⟩ ciò che io ti comando oggi: ecco, io scaccio davanti a te ⟨את⟩ l'Emorita e il Kenaanita e il Chittita e il Perizzita e il Chivvita e lo Yevuseo.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "osserva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che io ti comando oggi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti comando"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "io scaccio"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Emorita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'Emorita"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "e il Kenaanita"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e il Chittita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e il Perizzita"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "e il Chivvita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e lo Yevuseo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:48.142319904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E avvenne la sera: salì la quaglia e coprì ⟨את⟩ l'accampamento; e al mattino vi fu uno strato di rugiada attorno all'accampamento.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "la sera"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "la quaglia"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "e coprì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'accampamento"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "l'accampamento"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "e al mattino"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "vi fu"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "uno strato"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "di rugiada"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "attorno"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "all'accampamento"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:58.640955445Z",
+  "model": "glm-5.3"
+}

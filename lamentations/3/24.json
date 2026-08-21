@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "« La mia parte ⟨è⟩ YHWH », dice la mia nefesh; per questo spero in lui.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "la mia parte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "dice"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "spero"
+    },
+    {
+      "surface": "לו",
+      "gloss": "in lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:27.563611330Z",
+  "model": "glm-5.3"
+}

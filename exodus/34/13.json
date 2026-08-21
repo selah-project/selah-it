@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Poiché ⟨את⟩ i loro altari demolirete, e ⟨את⟩ le loro stele spezzerete, e ⟨את⟩ i loro Asherim abbatterete:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro altari"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "i loro altari"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "demolirete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le loro stele"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "le loro stele"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "spezzerete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i loro Asherim"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "i loro Asherim"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "abbatterete"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:43.556256940Z",
+  "model": "glm-5.3"
+}

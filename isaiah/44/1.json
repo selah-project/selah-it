@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E ora ascolta, o Giacobbe mio servo, e Israele, che ⟨ho⟩ scelto ⟨in lui⟩:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mio servo"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israele"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ho scelto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:19.094142663Z",
+  "model": "glm-5.3"
+}

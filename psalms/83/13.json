@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "che dissero: « Prendiamo per noi in possesso ⟨את⟩ i pascoli di Elohim ».",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dissero"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "prendiamo in possesso"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i pascoli di Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "i pascoli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:27.779524214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 2:7",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E ora si rinforzino le vostre mani e siate figli di valore, perché è morto il vostro signore Saul, e anche ⟨את⟩ me la casa di Giuda ha unto re su di loro.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "si rinforzino"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "le vostre mani"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e siate"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "valore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מת",
+      "gloss": "è morto"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "il vostro signore"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me — oggetto di « ha unto »"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "ha unto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:01.008855401Z",
+  "model": "glm-5.3"
+}

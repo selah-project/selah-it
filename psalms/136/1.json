@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "Rendete grazie a YHWH, perché ⟨egli è⟩ buono, perché per sempre ⟨dura⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Rendete grazie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:57.038226705Z",
+  "model": "glm-5.3"
+}

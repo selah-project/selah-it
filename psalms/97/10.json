@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 97,
+  "translation": "Amanti di YHWH, odiate il male: ⟨Egli⟩ custodisce ⟨le⟩ vite dei suoi fedeli, dalla mano dei malvagi li strappa",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "amanti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "odate il"
+    },
+    {
+      "surface": "רע",
+      "gloss": "male"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "custodisce"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "vite"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "dei suoi fedeli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "li strappa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:42.376778047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Quando io invoco, rispondimi, Elohim della mia giustizia; nell'angustia mi hai dato spazio; abbi grazia di me e ascolta la mia preghiera.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Quando io invoco"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "rispondimi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "della mia giustizia"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nell'angustia"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "mi hai dato spazio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "abbi grazia di me"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "e ascolta"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:27.222970785Z",
+  "model": "glm-5.3"
+}

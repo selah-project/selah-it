@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E il nome del secondo fiume ⟨הוא⟩ Gichon: esso ⟨הוא⟩ quello che circonda ⟨את⟩ tutta la terra di Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "e il nome"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "del fiume"
+    },
+    {
+      "surface": "השני",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "quello che circonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la terra di Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "di Kush"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:27.650058878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Ogni cosa posta allo cherem che ⟨sia⟩ posta allo cherem tra gli uomini non sarà riscattata: morendo morirà.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cosa posta allo cherem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "sia posta allo cherem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "sarà riscattata"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morendo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "morirà"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:49.750157054Z",
+  "model": "glm-5.3"
+}

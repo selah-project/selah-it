@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 26:31",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E farai una parokhet di tchelet, di porpora, di scarlatto e di lino ritorto ⟨filato⟩: lavoro di tessitore la farà, con keruvim.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "una parokhet (velo)"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "di tchelet (blu-viola)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "di porpora"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "e di cremisi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "scarlatto"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e di lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ritorto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lavoro"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "di tessitore"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "la farà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "con keruvim (complemento: la parokhet)"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "con keruvim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:43.321598091Z",
+  "model": "glm-5.3"
+}

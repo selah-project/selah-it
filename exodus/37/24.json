@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Un talento d'oro puro lo fece, ⟨lui⟩, e ⟨את⟩ tutti i suoi utensili.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "un talento"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨esso⟩",
+      "marks": "esso (la menorah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi utensili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "i suoi utensili"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:45.041656175Z",
+  "model": "glm-5.3"
+}

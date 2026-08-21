@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Nell'anno della morte del re Uzzia, io vidi ⟨את⟩ Adonai seduto su un trono alto ed elevato, e il suo strascico riempiva ⟨את⟩ il tempio.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "מות",
+      "gloss": "della morte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzzia"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "io vidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "seduto"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "un trono"
+    },
+    {
+      "surface": "רם",
+      "gloss": "alto"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ed elevato"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "e il suo strascico"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "riempiva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tempio"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "il tempio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:31.551501175Z",
+  "model": "glm-5.3"
+}

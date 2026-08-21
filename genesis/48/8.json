@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "E Israele vide ⟨את⟩ i figli di Yosef e disse: chi sono questi?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E vide"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli di Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sono questi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:31.942803724Z",
+  "model": "glm-5.3"
+}

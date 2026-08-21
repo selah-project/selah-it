@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché questo popolo ha disprezzato ⟨את⟩ le acque di Shiloach, che scorrono piano, e si rallegra ⟨את⟩ di Retsin e del figlio di Remalyahu.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ha disprezzato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le acque di Shiloach"
+    },
+    {
+      "surface": "מי",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "di Shiloach"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "che scorrono"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "piano"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "e si rallegra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di Retsin e del figlio di Remalyahu"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e del figlio"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "di Remalyahu"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:00.287389398Z",
+  "model": "glm-5.3"
+}

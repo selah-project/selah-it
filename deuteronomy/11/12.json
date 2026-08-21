@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "terra che YHWH, il tuo Elohim, cerca ⟨את⟩ essa continuamente; gli occhi di YHWH, il tuo Elohim, sono su di essa dal principio dell'anno fino alla fine dell'anno.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "essa (la terra)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuamente"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "dal principio"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "dell'anno"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "alla fine"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dell'anno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:03.150694770Z",
+  "model": "glm-5.3"
+}

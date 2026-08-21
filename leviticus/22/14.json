@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E un uomo, se mangia ⟨את⟩ una cosa santa per errore, aggiungerà il suo quinto sopra e darà al sacerdote ⟨את⟩ la cosa santa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e un uomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "manglerà"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "una cosa santa"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "per errore"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "aggiungerà"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "il suo quinto"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e darà"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "al sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cosa santa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "la cosa santa"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:58.380045910Z",
+  "model": "glm-5.3"
+}

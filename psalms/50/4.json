@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Chiama i cieli dall'alto e ⟨la⟩ terra, per giudicare il suo popolo.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Chiama"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dall'alto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terra"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "per giudicare"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:10.083089962Z",
+  "model": "glm-5.3"
+}

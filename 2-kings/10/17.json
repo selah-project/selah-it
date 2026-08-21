@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E venne a Shomeron, e colpì ⟨את⟩ tutti quelli rimasti di Aclav in Shomeron, fino a distruggerlo, secondo la parola di YHWH che aveva parlato a Eliyàhu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E venne"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "a Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti quelli rimasti di Aclav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "quelli rimasti"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "di Aclav"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "distruggerlo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyàhu"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:04.018026378Z",
+  "model": "glm-5.3"
+}

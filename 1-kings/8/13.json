@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Costruendo ho costruito ⟨un⟩ ⟨il⟩ casa ⟨di⟩ dimora per te, luogo fisso per la tua sede per le eternità.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "costruendo"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ho costruito"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "dimora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "luogo fisso"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "per la tua sede"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "per le eternità"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:37.394000062Z",
+  "model": "glm-5.3"
+}

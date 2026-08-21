@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E il re d'Egitto chiamò le levatrici e disse loro: perché avete fatto questa cosa, e avete fatto vivere ⟨את⟩ i bambini?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "le levatrici"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להן",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "avete fatto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "e avete fatto vivere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i bambini"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "i bambini"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:44.287395415Z",
+  "model": "glm-5.3"
+}

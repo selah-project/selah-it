@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "avrà compassione del misero e del bisognoso, e le vite dei bisognosi salverà.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "avrà compassione"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "דל",
+      "gloss": "il misero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e del bisognoso"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "e le vite"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "dei bisognosi"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "salverà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:56.997218131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Si laveranno da esso Aharon e i suoi figli, ⟨את⟩ le loro mani e ⟨את⟩ i loro piedi;",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "si laveranno"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da esso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro mani"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "le loro mani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i loro piedi"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "i loro piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:01.522529591Z",
+  "model": "glm-5.3"
+}

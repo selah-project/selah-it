@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Ma tu, YHWH, Adonai, agisci con me ⟨את⟩ per il tuo Nome, perché ⟨il⟩ tuo chesed ⟨è⟩ buono: liberami!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agisci"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "con me"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "liberami"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:50.469336584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e tolse ⟨את⟩ la ruota dei suoi carri, e li guidava con pesantezza; e l'Egitto disse: fuggo davanti a Israele, perché YHWH combatte per loro contro l'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "e tolse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ruota dei suoi carri"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "la ruota"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "dei suoi carri"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "e li guidava"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "con pesantezza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "fuggo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "combatte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "contro l'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:09.398278377Z",
+  "model": "glm-5.3"
+}

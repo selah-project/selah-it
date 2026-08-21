@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E ci fu carestia nella ⟨la⟩ terra, e Avram scese in Mitsrajim per soggiornare là, perché pesante ⟨era⟩ la carestia nella ⟨la⟩ terra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ci fu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "carestia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "per soggiornare"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "pesante"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la carestia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:40.363025785Z",
+  "model": "glm-5.3"
+}

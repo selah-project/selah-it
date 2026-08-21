@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Ribolle il mio cuore di una parola buona; io dico: le mie opere ⟨sono⟩ per il re; la mia lingua ⟨è⟩ stilo di scriba veloce.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ribolle"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buona"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "io dico"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "le mie opere"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "per il re"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "la mia lingua"
+    },
+    {
+      "surface": "עט",
+      "gloss": "stilo"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "di scriba"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "veloce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:28.909953655Z",
+  "model": "glm-5.3"
+}

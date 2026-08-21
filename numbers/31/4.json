@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Mille per tribù, mille per tribù, per tutte le tribù d'Israele manderete alla guerra.»",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Mille"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "per tribù"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "per tribù"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutte"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "le tribù"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "manderete"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "alla guerra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:17.302502839Z",
+  "model": "glm-5.3"
+}

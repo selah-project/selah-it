@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Perché ritiri la tua mano, la tua destra, dal mezzo del tuo seno? ⟨Distruggili.⟩",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ritiri"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "la tua destra"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dal mezzo"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "del tuo seno"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨distruggili⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:44.829843831Z",
+  "model": "glm-5.3"
+}

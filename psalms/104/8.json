@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "salgono i monti, scendono le valli, verso il luogo che tu hai fondato per loro.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "salgono"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "scendono"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "le valli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "il luogo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "che"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "tu hai fondato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:07.284460582Z",
+  "model": "glm-5.3"
+}

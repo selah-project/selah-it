@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Svuotando sarà svuotata ⟨la⟩ terra, e saccheggiando sarà saccheggiata, poiché YHWH ha parlato ⟨את⟩ questa parola.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Svuotando"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "sarà svuotata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terra"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "e saccheggiando"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "sarà saccheggiata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa parola"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "questa parola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:16.779941618Z",
+  "model": "glm-5.3"
+}

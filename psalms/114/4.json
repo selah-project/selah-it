@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 114,
+  "translation": "I monti saltellarono come arieti, le colline come agnelli del gregge.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "saltellarono"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "come arieti"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "le colline"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "come figli"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "del gregge"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:35.612089527Z",
+  "model": "glm-5.3"
+}

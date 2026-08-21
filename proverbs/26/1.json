@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Come la neve d'estate e come la pioggia alla mietitura, così non ⟨è⟩ conveniente ⟨la⟩ gloria allo stolto.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "come la neve"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "d'estate"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "e come la pioggia"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "alla mietitura"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "conveniente"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "allo stolto"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:25.328402881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Le vostre iniquità hanno deviato ⟨queste cose⟩, e i vostri peccati hanno trattenuto ⟨il⟩ bene da voi.",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "Le vostre iniquità"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "hanno deviato"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨queste cose⟩"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "e i vostri peccati"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "hanno trattenuto"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "da voi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:00:30.214080617Z",
+  "model": "glm-5.3"
+}

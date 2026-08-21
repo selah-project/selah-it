@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "E vide che il riposo era buono, e ⟨את⟩ la terra che era piacevole; e piegò la sua spalla per portare, e fu per tributo un servo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "il riposo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "era buono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "era piacevole"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "e piegò"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "la sua spalla"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "per portare"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "למס",
+      "gloss": "per tributo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "un servo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:47.359301594Z",
+  "model": "glm-5.3"
+}

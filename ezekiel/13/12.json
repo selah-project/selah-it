@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "ed ecco, ⟨il muro⟩ è caduto! Non si dirà forse a voi: dov'è la malta che avete intonato?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "è caduto"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "il muro"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non… forse"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "si dirà"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dov'è"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "la malta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "avete intonato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:19:21.270810548Z",
+  "model": "glm-5.3"
+}

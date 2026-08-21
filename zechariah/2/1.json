@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E alzai ⟨את⟩ i miei occhi e vidi, ed ecco quattro corna.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "e alzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei occhi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "e vidi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "corna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:08.548999506Z",
+  "model": "glm-5.3"
+}

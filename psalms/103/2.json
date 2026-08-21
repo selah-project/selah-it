@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Benici, nefesh mia, ⟨את⟩ YHWH, e non dimenticare tutti i suoi benefici.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Benici"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "dimenticare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "i suoi benefici"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:01.128410906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E riferì Shafan lo scriba al re, dicendo: un libro mi ha dato Chilkiyah il sacerdote; e lo lesse Shafan davanti al re.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "lo scriba"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "un libro"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkiyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "e lo lesse"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "al re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:22.412576045Z",
+  "model": "glm-5.3"
+}

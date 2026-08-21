@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E Davide gli disse: se passi oltre ⟨את⟩ con me, sarai per me un peso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "passi oltre"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ con me",
+      "marks": "con me (preposizione, non il marcatore di oggetto)"
+    },
+    {
+      "surface": "והית",
+      "gloss": "e sarai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me \/ per me"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "un peso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:08.210175534Z",
+  "model": "glm-5.3"
+}

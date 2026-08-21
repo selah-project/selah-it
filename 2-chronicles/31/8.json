@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E venne Chizkiyàhu con i capi, e videro ⟨את⟩ i mucchi; e benedissero ⟨את⟩ YHWH e ⟨את⟩ il suo popolo Israele.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "e vennero"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyàhu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "e i capi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "e videro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i mucchi"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "i mucchi"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "e benedissero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo popolo Israele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T10:01:25.916782983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E custoditevi con ogni vigore per le vostre nefashot, per amare ⟨את⟩ YHWH, il vostro Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "custoditevi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "con ogni vigore"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "per le vostre nefashot"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "per amare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH, il vostro Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:07.923208835Z",
+  "model": "glm-5.3"
+}

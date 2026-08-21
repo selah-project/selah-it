@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E fu ricondotto ⟨את⟩ Mosè e ⟨את⟩ Aharon da Faraone, e disse loro: «Andate, servite YHWH, il vostro Elohim. Chi e chi sono quelli che vanno?»",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "e fu ricondotto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "andate"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "servite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "quelli che vanno"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:56.537429612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Ed ecco, i vostri occhi vedono e gli occhi del mio fratello Beniamino, che ⟨è⟩ la mia bocca che parla con voi.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "i vostri occhi"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "vedono"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "e gli occhi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "del mio fratello"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Beniamino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "che parla"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "con voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:09.151337751Z",
+  "model": "glm-5.3"
+}

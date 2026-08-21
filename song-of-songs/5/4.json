@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Il mio diletto ha steso la sua mano dall'apertura, e il mio ventre si è commosso per lui.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "il mio diletto"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ha steso"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dall'"
+    },
+    {
+      "surface": "החר",
+      "gloss": "apertura"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "e il mio ventre"
+    },
+    {
+      "surface": "המו",
+      "gloss": "si è commosso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:26.343472490Z",
+  "model": "glm-5.3"
+}

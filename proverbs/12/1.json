@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Chi ama la disciplina ama la conoscenza, ma chi odia la correzione ⟨è⟩ insensato.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "la disciplina"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la conoscenza"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ma odia"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "la correzione"
+    },
+    {
+      "surface": "בער",
+      "gloss": "insensato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:47.911350591Z",
+  "model": "glm-5.3"
+}

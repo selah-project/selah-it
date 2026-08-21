@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Faranno salire contro di te un'assemblea, e ti lapideranno ⟨את⟩ con pietre e ti trafiggeranno con le loro spade.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "faranno salire"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "un'assemblea"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "e ti lapideranno"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "con pietre"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "con pietre"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "e ti trafiggeranno"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "con le loro spade"
+    }
+  ],
+  "timestamp": "2026-08-21T08:20:30.997529933Z",
+  "model": "glm-5.3"
+}

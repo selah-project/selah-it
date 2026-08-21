@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Va' e raduna ⟨את⟩ gli anziani d'Israele, e dirai loro: YHWH, l'Elohim dei vostri padri, mi è apparso — l'Elohim di Abramo, di Isacco e di Giacobbe — dicendo: visitando vi ho visitato ⟨את⟩, e ⟨את⟩ ciò che vi è stato fatto in Egitto.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "e raduna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli anziani d'Israele"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e dirai"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dei vostri padri"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "mi è apparso"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "di Abramo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "di Isacco"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "e di Giacobbe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "visitando"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "vi ho visitato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (gli anziani d'Israele)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che vi è stato fatto in Egitto"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ciò che è stato fatto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:57.998052944Z",
+  "model": "glm-5.3"
+}

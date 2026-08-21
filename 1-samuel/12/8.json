@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Quando Giacobbe venne in Mitsrajim, e i vostri padri gridarono a YHWH, allora YHWH mandò ⟨את⟩ Moshe e ⟨את⟩ Aharon, ed essi fecero uscire ⟨את⟩ i vostri padri da Mitsrajim e li fece dimorare in questo luogo.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venne"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "e gridarono"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "i vostri padri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "allora mandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ed essi fecero uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri padri"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "i vostri padri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "da Mitsrajim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "e li fece dimorare"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in ... luogo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:53.602081826Z",
+  "model": "glm-5.3"
+}

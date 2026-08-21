@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Chi muore di Baasha in città lo mangeranno i cani, e chi muore dei suoi nel campo lo mangerà l'uccello dei cieli.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "chi muore"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "di Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in città"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "lo mangeranno"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "i cani"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "e chi muore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dei suoi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "lo mangerà"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "l'uccello"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:49.814344997Z",
+  "model": "glm-5.3"
+}

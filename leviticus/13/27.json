@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E il sacerdote lo vedrà il settimo giorno: se ⟨la piaga⟩ si è molto allargata nella pelle, il sacerdote dichiarerà impuro ⟨את⟩ lui: una piaga di tsaraat essa ⟨è⟩.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "e lo vedrà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "il settimo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "si è allargata"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "allargarsi"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nella pelle"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e dichiarerà impuro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "piaga"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "di tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa ⟨è⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:10.004742191Z",
+  "model": "glm-5.3"
+}

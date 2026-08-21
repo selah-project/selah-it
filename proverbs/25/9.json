@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Discuti la tua causa con ⟨את⟩ il tuo prossimo, e il segreto di un altro non rivelare.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "la tua causa"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "discuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo prossimo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "il tuo prossimo"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "e il segreto"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "di un altro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "rivelare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:37.349203580Z",
+  "model": "glm-5.3"
+}

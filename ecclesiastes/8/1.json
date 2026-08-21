@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Chi ⟨è⟩ come il saggio, e chi conosce il senso ⟨di⟩ una parola? La sapienza di un uomo illumina il suo volto, e la durezza del suo volto ⟨sarà⟩ mutata.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "come il saggio"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "il senso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di una parola"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "illumina"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e la durezza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "del suo volto"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "sarà mutata"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:19.603854214Z",
+  "model": "glm-5.3"
+}

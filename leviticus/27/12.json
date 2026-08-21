@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E il sacerdote la valuterà ⟨את⟩: tra buona e tra cattiva; secondo la tua valutazione, o sacerdote, così sarà.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "e valuterà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lei (la bestia)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buona"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cattiva"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "secondo la tua valutazione"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "o sacerdote"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:52.959374670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Con milleduecento carri e con sessantamila cavalieri; e non c'era numero per ⟨il⟩ popolo che venne con lui dall'Egitto: Libi, Sukkiti e Cusciti.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "con mille"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e duecento"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "carri"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "e con sessanta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "migliaia"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "cavalieri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'era"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numero"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "per ⟨il⟩ popolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "באו",
+      "gloss": "venne"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "Libi"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "Sukkiti"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "e Cusciti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:56.118484929Z",
+  "model": "glm-5.3"
+}

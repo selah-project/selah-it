@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse: «Per dove ⟨è⟩ questa ⟨la⟩ strada che saliremo?». E disse: «⟨La⟩ strada del deserto di Edom».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Per dove"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "strada"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "che saliremo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨La⟩ strada"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "del deserto"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:20.459976111Z",
+  "model": "glm-5.3"
+}

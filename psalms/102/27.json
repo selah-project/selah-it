@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Essi periranno, ma tu rimani; e tutti quanti come una veste si consumeranno, come un abito li cambierai, e saranno cambiati.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Essi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "periranno"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "rimani"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "e tutti quanti"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "come una veste"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "si consumeranno"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "come un abito"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "li cambierai"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "e saranno cambiati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:31.443091261Z",
+  "model": "glm-5.3"
+}

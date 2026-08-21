@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Figlio saggio — ⟨la⟩ disciplina ⟨di un⟩ padre; ma lo schernitore non ascolta il rimprovero.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disciplina"
+    },
+    {
+      "surface": "אב",
+      "gloss": "padre"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "ma lo schernitore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "il rimprovero"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:11.098365138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Avvenne che, quando il re Chizkiyahu udì, egli si stracciò ⟨את⟩ le sue vesti e si coprì di sacco ed entrò nella casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "avvenne che"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "quando… udì"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "si stracciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "si coprì"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "di sacco"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ed entrò"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:16.206307924Z",
+  "model": "glm-5.3"
+}

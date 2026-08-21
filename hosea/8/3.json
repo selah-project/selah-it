@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Israele ha respinto il bene; il nemico lo inseguirà.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "ha respinto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "lo inseguirà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:55.847750313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "La mia vigna, mia, ⟨sta⟩ davanti a me: il mille ⟨è⟩ per te, Shelomoh, e i duecento per i guardiani ⟨di⟩ ⟨את⟩ il suo frutto.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "la mia vigna"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "mia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "il mille"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e i duecento"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "per i guardiani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo frutto"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "il suo frutto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:09.658817706Z",
+  "model": "glm-5.3"
+}

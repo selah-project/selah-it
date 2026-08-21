@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Suonate lo shofar a Gàbaa, la tromba a Rama; levate il grido, Bet-Aven: dietro di te, Beniamino!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "suonate"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lo shofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "a Gàbaa"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "la tromba"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "a Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "levate il grido"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dietro di te"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Beniamino"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:28.376694976Z",
+  "model": "glm-5.3"
+}

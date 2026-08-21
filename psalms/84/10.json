@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "Dio ⟨il nostro⟩ scudo, guarda, Elohim, e volgi lo sguardo al volto del tuo Mashiach.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "il nostro scudo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "guarda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "e volgi lo sguardo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "al volto di"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "del tuo Mashiach"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:06.911435866Z",
+  "model": "glm-5.3"
+}

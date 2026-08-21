@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "YHWH, salva! Il Re ci risponda nel giorno in cui lo invochiamo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "salva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il Re"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ci risponda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "in cui lo invochiamo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:48.812653843Z",
+  "model": "glm-5.3"
+}

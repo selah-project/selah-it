@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Anche questo ⟨è⟩ un male malato: come è venuto, così se ne andrà; e quale guadagno ha chi fatica per il vento?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un male"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "malato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "in tutto"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "come"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "è venuto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "se ne andrà"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e quale"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "guadagno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ha lui"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "che fatica"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "per il vento"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:09.301130072Z",
+  "model": "glm-5.3"
+}

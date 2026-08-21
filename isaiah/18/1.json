@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Ah, terra del fruscio d'ali, che ⟨è⟩ oltre i fiumi di Kush!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "del fruscio"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "d'ali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "i fiumi di"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:20.128296853Z",
+  "model": "glm-5.3"
+}

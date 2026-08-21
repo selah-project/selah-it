@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Ed egli edificò ⟨את⟩ la casa e la completò; e rivestì ⟨את⟩ la casa con travi e file di cedri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ed egli edificò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "e la completò"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "e rivestì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "con travi"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "e file"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "di cedri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:26:23.301886541Z",
+  "model": "glm-5.3"
+}

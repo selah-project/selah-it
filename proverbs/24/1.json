@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Non invidiare gli uomini di malvagità, e non desiderare di essere ⟨את⟩ loro.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "invidiare"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "di malvagità"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "desiderare"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "di essere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:07.121904341Z",
+  "model": "glm-5.3"
+}

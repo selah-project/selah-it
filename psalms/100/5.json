@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 100,
+  "translation": "Poiché YHWH ⟨è⟩ buono; per sempre ⟨dura⟩ il suo chesed, e fino a generazione e generazione la sua fedeltà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "דר",
+      "gloss": "generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e generazione"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "la sua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:26.124686834Z",
+  "model": "glm-5.3"
+}

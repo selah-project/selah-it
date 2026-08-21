@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Beato l'uomo che non è andato nel consiglio dei malvagi, e nella via dei peccatori non ⟨è⟩ stato in piedi, e nel sedile degli schernitori non si è seduto.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beato"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "è andato"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "nel consiglio"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "e nella via"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "dei peccatori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "è stato in piedi"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "e nel sedile"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "degli schernitori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "si è seduto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:41.948557492Z",
+  "model": "glm-5.3"
+}

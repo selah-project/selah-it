@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Voce di uno che chiama: nel deserto preparate la via di YHWH, raddrizzate nell'Araba una strada per il nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Voce"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "di uno che chiama"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "preparate"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "raddrizzate"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "nell'Araba"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "una strada"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "per il nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:56.672561292Z",
+  "model": "glm-5.3"
+}

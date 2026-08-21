@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 98,
+  "translation": "Rombirà ⟨il⟩ mare e la sua pienezza, ⟨la⟩ terra abitata e i suoi abitanti.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "romba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e la sua pienezza"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨la⟩ terra abitata"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "e gli abitanti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:05.569404819Z",
+  "model": "glm-5.3"
+}

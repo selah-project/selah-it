@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E rafforzò YHWH ⟨את⟩ il cuore di Faraone, e non ascoltò loro, come aveva parlato YHWH a Mosè.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "e rafforzò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cuore di Faraone"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascoltò"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:20.469242809Z",
+  "model": "glm-5.3"
+}

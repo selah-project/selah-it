@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E prese Chanun ⟨את⟩ i servi di David, e rasò ⟨את⟩ metà delle loro barbe, e tagliò ⟨את⟩ le loro vesti a metà fino alle loro natiche, e li mandò via.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i servi di David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "e rasò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metà delle loro barbe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "metà"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "delle loro barbe"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "e tagliò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro vesti"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "le loro vesti"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "a metà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "alle loro natiche"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "e li mandò via"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:22.483128186Z",
+  "model": "glm-5.3"
+}

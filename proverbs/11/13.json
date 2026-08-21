@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Chi va in giro come calunniatore svela il segreto, ma chi ⟨è⟩ fedele di spirito copre la cosa.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "chi va in giro"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "come calunniatore"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "svela"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "il segreto"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "ma chi è fedele"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "di spirito"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "copre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la cosa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:12.641347004Z",
+  "model": "glm-5.3"
+}

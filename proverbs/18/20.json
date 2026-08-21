@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 18:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Dal frutto della bocca di un uomo si sazia il suo ventre; dal raccolto delle sue labbra egli si sazia.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Dal frutto"
+    },
+    {
+      "surface": "פי",
+      "gloss": "della bocca"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "si sazia"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "il suo ventre"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "dal raccolto"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "delle sue labbra"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "egli si sazia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:28.815702718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E dopo questo si avvicinarono tutti i figli d'Israele, ed egli diede loro in comando ⟨את⟩ tutto ciò che YHWH aveva parlato ⟨את⟩ con lui sul monte Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "E dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "si avvicinarono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "ed egli comandò ⟨a⟩ loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che YHWH aveva parlato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui",
+      "marks": "con lui — Mosè"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:39.292880141Z",
+  "model": "glm-5.3"
+}

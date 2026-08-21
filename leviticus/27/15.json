@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Ma se chi consacra riscatta ⟨את⟩ la sua casa, aggiungerà un quinto dell'argento della tua stima su di essa, e sarà sua.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "chi consacra"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "riscatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua casa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "aggiungerà"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "un quinto"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dell'argento"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "della tua stima"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sua"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:41.936863664Z",
+  "model": "glm-5.3"
+}

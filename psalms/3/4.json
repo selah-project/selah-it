@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ma tu, YHWH, ⟨sei⟩ scudo intorno a me, la mia gloria, e colui che solleva il mio capo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "scudo"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "intorno a me"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "la mia gloria"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "e colui che solleva"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "il mio capo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:55.106626303Z",
+  "model": "glm-5.3"
+}

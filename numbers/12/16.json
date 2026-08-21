@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E dopo il popolo si mosse da Chazerot e accampò nel deserto di Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "si mossero"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "da Chazerot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e accamparono"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "di Paran"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:10.902324096Z",
+  "model": "glm-5.3"
+}

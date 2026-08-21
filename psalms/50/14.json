@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Sacrifica a Elohim ⟨la⟩ lode, e paga all'Altissimo i tuoi voti;",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Sacrifica"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "la lode"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "e paga"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "all'Altissimo"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "i tuoi voti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:10.383261385Z",
+  "model": "glm-5.3"
+}

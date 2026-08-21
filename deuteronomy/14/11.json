@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Ogni uccello puro potete mangiare.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "uccello"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "puro"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "potete mangiare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:04.860444354Z",
+  "model": "glm-5.3"
+}

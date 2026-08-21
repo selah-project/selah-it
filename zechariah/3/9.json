@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 3:9",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Poiché ecco la pietra che ho posto davanti a Giosuè: su una pietra, sette occhi. Ecco, io incido la sua incisione, oracolo di YHWH degli eserciti, e rimuovo ⟨את⟩ l'iniquità di quella terra in un giorno solo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "la pietra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho posto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Giosuè"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "pietra"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sette"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "occhi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco-io"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "incido"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "la sua incisione"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "ומשתי",
+      "gloss": "e rimuovo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'iniquità"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in un giorno"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:40:56.710145201Z",
+  "model": "glm-5.3"
+}

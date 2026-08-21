@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "Mani hanno e non toccano; piedi hanno e non camminano; non gorgogliano nella loro gola:",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "mani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "toccano"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "piedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "camminano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "gorgogliano"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "nella loro gola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:57.781373252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 20:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E venne Elohim da Abimelekh in sogno di notte, e gli disse: « Ecco, ⟨tu⟩ stai per morire a causa della donna che hai preso, e lei ⟨è⟩ sposata di marito ».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "in sogno"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ecco, ⟨tu⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "stai per morire"
+    },
+    {
+      "surface": "על",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hai preso"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e lei"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "⟨è⟩ sposata"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "di marito"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:19.578246371Z",
+  "model": "glm-5.3"
+}

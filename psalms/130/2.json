@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 130,
+  "translation": "Adonai, ascolta la mia voce; siano le tue orecchie attente alla voce delle mie suppliche.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "siano"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "le tue orecchie"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "attente"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "alla voce"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "delle mie suppliche"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:51.590781381Z",
+  "model": "glm-5.3"
+}

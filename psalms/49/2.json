@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Ascoltate questo, tutti i popoli; porgete l'orecchio, tutti gli abitanti ⟨del⟩ mondo:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "porgete l'orecchio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "⟨del⟩ mondo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:14.945678935Z",
+  "model": "glm-5.3"
+}

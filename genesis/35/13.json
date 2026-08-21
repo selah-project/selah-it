@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "E salì Elohim da sopra di lui, nel luogo dove aveva parlato ⟨את⟩lui.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "da sopra di lui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:10.587019166Z",
+  "model": "glm-5.3"
+}

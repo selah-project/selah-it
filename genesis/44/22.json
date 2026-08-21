@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E dicemmo al mio signore: il ragazzo non può lasciare ⟨את⟩ suo padre; se lasciasse ⟨את⟩ suo padre, ⟨egli⟩ morirebbe.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "e dicemmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "il mio signore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "può"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il ragazzo"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "lasciare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "e se lasciasse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "morirebbe"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:39.352479458Z",
+  "model": "glm-5.3"
+}

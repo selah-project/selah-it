@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E per radunare ⟨את⟩ l'assemblea suonerete, ma non farete teruà.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "e per radunare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'assemblea"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "suonerete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "farete teruà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:33.850431525Z",
+  "model": "glm-5.3"
+}

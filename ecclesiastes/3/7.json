@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Un tempo per stracciare, e un tempo per cucire; un tempo per tacere, e un tempo per parlare.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un tempo"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "per stracciare"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un tempo"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "per cucire"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un tempo"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "per tacere"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un tempo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "per parlare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:54.115036969Z",
+  "model": "glm-5.3"
+}

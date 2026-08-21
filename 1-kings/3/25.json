@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse il re: Tagliate in due ⟨את⟩ il bambino vivo, e date la metà a una e ⟨את⟩ la metà all'altra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "Tagliate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bambino vivo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il bambino"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "in due"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "e date"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la metà"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "la metà"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "a una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la metà"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "la metà"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "all'altra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:47.065837306Z",
+  "model": "glm-5.3"
+}

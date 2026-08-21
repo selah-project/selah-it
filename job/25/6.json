@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Quanto più ⟨l'⟩enosh, verme, e il figlio dell'adam, larva!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Quanto più"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enosh"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "verme"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e il figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'adam"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "larva"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:11.239996638Z",
+  "model": "glm-5.3"
+}

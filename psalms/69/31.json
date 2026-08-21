@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Loderò il Nome di Elohim con un canto, e lo magnificherò con ⟨una lode di⟩ ringraziamento.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "loderò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il Nome"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "con un canto"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "e lo magnificherò"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "con ringraziamento (todah)"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:07.751225809Z",
+  "model": "glm-5.3"
+}

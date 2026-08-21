@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Le tue vanità fanno tacere ⟨i⟩ molti, e tu hai deriso, e non c'è chi ti faccia arrossire.",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "le tue vanità"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "i molti"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "fanno tacere"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "e tu hai deriso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "chi ti faccia arrossire"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:40.006350193Z",
+  "model": "glm-5.3"
+}

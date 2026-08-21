@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "nella cui mano ⟨sta⟩ la *nefesh* di ogni vivente e il Ruach di ogni carne d'uomo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nella cui"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mano"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di ogni"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivente"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e il Ruach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di ogni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:20.818169434Z",
+  "model": "glm-5.3"
+}

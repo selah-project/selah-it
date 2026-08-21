@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Non si conviene allo stolto un labbro eccellente — quanto meno al nobile un labbro menzognero.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "si conviene"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "allo stolto"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "un labbro"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "eccellente"
+    },
+    {
+      "surface": "אף",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "meno"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "al nobile"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "un labbro"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "menzognero"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:14.602182490Z",
+  "model": "glm-5.3"
+}

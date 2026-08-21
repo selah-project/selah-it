@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Ma essi, per ⟨la⟩ mia rovina cercano ⟨את⟩ la mia nefesh: entreranno nelle profondità della terra.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ma essi"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "per ⟨la⟩ mia rovina"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "cercano"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨את⟩ la mia nefesh"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entreranno"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "nelle profondità"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:46.788904597Z",
+  "model": "glm-5.3"
+}

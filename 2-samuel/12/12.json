@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Poiché tu hai agito nel segreto, ma io farò ⟨את⟩ questa cosa davanti a tutto Israele e davanti al sole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai agito"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nel segreto"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "farò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa cosa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "questa cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "e davanti"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "al sole"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:38.923964374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E YHWH aveva scoperto ⟨את⟩ l'orecchio di Shemuël un giorno prima che venisse Shaul, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "aveva scoperto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'orecchio di Shemuël"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'orecchio"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "di Shemuël"
+    },
+    {
+      "surface": "יום",
+      "gloss": "un giorno"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prima"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "che venisse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:33.080401193Z",
+  "model": "glm-5.3"
+}

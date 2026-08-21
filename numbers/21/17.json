@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Allora Israele cantò ⟨את⟩ questo canto: Sali, o pozzo! Rispondetegli!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Allora"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "cantò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo canto"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "il canto"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Sali"
+    },
+    {
+      "surface": "באר",
+      "gloss": "o pozzo"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "Rispondetegli"
+    },
+    {
+      "surface": "לה",
+      "gloss": "gli"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:26.782889499Z",
+  "model": "glm-5.3"
+}

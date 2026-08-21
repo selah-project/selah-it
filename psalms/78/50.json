@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Appianò un sentiero per la sua ira: non risparmiò dal morto la loro nefesh, e la loro vita consegnò alla pestilenza.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Appianò"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "un sentiero"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "per la sua ira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "risparmiò"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dal morto"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "la loro nefesh"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "e la loro vita"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "alla pestilenza"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "consegnò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:55.522403468Z",
+  "model": "glm-5.3"
+}

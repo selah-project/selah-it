@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Per sempre non dimenticherò i tuoi precetti, perché con essi mi hai fatto vivere.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "dimenticherò"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "i tuoi precetti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בם",
+      "gloss": "con essi"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "mi hai fatto vivere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:40.420071238Z",
+  "model": "glm-5.3"
+}

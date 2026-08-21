@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ha giurato Adonai YHWH nella sua santità: ecco, giorni vengono su di voi, e vi prenderanno ⟨את⟩ con uncini, e il vostro resto con ami da pesce.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Ha giurato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "nella sua santità"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vengono"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e vi prenderanno"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "con uncini"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "e il vostro resto"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "con ami"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "da pesce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:52.224105736Z",
+  "model": "glm-5.3"
+}

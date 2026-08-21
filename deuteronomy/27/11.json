@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E ordinò Mosè ⟨את⟩ il popolo in quel giorno, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "E ordinò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:37.648447987Z",
+  "model": "glm-5.3"
+}

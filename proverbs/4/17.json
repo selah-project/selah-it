@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Poiché essi mangiano il pane della malvagità e bevono il vino delle violenze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mangiano"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il pane"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "della malvagità"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "e il vino"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "delle violenze"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "bevono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:46.930313518Z",
+  "model": "glm-5.3"
+}

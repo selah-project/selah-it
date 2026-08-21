@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Ascolta, popolo mio, e io ti ammonirò; Israele, se tu ascoltassi me!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascolta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popolo mio"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "e io ti ammonirò"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ti (in te)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tu ascoltassi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:42.168132296Z",
+  "model": "glm-5.3"
+}

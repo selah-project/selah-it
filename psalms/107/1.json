@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Rendete grazie a YHWH, ché ⟨egli è⟩ buono, ché per sempre ⟨dura⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "rendete grazie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:34.837254591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 127,
+  "translation": "Invano per voi, voi che vi alzate presto, che tardate a sedervi, mangiatori del pane delle fatiche; così ⟨Elohim⟩ dà al suo diletto il sonno.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Invano"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "che vi alzate presto"
+    },
+    {
+      "surface": "קום",
+      "gloss": "alzarsi"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "che tardate"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "a sedervi"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mangiatori"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "del pane"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "delle fatiche"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "al suo diletto"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "il sonno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:22.977294882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E sarà: quando ⟨si⟩ rende colpevole di una di queste cose, confesserà ciò che ha peccato su di essa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "⟨si⟩ rende colpevole"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "di una"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "di queste cose"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "e confesserà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ha peccato"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di essa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:00.923009265Z",
+  "model": "glm-5.3"
+}

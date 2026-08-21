@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Benedetto il frutto del tuo grembo, e il frutto del tuo suolo, e il frutto del tuo bestiame: la prole delle tue vacche e dei tuoi montoni ⟨del gregge⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "il frutto"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "del tuo grembo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "e il frutto"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "del tuo suolo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "e il frutto"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "del tuo bestiame"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "la prole"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "delle tue vacche"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "e dei tuoi montoni"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "del tuo gregge"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:33.282114518Z",
+  "model": "glm-5.3"
+}

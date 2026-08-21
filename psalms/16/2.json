@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Ho detto a YHWH: Adonai ⟨sei⟩ tu; il mio bene — non ⟨è⟩ oltre te.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ho detto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "il mio bene"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "oltre te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:40.437637777Z",
+  "model": "glm-5.3"
+}

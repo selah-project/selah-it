@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "e se ho mangiato il mio boccone da solo, e il miserabile senza padre non ne ha mangiato",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "e ho mangiato"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "il mio boccone"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "da solo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ha mangiato"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "l'orfano"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "da esso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:03.056063602Z",
+  "model": "glm-5.3"
+}

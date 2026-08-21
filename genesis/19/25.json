@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "e rovesciò ⟨את⟩ quelle città e ⟨את⟩ tutta la pianura e ⟨את⟩ tutti gli abitanti delle città e la vegetazione del suolo.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "e rovesciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quelle città"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "le città"
+    },
+    {
+      "surface": "האל",
+      "gloss": "quelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutta la pianura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "la pianura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti gli abitanti delle città"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "delle città"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "e la vegetazione"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "del suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:31.775697422Z",
+  "model": "glm-5.3"
+}

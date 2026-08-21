@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E tu, figlio d'uomo, prendi per te una mattone e ponila davanti a te, e incidi su di essa una città: ⟨את⟩ Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "una mattone"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "e ponila"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "lei (la mattone)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "e incidi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "una città"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:17:00.178033417Z",
+  "model": "glm-5.3"
+}

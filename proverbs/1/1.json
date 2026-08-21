@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Proverbi di Shelomoh, figlio di Davide, re di Israele.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Proverbi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:22.259719639Z",
+  "model": "glm-5.3"
+}

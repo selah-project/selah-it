@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Tutte le parole ⟨sono⟩ stancanti: nessuno può dirle; l'occhio non si sazia di vedere, e l'orecchio non si riempie ⟨dal⟩ udire.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "⟨sono⟩ stancanti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "può"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nessuno"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dirle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "si sazia"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'occhio"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "di vedere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "si riempie"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'orecchio"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "⟨dal⟩ udire"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:39.230773324Z",
+  "model": "glm-5.3"
+}

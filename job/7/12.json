@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Sono forse il mare, o un mostro marino, perché tu ponga su di me una guardia?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sono io"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "un mostro marino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "tu ponga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "una guardia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:05.164811122Z",
+  "model": "glm-5.3"
+}

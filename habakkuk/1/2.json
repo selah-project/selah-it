@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Fino a quando, YHWH, ho gridato e non ascolti! Grido a te: « violenza! » e non salvi!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ho gridato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ascolti"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "grido"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "« violenza! »"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "salvi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:40.794384205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E la sapienza di Shelomoh ⟨fu⟩ più grande della sapienza di tutti i figli di Qedem e di tutta la sapienza di Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "e ⟨fu⟩ più grande"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "della sapienza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "di Qedem (l'Oriente)"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e di tutta"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:26:39.129230661Z",
+  "model": "glm-5.3"
+}

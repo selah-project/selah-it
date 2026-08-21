@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 17:25",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Poiché tu, Elohim mio, hai scoperto l'orecchio del tuo servo ⟨per⟩ costruirti una casa; perciò il tuo servo ha trovato ⟨coraggio⟩ di pregare davanti a te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "hai scoperto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'orecchio del tuo servo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "orecchio"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "del tuo servo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "per costruire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ha trovato"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "di pregare"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:48.088410899Z",
+  "model": "glm-5.3"
+}

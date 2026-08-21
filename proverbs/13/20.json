@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Cammina ⟨את⟩ i saggi e diventa saggio, ma chi pascola gli stolti sarà rovinato.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "cammina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i saggi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "i saggi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "e diventa saggio"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ma chi pascola"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "gli stolti"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "sarà rovinato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:03.855431423Z",
+  "model": "glm-5.3"
+}

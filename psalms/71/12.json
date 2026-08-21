@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Elohim, non allontanarti da me; Elohim mio, accorri in mio aiuto, affrettati.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "allontanarti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "in mio aiuto"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "affrettati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:09.275752800Z",
+  "model": "glm-5.3"
+}

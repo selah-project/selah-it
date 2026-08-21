@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Il ferro si prende dalla polvere, e dalla pietra si fonde il rame.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "il ferro"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "dalla polvere"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "si prende"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "e dalla pietra"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "si fonde"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "il rame"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:04.893771577Z",
+  "model": "glm-5.3"
+}

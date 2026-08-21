@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Davvero tu ⟨sei⟩ un El che si nasconde, Elohim d'Israele, salvatore.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "davvero"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "che si nasconde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "salvatore"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:41.581034345Z",
+  "model": "glm-5.3"
+}

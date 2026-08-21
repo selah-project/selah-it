@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Amò la maledizione — e essa venne su di lui; non desiderò la benedizione — ed essa si allontanò da lui.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "amò"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "la maledizione"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "e essa venne su di lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "desiderò"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "la benedizione"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ed essa si allontanò"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:02.762387365Z",
+  "model": "glm-5.3"
+}

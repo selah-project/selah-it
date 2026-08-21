@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Non oppimerai ⟨il⟩ salariato povero e bisognoso, ⟨che sia⟩ dei tuoi fratelli o del forestiero che ⟨è⟩ nella tua terra, nelle tue porte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "oppimerai"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "salariato"
+    },
+    {
+      "surface": "עני",
+      "gloss": "povero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e bisognoso"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "dei tuoi fratelli"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "del forestiero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nella tua terra"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "nelle tue porte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:41.813071162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E avvenne alla fine di venti anni, nei quali Shelomoh aveva costruito ⟨את⟩ la casa di YHWH e ⟨את⟩ la sua casa,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "alla fine di"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nei quali"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aveva costruito"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua casa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:16.054408939Z",
+  "model": "glm-5.3"
+}

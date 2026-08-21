@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché non sa che cosa sarà; perché, come sarà, chi glielo annuncerà?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "non sa (egli)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "annuncerà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:55.231848118Z",
+  "model": "glm-5.3"
+}

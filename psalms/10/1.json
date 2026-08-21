@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Perché, YHWH, te ne stai in disparte, ti nascondi nei tempi della distretta?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "te ne stai"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "in disparte"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ti nascondi"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "nei tempi"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "della distretta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:38.521994209Z",
+  "model": "glm-5.3"
+}

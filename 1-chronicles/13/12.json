@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E David temette ⟨את⟩ Elohim in quel giorno, dicendo: come porterò a me ⟨את⟩ l'arca di Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "e temette"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "היך",
+      "gloss": "come?"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "porterò"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:48.656283146Z",
+  "model": "glm-5.3"
+}

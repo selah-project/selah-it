@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E i figli d'Israele si spogliarono ⟨את⟩ delle loro gioie dal monte Chorev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "e si spogliarono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "delle loro gioie"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "le loro gioie"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dal monte"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chorev"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:53.097220779Z",
+  "model": "glm-5.3"
+}

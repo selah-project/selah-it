@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Nel terzo giorno Abramo alzò ⟨את⟩ i suoi occhi e vide ⟨את⟩ il luogo da lontano.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terzo"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "alzò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi occhi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il luogo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "il luogo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "da lontano"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:15.318980545Z",
+  "model": "glm-5.3"
+}

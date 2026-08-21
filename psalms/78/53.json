@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "E li condusse al sicuro, e non temettero, e il mare coprì ⟨את⟩ i loro nemici.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "E li condusse"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "al sicuro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "temettero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i loro nemici"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "i loro nemici"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "coprì"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:56.024221730Z",
+  "model": "glm-5.3"
+}

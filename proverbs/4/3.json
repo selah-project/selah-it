@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Perché figlio ero io per mio padre, tenero e unico davanti a mia madre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ero"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "per mio padre"
+    },
+    {
+      "surface": "רך",
+      "gloss": "tenero"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "e unico"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mia madre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:49.527192911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E stese YHWH ⟨את⟩ la sua mano e la toccò sulla mia bocca; e disse YHWH a me: ecco, ho posto le mie parole nella tua bocca.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E stese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "e toccò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho posto"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "nella tua bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T07:59:01.066854143Z",
+  "model": "glm-5.3"
+}

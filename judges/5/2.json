@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Quando in Israele si sciolsero le chiome, quando il popolo si offrì volontario — benedite YHWH!",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "quando si sciolsero"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "le chiome"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "quando si offrì volontario"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "benedite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:33.600061720Z",
+  "model": "glm-5.3"
+}

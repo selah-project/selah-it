@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E se la tua minchah ⟨è⟩ un qorban di pentola: di sola nell'olio sarà fatta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchah di"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "pentola"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "tuo qorban"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sola"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nell'olio"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sarà fatta"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:00.277806702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Non dare ⟨את⟩ la tua serva per ⟨una⟩ figlia di Belial, perché dall'abbondanza della mia preghiera e del mio turbamento ho parlato fino ad ora.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua serva"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "la tua serva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "per \/ davanti a"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "di Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dall'abbondanza"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "della mia preghiera"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "e del mio turbamento"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ora"
+    }
+  ],
+  "timestamp": "2026-08-21T07:05:29.267356627Z",
+  "model": "glm-5.3"
+}

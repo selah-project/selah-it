@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E David andava e tornava da presso Shaúl per pascolare ⟨את⟩ il gregge di suo padre a Bet-Lèchem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "e David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "andava"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "e tornava"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da presso"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "per pascolare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lèchem"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:06.960258439Z",
+  "model": "glm-5.3"
+}

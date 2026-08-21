@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "El mio, El mio, perché mi hai abbandonato? Lontano dalla mia salvezza, le parole del mio ruggito.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El mio"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mio"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "mi hai abbandonato"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Lontano"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "dalla mia salvezza"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "del mio ruggito"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:49.886129245Z",
+  "model": "glm-5.3"
+}

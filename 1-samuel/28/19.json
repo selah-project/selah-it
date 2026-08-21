@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 28:19",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "YHWH darà anche ⟨את⟩ Israele, che è con te, in mano ai Filistei; e domani tu e i tuoi figli sarete con me: anche ⟨את⟩ il campo di Israele YHWH darà in mano ai Filistei.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano a"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ai Filistei"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "e domani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "e i tuoi figli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il campo di Israele"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano a"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ai Filistei"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:33.427258305Z",
+  "model": "glm-5.3"
+}

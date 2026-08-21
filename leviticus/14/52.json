@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E purificherà ⟨את⟩ la casa con il sangue dell'uccello e con le acque vive e con l'uccello vivo e con il legno di cedro e con l'issopo e con lo scarlatto.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "e purificherà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "con il sangue"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "dell'uccello"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "e con le acque"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vive"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "e con l'uccello"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "e con il legno"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "di cedro"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "e con l'issopo"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "e con lo scarlatto"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "del vermiglio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:48.897509806Z",
+  "model": "glm-5.3"
+}

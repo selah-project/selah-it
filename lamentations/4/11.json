@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "YHWH ha compiuto ⟨את⟩ la sua furia, ha riversato l'ardore della sua ira, e ha appiccato il fuoco in Tziyon, ed esso ha divorato le sue fondamenta.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "ha compiuto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua furia"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "la sua furia"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ha riversato"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "l'ardore"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "della sua ira"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "e ha appiccato"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tziyon"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ed esso ha divorato"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "le sue fondamenta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:50.335485975Z",
+  "model": "glm-5.3"
+}

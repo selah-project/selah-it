@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "Su di me, o Elohim, ⟨sono⟩ i tuoi voti; io ricompenserò ⟨con⟩ offerte di lode a te.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "i tuoi voti"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ricompenserò"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "offerte di lode"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:22.408787706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ho invocato il tuo Nome, YHWH, dalla fossa più bassa.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ho invocato"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "dalla fossa"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "più bassa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:36.097334880Z",
+  "model": "glm-5.3"
+}

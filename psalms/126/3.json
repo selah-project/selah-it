@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 126,
+  "translation": "YHWH ha fatto grandi cose ⟨con⟩ noi; fummo lieti.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "ha fatto grandi cose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "fare"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "con noi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "fummo"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "lieti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:11.325056762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "E domini dal mare al mare, e dal Fiume fino ai confini della terra.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "E domini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dal mare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "al"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "e dal Fiume"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ai confini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:10.902852376Z",
+  "model": "glm-5.3"
+}

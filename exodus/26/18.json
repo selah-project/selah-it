@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E farai ⟨את⟩ i tavoli per il mishkan: venti tavoli per il lato meridionale, verso il sud.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tavoli"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "i tavoli"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "per il mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tavoli"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "per il lato"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "meridionale"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "verso il sud"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:34.707070895Z",
+  "model": "glm-5.3"
+}

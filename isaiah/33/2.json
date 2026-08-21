@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "YHWH, sii benigno verso di noi; a te abbiamo atteso; sii il loro braccio alle mattine, e anche la nostra salvezza nel tempo dell'angustia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "sii benigno verso di noi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "verso di te"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "abbiamo atteso"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "il loro braccio"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "alle mattine"
+    },
+    {
+      "surface": "אף",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "la nostra salvezza"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nel tempo di"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "angustia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:21.281319102Z",
+  "model": "glm-5.3"
+}

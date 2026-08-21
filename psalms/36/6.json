@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "YHWH, ⟨fino⟩ ai cieli ⟨giunge⟩ il tuo chesed, la tua fedeltà ⟨fino⟩ alle nubi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "ai cieli"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "la tua fedeltà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "alle nubi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:48.010282582Z",
+  "model": "glm-5.3"
+}

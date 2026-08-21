@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Di Shelomò. O Elohim, i tuoi giudizi al re dona, e la tua giustizia al figlio del re.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Di Shelomò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "i tuoi giudizi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "תן",
+      "gloss": "dona"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "e la tua giustizia"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "al figlio"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:34.171385869Z",
+  "model": "glm-5.3"
+}

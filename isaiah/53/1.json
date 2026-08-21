@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "Chi ha creduto al nostro udito? E il braccio di YHWH, su chi ⟨si⟩ è rivelato?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "ha creduto"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "al nostro udito"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "e il braccio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "è rivelato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:56.819509479Z",
+  "model": "glm-5.3"
+}

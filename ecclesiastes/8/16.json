@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Quando diedi ⟨את⟩ il mio cuore a conoscere la sapienza e a vedere ⟨את⟩ l'occupazione che è fatta sulla terra — che anche di giorno e di notte sonno nei suoi occhi non vede —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "diedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio cuore"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "a conoscere"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "e a vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'occupazione"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "l'occupazione"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "è fatta"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "di giorno"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "e di notte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sonno"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "nei suoi occhi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vede"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:08.246505547Z",
+  "model": "glm-5.3"
+}

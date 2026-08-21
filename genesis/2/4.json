@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Queste ⟨sono⟩ le generazioni dei cieli e della terra quando furono creati, nel giorno in cui YHWH Elohim fece terra e cieli.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "le generazioni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e della terra"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "quando furono creati"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "e cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:12.848246126Z",
+  "model": "glm-5.3"
+}

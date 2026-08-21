@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "YHWH conosce i giorni ⟨degli⟩ integri, e la loro eredità per sempre sarà.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "degli integri"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "e la loro eredità"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:24.494305345Z",
+  "model": "glm-5.3"
+}

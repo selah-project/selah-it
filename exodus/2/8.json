@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E le disse la figlia di Faraone: « Va' ». E andò la fanciulla e chiamò ⟨את⟩ la madre del bambino.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "va'"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "la fanciulla"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la madre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "la madre"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "del bambino"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:49.427224201Z",
+  "model": "glm-5.3"
+}

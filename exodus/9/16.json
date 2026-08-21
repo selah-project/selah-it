@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ma proprio per questo ti ho fatto stare in piedi, per mostrarti ⟨את⟩ la mia forza, e perché sia narrato il mio Nome in tutta la terra.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "per"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ti ho fatto stare in piedi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "per"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "mostrarti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia forza"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "la mia forza"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sia narrato"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio Nome"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:39.022206199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 29:17",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Così dice YHWH degli eserciti: ecco, io mando su di loro ⟨את⟩ la spada, ⟨את⟩ la fame e ⟨את⟩ la peste, e li renderò come fichi cattivi, che non si possono mangiare, tanto sono marci.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "io mando"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la spada"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fame"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la fame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la peste"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la peste"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e li renderò"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "come fichi cattivi"
+    },
+    {
+      "surface": "כתאנים",
+      "gloss": "come fichi"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "cattivi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "si possono mangiare"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "tanto sono marci"
+    }
+  ],
+  "timestamp": "2026-08-21T08:07:27.723699542Z",
+  "model": "glm-5.3"
+}

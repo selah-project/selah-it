@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E pose ⟨את⟩ la menorah nella tenda di convegno, di fronte alla tavola, sul lato del mishkan, a sud.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "la menorah"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nella tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "di convegno"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "di fronte a"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lato"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "del mishkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "a sud"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:51.850995013Z",
+  "model": "glm-5.3"
+}

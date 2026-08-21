@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E mormorò tutta la comunità dei figli d'Israele contro Mosè e contro Aharon nel deserto.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "E mormorarono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "la comunità"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:20.160143280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 41:23",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "«Dichiarate i segni per ciò che verrà dopo, e sapremo che voi ⟨siete⟩ dèi; sì, fate del bene o fate del male, e noi resteremo sgomenti e vedremo insieme.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Dichiarate"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "i segni"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "per ciò che verrà dopo"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "e sapremo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dèi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sì"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "fate del bene"
+    },
+    {
+      "surface": "ותרעו",
+      "gloss": "o fate del male"
+    },
+    {
+      "surface": "ונשתעה",
+      "gloss": "e resteremo sgomenti"
+    },
+    {
+      "surface": "ונרא",
+      "gloss": "e vedremo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:38.845308211Z",
+  "model": "glm-5.3"
+}

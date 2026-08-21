@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "Poiché mi hai rallegrato, YHWH, nell'opera tua; per le opere delle tue mani io canto ⟨di giubilo⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "mi hai rallegrato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "nell'opera tua"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "per le opere"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "delle tue mani"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "io canto ⟨di giubilo⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:54.092150943Z",
+  "model": "glm-5.3"
+}

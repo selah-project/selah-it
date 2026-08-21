@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 23:22",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Quando farai un voto a YHWH ⟨il tuo Elohim⟩, non tarderai a ademplierlo, perché certo YHWH ⟨il tuo Elohim⟩ lo richiederà da te, e sarà in te peccato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "farai un voto"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "voto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tarderai"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "a ademplierlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "certo richiederà"
+    },
+    {
+      "surface": "ידרשנו",
+      "gloss": "lo richiederà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:39.612255866Z",
+  "model": "glm-5.3"
+}

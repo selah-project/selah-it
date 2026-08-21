@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Il quarto giorno ⟨offrì⟩ il nasi dei figli di Ruben, Elitsur, figlio di Shedeur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "quarto"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "il nasi (principe)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeur"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:41.473383198Z",
+  "model": "glm-5.3"
+}

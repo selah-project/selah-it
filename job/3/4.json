@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Quel giorno sia tenebra; non lo cerchi Eloah dall'alto, e non appaia su di esso la luce.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "lo cerchi"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dall'alto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "appaia"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di esso"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "la luce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:08.719240350Z",
+  "model": "glm-5.3"
+}

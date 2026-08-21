@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "E costruiranno le mura tue i figli dello straniero, e i loro re ti serviranno; poiché nella mia ira ti ho colpita e nel mio favore ti ho avuta compassione.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "e costruiranno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "dello straniero"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "le mura tue"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "e i loro re"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ti serviranno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "nella mia ira"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "ti ho colpita"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "e nel mio favore"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "ti ho avuta compassione"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:28.671920667Z",
+  "model": "glm-5.3"
+}

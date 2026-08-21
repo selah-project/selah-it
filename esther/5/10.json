@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E si trattenne Haman, e venne a casa sua, e mandò a chiamare e fece venire ⟨את⟩ i suoi amici e ⟨את⟩ Zeresh sua moglie.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "e si trattenne"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa sua"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò a chiamare"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e fece venire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi amici"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "i suoi amici"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:19.368907457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Ho udito ⟨את⟩ ciò che hanno detto i profeti che profetizzano nel mio nome menzogna, dicendo: «Ho sognato, ho sognato».",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ho udito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che hanno detto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hanno detto"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "i profeti"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "che profetizzano"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nel mio nome"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "menzogna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Ho sognato"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ho sognato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:06:00.891257104Z",
+  "model": "glm-5.3"
+}

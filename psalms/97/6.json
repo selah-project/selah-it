@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 97,
+  "translation": "Hanno annunciato ⟨i⟩ cieli la sua giustizia, e hanno visto tutti i popoli la sua gloria.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "hanno annunciato"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "la sua giustizia"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e hanno visto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "la sua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:30.485335826Z",
+  "model": "glm-5.3"
+}

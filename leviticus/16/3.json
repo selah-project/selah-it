@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Con questo entrerà Aharon nel ⟨santuario⟩: con un giovane toro, figlio di vacca, per il peccato, e con un ariete per l'olà (offerta di elevazione).",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "con questo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "entrerà"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santuario"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "con un toro"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "di vacca"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "per il peccato"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "e un ariete"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "per l'olà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:37.499892041Z",
+  "model": "glm-5.3"
+}

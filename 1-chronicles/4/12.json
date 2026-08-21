@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Eshton generò ⟨את⟩ Beth-Rafà, e ⟨את⟩ Paseach, e ⟨את⟩ Techinnà, padre di Ir-Nachash. Questi sono gli uomini di Rekach.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "E Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Rafà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseach"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Techinnà"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Techinnà"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Questi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "di Rekah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:46:40.335861332Z",
+  "model": "glm-5.3"
+}

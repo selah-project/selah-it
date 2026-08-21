@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Oracolo su Babilonia, che vide Yeshaiahu figlio di Amots.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "vide"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "di Amots"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:22.371325555Z",
+  "model": "glm-5.3"
+}

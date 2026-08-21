@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Poiché chi nelle nubi ⟨si può paragonare⟩ a YHWH, chi ⟨può essere⟩ simile a YHWH tra i figli di El?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "nelle nubi"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "⟨si può paragonare⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "⟨può essere⟩ simile"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "tra i figli"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "di El"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:05.144356956Z",
+  "model": "glm-5.3"
+}

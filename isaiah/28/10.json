@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Poiché precetto su precetto, precetto su precetto; linea su linea, linea su linea; un poco qui, un poco là.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "צו",
+      "gloss": "precetto"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "su precetto"
+    },
+    {
+      "surface": "צו",
+      "gloss": "precetto"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "su precetto"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linea"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "su linea"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linea"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "su linea"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "un poco"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qui\/là"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "un poco"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:52.446537712Z",
+  "model": "glm-5.3"
+}

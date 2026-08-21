@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "I miei avversari ingoiano tutto il giorno, perché molti sono quelli che combattono contro di me dall'alto.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ingoiano"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "I miei avversari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "quelli che combattono"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "dall'alto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:16.265503972Z",
+  "model": "glm-5.3"
+}

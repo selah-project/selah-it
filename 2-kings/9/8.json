@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E perirà tutta la casa di Achab, e sterminerò per Achab chi orina contro il muro, ⟨sia⟩ il rinchiuso ⟨sia⟩ il abbandonato, in Israele.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "e perirà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "di Achab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e sterminerò"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "per Achab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "chi orina"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "contro il muro"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "il rinchiuso"
+    },
+    {
+      "surface": "ועצוב",
+      "gloss": "il abbandonato"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:48.250728345Z",
+  "model": "glm-5.3"
+}

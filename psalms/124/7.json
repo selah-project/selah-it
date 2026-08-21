@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 124,
+  "translation": "La nostra nefesh, come un uccello, è sfuggita al laccio dei cacciatori: il laccio si è spezzato, e noi siamo sfuggiti.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "La nostra nefesh"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "come un uccello"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "è sfuggita"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "al laccio"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "dei cacciatori"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "il laccio"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "si è spezzato"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "e noi"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "siamo sfuggiti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:14.372743513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ vostri campi e ⟨את⟩ vostre vigne ⟨e⟩ ⟨i⟩ vostri oliveti — i migliori — prenderà, e darà ai suoi servi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vostri campi"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "vostri campi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vostre vigne"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "vostre vigne"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "vostri oliveti"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "i migliori"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prenderà"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e darà"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "ai suoi servi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:42.912834255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Beato l'uomo che tu disciplines, Yah, e che dalla tua Torah istruisci.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beato"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "tu disciplines"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "e dalla tua Torah"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "istruisci"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:12.720653140Z",
+  "model": "glm-5.3"
+}

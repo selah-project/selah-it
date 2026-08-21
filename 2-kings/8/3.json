@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E avvenne, alla fine dei sette anni, che la donna tornò dal paese dei Filistei e uscì a gridare al re per la sua casa e per il suo campo.",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "tornò"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei Filistei"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "a gridare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "per"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e per"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "il suo campo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:01.000299546Z",
+  "model": "glm-5.3"
+}

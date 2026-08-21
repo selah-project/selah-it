@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Gli archi dei potenti ⟨sono⟩ spezzati, e gli incerti ⟨di passo⟩ si sono cinti di forza.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "gli archi"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "dei potenti"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "⟨sono⟩ spezzati"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "e gli incerti ⟨di passo⟩"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "si sono cinti"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "di forza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:08.415930129Z",
+  "model": "glm-5.3"
+}

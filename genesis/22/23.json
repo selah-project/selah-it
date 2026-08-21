@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E Bethuel generò ⟨את⟩ Rivka. Otto — questi — partorì Milca a Nachor, fratello di Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "E Bethuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "Otto"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milca"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "a Nachor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratello di"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:03.325692004Z",
+  "model": "glm-5.3"
+}

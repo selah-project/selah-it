@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Mi alzai la mattina per allattare mio figlio ⟨את⟩, ed ecco ⟨era⟩ morto; ma quando lo osservai bene alla luce del mattino, ecco, non ⟨era⟩ il figlio che io avevo partorito.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "mi alzai"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "per allattare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mio figlio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morto"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "osservai bene"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "verso di lui"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "alla luce del mattino"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "בני",
+      "gloss": "il figlio mio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "avevo partorito"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:45.979630115Z",
+  "model": "glm-5.3"
+}

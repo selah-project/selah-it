@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "YHWH ha udito la mia supplica, YHWH accoglierà la mia preghiera.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ha udito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "la mia supplica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "accoglierà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:22.622375446Z",
+  "model": "glm-5.3"
+}

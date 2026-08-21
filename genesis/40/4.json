@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E il capo dei cuochi affidò ⟨את⟩ Giuseppe perché fosse ⟨את⟩ con loro, ed egli li serviva; ed essi rimasero giorni in custodia.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "e affidò"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "dei cuochi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuseppe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ con loro"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "e servì"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in custodia"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:20.766891702Z",
+  "model": "glm-5.3"
+}

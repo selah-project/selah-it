@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Il saggio ascolterà e accrescerà ⟨il⟩ sapere, e l'intelligente acquisterà consiglio di governo;",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ascolterà"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "il saggio"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "e accrescerà"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "sapere"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "e l'intelligente"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "consiglio di governo"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "acquistare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:57.950405447Z",
+  "model": "glm-5.3"
+}

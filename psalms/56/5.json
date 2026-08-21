@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "In Elohim loderò la sua parola, in Elohim ho confidato; non temerò: che farà la carne a me?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "loderò"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "la sua parola"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ho confidato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "temerò"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:19.084981628Z",
+  "model": "glm-5.3"
+}

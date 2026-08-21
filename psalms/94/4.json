@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Stillano, parlano arroganza, si esaltano tutti gli operatori di iniquità.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "stillano"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "parlano"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "arroganza"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "si esaltano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gli operatori di"
+    },
+    {
+      "surface": "און",
+      "gloss": "iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:03.079410235Z",
+  "model": "glm-5.3"
+}

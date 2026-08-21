@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Poiché io sono pronto a ⟨zoppicare⟩, e il mio dolore è davanti a me sempre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "a zoppicare"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sono pronto"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "e il mio dolore"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:27.456325094Z",
+  "model": "glm-5.3"
+}

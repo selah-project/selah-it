@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Il vituperio mi ha spezzato il cuore, e ⟨io⟩ sono sconvolto; ho atteso qualcuno che ⟨si⟩ condolisse, ma non ⟨c'era⟩ nessuno, e consolatori, ma non ne ho trovati.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "il vituperio"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "ha spezzato"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "e sono sconvolto"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ho atteso"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "qualcuno che condolisse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma non ⟨c'era⟩ nessuno"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "e consolatori"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ne ho trovati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:28.214128354Z",
+  "model": "glm-5.3"
+}

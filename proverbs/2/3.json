@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "sì, se chiami ⟨ל⟩ l'intelligenza, e per la intelligenza alzi la tua voce —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "l'intelligenza"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "chiami"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "per la intelligenza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "alzi"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "la tua voce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:17.541855071Z",
+  "model": "glm-5.3"
+}

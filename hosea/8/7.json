@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché vento seminano e tempesta mieteranno: spiga non ⟨avrà⟩, il germoglio non farà farina; se anche farà, stranieri la divoreranno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vento"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "seminano"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "e tempesta"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "mieteranno"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "spiga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨avrà⟩"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "il germoglio"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "farina"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "se anche"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "stranieri"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "la divoreranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:30.901086085Z",
+  "model": "glm-5.3"
+}

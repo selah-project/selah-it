@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "In Elohim faremo prodezze, ed egli ⟨è colui che⟩ calpesterà i nostri avversari.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "faremo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "prodezze"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed egli"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "calpesterà"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "i nostri avversari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:17.724669344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Quando il giusto si volge dalla sua giustizia e fa il torto, egli muore in esso ⟨per esso⟩.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "quando si volge"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "dalla sua giustizia"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e fa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "il torto"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e muore"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in esso"
+    }
+  ],
+  "timestamp": "2026-08-21T08:25:24.562558348Z",
+  "model": "glm-5.3"
+}

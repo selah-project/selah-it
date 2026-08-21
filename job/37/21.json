@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 37:21",
+  "book": "job",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E ora non vedono la luce, ⟨quand'⟩essa ⟨è⟩ brillante fra le nubi; poi passa un vento e le purifica.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vedono"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "בהיר",
+      "gloss": "brillante"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "fra le nubi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e un vento"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "passa"
+    },
+    {
+      "surface": "ותטהרם",
+      "gloss": "e le purifica"
+    }
+  ],
+  "timestamp": "2026-08-21T09:22:39.157537916Z",
+  "model": "glm-5.3"
+}

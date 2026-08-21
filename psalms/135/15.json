@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Gli idoli delle nazioni ⟨sono⟩ argento e oro, opera delle mani dell'uomo.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "gli idoli"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "delle nazioni"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e oro"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "delle mani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:01.388334873Z",
+  "model": "glm-5.3"
+}

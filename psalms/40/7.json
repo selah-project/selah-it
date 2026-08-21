@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Vittima e oblazione non hai voluto; orecchie mi hai scavato; olà (offerta di elevazione) e offerta per il peccato non hai richiesto.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "vittima"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "e oblazione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "hai voluto"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "orecchie"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "mi hai scavato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "olà"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "e offerta per il peccato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "hai richiesto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:07.256455680Z",
+  "model": "glm-5.3"
+}

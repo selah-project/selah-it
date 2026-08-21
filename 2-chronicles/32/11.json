@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 32:11",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Non è forse Chizkiyahu colui che vi seduce, per dare ⟨את⟩ voi alla morte per fame e per sete, dicendo: YHWH nostro Elohim ci salverà dalla mano del re di Ashur?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "non è forse"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "colui che seduce"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vi",
+      "marks": "per dare"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per dare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vi",
+      "marks": "alla morte"
+    },
+    {
+      "surface": "למות",
+      "gloss": "alla morte"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "per fame"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "e per sete"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nostro Elohim"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ci salverà"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashur"
+    }
+  ],
+  "timestamp": "2026-08-21T10:02:01.447011911Z",
+  "model": "glm-5.3"
+}

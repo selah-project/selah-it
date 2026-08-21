@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "e faranno portare loro ⟨את⟩ la colpa della mancanza, mangiando ⟨את⟩ le loro cose sante; perché io ⟨sono⟩ YHWH, che le santifico.»",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "e faranno portare"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "la colpa della mancanza"
+    },
+    {
+      "surface": "עון",
+      "gloss": "la colpa"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "della mancanza"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "mangiando"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro cose sante"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "le loro cose sante"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "che le santifico"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:49.145167613Z",
+  "model": "glm-5.3"
+}

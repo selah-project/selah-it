@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E si girò via da loro e pianse; tornò a loro e parlò loro, e prese da loro ⟨את⟩ Shimeon e lo legò ⟨את⟩ davanti ai loro occhi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "e si girò"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "via da loro"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "e pianse"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tornò"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ da loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimeon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "e legò"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (Shimeon)"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "davanti ai loro occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:41.485006872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "per annunziare al mattino il tuo chesed, e la tua fedeltà nelle notti,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "per annunziare"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "e la tua fedeltà"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nelle notti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.687486852Z",
+  "model": "glm-5.3"
+}

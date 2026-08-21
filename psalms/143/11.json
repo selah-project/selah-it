@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "Per amore del tuo nome, YHWH, fammi vivere; nella tua giustizia fammi uscire dall'angustia ⟨la mia nefesh⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "del tuo nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "fammi vivere"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nella tua giustizia"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "fammi uscire"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "dall'angustia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨la mia nefesh⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:08.547511860Z",
+  "model": "glm-5.3"
+}

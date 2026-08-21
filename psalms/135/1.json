@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Lodate Yah, lodate ⟨את⟩ il Nome di YHWH, lodate, voi servi di YHWH:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "voi servi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:17.474746343Z",
+  "model": "glm-5.3"
+}

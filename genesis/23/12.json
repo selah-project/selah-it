@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E Abramo si prostrò davanti al popolo del paese.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "e si prostrò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "al popolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:26.956455594Z",
+  "model": "glm-5.3"
+}

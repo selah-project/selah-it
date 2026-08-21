@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Poiché tu, YHWH, ⟨sei⟩ il mio rifugio; l'Altissimo hai posto come tua dimora.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "il mio rifugio"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "l'Altissimo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "hai posto"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "come tua dimora"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.466767446Z",
+  "model": "glm-5.3"
+}

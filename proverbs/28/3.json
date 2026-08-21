@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Un uomo povero che opprime i deboli ⟨è⟩ come pioggia torrenziale, e non c'è pane.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "רש",
+      "gloss": "povero"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "che opprime"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "i deboli"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "pioggia"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "torrenziale"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:15.950249337Z",
+  "model": "glm-5.3"
+}

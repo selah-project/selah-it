@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Guarda, rispondimi, YHWH Elohim mio; fa' luce ai miei occhi, perché io non dorma ⟨il sonno⟩ della morte",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "guarda"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "rispondimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "fa' luce"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ai miei occhi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "io dorma"
+    },
+    {
+      "surface": "המות",
+      "gloss": "della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:48.270425085Z",
+  "model": "glm-5.3"
+}

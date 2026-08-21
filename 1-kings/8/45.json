@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "allora udrai nei cieli ⟨את⟩ la loro preghiera e ⟨את⟩ la loro supplica, e farai il loro diritto.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "allora udrai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro preghiera"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "la loro preghiera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la loro supplica"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "la loro supplica"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "il loro diritto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:56.554785962Z",
+  "model": "glm-5.3"
+}

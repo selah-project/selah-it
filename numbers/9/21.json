@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E c'era ⟨il caso in cui⟩ la nube ⟨rimaneva⟩ dalla sera fino al mattino: la nube si alzava al mattino e loro partivano; oppure ⟨stava⟩ un giorno e una notte, e la nube si alzava — e loro partivano.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "e c'era"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "era"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nube"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "dalla sera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "e si alzava"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nube"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "e loro partivano"
+    },
+    {
+      "surface": "או",
+      "gloss": "oppure"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "un giorno"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e una notte"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "e si alzava"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nube"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "e loro partivano"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:43.301743591Z",
+  "model": "glm-5.3"
+}

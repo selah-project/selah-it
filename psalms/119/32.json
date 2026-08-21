@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "La via dei tuoi comandamenti io correrò, perché tu allarghi il mio cuore.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dei tuoi comandamenti"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "io correrò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "tu allarghi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:54.642523Z",
+  "model": "glm-5.3"
+}

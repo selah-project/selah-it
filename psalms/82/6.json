@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 82,
+  "translation": "Io ho detto: voi siete Elohim, e figli dell'Altissimo siete tutti.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi siete"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e figli"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "dell'Altissimo"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "tutti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:25.188077588Z",
+  "model": "glm-5.3"
+}

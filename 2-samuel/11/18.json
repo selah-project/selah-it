@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Ioab mandò a riferire a David ⟨את⟩ tutte le vicende della battaglia.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a riferire"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le vicende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le vicende"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "della battaglia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:43.700904594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Che pone la nostra ⟨nefesh⟩ nella vita e non lascia vacillare i nostri piedi.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "che pone"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "la nostra ⟨nefesh⟩"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "nella vita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lascia"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "vacillare"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "i nostri piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:45.040192150Z",
+  "model": "glm-5.3"
+}

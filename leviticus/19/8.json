@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E chi ne mangia porterà la propria iniquità, perché ⟨את⟩ la cosa santa di YHWH ha profanato; e quella nefesh sarà recisa dal suo popolo.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "e chi ne mangia"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "la propria iniquità"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "porterà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cosa santa di YHWH"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "la cosa santa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ha profanato"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "e sarà recisa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "quella nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "dal suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:34.616632280Z",
+  "model": "glm-5.3"
+}

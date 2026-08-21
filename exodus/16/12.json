@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "«Ho udito ⟨את⟩ i mormorii dei figli di Israele; parla a loro, dicendo: Al tramonto mangerete carne e al mattino vi sazierete di pane; e conoscerete che io ⟨sono⟩ YHWH, il vostro Elohim».",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ho udito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i mormorii dei figli di Israele"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "i mormorii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "al"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tramonto"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "e al mattino"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "vi sazierete"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "di pane"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "e conoscerete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:22.144566654Z",
+  "model": "glm-5.3"
+}

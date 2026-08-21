@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse: chiama lei. E chiamò lei, e lei si fermò all'ingresso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chiama"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lei"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lei"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "e si fermò"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "all'ingresso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:24.310009593Z",
+  "model": "glm-5.3"
+}

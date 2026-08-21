@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 97,
+  "translation": "YHWH regna: esulti la terra, gioiscano le isole ⟨molte⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regna"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "esulti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gioiscano"
+    },
+    {
+      "surface": "איים",
+      "gloss": "le isole"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:25.968254223Z",
+  "model": "glm-5.3"
+}

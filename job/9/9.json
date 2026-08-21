@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "che fa l'Orsa, Orione, le Pleiadi ⟨וכימה → e le Pleiadi⟩ e le stanze del sud.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "che fa"
+    },
+    {
+      "surface": "עש",
+      "gloss": "l'Orsa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Orione"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "e le Pleiadi"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "e le stanze"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "del sud"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:31.834277545Z",
+  "model": "glm-5.3"
+}

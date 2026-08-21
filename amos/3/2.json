@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Soltanto voi ho conosciuto, fra tutte le famiglie della terra; perciò io vi recherò addosso ⟨את⟩ tutte le vostre iniquità.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Soltanto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "ho conosciuto (voi)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ho conosciuto"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra tutte"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "le famiglie"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "על",
+      "gloss": "percio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "[su ciò]"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "recherò addosso"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le vostre iniquità"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "le vostre iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:10.244486842Z",
+  "model": "glm-5.3"
+}

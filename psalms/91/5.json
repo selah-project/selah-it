@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Non temerai lo spavento della notte, né la freccia che vola ⟨di⟩ giorno;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temerai"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "lo spavento"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "della notte"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "né la freccia"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "che vola"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "di giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:47.051050112Z",
+  "model": "glm-5.3"
+}

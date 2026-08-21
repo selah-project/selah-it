@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "La via della fedeltà ho scelto, i tuoi giudizi ho posto davanti a me.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "della fedeltà"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ho scelto"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "i tuoi giudizi"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ho posto davanti a me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:54.642301377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E prese YHWH Elohim ⟨את⟩ l'uomo e lo fece dimorare nel giardino di Eden, per coltivarlo e per custodirlo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "e lo fece dimorare"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nel giardino"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "di Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "per coltivarlo"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "e per custodirlo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:27.650754810Z",
+  "model": "glm-5.3"
+}

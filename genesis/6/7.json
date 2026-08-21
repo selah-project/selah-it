@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E disse YHWH: cancellerò ⟨את⟩ l'uomo che ho creato dalla faccia del suolo, dall'uomo fino al bestiame, fino al rettile e fino all'uccello dei cieli, perché mi sono rincresciuto di averli fatti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "cancellerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ho creato"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dalla superficie di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dalla faccia"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "del suolo"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dall'uomo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "al bestiame"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "al rettile"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "all'uccello"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "mi sono rincresciuto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "li ho fatti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:36.030251819Z",
+  "model": "glm-5.3"
+}

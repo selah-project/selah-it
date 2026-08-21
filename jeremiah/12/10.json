@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Pastori molti hanno rovinato la mia vigna, hanno calpestato ⟨את⟩ il mio terreno; hanno fatto del mio lotto dilettoso un deserto di desolazione.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "pastori"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "hanno rovinato"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "la mia vigna"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "hanno calpestato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio terreno"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "il mio terreno"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hanno fatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "del mio lotto dilettoso"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "del lotto"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "dilettoso"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "un deserto"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "di desolazione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:02:39.855779090Z",
+  "model": "glm-5.3"
+}

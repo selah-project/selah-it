@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E in Chorev avete fatto infuriare ⟨את⟩ YHWH, e YHWH si adirò contro di voi fino a distruggervi.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "e in Chorev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "avete fatto infuriare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "e si adirò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contro di voi"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "fino a distruggere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:40.633745534Z",
+  "model": "glm-5.3"
+}

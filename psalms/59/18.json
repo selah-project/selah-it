@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Forza mia, a te salmeggerò, perché Elohim è la mia rupe inaccessibile, l'Elohim del mio chesed.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "forza mia"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "salmeggerò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "la mia rupe inaccessibile"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "del mio chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:52.036822591Z",
+  "model": "glm-5.3"
+}

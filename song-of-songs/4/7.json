@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Tutta tu sei bella, amica mia, e ⟨in te non vi è⟩ nessun difetto.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "tutta tu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "sei bella"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "amica mia"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "e ⟨nessun⟩ difetto"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non vi è"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:42.922208522Z",
+  "model": "glm-5.3"
+}

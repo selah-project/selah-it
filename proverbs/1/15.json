@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Figlio mio, non camminare nella via ⟨con⟩ loro, trattieni il tuo piede dal loro sentiero.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "camminare"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nella via"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "con loro"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "trattieni"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "il tuo piede"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "dal loro sentiero"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:23.726964370Z",
+  "model": "glm-5.3"
+}

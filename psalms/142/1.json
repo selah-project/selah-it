@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 142,
+  "translation": "Maskil di Davide, quando era nella caverna. Preghiera.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (poema didattico)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "quando era"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "nella caverna"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "preghiera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:24.827647341Z",
+  "model": "glm-5.3"
+}

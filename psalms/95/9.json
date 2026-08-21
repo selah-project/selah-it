@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "dove i vostri padri mi misero alla prova, mi saggiarono, pur avendo visto la mia opera.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "mi misero alla prova"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "i vostri padri"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "mi saggiarono"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pur"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "avendo visto"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "la mia opera"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:56.004639814Z",
+  "model": "glm-5.3"
+}

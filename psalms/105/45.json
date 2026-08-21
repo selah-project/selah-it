@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Perché osservassero ⟨i⟩ suoi statuti e custodissero ⟨le⟩ sue Torah. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "osservassero"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "⟨i⟩ suoi statuti"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "e ⟨le⟩ sue Torah"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "custodissero"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:23.765172893Z",
+  "model": "glm-5.3"
+}

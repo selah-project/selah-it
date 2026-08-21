@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E YHWH mandò ⟨את⟩ Natan a Davide, e venne da lui e gli disse: due uomini c'erano in una città, uno ricco e uno povero.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "היו",
+      "gloss": "c'erano"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in una città"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ricco"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "e uno"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "povero"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:08.759031286Z",
+  "model": "glm-5.3"
+}

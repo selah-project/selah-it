@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E Giuseppe condusse ⟨את⟩ Giacobbe suo padre e lo fece stare davanti a Faraone; e Giacobbe benedisse ⟨את⟩ Faraone.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e condusse"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giacobbe suo padre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "e lo fece stare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraone"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:06.100932873Z",
+  "model": "glm-5.3"
+}

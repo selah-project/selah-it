@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Così nel santuario ti ho contemplato, per vedere la tua forza e la tua gloria.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Così"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nel santuario"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ti ho contemplato"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "per vedere"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "la tua forza"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "e la tua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:03.492936046Z",
+  "model": "glm-5.3"
+}

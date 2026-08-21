@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E io aprii ⟨את⟩ la mia bocca, ed egli mi diede da mangiare ⟨את⟩ questa megillà.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "e io aprii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia bocca"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "e mi fece mangiare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa megillà"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "la megillà"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:17:17.149401963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "La sapienza ⟨delle⟩ donne ⟨ha⟩ costruito ⟨la sua⟩ casa, e la stoltezza con le sue mani la demolisce.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "delle donne"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ha costruito"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "e la stoltezza"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "con le sue mani"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "la demolisce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:22.264816160Z",
+  "model": "glm-5.3"
+}

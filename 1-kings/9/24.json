@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Solo la figlia di Paroh salì dalla città di Davide alla sua casa, che ⟨egli⟩ aveva costruito per lei; allora egli costruì ⟨את⟩ il Millo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia di"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "salì"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dalla città di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aveva costruito"
+    },
+    {
+      "surface": "לה",
+      "gloss": "per lei"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "il Millo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:49.700565387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E pose su di lui ⟨את⟩ il pettorale, e pose sul pettorale ⟨את⟩ gli Urim e ⟨את⟩ i Tummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il pettorale"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "il pettorale"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "il pettorale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "gli Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "i Tummim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:49.434616256Z",
+  "model": "glm-5.3"
+}

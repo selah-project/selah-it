@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E fecero salire ⟨את⟩ l'arca di YHWH, e ⟨את⟩ la tenda di convegno, e ⟨את⟩ tutti gli arredi del santuario che ⟨erano⟩ nella tenda; e ⟨את⟩ li fecero salire i sacerdoti e i leviti.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "e fecero salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca di YHWH"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la tenda di convegno"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda di"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "convegno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti gli arredi del santuario"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gli arredi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santuario"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nella tenda"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e fecero salire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e i leviti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:00.179713104Z",
+  "model": "glm-5.3"
+}

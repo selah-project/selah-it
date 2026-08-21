@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Yehonatàn e Davide tagliarono un patto (*berit*), perché lo amava come la propria *nefesh*.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "e tagliarono"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatàn"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e Davide"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "un patto"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "perché lo amava"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo — oggetto dell'amore, marcato"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "come la propria *nefesh*"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:42.991777439Z",
+  "model": "glm-5.3"
+}

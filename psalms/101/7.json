@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 101,
+  "translation": "Non dimorerà in mezzo alla mia casa chi pratica l'inganno; chi parla menzogne non si fermerà davanti ai miei occhi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dimorerà"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "la mia casa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chi pratica"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "l'inganno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chi parla"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "menzogne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "si fermerà"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ai miei occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:53.322520565Z",
+  "model": "glm-5.3"
+}

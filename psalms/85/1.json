@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 85,
+  "translation": "Al direttore del coro. Dei figli di Qorach. Mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:07.021466406Z",
+  "model": "glm-5.3"
+}

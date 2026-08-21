@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E prenderà ⟨את⟩ i due capri e li farà stare ⟨את⟩ davanti a YHWH, all'ingresso della tenda del convegno.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "e prenderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i due capri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i due"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "capri"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "e li farà stare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "davanti a YHWH (suffisso pronominale: li"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:26.341140855Z",
+  "model": "glm-5.3"
+}

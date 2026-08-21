@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 128,
+  "translation": "Ti benedica YHWH da Tzion, e vedi il bene di Gerusalemme tutti i giorni della tua vita.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ti benedica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "da Tzion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vedi"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "della tua vita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:27.832239495Z",
+  "model": "glm-5.3"
+}

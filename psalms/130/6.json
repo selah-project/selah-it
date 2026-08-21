@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 130,
+  "translation": "La mia nefesh ⟨è⟩ per Adonai, più delle sentinelle che aspettano il mattino, sentinelle che aspettano il mattino.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "per Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "più delle sentinelle"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "che aspettano il mattino"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "sentinelle"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "che aspettano il mattino"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:57.792678816Z",
+  "model": "glm-5.3"
+}

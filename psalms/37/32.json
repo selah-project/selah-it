@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "L'empio spia ⟨il⟩ giusto e cerca di ucciderlo.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "spia"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "l'empio"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "e cerca"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "di ucciderlo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:23.435053900Z",
+  "model": "glm-5.3"
+}

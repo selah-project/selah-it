@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 24:1",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Yehoshua riunì ⟨את⟩ tutte le tribù di Israele a Shekhem, e chiamò i anziani di Israele, i suoi capi, i suoi giudici e i suoi scribi, e si presentarono davanti a Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "riunì"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le tribù di Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "le tribù di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "a Shekhem"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "i anziani di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ולראשיו",
+      "gloss": "e i suoi capi"
+    },
+    {
+      "surface": "ולשפטיו",
+      "gloss": "e i suoi giudici"
+    },
+    {
+      "surface": "ולשטריו",
+      "gloss": "e i suoi scribi"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "e si presentarono"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:16.286914977Z",
+  "model": "glm-5.3"
+}

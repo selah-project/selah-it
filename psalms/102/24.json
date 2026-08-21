@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Egli mi ha abbattuto sul cammino — la mia forza; ha accorciato i miei giorni.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ha abbattuto"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sul cammino"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "la mia forza"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "ha accorciato"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i miei giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:13.530742510Z",
+  "model": "glm-5.3"
+}

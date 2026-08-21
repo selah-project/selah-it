@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "e custodiranno ⟨את⟩ la custodia della tenda del convegno e ⟨את⟩ la custodia del santo, e la custodia dei figli di Aharon, loro fratelli, per il servizio della casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "e custodiranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la custodia della tenda del convegno"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la custodia"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la custodia del santo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la custodia"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santo"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "e la custodia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "di Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "loro fratelli"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "per il servizio"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:52:23.481549346Z",
+  "model": "glm-5.3"
+}

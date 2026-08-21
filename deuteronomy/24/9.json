@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Ricorda ⟨את⟩ ciò che fece YHWH, il tuo Elohim, a Miriam, per la strada, quando uscivate dall'Egitto.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ricorda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che fece a Miriam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "a Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la strada"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "quando uscivate"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:16.186206857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E Abrahamo mise in disparte ⟨את⟩ sette pecore del gregge, da sole.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "e mise"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sette pecore del gregge"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sette"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "pecore"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "del gregge"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "da sole"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:49.586606372Z",
+  "model": "glm-5.3"
+}

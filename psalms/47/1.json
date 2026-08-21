@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Al direttore del coro, per i figli di Korach, un mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:00.355366178Z",
+  "model": "glm-5.3"
+}

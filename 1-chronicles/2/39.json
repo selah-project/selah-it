@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Azaria generò ⟨את⟩ Cheletz, e Cheletz generò ⟨את⟩ Elasà.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azaria"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheletz"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Cheletz"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "e Cheletz"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasà"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:57.719476806Z",
+  "model": "glm-5.3"
+}

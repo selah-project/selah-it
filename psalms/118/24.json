@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Questo è il giorno che YHWH ha fatto: esultiamo e rallegriamoci in esso.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Questo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "esultiamo"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "e rallegriamoci"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in esso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:55.823194106Z",
+  "model": "glm-5.3"
+}

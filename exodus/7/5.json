@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E i Mitsriti sapranno che io ⟨sono⟩ YHWH, quando stenderò ⟨את⟩ la mia mano sull'Egitto e farò uscire ⟨את⟩ i figli d'Israele dal loro mezzo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "e sapranno"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Mitsriti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "quando stenderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia mano"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "e farò uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "dal loro mezzo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:18.245749412Z",
+  "model": "glm-5.3"
+}

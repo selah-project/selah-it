@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E il popolo uscì e saccheggiò ⟨את⟩ il campo di Aram; e un seah di fior di farina ⟨fu⟩ a un siclo, e due seah di orzo a un siclo, secondo la parola di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "e saccheggiò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il campo di Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "un seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "di fior di farina"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "a un siclo"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "e due seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "di orzo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "a un siclo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:11.065251417Z",
+  "model": "glm-5.3"
+}

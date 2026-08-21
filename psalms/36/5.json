@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "L'iniquità ordisce sul suo giaciglio, si sta fermo su una via non buona, il male non lo disprezza.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ordisce"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "il suo giaciglio"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "si sta fermo"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "una via"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buona"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "lo disprezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:48.010014831Z",
+  "model": "glm-5.3"
+}

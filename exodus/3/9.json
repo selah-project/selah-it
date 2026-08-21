@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ora, ecco, il grido dei figli d'Israele è giunto fino a me; e anche ho visto ⟨את⟩ l'oppressione con cui l'Egitto ⟨את⟩ li opprime ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "il grido"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "באה",
+      "gloss": "è giunto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fino a me"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'oppressione"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "l'oppressione"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "opprimono"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (essi)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:56.317970666Z",
+  "model": "glm-5.3"
+}

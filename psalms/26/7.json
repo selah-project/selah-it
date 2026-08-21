@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Per far udire la voce della lode, e per raccontare tutte le tue meraviglie.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "per far udire"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "della lode"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "e per raccontare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "le tue meraviglie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:19.702458218Z",
+  "model": "glm-5.3"
+}

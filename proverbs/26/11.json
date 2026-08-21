@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Come un cane torna al suo vomito, così lo stolto ripete la sua stoltezza.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "Come un cane"
+    },
+    {
+      "surface": "שב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "al suo vomito"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "lo stolto"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "ripete"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "la sua stoltezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:07.168887902Z",
+  "model": "glm-5.3"
+}

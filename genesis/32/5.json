@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E comandò loro, dicendo: così direte al mio signore, a Esav: così dice il tuo servo Giacobbe: con Laban ho forestato e ho tardato fino ad ora.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e comandò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "direte"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "al mio signore"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "a Esav"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ho forestato"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "e ho tardato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ad ora"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:54.489646614Z",
+  "model": "glm-5.3"
+}

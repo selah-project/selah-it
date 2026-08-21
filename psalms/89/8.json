@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "El ⟨è⟩ tremendo nel consiglio dei santi, grande e temibile su tutti ⟨coloro che lo circondano⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "tremendo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "nel consiglio"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "dei santi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "e temibile"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "⟨coloro che lo circondano⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:05.144509073Z",
+  "model": "glm-5.3"
+}

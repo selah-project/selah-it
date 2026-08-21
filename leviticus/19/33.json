@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E quando un ger dimora ⟨את⟩ con te nella vostra terra, non lo opprimerete ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e quando"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "dimora"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te"
+    },
+    {
+      "surface": "גר",
+      "gloss": "un ger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "nella vostra terra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "opprimerete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (il ger)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:31.709919378Z",
+  "model": "glm-5.3"
+}

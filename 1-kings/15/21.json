@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E avvenne, al sentire ⟨di ciò⟩ Baasha, che cessò di costruire ⟨את⟩ Rama, e dimorò a Tirza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "al sentire"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "che cessò"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "di costruire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e dimorò"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "a Tirza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:13.509054829Z",
+  "model": "glm-5.3"
+}

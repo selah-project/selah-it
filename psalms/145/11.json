@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "La gloria del tuo regno diranno, e della tua potenza parleranno.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "La gloria"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "del tuo regno"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "diranno"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "e della tua potenza"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "parleranno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.583284931Z",
+  "model": "glm-5.3"
+}

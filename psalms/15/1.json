@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Mizmor di Davide. YHWH, chi dimorerà come forestiero nella tua tenda? Chi abiterà sul tuo monte santo?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "dimorerà come forestiero"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "nella tua tenda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "abiterà"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "santo tuo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:02.619729700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Una nefesh che fatica, fatica per sé, perché la sua bocca lo incalza.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "una nefesh"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "che fatica"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "fatica"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "incalza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "la sua bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:59.913821150Z",
+  "model": "glm-5.3"
+}

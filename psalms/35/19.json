@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Non si rallegrino su di me ⟨i miei⟩ nemici ⟨con⟩ menzogna; quelli che mi odiano senza motivo strizzino ⟨pure⟩ l'occhio.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "si rallegrino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "menzogna"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "quelli che mi odiano"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "senza motivo"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "strizzino l'occhio"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'occhio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:00.187753348Z",
+  "model": "glm-5.3"
+}

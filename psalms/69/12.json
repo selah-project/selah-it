@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "E feci del sacco il mio vestito, e divenni per loro un proverbio.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "e feci"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "il mio vestito"
+    },
+    {
+      "surface": "שק",
+      "gloss": "del sacco"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "e divenni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "un proverbio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:24.342927634Z",
+  "model": "glm-5.3"
+}

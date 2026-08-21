@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Ma io, nell'abbondanza del tuo chesed, entrerò nella tua casa, mi prostrerò verso ⟨il⟩ tuo santo palazzo, nel tuo timore.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma io"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nell'abbondanza"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "del tuo chesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "entrerò"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nella tua casa"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "mi prostrerò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "⟨il⟩ santo palazzo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "santo"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "nel tuo timore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:08.022358918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "« Alzatevi da in mezzo a questa congregazione, e li divorerò in un istante ». E caddero sui loro volti.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "alzatevi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "da in mezzo a"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨la⟩ congregazione"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "e li divorerò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro (la congregazione)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "in un istante"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "e caddero"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "i loro volti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:30:50.634140034Z",
+  "model": "glm-5.3"
+}

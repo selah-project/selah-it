@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E toglierò ⟨את⟩ il mio palmo, e vedrai ⟨את⟩ le mie spalle; ma il mio volto non sarà visto.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "e toglierò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio palmo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "il mio palmo"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "e vedrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mie spalle"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "le mie spalle"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ma il mio volto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sarà visto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:37.010771415Z",
+  "model": "glm-5.3"
+}

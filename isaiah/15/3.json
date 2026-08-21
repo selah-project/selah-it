@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Nelle sue piazze si cingono ⟨di⟩ sacco, sui suoi tetti e nelle sue strade tutti urlano, scendono in pianto.",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "Nelle sue piazze"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "si cingono"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sacco"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "i suoi tetti"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "e nelle sue strade"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "urlano"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scendono"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "in pianto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:07.347190485Z",
+  "model": "glm-5.3"
+}

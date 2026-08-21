@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Si è accovacciato, si è steso come un leone e come una leonessa: chi lo risveglierà? Benedetti quelli che ti benedicono, e maledetti quelli che ti maledicono.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "si è accovacciato"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "si è steso"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "come un leone"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "e come una leonessa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "lo risveglierà"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "quelli che ti benedicono"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "benedetti"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "e quelli che ti maledicono"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "maledetti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:21.615652125Z",
+  "model": "glm-5.3"
+}

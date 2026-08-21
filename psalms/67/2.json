@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 67,
+  "translation": "Elohim ci sia grazioso e ci benedica, faccia splendere ⟨il suo⟩ volto su di noi ⟨את⟩-con-noi. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ci sia grazioso"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "e ci benedica"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "faccia splendere"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "con noi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:16.789351307Z",
+  "model": "glm-5.3"
+}

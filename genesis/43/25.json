@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "E prepararono ⟨את⟩ il dono fino all'arrivo di Yosef a mezzogiorno, perché avevano sentito che là avrebbero mangiato pane.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "prepararono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il dono"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "il dono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "all'arrivo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "a mezzogiorno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "avevano sentito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "avrebbero mangiato"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:01.332998252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Elohim, non tacere per ⟨te⟩, non restare in silenzio, El, non stare quieto.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "tacere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per ⟨te⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "restare in silenzio"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "stare quieto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:30.660246027Z",
+  "model": "glm-5.3"
+}

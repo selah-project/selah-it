@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Perché, se tu rifiuti di lasciar andare ⟨את⟩ il mio popolo, ecco, io faccio venire domani la cavalletta entro i tuoi confini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "rifiuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "di lasciar andare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "io faccio venire"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "domani"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "la cavalletta"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "entro i tuoi confini"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:48.466901448Z",
+  "model": "glm-5.3"
+}

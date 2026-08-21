@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Di David. Non ti accalorare contro i malfattori, non invidiare i facitori di ingiustizia.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ti accalorare"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "contro i malfattori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "invidiare"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "i facitori di"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ingiustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:24.121885966Z",
+  "model": "glm-5.3"
+}

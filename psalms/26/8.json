@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "YHWH, ho amato la dimora della tua casa, e il luogo del mishkan (tabernacolo) della tua gloria.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ho amato"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "la dimora"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "della tua casa"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "e il luogo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "del mishkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "della tua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:19.702564084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "«Esegui la vendetta dei figli d'Israele contro i Madianiti ⟨את⟩; dopo ⟨ciò⟩ sarai raccolto al tuo popolo.»",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Esegui la vendetta"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "la vendetta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "i Madianiti"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "i Madianiti"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "sarai raccolto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "al tuo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:17.302116092Z",
+  "model": "glm-5.3"
+}

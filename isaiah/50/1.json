@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Così disse YHWH: dov'è ⟨esso⟩, il documento di ripudio di vostra madre, che io ho mandata via? O a chi dei miei creditori ⟨ho venduto⟩ voi ⟨את⟩, a lui? Ecco, per le vostre iniquità siete stati venduti, e per i vostri tradimenti vostra madre è stata mandata via.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dov'è"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨esso⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "il documento"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "di ripudio"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "di vostra madre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "io ho mandata via"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "dei miei creditori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "ho venduto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi (venduti a lui)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "per le vostre iniquità"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "siete stati venduti"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "e per i vostri tradimenti"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "è stata mandata via"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "vostra madre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:19.411305522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Se uccidessi, o Eloah, il malvagio — e voi, uomini di sangue, allontanatevi da me!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "uccidessi"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "o Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "e voi, uomini"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "di sangue"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "allontanatevi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "da me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:52.158365938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E YHWH passerà per colpire ⟨את⟩ l'Egitto, e vedrà ⟨את⟩ il sangue sull'architrave e sulle due porte, e YHWH passerà oltre la soglia e non lascerà entrare il Distruttore nelle vostre case per colpire.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "e passerà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "per colpire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vedrà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sangue"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "l'architrave"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "le due"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "porte"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "e passerà oltre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "la soglia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lascerà"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "il Distruttore"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "entrare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "le vostre case"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "per colpire"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:46.990907411Z",
+  "model": "glm-5.3"
+}

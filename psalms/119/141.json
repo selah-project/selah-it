@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Piccolo ⟨sono⟩ io e disprezzato, ⟨ma⟩ i tuoi statuti non ho dimenticato.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "piccolo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "e disprezzato"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "i tuoi statuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ho dimenticato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:53.639845109Z",
+  "model": "glm-5.3"
+}

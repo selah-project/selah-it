@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E il suo ritorno era a Rama, perché là ⟨era⟩ la sua casa, e là giudicava ⟨את⟩ Israele; e là costruì un altare a YHWH.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "e il suo ritorno"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "a Rama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e là"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "giudicava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:51.154895535Z",
+  "model": "glm-5.3"
+}

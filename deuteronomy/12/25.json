@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 12:25",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Non lo mangerai, affinché sia bene a te e ai tuoi figli dopo di te, perché tu fai ciò che è retto agli occhi di YHWH.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "lo mangerai"
+    },
+    {
+      "surface": "למען",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "sia bene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "e ai tuoi figli"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dopo di te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu fai"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ciò che è retto"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:33.719138183Z",
+  "model": "glm-5.3"
+}

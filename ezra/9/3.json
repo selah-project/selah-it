@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E al mio udire ⟨את⟩ questa parola, strappai ⟨את⟩ la mia veste e il mio mantello, mi strappai i capelli del capo e della barba, e sedetti sconvolto.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "E al mio udire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa parola"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "strappai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia veste"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "la mia veste"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "e il mio mantello"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "mi strappai"
+    },
+    {
+      "surface": "משער",
+      "gloss": "i capelli"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "del capo"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "e della barba"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "e sedetti"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "sconvolto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:40:46.084483769Z",
+  "model": "glm-5.3"
+}

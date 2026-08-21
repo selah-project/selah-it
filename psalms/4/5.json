@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Tremate e non peccate; dite nel vostro cuore, sul vostro letto, e siate in silenzio. Selah",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Tremate"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "peccate"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dite"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "nel vostro cuore"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "il vostro letto"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "e siate in silenzio"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:56.822071057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Poiché il tuo chesed ⟨è⟩ grande su di me, e hai liberato la mia nefesh dallo Sheol più basso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "e hai liberato"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "dallo Sheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "più basso"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:54.323807367Z",
+  "model": "glm-5.3"
+}

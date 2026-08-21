@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Ragazzo sono stato, e anche sono invecchiato, e non ho mai visto ⟨il⟩ giusto abbandonato, né il suo seme chiedere ⟨il⟩ pane.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ragazzo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono stato"
+    },
+    {
+      "surface": "גם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "sono invecchiato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "abbandonato"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "né il suo seme"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "chiedere"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:08.081448558Z",
+  "model": "glm-5.3"
+}

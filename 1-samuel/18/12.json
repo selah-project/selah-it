@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Saul temeva davanti a Davide, perché YHWH ⟨era⟩ con lui, e da Saul si era allontanato.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e temeva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "e da"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "סר",
+      "gloss": "si era allontanato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:23.435784059Z",
+  "model": "glm-5.3"
+}

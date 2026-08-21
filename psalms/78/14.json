@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "E li guidava di giorno con ⟨la⟩ nube, e tutta ⟨la⟩ notte con una luce di fuoco.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "li guidava"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "con la nube"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "di giorno"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "la notte"
+    },
+    {
+      "surface": "באור",
+      "gloss": "con una luce"
+    },
+    {
+      "surface": "אש",
+      "gloss": "di fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:43.188099760Z",
+  "model": "glm-5.3"
+}

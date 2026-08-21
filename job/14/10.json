@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Ma un uomo muore e viene meno; l'umano spira — e dov'⟨è⟩?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "ma un uomo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "muore"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "e viene meno"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "spira"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "e dov'è?"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:55.117520808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Gioisca il giusto in YHWH e si rifugi in lui, e si glorino tutti i retti di cuore.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "gioisca"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "e si rifugi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "e si glorino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "i retti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:43.696108805Z",
+  "model": "glm-5.3"
+}

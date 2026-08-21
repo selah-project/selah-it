@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "poiché egli volgerà via ⟨את⟩ tuo figlio dal seguirmi, ed essi serviranno Elohim altri; e si accenderà il naso di YHWH contro di voi, e ti distruggerà in fretta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "volgerà via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuo figlio"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tuo figlio"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "dal seguire"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ed essi serviranno"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altri"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "e si accenderà"
+    },
+    {
+      "surface": "אף",
+      "gloss": "il naso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contro di voi"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "e ti distruggerà"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "in fretta"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:51.284861854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E dissero i servi del re che erano alla porta del re a Mordechai: «Perché trasgredisci tu ⟨את⟩ il comandamento del re?».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "alla porta di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "a Mordechai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "trasgredisci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il comandamento del re"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "il comandamento di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:55.733740957Z",
+  "model": "glm-5.3"
+}

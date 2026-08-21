@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Non rendete abiette le vostre nefashot ⟨את⟩ in ogni essere che brulica ⟨il⟩ brulicante, e non rendetevi impuri con esse, così da esservi contaminati per esse.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "rendete abiette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vostre nefashot"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "le vostre nefashot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ogni"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "⟨il⟩ brulicante"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "che brulica"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "vi renderete impuri"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "con esse"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "e sarete contaminati"
+    },
+    {
+      "surface": "בם",
+      "gloss": "per esse"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:17.414311227Z",
+  "model": "glm-5.3"
+}

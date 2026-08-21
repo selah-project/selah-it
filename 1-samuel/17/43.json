@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 17:43",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E disse il filisteo a Davide: « Sono forse un cane, io, che tu vieni a me con i bastoni? » E il filisteo maledisse Davide ⟨את⟩ in nome dei suoi eloah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "forse un cane?"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sono io"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vieni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "במקלות",
+      "gloss": "con i bastoni"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "e maledisse"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "באלהיו",
+      "gloss": "in nome dei suoi eloah"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:24.872432056Z",
+  "model": "glm-5.3"
+}

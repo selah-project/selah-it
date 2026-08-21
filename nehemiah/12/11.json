@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "e Ioiada generò ⟨את⟩ Gionatan, e Gionatan generò ⟨את⟩ Iaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "e Ioiada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gionatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Gionatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "e Gionatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Iaddua"
+    }
+  ],
+  "timestamp": "2026-08-21T09:43:46.566868384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ha murato ⟨attorno a⟩ me, e non uscirò; ha reso pesante la mia catena di bronzo.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "ha murato"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "attorno a me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "uscirò"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ha reso pesante"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "la mia catena di bronzo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:15.143898833Z",
+  "model": "glm-5.3"
+}

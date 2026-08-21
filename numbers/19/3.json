@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E darete ⟨את⟩ lei a Elazar il sacerdote, ed egli condurrà ⟨את⟩ lei fuori, dall'accampamento, e la macellerà ⟨את⟩ lei davanti a lui.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "e darete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lei (la giovenca)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ed egli condurrà fuori"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lei (la giovenca)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "dall'accampamento"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "e macellerà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lei (la giovenca)"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:48.734187526Z",
+  "model": "glm-5.3"
+}

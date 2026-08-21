@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Cantate a Elohim, salmodiate ⟨al⟩ suo nome; spianate la via a colui che cavalca le steppe: Yah ⟨è⟩ il suo nome; esultate davanti a lui.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cantate"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "salmodiate"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "suo nome"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "spianate la via"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "a colui che cavalca"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "le steppe"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "esultate"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.786746772Z",
+  "model": "glm-5.3"
+}

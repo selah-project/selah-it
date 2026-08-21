@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Sei giorni mangerai azzimi; e il settimo giorno ⟨sarà⟩ assemblea solenne per YHWH ⟨il tuo⟩ Elohim: non farai lavoro alcuno.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangerai"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "azzimi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "e il giorno"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "assemblea solenne"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lavoro alcuno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:56.544950446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "job 31:40",
+  "book": "job",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "al posto del frumento esca il pruno, e al posto dell'orzo la puzza ⟨delle erbe cattive⟩. — Tamú: sono finite le parole di Giobbe.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "il frumento"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "esca"
+    },
+    {
+      "surface": "חוח",
+      "gloss": "il pruno"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "e al posto di"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "l'orzo"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "la puzza ⟨delle erbe cattive⟩"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "sono finite"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "di Giobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:43.538484809Z",
+  "model": "glm-5.3"
+}

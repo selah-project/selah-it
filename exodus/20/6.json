@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "e che fa chesed fino a migliaia, a quelli che mi amano e osservano le mie mitzvot.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "e che fa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "fino a migliaia"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "a quelli che mi amano"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "e che osservano"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "le mie mitzvot"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:15.078751297Z",
+  "model": "glm-5.3"
+}

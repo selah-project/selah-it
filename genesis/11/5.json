@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E scese YHWH per vedere ⟨את⟩ la città e ⟨את⟩ la torre che avevano costruito i figli dell'umanità.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "per vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la città"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la torre"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "la torre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "avevano costruito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'umanità"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:40.219365795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E li porterà ⟨את⟩ al sacerdote, e presenterà ⟨את⟩ quello che ⟨è⟩ per il peccato per primo; e pizzicherà via ⟨את⟩ la sua testa davanti alla nuca, e non la separerà.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "e li porterà"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (al sacerdote)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sacerdote"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "e presenterà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quello che è per il peccato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quello che"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "per il peccato"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "per primo"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "e pizzicherà via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua testa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "la sua testa"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "alla sua nuca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "la separerà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:00.923640760Z",
+  "model": "glm-5.3"
+}

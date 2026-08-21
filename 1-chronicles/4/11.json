@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Keluv, fratello di Shuchà, generò ⟨את⟩ Mechir; egli ⟨è⟩ il padre di Eshton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "E Keluv"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratello"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "di Shuchà"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mechir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "il padre"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "di Eshton"
+    }
+  ],
+  "timestamp": "2026-08-21T09:46:40.335728392Z",
+  "model": "glm-5.3"
+}

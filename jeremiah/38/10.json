@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 38:10",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "E comandò il re ⟨את⟩ Ebed-Melek il Kushita, dicendo: «Prendi con te di qui trenta uomini e fai salire ⟨את⟩ Geremia il profeta dalla cisterna, prima che muoia».",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "comandò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebed-Melek"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-Melek"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "il Kushita"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di qui"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "e fai salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geremia"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Geremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "cisterna"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prima"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "muoia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:11:55.385568766Z",
+  "model": "glm-5.3"
+}

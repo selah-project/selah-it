@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E prenderai ⟨את⟩ il secondo montone, e Aharon e i suoi figli apporranno ⟨את⟩ le loro mani sulla testa del montone.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "e prenderai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il montone"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "il montone"
+    },
+    {
+      "surface": "השני",
+      "gloss": "il secondo"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "e apporranno"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro mani"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "le loro mani"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "del montone"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:44.576282935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Anche ⟨את⟩ questi il re Davide consacrò a YHWH, insieme all'argento e all'oro che prese da tutte le nazioni: da Edom e da Moav e dai figli di Ammon e dai Pelishtim e da Amalek.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Anche"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "questi — gli oggetti d'oro, argento e bronzo"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "consacrò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "עם",
+      "gloss": "insieme a"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argento"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "e all'oro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "prese"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutte"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "da Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "e da Moav"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "e dai figli"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "di Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "e dai Pelishtim"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "e da Amalek"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:20.045958800Z",
+  "model": "glm-5.3"
+}

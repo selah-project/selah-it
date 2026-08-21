@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "C'è una via che sembra diritta davanti a un uomo, ma la sua fine ⟨sono⟩ vie della morte.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "una via"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "diritta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ma la sua fine"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "vie"
+    },
+    {
+      "surface": "מות",
+      "gloss": "della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:11.732441001Z",
+  "model": "glm-5.3"
+}

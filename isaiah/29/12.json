@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E il libro è dato a chi non sa leggere, dicendo: «Leggi, ti prego, questo»; e ⟨quello⟩ dice: «Non so leggere».",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "e è dato"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "il libro"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "leggere"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "leggi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dice"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "so"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "leggere"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:43.284267827Z",
+  "model": "glm-5.3"
+}

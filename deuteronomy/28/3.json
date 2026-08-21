@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Benedetto tu nella città, e benedetto tu nel campo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "e benedetto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:33.281959234Z",
+  "model": "glm-5.3"
+}

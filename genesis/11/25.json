@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E visse Nachor, dopo aver generato ⟨את⟩ Terach, centodiciannove anni; e generò figli e figlie.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "e visse"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "aver generato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nove"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-dici"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e cento"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e figlie"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:54.575687148Z",
+  "model": "glm-5.3"
+}

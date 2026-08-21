@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "e Achishar ⟨era⟩ sopra la casa, e Adoniram figlio di Avda ⟨era⟩ sopra la leva.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "e Achishar"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "e Adoniram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Avda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "המס",
+      "gloss": "la leva"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:07.299705506Z",
+  "model": "glm-5.3"
+}

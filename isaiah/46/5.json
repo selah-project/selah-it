@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "A chi mi assomigliate e mi ponete ⟨come⟩ pari, e mi paragonate, perché ⟨si⟩somigli?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "a chi"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "mi assomigliate"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "e mi ponete pari"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "e mi paragonate"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "perché si somigli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:41.785168668Z",
+  "model": "glm-5.3"
+}

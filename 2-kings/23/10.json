@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E contaminò ⟨את⟩ il Tofet, che è nella valle dei figli di Hinnom, perché nessuno facesse passare un uomo ⟨את⟩ suo figlio e ⟨את⟩ sua figlia nel fuoco per Molech.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "e contaminò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "il Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "nella valle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "di Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "facesse passare"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo figlio"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sua figlia"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sua figlia"
+    },
+    {
+      "surface": "באשׁ",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "per Molech"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:51.376867323Z",
+  "model": "glm-5.3"
+}

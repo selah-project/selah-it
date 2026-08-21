@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zephaniah 3:20",
+  "book": "zephaniah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "In quel tempo io vi condurrò ⟨את⟩, e al tempo in cui vi raduno ⟨את⟩, poiché vi darò ⟨את⟩ per nome e per lode fra tutti i popoli della terra, quando farò tornare ⟨את⟩ la vostra sorte davanti ai vostri occhi, dice YHWH.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "in quel tempo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "io vi condurrò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "vi condurrò"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "e al tempo"
+    },
+    {
+      "surface": "קבצי",
+      "gloss": "vi raduno"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "vi raduno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vi darò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "per nome e per lode"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "per nome"
+    },
+    {
+      "surface": "ולתהלה",
+      "gloss": "e per lode"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fra tutti"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "quando farò tornare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vostra sorte"
+    },
+    {
+      "surface": "שבותיכם",
+      "gloss": "la vostra sorte\/esilio"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "davanti ai vostri occhi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:40:20.075646420Z",
+  "model": "glm-5.3"
+}

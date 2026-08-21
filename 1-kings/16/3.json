@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Ecco, io stermino Baasha e la sua casa, e darò ⟨את⟩ la tua casa come la casa di Ieroboam figlio di Nevat:",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ecco, io"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "stermino"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e darò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua casa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "la tua casa"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "come la casa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "di Ieroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "di Nevat"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:49.814231775Z",
+  "model": "glm-5.3"
+}

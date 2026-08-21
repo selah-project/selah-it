@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E prenderai ⟨את⟩ l'olio dell'unzione e lo verserai sulla sua testa, e lo ungerai.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "e prenderai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'olio dell'unzione"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dell'unzione"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "e lo verserai"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "la sua testa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "e lo ungerai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lui (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:45.168821421Z",
+  "model": "glm-5.3"
+}

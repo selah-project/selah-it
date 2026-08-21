@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E mangerete raccolto vecchio, invecchiato, e il vecchio farete uscire davanti al nuovo.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "e mangerete"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "raccolto vecchio"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "invecchiato"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "e il vecchio"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "il nuovo"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "farete uscire"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:58.583515386Z",
+  "model": "glm-5.3"
+}

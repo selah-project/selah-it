@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E anche a Lot, che camminava con ⟨את⟩ Abram, ⟨c'erano⟩ greggi e armenti e tende.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "a Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "che camminava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "c'erano"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "greggi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e armenti"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "e tende"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:25.207929965Z",
+  "model": "glm-5.3"
+}

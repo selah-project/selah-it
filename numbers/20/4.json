@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E perché avete portato ⟨את⟩ l'assemblea di YHWH in questo deserto, per morirvi là, noi e i nostri bestiami?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "avete portato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'assemblea di YHWH"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "questo deserto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "per morire"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "e i nostri bestiami"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:13.138563324Z",
+  "model": "glm-5.3"
+}

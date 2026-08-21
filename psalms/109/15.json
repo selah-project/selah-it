@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Siano davanti a YHWH sempre, ed egli stermini dalla terra il loro ricordo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "siano"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ed egli stermini"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "il loro ricordo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:07.847022579Z",
+  "model": "glm-5.3"
+}

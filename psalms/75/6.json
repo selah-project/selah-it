@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 75,
+  "translation": "Non alzate in alto il vostro corno, non parlate con collo insolente.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "alzate"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "in alto"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "il vostro corno"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "parlate"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "con collo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "insolente"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:46.761166728Z",
+  "model": "glm-5.3"
+}

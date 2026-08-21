@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Elohim mio, ponili come ⟨il⟩ turbine, come la pula davanti al vento.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "ponili"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "come il turbine"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "come la pula"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "al vento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:27.779741819Z",
+  "model": "glm-5.3"
+}

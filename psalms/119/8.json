@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "⟨את⟩ i tuoi chukkim io custodirò; non abbandonarmi del tutto!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi chukkim (statuti)"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i tuoi chukkim"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "io custodirò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abbandonarmi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "del tutto"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(fino all'eccesso)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:44.661195578Z",
+  "model": "glm-5.3"
+}

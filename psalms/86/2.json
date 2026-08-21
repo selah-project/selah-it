@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Proteggi la mia nefesh, perché sono un chasid ⟨di⟩ te; salva il tuo servo, tu che sei il mio Elohim, ⟨colui⟩ che confida in te.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Proteggi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "un chasid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io sono"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "salva"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "il mio Elohim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "⟨colui⟩ che confida"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "in te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:48.010468839Z",
+  "model": "glm-5.3"
+}

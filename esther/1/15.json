@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "« Secondo la legge, che si deve fare alla regina Vashti, perché non ha fatto ⟨את⟩ l'ordine del re Achashverosh per mano degli eunuchi? »",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "secondo la legge"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "si deve fare"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "alla regina"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'ordine del re Achashverosh"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "l'ordine"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "degli eunuchi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:56.918712158Z",
+  "model": "glm-5.3"
+}

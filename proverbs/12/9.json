@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Meglio ⟨chi è⟩ tenuto in poco conto e ha ⟨un⟩ servo, di chi si dà peso e manca di pane.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "tenuto in poco conto"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "e ha un servo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a sé"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "di chi si dà peso"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "e manca"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "di pane"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:58.123512208Z",
+  "model": "glm-5.3"
+}

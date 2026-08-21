@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Un'ora per nascere e un'ora per morire, un'ora per piantare e un'ora per sradicare ⟨ciò che è⟩ piantato.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un'ora"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "per nascere"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un'ora"
+    },
+    {
+      "surface": "למות",
+      "gloss": "per morire"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un'ora"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "per piantare"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un'ora"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "per sradicare"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "piantato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:18.952416283Z",
+  "model": "glm-5.3"
+}

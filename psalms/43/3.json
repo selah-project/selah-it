@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Manda la tua luce e la tua verità: esse mi guideranno, mi condurranno al monte della tua santità e alle tue dimore.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "manda"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "la tua luce"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "e la tua verità"
+    },
+    {
+      "surface": "המה",
+      "gloss": "esse"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "mi guideranno"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "mi condurranno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "al monte"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "della tua santità"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "alle tue dimore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:01.911418620Z",
+  "model": "glm-5.3"
+}

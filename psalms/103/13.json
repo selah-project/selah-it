@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Come un padre ⟨ha⟩ compassione dei figli, così YHWH ⟨ha⟩ compassione di quelli che lo temono.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "come ⟨ha⟩ compassione"
+    },
+    {
+      "surface": "אב",
+      "gloss": "un padre"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "⟨ha⟩ compassione"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "quelli che lo temono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:00.654507422Z",
+  "model": "glm-5.3"
+}

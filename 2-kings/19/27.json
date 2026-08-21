@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E il tuo sedere e il tuo uscire e il tuo entrare io conosco, e ⟨את⟩ la tua furia contro di me.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "e il tuo sedere"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "e il tuo uscire"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "e il tuo entrare"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "io conosco"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la tua furia"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "la tua furia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "contro di me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:36.403648539Z",
+  "model": "glm-5.3"
+}

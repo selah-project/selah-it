@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 120,
+  "translation": "Cosa ti sarà dato, e cosa ti sarà aggiunto, lingua ingannevole?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Cosa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ti sarà dato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e cosa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "sarà aggiunto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lingua"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ingannevole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:25.361996198Z",
+  "model": "glm-5.3"
+}

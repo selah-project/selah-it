@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 111,
+  "translation": "Memoria ha fatto delle sue meraviglie; misericordioso e pietoso ⟨è⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Memoria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "delle sue meraviglie"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "misericordioso"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "e pietoso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:10.243216050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Sul candelabro puro disporrà ⟨le⟩ lampade, davanti a YHWH, di continuo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "il candelabro"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "puro"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "disporrà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le lampade"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "le lampade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "di continuo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:02.222088482Z",
+  "model": "glm-5.3"
+}

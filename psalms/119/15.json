@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Nei tuoi precetti mediterò, e contemplerò le tue vie.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "nei tuoi precetti"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mediterò"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "e contemplerò"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "le tue vie"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:53.028597010Z",
+  "model": "glm-5.3"
+}

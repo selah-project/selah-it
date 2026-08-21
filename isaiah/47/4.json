@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Il nostro goel ⟨è⟩ YHWH degli eserciti, il suo Nome ⟨è⟩ il Santo d'Israele.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "il nostro goel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo Nome"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "il Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:21.241479734Z",
+  "model": "glm-5.3"
+}

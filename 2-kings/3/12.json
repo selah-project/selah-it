@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse Giosafat: ⟨c'è⟩ in lui la parola di YHWH. E scesero da lui il re d'Israele, e Giosafat, e il re di Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Giosafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "la parola di YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "e scesero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "e Giosafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:44.239176751Z",
+  "model": "glm-5.3"
+}

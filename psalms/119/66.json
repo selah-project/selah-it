@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Insegnami il buon discernimento e la conoscenza, perché nei tuoi mitzvot ho creduto.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "buon"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "discernimento"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "e la conoscenza"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "insegnami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "nei tuoi mitzvot"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ho creduto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:18.570791902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E prese il popolo del paese ⟨את⟩ Ieoachaz figlio di Gioshiahù, e lo fece regnare al posto di suo padre a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ieoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Ieoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "di Gioshiahù"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "e lo fece regnare"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T10:03:46.009753368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E fu Elohim con ⟨את⟩ il ragazzo, ed egli crebbe e abitò nel deserto, e divenne arcere.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il ragazzo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il ragazzo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ed egli crebbe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e abitò"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e divenne"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "crescendo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arcere"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:41.491213210Z",
+  "model": "glm-5.3"
+}

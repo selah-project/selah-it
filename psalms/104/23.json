@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Esce l'umano per il suo lavoro, e per il suo servizio fino alla sera.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "esce"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "per il suo lavoro"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "e per il suo servizio"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "alla sera"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:14.248942330Z",
+  "model": "glm-5.3"
+}

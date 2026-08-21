@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "Poiché YHWH ha scelto Tziyon, l'ha desiderata come dimora per sé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ha scelto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "l'ha desiderata"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "come dimora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:47.647437481Z",
+  "model": "glm-5.3"
+}

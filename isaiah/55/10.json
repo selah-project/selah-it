@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Poiché come scendono la pioggia e la neve dai cieli, e non vi fanno ritorno se non dopo aver dissetato ⟨את⟩ la terra e averla fatta partorire e germogliare, e aver dato seme al seminatore e pane a chi mangia,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scendono"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "e la neve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e colà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "fanno ritorno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "non"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "dopo aver dissetato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "e averla fatta partorire"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "e germogliare"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e aver dato"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "al seminatore"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "e pane"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "a chi mangia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:13.479264167Z",
+  "model": "glm-5.3"
+}

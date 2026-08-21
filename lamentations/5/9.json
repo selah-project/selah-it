@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Con la nostra ⟨nefesh⟩ portiamo il nostro pane, per via della spada del deserto.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "con la nostra nefesh"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "portiamo"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "il nostro pane"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "per via di"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "della spada"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "del deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:36.803855142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 122,
+  "translation": "Per amore dei miei fratelli e dei miei compagni, parlerò ora: shalom dentro di te.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "i miei fratelli"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "e i miei compagni"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "parlerò"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dentro di te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:38.909438359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Frantumata ⟨è⟩ la città del caos; ogni casa è chiusa all'ingresso.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "frantumata"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "la città"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "del caos"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "è chiusa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "all'ingresso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:12.569800657Z",
+  "model": "glm-5.3"
+}

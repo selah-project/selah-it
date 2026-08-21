@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Poiché sei giorni fece YHWH ⟨את⟩ i cieli e ⟨את⟩ la terra, ⟨את⟩ il mare e ⟨את⟩ tutto ciò che ⟨è⟩ in essi, e si riposò nel settimo giorno; perciò benedisse YHWH ⟨את⟩ il giorno dello shabbat e lo santificò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cieli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mare"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto ciò che è in essi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in essi"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "e si riposò"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "percio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "quindi"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "benedisse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giorno dello shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dello shabbat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "e lo santificò"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:28.745451971Z",
+  "model": "glm-5.3"
+}

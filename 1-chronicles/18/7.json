@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E prese Davide ⟨את⟩ gli scudi d'oro che erano addosso ai servi di Hadadezer, e li portò a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli scudi d'oro"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "gli scudi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erano"
+    },
+    {
+      "surface": "על",
+      "gloss": "addosso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ai servi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "di Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "e li portò"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:11.250084075Z",
+  "model": "glm-5.3"
+}

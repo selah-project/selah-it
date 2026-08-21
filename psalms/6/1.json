@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Al maestro del coro, con gli strumenti a corda, sull'ottava. Mizmor di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al maestro del coro"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "con gli strumenti a corda"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "l'ottava"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:44.518275509Z",
+  "model": "glm-5.3"
+}

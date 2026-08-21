@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "YHWH giudica i popoli: giudicami, YHWH, secondo la mia giustizia e secondo la mia integrità che è su di me.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "giudica"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "giudicami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "secondo la mia giustizia"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "e secondo la mia integrità"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:47.309089895Z",
+  "model": "glm-5.3"
+}

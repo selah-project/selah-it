@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Dodici anni essi servirono ⟨את⟩ Kedorlaomer, e il tredicesimo anno si ribellarono.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Dodici"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(−dici)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "servirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "e il tredicesimo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(−esimo)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anno"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "si ribellarono"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:13.835113241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 93,
+  "translation": "Le tue testimonianze sono veracemente ferme, moltissimo; alla tua casa si conviene santità, YHWH, per la lunghezza dei giorni.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "le tue testimonianze"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "sono ferme"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "moltissimo"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "alla tua casa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "si conviene"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santità"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "per la lunghezza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dei giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:35.564059636Z",
+  "model": "glm-5.3"
+}

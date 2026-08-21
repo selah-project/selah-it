@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E avvenne che, perché le levatrici temevano Elohim, ⟨את⟩ egli fece per loro case.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che, perché"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "temevano"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "le levatrici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "egli fece"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "case"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:33.457299244Z",
+  "model": "glm-5.3"
+}

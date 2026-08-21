@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ed ella continuò a partorire ⟨את⟩ suo fratello, ⟨את⟩ Hevel. E Hevel fu pastore di greggi, e Qayin fu lavoratore del suolo.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ed ella continuò"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "a partorire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo fratello"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pastore"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "di greggi"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "e Qayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "lavoratore"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "del suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:50.657703794Z",
+  "model": "glm-5.3"
+}

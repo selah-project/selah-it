@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Perché servi miei essi sono, che io ho fatto uscire ⟨את⟩ loro dalla terra d'Egitto; non saranno venduti, vendita di servo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servi miei"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "io ho fatto uscire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "saranno venduti"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "vendita"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "di servo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:53.251957363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E mandò ⟨את⟩ Elyaqim, che ⟨era⟩ sulla casa, e ⟨את⟩ Shevna lo scriba e ⟨את⟩ gli anziani dei sacerdoti, coperti di sacchi, da Yesha'yahu figlio di Amots, il profeta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaqim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyaqim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "lo scriba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gli anziani dei sacerdoti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dei sacerdoti"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "coperti"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "di sacchi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesha'yahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "di Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:16.206557753Z",
+  "model": "glm-5.3"
+}

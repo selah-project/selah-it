@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Figlio mio, se accogli le mie parole e i miei comandamenti nascondi ⟨את⟩ con te —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "accogli"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e i miei comandamenti"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "nascondi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:17.541338131Z",
+  "model": "glm-5.3"
+}

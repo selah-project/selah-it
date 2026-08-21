@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E parlò YHWH a Mosè nel deserto del Sinai, dicendo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "del Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:05.786597560Z",
+  "model": "glm-5.3"
+}

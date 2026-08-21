@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E Giuseppe si ricordò ⟨את⟩ dei sogni che aveva sognati su di loro, e disse loro: «Spie siete voi; a vedere la nudità del paese siete venuti».",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "e si ricordò"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dei sogni"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "i sogni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "aveva sognati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siete voi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nudità"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudità"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "siete venuti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:54.256144118Z",
+  "model": "glm-5.3"
+}

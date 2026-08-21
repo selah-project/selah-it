@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 28:48",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "e servirai ⟨את⟩ i tuoi nemici che YHWH manderà contro di te, in fame e in sete e in nudità e nel bisogno di tutto; ed egli porrà un giogo di ferro sul tuo collo, finché ti abbia distrutto ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "e servirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi nemici"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "manderà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "in fame"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "e in sete"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "e in nudità"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "e nel bisogno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutto"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ed egli porrà"
+    },
+    {
+      "surface": "על",
+      "gloss": "un giogo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "di ferro"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "il tuo collo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "abbia distrutto"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:24.683258192Z",
+  "model": "glm-5.3"
+}

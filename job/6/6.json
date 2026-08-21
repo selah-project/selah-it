@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Si mangia ⟨ciò che è⟩ insipido senza sale? o c'è gusto nel succo delle malve?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "si mangia"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "insipido"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "sale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "gusto"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "nel succo"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "delle malve"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:21.832987928Z",
+  "model": "glm-5.3"
+}

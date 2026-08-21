@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Ioab rispose e disse: Lungi, lungi da me, ⟨il pensiero⟩ di inghiottire o di distruggere!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "rispose"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "lungi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "lungi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "inghiottire"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "distruggere"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:55.992662100Z",
+  "model": "glm-5.3"
+}

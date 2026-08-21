@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Volgiti verso di me e abbi grazia di me, perché sono solo e povero io.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "volgiti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e abbi grazia di me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "solo"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "e povero"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:15.663682891Z",
+  "model": "glm-5.3"
+}

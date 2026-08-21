@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Benedite YHWH, tutte le sue opere, in tutti i luoghi del suo dominio. Benedici, anima mia, ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Benedite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "le sue opere"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutti"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "i luoghi"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "del suo dominio"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Benedici"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "anima mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:30.593546361Z",
+  "model": "glm-5.3"
+}

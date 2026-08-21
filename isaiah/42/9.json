@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Le prime cose, ecco, sono venute, e cose nuove io annuncio: prima che germoglino, vi faccio udire ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "le prime cose"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sono venute"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "e cose nuove"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "annuncio"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "germoglino"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "faccio udire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:51.009900646Z",
+  "model": "glm-5.3"
+}

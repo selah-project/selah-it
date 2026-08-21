@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E l'ira di Giacobbe si accese contro Rachele, e disse: « Sono io forse al posto di Elohim, ⟨colui⟩ che ha trattenuto da te il frutto del grembo? ».",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "e si accese"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l'ira (lett. il naso)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "contro Rachele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sono io"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "ha trattenuto"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "il frutto"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "del grembo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:46.007580261Z",
+  "model": "glm-5.3"
+}

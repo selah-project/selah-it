@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 150,
+  "translation": "Ogni ⟨nefesh⟩ che respira lodi Yah; lodate Yah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "che respira (nefesh)"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "lodi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:41.211042893Z",
+  "model": "glm-5.3"
+}

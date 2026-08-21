@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Undici giorni da Chorev, per la via del monte Seir, fino a Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "un-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-dici"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "da Chorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "per la via"
+    },
+    {
+      "surface": "הר",
+      "gloss": "del monte"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "-Barnea"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:51.962602193Z",
+  "model": "glm-5.3"
+}

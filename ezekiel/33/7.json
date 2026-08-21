@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E tu, figlio d'uomo, sentinella ti ho posto per la casa d'Israele: udrai dalla mia bocca una parola e li metterai in guardia da parte mia.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "sentinella"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ti ho posto"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "per la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "e udrai"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "dalla mia bocca"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "e metterai in guardia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "da parte mia (ממני)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da parte mia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:26:29.525986594Z",
+  "model": "glm-5.3"
+}

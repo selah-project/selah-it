@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E furono là per mettere alla prova per mezzo loro ⟨את⟩ Israele, per sapere se avrebbero ascoltato ⟨את⟩ i comandamenti di YHWH, che aveva comandato ⟨את⟩ i loro padri per mano di Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E furono"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "per mettere alla prova"
+    },
+    {
+      "surface": "בם",
+      "gloss": "per mezzo loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "per sapere"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "se avrebbero ascoltato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i comandamenti di YHWH"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "i comandamenti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro padri"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "i loro padri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "משה",
+      "gloss": "di Moshe"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:14.084042342Z",
+  "model": "glm-5.3"
+}

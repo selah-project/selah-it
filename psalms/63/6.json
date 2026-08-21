@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Come di grasso e di midollo si sazia la mia nefesh, e labbra di giubilo ti loda la mia bocca.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "di grasso"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "e di midollo"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "si sazia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "e labbra"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "di giubilo"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "lude"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:06.305429845Z",
+  "model": "glm-5.3"
+}

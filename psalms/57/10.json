@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Ti loderò tra i popoli, Adonai; ti canterò tra le nazioni.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ti loderò"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tra i popoli"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ti canterò"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tra"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "le nazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:07.567786019Z",
+  "model": "glm-5.3"
+}

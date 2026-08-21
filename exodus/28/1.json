@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E tu avvicina a te ⟨את⟩ Aharon, tuo fratello, e ⟨את⟩ i suoi figli ⟨את⟩ lui, dal mezzo dei figli di Israele, per fargli fare il sacerdozio per me: Aharon, Nadav e Avihù, Elazar e Itamar, figli di Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "avvicina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dal mezzo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "per fargli fare il sacerdozio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "e Avihù"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "e Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "di Aharon"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:05.921696588Z",
+  "model": "glm-5.3"
+}

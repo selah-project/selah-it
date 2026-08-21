@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 41:13",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Poiché io ⟨sono⟩ YHWH, il tuo Elohim, che afferro la tua destra, che ti dice: non temere, io ti ho aiutato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "che afferro"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "che dice"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temere"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ti ho aiutato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:33.311322058Z",
+  "model": "glm-5.3"
+}

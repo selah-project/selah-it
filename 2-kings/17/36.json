@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "ma ⟨את⟩ YHWH, che vi fece salire dalla terra d'Egitto con grande forza e con braccio steso, ⟨lui⟩ temete, a lui prostratevi, a lui sacrificate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bensì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fece salire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "con forza"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "e con braccio"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "steso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui (YHWH)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "e a lui"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "prostratevi"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "e a lui"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "sacrificate"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:18.942119196Z",
+  "model": "glm-5.3"
+}

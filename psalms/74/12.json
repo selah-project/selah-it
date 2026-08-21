@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Ma Elohim ⟨è⟩ il mio re da sempre, operatore di salvezze in mezzo alla terra.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "ma Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "il mio re"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "da sempre"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "operatore"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "di salvezze"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "alla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:44.829965388Z",
+  "model": "glm-5.3"
+}

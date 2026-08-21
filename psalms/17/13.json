@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Sorgi, YHWH, fatti incontro al suo volto, fallo inginocchiare; libera la mia nefesh dal malvagio ⟨con⟩ la tua spada.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sorgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "fatti incontro a"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "fallo inginocchiare"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "libera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "dal malvagio"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "la tua spada"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:48.821391721Z",
+  "model": "glm-5.3"
+}

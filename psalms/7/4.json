@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "YHWH, Elohim mio, se ho fatto questo, se vi ⟨è⟩ ingiustizia nelle mie mani:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ho fatto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "יש",
+      "gloss": "vi è"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ingiustizia"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "nelle mie mani"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:15.081525739Z",
+  "model": "glm-5.3"
+}

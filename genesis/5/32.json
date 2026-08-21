@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E Noach era figlio di cinquecento anni, e generò Noach ⟨את⟩ Shem, ⟨את⟩ Cham e ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e era"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:58.273999422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E non vi vomiti la terra ⟨את⟩ voi quando voi la contaminate ⟨את⟩ lei, come ha vomitato ⟨את⟩ la nazione che ⟨stava⟩ davanti a voi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "vomiti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (Israele)"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "quando voi la contaminate"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lei",
+      "marks": "la terra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "ha vomitato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nazione"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "la nazione"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:45.557845905Z",
+  "model": "glm-5.3"
+}

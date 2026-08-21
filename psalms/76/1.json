@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "Al direttore ⟨sui⟩ strumenti a corde. Un mizmor di Asaf, un canto.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "⟨sui⟩ strumenti a corde"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un canto"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:02.523167050Z",
+  "model": "glm-5.3"
+}

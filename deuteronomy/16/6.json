@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "ma soltanto nel luogo che sceglierà YHWH ⟨il tuo⟩ Elohim per far dimorare là il suo Nome, là sacrificherai ⟨את⟩ il Pesach, alla sera, al tramonto del sole, nel tempo fissato della tua uscita dall'Egitto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nel"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "luogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "sceglierà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "per far dimorare"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo Nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "sacrificherai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "il Pesach"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "al tramonto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "del sole"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nel tempo fissato"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "della tua uscita"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:56.544668244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E venne il re Davide e si sedette davanti a YHWH, e disse: chi sono io, YHWH Elohim, e chi ⟨è⟩ la mia casa, che tu mi hai condotto fin qui?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e si sedette"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sono io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "la mia casa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "mi hai condotto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fin"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "qui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:17.324178487Z",
+  "model": "glm-5.3"
+}

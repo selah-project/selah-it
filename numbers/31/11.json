@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E presero ⟨את⟩ tutto il bottino e ⟨את⟩ tutta la preda, fra gli uomini e fra il bestiame.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "presero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il bottino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "il bottino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutta la preda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "la preda"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "fra gli uomini"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e fra il bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:28.276664864Z",
+  "model": "glm-5.3"
+}

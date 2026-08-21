@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 99,
+  "translation": "YHWH, nostro Elohim, ⟨tu⟩ li hai esauditi; ⟨un⟩ El che porta ⟨il peccato⟩ tu sei stato per loro, e che prende vendetta sulle loro azioni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nostro Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "li hai esauditi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "che porta"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu sei stato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "e che prende vendetta"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "le loro azioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:53.963803628Z",
+  "model": "glm-5.3"
+}

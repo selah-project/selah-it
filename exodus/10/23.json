@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Non vide un uomo ⟨את⟩ suo fratello, e nessuno si alzò dal suo posto per tre giorni; ma per tutti i figli d'Israele vi era luce nelle loro dimore.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo fratello"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "si alzò"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nessuno"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "dal suo posto"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ma per tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vi era"
+    },
+    {
+      "surface": "אור",
+      "gloss": "luce"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "nelle loro dimore"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:14.308096196Z",
+  "model": "glm-5.3"
+}

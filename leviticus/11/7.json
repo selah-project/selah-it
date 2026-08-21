@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E ⟨את⟩ il maiale, perché ⟨esso⟩ spaccia lo zoccolo, e fesso è fesso lo zoccolo, ma il bolo non rimugina — impuro ⟨esso⟩ è per voi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "il maiale (il chazir)"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "il maiale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "spaccia"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "lo zoccolo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "e fesso"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "fesso"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "lo zoccolo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma esso"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "il bolo (gerà)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "rimugina"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impuro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:41.481851187Z",
+  "model": "glm-5.3"
+}

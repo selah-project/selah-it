@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E udì Elohim ⟨את⟩ il loro gemito, e ricordò Elohim ⟨את⟩ il suo patto, ⟨את⟩ Avraham ⟨את⟩ Yitzchak e ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "E udì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il loro gemito"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "il loro gemito"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ricordò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo patto"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il suo patto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitzchak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzchak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:01.422520352Z",
+  "model": "glm-5.3"
+}

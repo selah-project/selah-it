@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E avvenne, dopo circa dieci giorni, che YHWH colpì ⟨את⟩ Nabal, ed egli morì.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "circa dieci"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "colpì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ed egli morì"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:42.027044671Z",
+  "model": "glm-5.3"
+}

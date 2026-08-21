@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "E custodirò la tua Torah sempre, per sempre e in eterno.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "e custodirò"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "la tua Torah"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:50.749878122Z",
+  "model": "glm-5.3"
+}

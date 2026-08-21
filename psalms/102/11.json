@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "A causa del tuo sdegno e della tua ira, poiché tu mi hai sollevato e mi hai scagliato via.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "del tuo sdegno"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "e della tua ira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "tu mi hai sollevato"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "e mi hai scagliato via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:35.653233714Z",
+  "model": "glm-5.3"
+}

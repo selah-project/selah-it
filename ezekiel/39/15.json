@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 39:15",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "E i passanti passeranno nel paese, e uno vedrà un osso d'uomo, e costruirà accanto ad esso un segnale, finché lo seppelliscano i seppellitori nella valle della moltitudine di Gog.",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "e passeranno"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "i passanti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nel paese"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vedrà"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "un osso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "e costruirà"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "accanto ad esso"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "un segnale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "seppelliscano"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lo",
+      "marks": "i seppellitori"
+    },
+    {
+      "surface": "המקברים",
+      "gloss": "i seppellitori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nella"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "valle"
+    },
+    {
+      "surface": "המון",
+      "gloss": "della moltitudine"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "di Gog"
+    }
+  ],
+  "timestamp": "2026-08-21T08:27:52.211938192Z",
+  "model": "glm-5.3"
+}

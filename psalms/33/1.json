@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Giubilate, giusti, in YHWH; ai retti si conviene ⟨la⟩ lode.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "giubilate"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "giusti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ai retti"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "si conviene"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lode"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:14.759116956Z",
+  "model": "glm-5.3"
+}

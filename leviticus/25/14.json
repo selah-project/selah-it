@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "«E quando venderete una vendita al vostro prossimo, o comprerete dalla mano del vostro prossimo, non opprima un uomo ⟨את⟩ suo fratello.»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E quando"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "voi venderete"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "una vendita"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "al vostro prossimo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "comprerete"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "del vostro prossimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "opprima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo fratello"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:10.658398108Z",
+  "model": "glm-5.3"
+}

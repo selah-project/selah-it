@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E Yosef sostenne ⟨את⟩ suo padre e ⟨את⟩ i suoi fratelli e ⟨את⟩ tutta la casa di suo padre, con pane, secondo ⟨il bisogno⟩ dei bambini.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "e sostenne"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi fratelli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la casa di suo padre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "con pane"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "i bambini"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:05.362568550Z",
+  "model": "glm-5.3"
+}

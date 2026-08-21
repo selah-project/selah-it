@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "YHWH riscatta la nefesh dei suoi servi, e non saranno ritenuti colpevoli tutti quelli che si rifugiano in Lui.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "riscatta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dei suoi servi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "saranno ritenuti colpevoli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "quelli che si rifugiano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in Lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:30.793055537Z",
+  "model": "glm-5.3"
+}

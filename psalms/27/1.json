@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Di Davide. YHWH ⟨è⟩ la mia luce e la mia salvezza — di chi avrò timore? YHWH ⟨è⟩ la rocca della mia vita — di chi avrò spavento?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "la mia luce"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "e la mia salvezza"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "di chi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "avrò timore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "la rocca"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "della mia vita"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "di chi"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "avrò spavento"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:20.216902934Z",
+  "model": "glm-5.3"
+}

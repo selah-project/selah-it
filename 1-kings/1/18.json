@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E ora, ecco, Adoniyah è diventato re — e ora, mio signore il re, tu non lo sai.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "è diventato re"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mio signore"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sai"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:11.682204611Z",
+  "model": "glm-5.3"
+}

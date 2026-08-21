@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Sta in agguato nel nascondiglio come un leone nella sua tana; sta in agguato per ghermire l'afflitto: ghermisce l'afflitto trascinandolo nella sua rete.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "sta in agguato"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "nel nascondiglio"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "come un leone"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "nella sua tana"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "sta in agguato"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "per ghermire"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'afflitto"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "ghermisce"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'afflitto"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "trascinandolo"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "nella sua rete"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:32.043694092Z",
+  "model": "glm-5.3"
+}

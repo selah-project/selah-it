@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E il re Davide udì ⟨את⟩ tutte queste parole, e ⟨la cosa⟩ gli fu molto incollerita.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "E il re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "udì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte queste parole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "e fu incollerita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:32.386191285Z",
+  "model": "glm-5.3"
+}

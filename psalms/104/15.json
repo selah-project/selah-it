@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "e il vino che rallegra il cuore dell'uomo mortale, per far brillare ⟨il⟩ volto più dell'olio, e il pane che sostiene il cuore dell'uomo mortale.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "e il vino"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "rallegra"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dell'uomo mortale"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "per far brillare"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "più dell'olio"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "e il pane"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dell'uomo mortale"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "sostiene"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:18.038325370Z",
+  "model": "glm-5.3"
+}

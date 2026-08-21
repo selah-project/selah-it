@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Buono ⟨il⟩ nome più dell'olio buono, e il giorno della morte più del giorno della ⟨sua⟩ nascita.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nome"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "più dell'olio"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "e il giorno"
+    },
+    {
+      "surface": "המות",
+      "gloss": "della morte"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "più del giorno"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "della sua nascita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:16.749998229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Anche quando grido e chiedo aiuto, ⟨Egli⟩ ha chiuso la mia preghiera.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "grido"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "e chiedo aiuto"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "ha chiuso"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:15.144024870Z",
+  "model": "glm-5.3"
+}

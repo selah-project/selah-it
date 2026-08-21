@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Monte di Elohim, monte di Bashan; monte dalle cime aguzze, monte di Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Monte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "di Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "dalle cime aguzze"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "di Bashan"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:45.567093944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Il tuo primo padre peccò, e i tuoi mediatori si ribellarono contro di me.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Il tuo padre"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "primo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "peccò"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "e i tuoi mediatori"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "si ribellarono"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contro di me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:10.091754933Z",
+  "model": "glm-5.3"
+}

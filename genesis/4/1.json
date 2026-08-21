@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E ⟨l'⟩uomo conobbe ⟨את⟩ Chavvah, sua moglie; ed ella concepì e partorì ⟨את⟩ Qayin, e disse: ho acquistato un uomo con ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conobbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ed ella concepì"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ho acquistato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "con ⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:50.657112777Z",
+  "model": "glm-5.3"
+}

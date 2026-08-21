@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 27:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Sia il mio nemico come il malvagio, e chi si leva contro di me come l'iniquo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "כרשע",
+      "gloss": "come il malvagio"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "il mio nemico"
+    },
+    {
+      "surface": "ומתקוממי",
+      "gloss": "e chi si leva contro di me"
+    },
+    {
+      "surface": "כעול",
+      "gloss": "come l'iniquo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:01.235887319Z",
+  "model": "glm-5.3"
+}

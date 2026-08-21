@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E scacciò ⟨את⟩ l'uomo, e fece dimorare a oriente del giardino di Eden ⟨את⟩ i cherubini e ⟨את⟩ la fiamma della spada che girava, per custodire ⟨את⟩ la via dell'albero della vita.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "e scacciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "e fece dimorare"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a oriente"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "del giardino"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "di Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cherubini"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "i cherubini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la fiamma della spada"
+    },
+    {
+      "surface": "להט",
+      "gloss": "la fiamma"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "della spada"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "che girava"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "per custodire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la via"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dell'albero"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "della vita"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:58.803515395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Non così i malvagi: ma come la pula che il vento spazza via.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "come la pula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "il vento spazza via"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il vento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:41.949051040Z",
+  "model": "glm-5.3"
+}

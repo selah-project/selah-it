@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E celebravo io ⟨את⟩ i morti che già sono morti, più dei viventi che essi ancora vivono.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "E celebravo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i morti"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "i morti"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "già"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sono morti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "più di"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "i viventi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivono"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ancora"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:40.118042530Z",
+  "model": "glm-5.3"
+}

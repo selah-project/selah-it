@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "La nostra pelle come un forno si è annerita, per via degli arseMENTI della fame.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "la nostra pelle"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "come un forno"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "si è annerita\/accartocciata"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "per via di"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "degli ardori"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "della fame"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:36.804200279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "egli pose ⟨את⟩ la sua nefesh nel suo palmo e colpì ⟨את⟩ il filisteo, e YHWH operò una grande liberazione per tutto Israele; tu vedesti e gioisti — e perché peccheresti ⟨nel⟩ sangue innocente, uccidendo ⟨את⟩ Davide senza motivo?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "nel suo palmo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il filisteo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e operò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "una liberazione"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "vedesti"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "e gioisti"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "peccheresti"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "⟨nel⟩ sangue"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocente"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "uccidendo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "senza motivo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:09.233429371Z",
+  "model": "glm-5.3"
+}

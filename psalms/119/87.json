@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Quasi mi hanno finito sulla terra, ma io non ho abbandonato i tuoi precetti.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "quasi"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "mi hanno finito (consumato)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ho abbandonato"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "i tuoi precetti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:36.665271226Z",
+  "model": "glm-5.3"
+}

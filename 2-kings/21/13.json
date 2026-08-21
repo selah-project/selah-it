@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E stenderò su Gerusalemme ⟨את⟩ il cordello di Samaria e ⟨את⟩ il piombino della casa di Achab, e cancellerò Gerusalemme come si cancella ⟨את⟩ una scodella: cancellata, e rivoltata sul suo fondo.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "e stenderò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cordello"
+    },
+    {
+      "surface": "קו",
+      "gloss": "il cordello"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "di Samaria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il piombino"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "il piombino"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "di Achab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "e cancellerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "si cancella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una scodella"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "una scodella"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "cancellata"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "e rivoltata"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "suo fondo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:12.794697623Z",
+  "model": "glm-5.3"
+}

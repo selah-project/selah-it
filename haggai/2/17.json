@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Vi colpii con la brina e con la ruggine e con la grandine, ⟨את⟩ tutta l'opera delle vostre mani, ma non c'era ⟨את⟩ nessuno di voi verso di me — oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "colpii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi",
+      "marks": "oggetto del colpire: voi (pronome, non marcatore ⟨את⟩)"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "con la brina"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "e con la ruggine"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "e con la grandine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta l'opera delle vostre mani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "delle vostre mani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma non c'era"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nessuno di voi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:40:39.062478522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se, facendo breccia, è trovato il ladro e viene percosso e muore, non vi ⟨è⟩ per lui colpa di sangue.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "facendo breccia"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "è trovato"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "il ladro"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "e viene percosso"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e muore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "colpa di sangue"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:24.227470233Z",
+  "model": "glm-5.3"
+}

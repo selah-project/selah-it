@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 3:1",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Udite questo *davar* che YHWH ha parlato su di voi, o figli d'Israele, su tutta la famiglia che ho fatto salire dal paese d'Egitto, dicendo:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Udite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo davar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "parola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "la famiglia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ho fatto salire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:10.244234438Z",
+  "model": "glm-5.3"
+}

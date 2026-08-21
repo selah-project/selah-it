@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Tutte le nazioni che hai fatto verranno e si prostreranno davanti a te, Adonai, e glorificheranno il tuo shem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "verranno"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "e si prostreranno"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "e glorificheranno"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "il tuo shem"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:51.112187612Z",
+  "model": "glm-5.3"
+}

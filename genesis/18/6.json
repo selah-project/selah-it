@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Abramo si affrettò verso ⟨la⟩ tenda, da Sara, e disse: affrettati, tre seah di farina di semola, impasta e fa focacce.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "e si affrettò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "verso la tenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "affrettati"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "seah"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "di farina"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "di semola"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "impasta"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "e fa"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "focacce"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:30.181161591Z",
+  "model": "glm-5.3"
+}

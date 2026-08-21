@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "E benedetto il nome della sua gloria per sempre, e si riempia di ⟨את⟩ la sua gloria tutta la terra, amen e amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "e benedetto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "della sua gloria"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "e si riempia"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "la sua gloria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la terra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "e amen"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:18.016397418Z",
+  "model": "glm-5.3"
+}

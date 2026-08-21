@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Prima che fosse in travaglio, ha partorito; prima che le venisse il dolore, ha dato alla luce un maschio.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Prima che"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "fosse in travaglio"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ha partorito"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "le venisse"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "il dolore"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "ha dato alla luce"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "un maschio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:52.549434815Z",
+  "model": "glm-5.3"
+}

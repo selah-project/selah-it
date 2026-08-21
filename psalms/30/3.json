@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "YHWH, Elohim mio, a te ho gridato e mi hai guarito.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ho gridato"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "e mi hai guarito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:33.397425087Z",
+  "model": "glm-5.3"
+}

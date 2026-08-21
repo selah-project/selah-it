@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Come l'ombra che si allunga io me ne vado, sono scrollato via come la locusta.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "come l'ombra"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "che si allunga"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "io me ne vado"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "sono scrollato via"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "come la locusta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:50.469708790Z",
+  "model": "glm-5.3"
+}

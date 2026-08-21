@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E il servo pose ⟨את⟩ la sua mano sotto la coscia di Avram, ⟨il⟩ suo signore, e gli giurò su questa cosa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "il servo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "la coscia"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "di Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "suo signore"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "e giurò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:46.193432267Z",
+  "model": "glm-5.3"
+}

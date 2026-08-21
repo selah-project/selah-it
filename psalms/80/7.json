@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Ci hai posti come contesa per i nostri vicini, e i nostri nemici ridono ⟨di noi⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ci hai posti"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "come contesa"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "per i nostri vicini"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "e i nostri nemici"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ridono"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨di noi⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:14.562396906Z",
+  "model": "glm-5.3"
+}

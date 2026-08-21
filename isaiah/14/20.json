@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Non ti unirai ⟨את⟩ loro in sepoltura, perché la tua terra hai rovinato, il tuo popolo hai ucciso; non sarà chiamato mai il seme dei malfattori.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "ti unirai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "in sepoltura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "la tua terra"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hai rovinato"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "hai ucciso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sarà chiamato"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mai (per l'eternità)"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "il seme"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dei malfattori"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:28.088622094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Solo come immagine cammina l'uomo; solo soffio ⟨è⟩ il loro tumulto: ammassa e non sa chi li raccoglierà.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "come immagine"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "cammina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "soffio"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "il loro tumulto"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "ammassa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "li raccoglierà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:46.381127881Z",
+  "model": "glm-5.3"
+}

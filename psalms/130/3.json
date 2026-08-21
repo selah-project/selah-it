@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 130,
+  "translation": "Se le colpe tu osservi, Yah — Adonai, chi potrà stare ⟨in piedi⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "le colpe"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "tu osservi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "potrà stare ⟨in piedi⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:51.590884222Z",
+  "model": "glm-5.3"
+}

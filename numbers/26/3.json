@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E parlarono Mosè ed Elazar il sacerdote ⟨את⟩ loro nelle steppe di Moav, sul Giordano di Gerico, dicendo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "e parlarono"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ed Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "nelle steppe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moav"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Giordano"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "di Gerico"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:42.231561494Z",
+  "model": "glm-5.3"
+}

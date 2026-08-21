@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Beati i tuoi uomini, e beati questi tuoi servitori, che stanno davanti a te sempre e odono ⟨את⟩ la tua sapienza!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beati"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "i tuoi uomini"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "e beati"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i tuoi servitori"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "che stanno"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "e odono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua sapienza"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "la tua sapienza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:40.760035487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Temi YHWH, figlio mio, e ⟨il⟩ re; con i mutabili non impastarti.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "temi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e ⟨il⟩ re"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "i mutabili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "impastarti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:48.296216784Z",
+  "model": "glm-5.3"
+}

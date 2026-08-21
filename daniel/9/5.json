@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Abbiamo peccato, abbiamo commesso iniquità, abbiamo agito da empi, ci siamo ribellati, ci siamo allontanati dai tuoi comandamenti e dalle tue norme.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Abbiamo peccato"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "abbiamo commesso iniquità"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "abbiamo agito da empi"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "ci siamo ribellati"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ci siamo allontanati"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "dai tuoi comandamenti"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "e dalle tue norme"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:32.539185444Z",
+  "model": "glm-5.3"
+}

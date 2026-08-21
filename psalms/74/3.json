@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Alza i tuoi passi verso le rovine perenni: tutto ciò che il nemico ha devastato nel santuario.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "alza"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "i tuoi passi"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "verso le rovine"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "perenni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ha devastato"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nel santuario"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:54.439540892Z",
+  "model": "glm-5.3"
+}

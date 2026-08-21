@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E uscì verso di loro Lot all'ingresso, e chiuse la porta dietro di sé.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "verso di loro"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "e la porta"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "chiuse"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dietro di sé"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:47.038043278Z",
+  "model": "glm-5.3"
+}

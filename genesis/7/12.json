@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E la pioggia fu sulla terra quaranta giorni e quaranta notti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quaranta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e quaranta"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "notti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:28.956518546Z",
+  "model": "glm-5.3"
+}

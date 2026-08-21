@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E se tu rifiuti di mandarli, ecco, io colpirò ⟨את⟩ tutti i tuoi confini con le rane.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "rifiuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "di mandarli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "colpirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i tuoi confini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "i tuoi confini"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "con le rane"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:28.566745449Z",
+  "model": "glm-5.3"
+}

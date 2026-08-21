@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Elohim, ci hai respinti, ci hai spezzati; ti sei adirato — tornaci addosso!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ci hai respinti"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "ci hai spezzati"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "ti sei adirato"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:29.311559783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ricordi ora ⟨את⟩ la parola che comandasti ⟨את⟩ a Mosè, tuo servo, dicendo: se voi trasgredite, io vi disperderò ⟨את⟩ fra i popoli.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ricordi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parola"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "comandasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tuo servo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "se trasgredite"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "disperderò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vi ⟨את⟩",
+      "marks": "fra i popoli"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "fra i popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:08.235682939Z",
+  "model": "glm-5.3"
+}

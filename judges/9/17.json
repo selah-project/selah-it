@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "che mio padre combatté per voi, e gettò ⟨את⟩ la sua nefesh davanti ⟨a voi⟩, e ⟨את⟩ vi liberò dalla mano di Midian.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "combatté"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "e gettò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "e vi liberò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "di Midian"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:10.657936198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Chi darebbe ⟨che⟩ io sapessi e lo trovassi, venissi fino alla sua sede!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Chi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darebbe"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "io sapessi"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "e lo trovassi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "venissi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "alla sua sede"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:53.826556631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "YHWH, ⟨è⟩ alta la tua mano, essi non vedono; vedano e siano svergognati — la gelosia per il popolo! Anche il fuoco dei tuoi avversari li divorerà.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "⟨è⟩ alta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "vedono"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "vedano"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "e siano svergognati"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "la gelosia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "per il popolo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "dei tuoi avversari"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "li divorerà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:14.139884421Z",
+  "model": "glm-5.3"
+}

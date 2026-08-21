@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non spostare il confine antico, e nei campi degli orfani non entrare.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "spostare"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "il confine"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "antico"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "e nei campi"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "degli orfani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "entrare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:33.833522296Z",
+  "model": "glm-5.3"
+}

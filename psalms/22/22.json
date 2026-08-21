@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Salvami dalla bocca del leone, e dalle corna dei rim mi hai risposto.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Salvami"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "dalla bocca"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "del leone"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "e dalle corna"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "dei rim"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "mi hai risposto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:51.195954932Z",
+  "model": "glm-5.3"
+}

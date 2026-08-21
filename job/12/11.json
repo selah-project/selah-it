@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Non ⟨ forse ⟩ l'orecchio saggia le parole, e il palato gusta il cibo per sé?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'orecchio"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "saggia"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "e il palato"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "il cibo"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "gusta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:20.818307735Z",
+  "model": "glm-5.3"
+}

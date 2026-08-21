@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "I miei occhi si consumano ⟨per⟩ la tua salvezza e per la parola della tua giustizia.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "si consumano"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "la tua salvezza"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "e per la parola"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "della tua giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:56.624478047Z",
+  "model": "glm-5.3"
+}

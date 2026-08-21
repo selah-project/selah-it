@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E porrò ⟨את⟩ i cadaveri dei figli d'Israele davanti ai loro idoli, e spargerò ⟨את⟩ le vostre ossa intorno ai vostri altari.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e porrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cadaveri"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "i cadaveri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "ai loro idoli"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "e spargerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vostre ossa"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "le vostre ossa"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "intorno a"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ai vostri altari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:16:41.347824708Z",
+  "model": "glm-5.3"
+}

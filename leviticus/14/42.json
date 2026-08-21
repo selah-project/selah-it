@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E prenderanno pietre altre e le porteranno al posto delle pietre, e polvere altra prenderà ⟨egli⟩ e intonacherà ⟨את⟩ la casa.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "e prenderanno"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "altre"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "e porteranno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "le pietre"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "e polvere"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altra"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prenderà"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "e intonacherà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:48.286546170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Yehoshua comandò ⟨את⟩ i sacerdoti, dicendo: salite dal Giordano.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e comandò"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i sacerdoti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "salite"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Giordano"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:57.113279705Z",
+  "model": "glm-5.3"
+}

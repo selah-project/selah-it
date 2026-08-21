@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Il resto del gazam lo ha mangiato l'arbeh, e il resto dell'arbeh lo ha mangiato lo yeleq, e il resto dello yeleq lo ha mangiato il ḥasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "del gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lo ha mangiato"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "l'arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "e il resto"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "dell'arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lo ha mangiato"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "lo yeleq"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "e il resto"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "dello yeleq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lo ha mangiato"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "il ḥasil"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:36.614867885Z",
+  "model": "glm-5.3"
+}

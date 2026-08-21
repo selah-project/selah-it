@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Anche quando cammino nella valle dell'ombra della morte, non temo male, perché Tu ⟨sei⟩ con me: il Tuo bastone e il Tuo vincastro, essi mi consolano.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "cammino"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "nella valle"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dell'ombra della morte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "temo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "male"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "il Tuo bastone"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "e il Tuo vincastro"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "mi consolano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:06.760736579Z",
+  "model": "glm-5.3"
+}

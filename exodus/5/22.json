@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E tornò Mosè da YHWH e disse: Adonai, perché hai fatto male a questo popolo? Perché ⟨mai⟩ mi hai mandato?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "hai fatto male"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a ⟨il⟩ popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨mai⟩"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "mi hai mandato"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:00.114036326Z",
+  "model": "glm-5.3"
+}

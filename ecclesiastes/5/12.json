@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "⟨C'è⟩ un male malato che ho visto sotto il sole: ricchezza custodita dal suo padrone, per il suo danno.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un male"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "malato"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "che ho visto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ricchezza"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "custodita"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "dal suo padrone"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "per il suo danno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:21.887851510Z",
+  "model": "glm-5.3"
+}

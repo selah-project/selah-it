@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 70,
+  "translation": "Elohim, per liberarmi; YHWH, in aiuto mio — affrettati!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "per liberarmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "in aiuto mio"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "affrettati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:31.477454605Z",
+  "model": "glm-5.3"
+}

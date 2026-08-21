@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Tenda il laccio un creditore su tutto ciò che ⟨ha⟩, e spoglino estranei il frutto del suo lavoro.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "Tenda il laccio"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "un creditore"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "su tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ha⟩"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "e spoglino"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "estranei"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "il frutto del suo lavoro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:04.279040589Z",
+  "model": "glm-5.3"
+}

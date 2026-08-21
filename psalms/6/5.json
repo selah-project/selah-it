@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Torna, YHWH, libera la mia nefesh, salvami per il tuo chesed.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Torna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "libera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salvami"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:57.461357264Z",
+  "model": "glm-5.3"
+}

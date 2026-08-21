@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Dà alla bestia il suo cibo, ai figli del corvo che invocano.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "alla bestia"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "il suo cibo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "del corvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "invocano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:41.176627289Z",
+  "model": "glm-5.3"
+}

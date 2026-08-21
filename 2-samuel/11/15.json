@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E scrisse nella lettera, dicendo: «Mettete ⟨את⟩ Urià davanti alla faccia della battaglia più dura, e voltatevi via da dietro lui, ed egli sia colpito e muoia».",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "scrisse"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "nella lettera"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "mettete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urià"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urià"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מול",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "alla faccia"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "della battaglia"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "più dura"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "e voltatevi via"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "da dietro lui"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "sia colpito"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e muoia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:58.173467325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "Quanto amati ⟨sono⟩ i tuoi mishkan (« tabernacoli »), YHWH degli eserciti!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "amati"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "i tuoi mishkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:05.876929487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Infatti YHWH, il vostro Elohim, ⟨è⟩ colui che cammina con voi, per combattere per voi contro i vostri nemici, per salvarvi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "infatti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "colui che cammina"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con voi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "per combattere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contro"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "i vostri nemici"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "per salvare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:29.445298387Z",
+  "model": "glm-5.3"
+}

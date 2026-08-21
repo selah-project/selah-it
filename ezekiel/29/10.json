@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 29:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Perciò eccomi contro di te e contro i tuoi fiumi, e ridurrò la terra di Mitzrajim in solitudini aride, una desolazione, da Migdol a Seveneh fino al confine di Cush.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "percioò"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "eccomi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "i tuoi fiumi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e ridurrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrajim"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "in solitudini aride"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "arida"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "una desolazione"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "da Migdol"
+    },
+    {
+      "surface": "סונה",
+      "gloss": "a Seveneh"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "al confine"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "di Cush"
+    }
+  ],
+  "timestamp": "2026-08-21T08:25:01.328730138Z",
+  "model": "glm-5.3"
+}

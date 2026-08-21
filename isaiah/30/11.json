@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Toglietevi dalla via, scostatevi dal sentiero, fate cessare dal davanti a noi ⟨את⟩ il Santo d'Israele.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "toglietevi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "da"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "scostatevi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sentiero"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "fate cessare"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "dal davanti a noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Santo d'Israele"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "il Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:37.744889466Z",
+  "model": "glm-5.3"
+}

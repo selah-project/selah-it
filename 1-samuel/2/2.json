@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Non ⟨vi⟩ ⟨è⟩ santo come YHWH, perché non ⟨vi⟩ ⟨è⟩ fuori di te, e non ⟨vi⟩ ⟨è⟩ roccia come il nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "non ⟨vi⟩ ⟨è⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "come YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨vi⟩ ⟨è⟩"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "fuori di te"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨vi⟩ ⟨è⟩"
+    },
+    {
+      "surface": "צור",
+      "gloss": "roccia"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "come il nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:08.415659087Z",
+  "model": "glm-5.3"
+}

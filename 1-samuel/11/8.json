@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E li passò in rivista a Bezeq; e i figli di Israele erano trecento mila, e ⟨gli⟩ uomini di Yehudah trenta mila.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "e li passò in rivista"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "a Bezeq"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e erano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e ⟨gli⟩ uomini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:30.828451856Z",
+  "model": "glm-5.3"
+}

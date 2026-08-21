@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Figlio mio, ⟨la⟩ mia Torah non dimenticare, e i miei comandamenti il tuo cuore custodisca.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Figlio mio"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "⟨la⟩ mia Torah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dimenticare"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e i miei comandamenti"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "custodisca"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "il tuo cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:05.855802631Z",
+  "model": "glm-5.3"
+}

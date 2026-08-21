@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ha consumato la mia carne e la mia pelle, ha spezzato le mie ossa.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Ha consumato"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "la mia carne"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "e la mia pelle"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ha spezzato"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "le mie ossa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:26.500667043Z",
+  "model": "glm-5.3"
+}

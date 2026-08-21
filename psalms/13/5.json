@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "פֶּן־יֹאמַר אוֹיְבִי «יְכֹלְתִּיו» — לְמַעַן לֹא יֹאמַר אוֹיְבִי «יָכֹלְתִּיו», וְלֹא יָגִילוּ צָרַי בְּמוֹטִי. בַּתַּרְגּוּם: Che non dica il mio nemico: «l'ho sopraffatto»; che i miei avversari non esultino quando io vacillo.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "che non"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dica"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "il mio nemico"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "l'ho sopraffatto"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "i miei avversari"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "non esultino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "io vacillo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:16.311418142Z",
+  "model": "glm-5.3"
+}

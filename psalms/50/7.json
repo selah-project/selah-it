@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Ascolta, popolo mio, e io parlerò; Israele, e io deporrò testimonianza contro di te: io ⟨sono⟩ Elohim, il tuo Elohim.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Ascolta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popolo mio"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "e io parlerò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "e io deporrò testimonianza contro di te"
+    },
+    {
+      "surface": "בך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:11.994640916Z",
+  "model": "glm-5.3"
+}

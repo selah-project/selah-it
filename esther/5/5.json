@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E disse il re: affrettate ⟨את⟩ Haman, per fare ⟨את⟩ la richiesta di Ester. E vennero il re e Haman al banchetto che aveva preparato Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "affrettate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "per fare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la richiesta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la richiesta"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "di Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e vennero"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "e Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "al banchetto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aveva preparato"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:59.500693758Z",
+  "model": "glm-5.3"
+}

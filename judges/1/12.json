@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse Kalev: chi colpirà ⟨את⟩ Qiryat Sefer e la catturerà, a lui darò ⟨את⟩ Aksah mia figlia in moglie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "colpirà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "e la catturerà"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "darò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mia figlia"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "in moglie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:45.799034783Z",
+  "model": "glm-5.3"
+}

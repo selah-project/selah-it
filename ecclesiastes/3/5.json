@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Un tempo per gettare pietre, e un tempo per raccogliere pietre; un tempo per abbracciare, e un tempo per tenersi lontani dall'abbraccio.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un tempo"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "per gettare"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un tempo"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "per raccogliere"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un tempo"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "per abbracciare"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un tempo"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "per tenersi lontani"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "dall'abbraccio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:54.114681471Z",
+  "model": "glm-5.3"
+}

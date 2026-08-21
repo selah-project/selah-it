@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Come maledire? Non ha maledetto El. E come sdegnarmi? Non si è sdegnato YHWH.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "come"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "maledire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ha maledetto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e come"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "sdegnarmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "si è sdegnato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:10.406051967Z",
+  "model": "glm-5.3"
+}

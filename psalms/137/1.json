@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 137,
+  "translation": "Sui fiumi di Babilonia, là sedemmo, anche piangemmo, quando ricordammo ⟨את⟩ Tzion.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "i fiumi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Babilonia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "sedemmo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "piangemmo"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "quando ricordammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:14.704652125Z",
+  "model": "glm-5.3"
+}

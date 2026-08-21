@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E nel quattordicesimo anno venne Chedorlaomer e i re che ⟨erano⟩ ⟨את⟩ con lui, e colpirono ⟨את⟩ i Refaim in Ashterot-Karnaim, e ⟨את⟩ gli Zuzim in Ham, e ⟨את⟩ gli Emim in Shaveh-Kiriatayim.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "e nel quattordicesimo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "quattordicesimo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anno"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venne"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Chedorlaomer"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "e i re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui",
+      "marks": "i re alleati"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Refaim"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "i Refaim"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "in Ashterot"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "Karnaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gli Zuzim"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "gli Zuzim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gli Emim"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "gli Emim"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "in Shaveh"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiriatayim"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:56.032501347Z",
+  "model": "glm-5.3"
+}

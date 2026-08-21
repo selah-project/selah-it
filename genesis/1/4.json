@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E vide Elohim ⟨את⟩ la luce, che ⟨era⟩ buona; e separò Elohim tra la luce e tra la tenebra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la luce"
+    },
+    {
+      "surface": "האור",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨era⟩ buona"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "e separò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "האור",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "la tenebra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:35.681118925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E fece attaccare ⟨את⟩ il suo carro, e ⟨את⟩ il suo popolo prese con sé.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "e fece attaccare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo carro"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "il suo carro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo popolo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con sé"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:07.142083538Z",
+  "model": "glm-5.3"
+}

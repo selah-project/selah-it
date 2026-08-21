@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "«YHWH degli eserciti, Elohim d'Israele, che siedi ⟨sui⟩ keruvim: tu sei l'Elohim, tu solo, per tutti i regni della terra; tu hai fatto ⟨את⟩ i cieli e ⟨את⟩ la terra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "che siedi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "sui keruvim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sei"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tu solo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "i regni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cieli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:11.342515531Z",
+  "model": "glm-5.3"
+}

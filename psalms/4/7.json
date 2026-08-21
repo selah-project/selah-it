@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Molti dicono: «Chi ci farà vedere il bene?» Solleva su di noi la luce del tuo volto, YHWH",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Molti"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Chi"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ci farà vedere"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Solleva"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "del tuo volto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:56.822405556Z",
+  "model": "glm-5.3"
+}

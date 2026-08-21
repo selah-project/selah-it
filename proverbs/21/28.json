@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Il testimone di menzogne perirà, ma l'uomo che ascolta parla per sempre.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "il testimone"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "di menzogne"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "perirà"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma l'uomo"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "che ascolta"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parla"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:41.041593601Z",
+  "model": "glm-5.3"
+}

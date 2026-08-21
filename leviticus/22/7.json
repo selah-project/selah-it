@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E ⟨quando⟩ entra il sole ed ⟨egli⟩ ⟨si⟩ è purificato, poi mangerà delle cose sante, perché ⟨quello⟩ è il suo pane.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "e quando entra"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ed è purificato"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "le cose sante"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "il suo pane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso è"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:40.743205447Z",
+  "model": "glm-5.3"
+}

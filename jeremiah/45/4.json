@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Così gli dirai: così ha detto YHWH: ecco, ciò che ho costruito ⟨io⟩ demolisco, e ⟨את⟩ ciò che ho piantato ⟨io⟩ sradico — e ⟨את⟩ tutta la terra, essa ⟨stessa⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "gli dirai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ho costruito"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "demolisco"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che ho piantato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ho piantato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "sradico"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la terra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:12:56.219430265Z",
+  "model": "glm-5.3"
+}

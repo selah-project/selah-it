@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E disse: apri la finestra verso est. Ed ⟨egli⟩ aprì, e disse Eliseo: scaglia! E ⟨il re⟩ scagliò. E disse: freccia di salvezza per YHWH, e freccia di salvezza contro Aram: colpirai ⟨את⟩ Aram in Afek fino allo sterminio.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "apri"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "la finestra"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "verso est"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ed aprì"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseo"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "scaglia"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "e scagliò"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "freccia"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "di salvezza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "e freccia"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "di salvezza"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "contro Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "colpirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "in Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "allo sterminio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:48.576074129Z",
+  "model": "glm-5.3"
+}

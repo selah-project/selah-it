@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Manderà dai cieli e mi salverà; svergognerà chi anela a divorarmi — selah. Elohim manderà il suo chesed e la sua fedeltà.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "manderà"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dai cieli"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "e mi salverà"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "svergognerà"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "chi anela a divorarmi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "manderà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "e la sua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:25.618696518Z",
+  "model": "glm-5.3"
+}

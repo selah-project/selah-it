@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Ma la parola del re prevalse su Ioab; e uscì Ioab e percorse tutto Israele, e venne a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Ma la parola"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "prevalse"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "e percorse"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:57.388671859Z",
+  "model": "glm-5.3"
+}

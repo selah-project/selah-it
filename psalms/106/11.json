@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E le acque coprirono i loro avversari, nemmeno uno di loro ⟨rimase⟩.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "e coprirono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "i loro avversari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "di loro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "rimase"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:32.810448092Z",
+  "model": "glm-5.3"
+}

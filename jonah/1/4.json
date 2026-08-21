@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E YHWH scagliò un grande vento sul mare, e ci fu una grande tempesta nel mare, e la nave pensava di sfasciarsi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "scagliò"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un vento"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ci fu"
+    },
+    {
+      "surface": "סער",
+      "gloss": "una tempesta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nel mare"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "e la nave"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "pensava"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "di sfasciarsi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:35.732354860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 10:19",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E parlò Aharon a Moshe: ecco, oggi hanno presentato ⟨את⟩ la loro offerta per il peccato e ⟨את⟩ la loro olà davanti a YHWH, e mi sono capitate ⟨את⟩ cose come queste; e se avessi mangiato oggi l'offerta per il peccato, sarebbe stato buono agli occhi di YHWH?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "hanno presentato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro offerta per il peccato"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "la loro offerta per il peccato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la loro olà"
+    },
+    {
+      "surface": "עלתם",
+      "gloss": "la loro olà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ותקראנה",
+      "gloss": "e sono capitate"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "cose come queste"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "come queste"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "e avessi mangiato"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "l'offerta per il peccato"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "הייטב",
+      "gloss": "sarebbe stato buono"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:47.640721037Z",
+  "model": "glm-5.3"
+}

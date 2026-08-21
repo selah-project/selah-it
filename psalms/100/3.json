@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 100,
+  "translation": "Sappiate che YHWH ⟨è⟩ Elohim: ⟨è⟩ lui che ci ha fatti, e non noi ⟨stessi⟩; suo popolo ⟨siamo⟩ e gregge del suo pascolo.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Sappiate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩ lui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩ lui"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "che ci ha fatti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi ⟨stessi⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "suo popolo ⟨siamo⟩"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "e gregge"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "del suo pascolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:44.168065495Z",
+  "model": "glm-5.3"
+}

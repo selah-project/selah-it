@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "La vostra terra ⟨è⟩ desolazione, le vostre città ⟨sono⟩ arse dal fuoco; la vostra campagna, davanti a voi, stranieri la divorano ⟨את⟩ — e ⟨c'è⟩ desolazione come rovesciata da stranieri.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "la vostra terra"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "desolazione"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "le vostre città"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "arse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dal fuoco"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "la vostra campagna"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "stranieri"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "divorano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "la vostra campagna"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "e desolazione"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "come rovesciata"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "da stranieri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:47.923806989Z",
+  "model": "glm-5.3"
+}

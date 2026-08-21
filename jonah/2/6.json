@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Le acque mi circondarono fino ⟨alla⟩ ⟨nefesh⟩, l'abisso mi avvolgeva, l'alga era avvolta intorno al mio capo.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "mi circondarono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨nefesh⟩ (vita)"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "l'abisso"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "mi avvolgeva"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "l'alga"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "era avvolta"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "intorno al mio capo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:10.504115485Z",
+  "model": "glm-5.3"
+}

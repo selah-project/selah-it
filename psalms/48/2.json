@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Grande ⟨è⟩ YHWH, e molto lodato, nella città del nostro Elohim, il monte della sua santità.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Grande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "e lodato"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "della sua santità"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:00.452276925Z",
+  "model": "glm-5.3"
+}

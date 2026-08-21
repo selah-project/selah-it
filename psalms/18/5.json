@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Mi hanno circondato i lacci della morte, e i torrenti di Belial mi hanno atterrito.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "mi hanno circondato"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "i lacci"
+    },
+    {
+      "surface": "מות",
+      "gloss": "della morte"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "e i torrenti"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "di Belial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "mi hanno atterrito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:21.540675637Z",
+  "model": "glm-5.3"
+}

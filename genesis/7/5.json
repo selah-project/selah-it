@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E Noè fece secondo tutto ciò che YHWH gli aveva comandato.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noè"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gli aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:13.276222124Z",
+  "model": "glm-5.3"
+}

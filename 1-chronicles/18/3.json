@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E colpì Davide ⟨את⟩ Hadadezer re di Tzova verso Chamat, mentre egli andava a stabilire la sua mano sul fiume Prat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "E colpì"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "di Tzova"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "verso Chamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "mentre egli andava"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "a stabilire"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "sul fiume"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Prat (Eufrate)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:35.341599853Z",
+  "model": "glm-5.3"
+}

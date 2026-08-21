@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E David giunse a Machanaim, e Assalonne attraversò ⟨את⟩ il Giordano, lui e ogni uomo di Israele con lui.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "e David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "giunse"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "a Machanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "e Assalonne"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "attraversò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:57.687319165Z",
+  "model": "glm-5.3"
+}

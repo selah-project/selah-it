@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non sacrificherai ⟨sul⟩ lievito il sangue della mia vittima, e non passerà la notte il grasso della mia festa fino al mattino.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "sacrificherai"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sul⟩"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "lievito"
+    },
+    {
+      "surface": "דם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "della mia vittima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "passerà la notte"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "della mia festa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "al mattino"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:54.342137802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Ma io sono sempre con Te: hai afferrato la mia mano destra.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con Te"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "hai afferrato"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "destra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:02.971857122Z",
+  "model": "glm-5.3"
+}

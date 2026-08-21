@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Mizmor, canto per la consacrazione della ⟨casa⟩ ⟨della⟩ Casa, di Davide.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "per la consacrazione"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "della Casa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:33.397081088Z",
+  "model": "glm-5.3"
+}

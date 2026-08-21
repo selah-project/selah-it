@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Così ha detto YHWH degli eserciti: ho visitato ciò che Amaleq fece a Israele, che gli oppose ⟨amboscata⟩ sulla strada quando saliva dall'Egitto.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ho visitato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che Amaleq fece"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "a Israele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oppose"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sulla strada"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "quando saliva"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:50.035724104Z",
+  "model": "glm-5.3"
+}

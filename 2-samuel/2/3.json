@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E i suoi uomini che ⟨erano⟩ con lui fece salire Davide, ognuno con la sua casa; e abitarono nelle città di Chevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "E i suoi uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fece salire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ognuno"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "con la sua casa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e abitarono"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nelle città"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "di Chevron"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:17.096323170Z",
+  "model": "glm-5.3"
+}

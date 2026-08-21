@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Tornerà la sua malvagità sul suo capo, e sulla sua sommità del capo scenderà la sua violenza.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "tornerà"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "la sua malvagità"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sul suo capo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sulla"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "sua sommità del capo"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "la sua violenza"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scenderà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:17.320887246Z",
+  "model": "glm-5.3"
+}

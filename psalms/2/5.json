@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Allora parlerà ⟨El⟩ con loro nella sua ira, e nella sua furia li sconvolgerà.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parlerà"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "con loro"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nella sua ira"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "e nella sua furia"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "li sconvolgerà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:59.882790010Z",
+  "model": "glm-5.3"
+}

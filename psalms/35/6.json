@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Sia la loro via tenebra e scivolosità, e un angelo di YHWH li insegua.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "la loro via"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "e scivolosità"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "e un angelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "li insegua"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:44.900832266Z",
+  "model": "glm-5.3"
+}

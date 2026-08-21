@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E fecero tutti i figli di Israele come aveva comandato YHWH ⟨את⟩ Mosè e ⟨את⟩ Aharon; così fecero.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "E fecero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:04.231197690Z",
+  "model": "glm-5.3"
+}

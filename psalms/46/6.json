@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Elohim è in mezzo a lei — non ⟨sarà mossa⟩; Elohim l'aiuterà al volgere del mattino.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in mezzo a lei"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "⟨sarà mossa⟩"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "l'aiuterà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "al volgere"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "del mattino"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:41.986344273Z",
+  "model": "glm-5.3"
+}

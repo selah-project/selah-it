@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E la terra non poteva portare ⟨אתם⟩ ⟨loro⟩ per abitare insieme, perché ⟨era⟩ grande il loro patrimonio, e non potevano abitare insieme.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "poteva portare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro (essi)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "per abitare"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "il loro patrimonio"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "potevano"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "abitare"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:25.208223660Z",
+  "model": "glm-5.3"
+}

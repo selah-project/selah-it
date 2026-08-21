@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Anche senza conoscenza ⟨la⟩ nefesh non ⟨è⟩ buona, e chi corre con ⟨i⟩ piedi manca ⟨il segno⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Anche"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "senza"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "conoscenza"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨è⟩ buona"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "e chi corre"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "con ⟨i⟩ piedi"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "manca ⟨il segno⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:52.349063385Z",
+  "model": "glm-5.3"
+}

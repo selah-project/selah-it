@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Nel giorno del vostro sacrificio sarà mangiato, e il giorno dopo; ciò che resta fino al terzo giorno, nel fuoco sarà bruciato.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "del vostro sacrificio"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sarà mangiato"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "e il giorno dopo"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "e ciò che resta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terzo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sarà bruciato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:34.616336001Z",
+  "model": "glm-5.3"
+}

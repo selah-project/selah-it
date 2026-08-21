@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse YHWH a Qayin: dov'è Hevel, tuo fratello? E lui disse: non lo so; sono forse io il custode di mio fratello?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dov'è"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "so"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "il custode"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "di mio fratello"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sono forse io"
+    }
+  ],
+  "timestamp": "2026-08-21T10:15:42.182509059Z",
+  "model": "glm-5.3"
+}

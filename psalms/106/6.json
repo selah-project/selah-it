@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Abbiamo peccato come i nostri padri, abbiamo fatto il torto, abbiamo agito da malvagi.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "abbiamo peccato"
+    },
+    {
+      "surface": "עם",
+      "gloss": "come"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "i nostri padri"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "abbiamo fatto il torto"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "abbiamo agito da malvagi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:20.284513882Z",
+  "model": "glm-5.3"
+}

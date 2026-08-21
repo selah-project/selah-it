@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E queste sono le generazioni di Ishmael figlio di Abraham, che partorì Hagar l'egizia, schiava di Sarah, per Abraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e queste"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "le generazioni di"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "l'egizia"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "schiava di"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "per Abraham"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:13.429984034Z",
+  "model": "glm-5.3"
+}

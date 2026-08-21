@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Di notte e di giorno non si spegnerà; in perpetuo salirà il suo fumo; di generazione in generazione resterà deserta; per sempre, in eterno, nessuno passerà per essa.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "e di giorno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "si spegnerà"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "in perpetuo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "salirà"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "il suo fumo"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "di generazione"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "in generazione"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "resterà deserta"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "in eterno"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nessuno"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passerà"
+    },
+    {
+      "surface": "בה",
+      "gloss": "per essa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:00.934605633Z",
+  "model": "glm-5.3"
+}

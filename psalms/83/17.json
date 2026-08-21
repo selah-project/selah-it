@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Riempi ⟨את⟩ le loro facce di ignominia, e cerchino il tuo nome, YHWH.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "riempi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "le loro facce"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "di ignominia"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "e cerchino"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:27.383369893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Uno aiuta ⟨את⟩ il suo prossimo, e dice al suo fratello: « Sii forte ».",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "uno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "aiuta"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "e al suo fratello"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sii forte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:13.476048458Z",
+  "model": "glm-5.3"
+}

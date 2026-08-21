@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Colui presso il quale sarà trovato ⟨את⟩[esso] tra i tuoi servi, morirà, e anche noi diventeremo servi del mio signore.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "colui presso il quale"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "sarà trovato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "presso il quale — l'oggetto trovato, la coppa"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "tra i tuoi servi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e morirà"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "diventeremo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "del mio signore"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "servi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:18.666011772Z",
+  "model": "glm-5.3"
+}

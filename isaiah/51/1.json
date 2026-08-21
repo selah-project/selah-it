@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Ascoltatemi, voi che inseguite la giustizia, voi che cercate YHWH: guardate alla roccia da cui foste tagliati, e alla cava della fossa da cui foste scavati.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ascoltatemi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "voi che inseguite"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la giustizia"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "voi che cercate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "guardate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "צור",
+      "gloss": "roccia"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "da cui foste tagliati"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e alla"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "cava"
+    },
+    {
+      "surface": "בור",
+      "gloss": "della fossa"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "foste scavati"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:43.749454309Z",
+  "model": "glm-5.3"
+}

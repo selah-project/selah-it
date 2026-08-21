@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Hai provato il mio cuore, mi hai visitato di notte, mi hai raffinato — non trovi nulla; i miei propositi non oltrepassano la mia bocca.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Hai provato"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "mi hai visitato"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "mi hai raffinato"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trovi"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "nulla; i miei propositi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "oltrepassano"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:05.131117188Z",
+  "model": "glm-5.3"
+}

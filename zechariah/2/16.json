@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "YHWH erediterà ⟨את⟩ Giuda, sua porzione, sulla terra santa, e sceglierà ancora Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "e erediterà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sua porzione"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "terra"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "la santa"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "e sceglierà"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:41:38.240325060Z",
+  "model": "glm-5.3"
+}

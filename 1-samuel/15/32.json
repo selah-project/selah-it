@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E disse Samuele: portatemi ⟨את⟩ Agag, re di Amalek. E Agag venne a lui con passo molle; e Agag disse: davvero si è allontanata l'amarezza della morte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "portate"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag, re di Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "di Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "con passo molle"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "davvero"
+    },
+    {
+      "surface": "סר",
+      "gloss": "si è allontanata"
+    },
+    {
+      "surface": "מר",
+      "gloss": "l'amarezza"
+    },
+    {
+      "surface": "המות",
+      "gloss": "della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:25.617377666Z",
+  "model": "glm-5.3"
+}

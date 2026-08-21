@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E mi faranno un santuario, e io dimorerò in mezzo a loro",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "e mi faranno"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "un santuario"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "e io dimorerò"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in mezzo a loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:50.337171942Z",
+  "model": "glm-5.3"
+}

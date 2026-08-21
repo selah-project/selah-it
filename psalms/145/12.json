@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Per far conoscere ai figli dell'uomo le sue imprese potenti, e lo splendore glorioso del suo regno.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Per far conoscere"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "le sue imprese potenti"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "e lo splendore glorioso"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "splendore glorioso"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "del suo regno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.583390276Z",
+  "model": "glm-5.3"
+}

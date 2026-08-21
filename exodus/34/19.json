@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Ogni primogenito che apre il grembo ⟨è⟩ mio; e ogni maschio del tuo bestiame, primogenito di bue o di pecora.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "che apre"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "il grembo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "del tuo bestiame"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "primogenito"
+    },
+    {
+      "surface": "שור",
+      "gloss": "di bue"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "o di pecora"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:51.456776805Z",
+  "model": "glm-5.3"
+}

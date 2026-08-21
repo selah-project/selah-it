@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Poiché ⟨lui⟩ disse, e ⟨ciò⟩ fu; ⟨lui⟩ comandò, e ⟨ciò⟩ stette ⟨saldo⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e ⟨ciò⟩ fu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "comandò"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e ⟨ciò⟩ stette ⟨saldo⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:28.231358523Z",
+  "model": "glm-5.3"
+}

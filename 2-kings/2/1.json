@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E avvenne, quando YHWH fece salire ⟨את⟩ Elia in un turbine verso i cieli, che Elia andò con Eliseo da Ghilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "quando… fece salire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "in un turbine"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "verso i cieli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "andò"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "e Eliseo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Ghilgal"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:10.448670275Z",
+  "model": "glm-5.3"
+}

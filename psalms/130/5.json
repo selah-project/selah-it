@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 130,
+  "translation": "Ho atteso YHWH, ha atteso la mia nefesh, e per la sua parola ho sperato.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "ho atteso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "ha atteso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "e per la sua parola"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ho sperato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:57.792449899Z",
+  "model": "glm-5.3"
+}

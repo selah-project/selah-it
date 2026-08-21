@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E perché ci avete fatto salire dall'Egitto, per portarci ⟨את⟩ in questo luogo cattivo? Non ⟨è⟩ luogo di seme, né di fico, né di vite, né di melograno, e acqua non ce n'è da bere.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ci avete fatto salire"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "per portare"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "noi (להביא: portarci)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "il luogo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "cattivo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "luogo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "di seme"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "né di fico"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "né di vite"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "né di melograno"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e acqua"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ce n'è"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "da bere"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:10.761046242Z",
+  "model": "glm-5.3"
+}

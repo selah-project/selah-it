@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Ricorda ⟨את⟩ il giorno dello shabbat, per santificarlo.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giorno"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dello shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "per santificarlo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:15.079088835Z",
+  "model": "glm-5.3"
+}

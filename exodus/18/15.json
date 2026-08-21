@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E disse Mosè al suo suocero: perché il popolo viene da me per consultare Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "al suo suocero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "per consultare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:32.557288021Z",
+  "model": "glm-5.3"
+}

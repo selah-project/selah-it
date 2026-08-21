@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Svegliati, svegliati, àlzati, Gerusalemme, che hai bevuto dalla mano di YHWH ⟨את⟩ la coppa del suo furore; ⟨את⟩ il calice, la coppa dello stordimento, hai bevuto, l'hai svuotata fino alla feccia.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "Svegliati"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "svegliati"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "hai bevuto"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la coppa del suo furore"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "la coppa"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "del suo furore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il calice, la coppa dello stordimento"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "il calice"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "la coppa"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "dello stordimento"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "hai bevuto"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "l'hai svuotata fino alla feccia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:31.968811855Z",
+  "model": "glm-5.3"
+}

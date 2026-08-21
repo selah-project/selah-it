@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 62,
+  "translation": "Solo verso Elohim tace la mia nefesh; da lui ⟨è⟩ la mia salvezza.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tace"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "la mia salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:37.089836166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Un toro, figlio di armento, un ariete, un agnello, figlio di un anno, per l'olà",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "toro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "armento"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ariete"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "agnello"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "un anno"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "per l'olà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:24:53.186800501Z",
+  "model": "glm-5.3"
+}

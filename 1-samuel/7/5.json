@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E disse Samuele: radunate ⟨את⟩ tutto Israele verso Mitspa, e io pregherò per voi verso YHWH.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "radunate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "verso Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "e io pregherò"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:06.463961031Z",
+  "model": "glm-5.3"
+}

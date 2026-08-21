@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 11:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E giudicherà con giustizia i deboli, e deciderà con rettitudine per i poveri della terra; e colpirà la terra con lo scettro della sua bocca, e con il soffio delle sue labbra ucciderà l'empio.",
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "e giudicherà"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "con giustizia"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "i deboli"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "e deciderà"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "con rettitudine"
+    },
+    {
+      "surface": "לענוי",
+      "gloss": "per i poveri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "e colpirà"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "con lo scettro"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "della sua bocca"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "e con il soffio"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "delle sue labbra"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "ucciderà"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "l'empio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:16.992358413Z",
+  "model": "glm-5.3"
+}

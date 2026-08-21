@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E disse il re a Tsadok: riporta ⟨את⟩ l'arca dell'Elohim ⟨a⟩ la città. Se troverò grazia negli occhi di YHWH, mi riporterà e mi farà vedere ⟨את⟩ lui ⟨את⟩ e la sua dimora.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "a Tsadok"
+    },
+    {
+      "surface": "השב",
+      "gloss": "riporta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "troverò"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grazia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "negli occhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "mi riporterà"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "e mi farà vedere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "la sua dimora"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "la sua dimora"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:01.869002512Z",
+  "model": "glm-5.3"
+}

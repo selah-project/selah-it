@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Io ⟨sono⟩ YHWH, il tuo Elohim, che ti fece salire dal paese d'Egitto: allarga la tua bocca e io la riempirò.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "che ti fece salire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "allarga"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "la tua bocca"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "e io la riempirò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:42.168432422Z",
+  "model": "glm-5.3"
+}

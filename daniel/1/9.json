@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E diede Elohim ⟨את⟩ Daniele per chesed e per compassioni davanti al capo degli eunuchi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniele"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniele"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "per chesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "e per compassioni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "degli eunuchi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:10.201287397Z",
+  "model": "glm-5.3"
+}

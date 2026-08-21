@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Poiché non cesserà il bisognoso dal mezzo della terra; perciò io ti comando, dicendo: aprire aprirai ⟨את⟩ la tua mano al tuo fratello, al tuo povero e al tuo bisognoso nella tua terra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "cesserà"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "il bisognoso"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dal mezzo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti comando"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aprire"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "aprirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua mano"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "al tuo fratello"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "al tuo povero"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "e al tuo bisognoso"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nella tua terra"
+    }
+  ],
+  "timestamp": "2026-08-21T10:06:11.573199166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E prese Davide ⟨את⟩ gli scudi d'oro che erano addosso ai servi di Hadadezer, e li portò a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli scudi d'oro"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "gli scudi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "addosso a"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "e li portò"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:57.041870995Z",
+  "model": "glm-5.3"
+}

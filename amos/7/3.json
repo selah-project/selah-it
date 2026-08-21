@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "YHWH si ravvide riguardo a questo: « Non sarà », disse YHWH.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "si ravvide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "riguardo a"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:05.909606408Z",
+  "model": "glm-5.3"
+}

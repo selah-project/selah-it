@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Li porrai come fornace di fuoco al tempo del tuo volto — YHWH; nella sua ira li inghiottirà, e il fuoco li divorerà.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "li porrai"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "come fornace"
+    },
+    {
+      "surface": "אש",
+      "gloss": "di fuoco"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "al tempo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "del tuo volto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "nella sua ira"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "li inghiottirà"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "e li divorerà"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:34.358267767Z",
+  "model": "glm-5.3"
+}

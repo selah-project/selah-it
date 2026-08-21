@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 36:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E presero da davanti a Mosè ⟨את⟩ tutta l'offerta che i figli d'Israele avevano portato per il lavoro del servizio del santuario per farlo; ed essi gli portavano ancora offerte volontarie, mattina per mattina.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "E presero"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "da davanti a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta l'offerta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "l'offerta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "avevano portato"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "per il lavoro"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "del servizio"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santuario"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "per fare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "il santuario (oggetto di 'fare')"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ed essi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "portavano"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "offerte volontarie"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mattina"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "per mattina"
+    }
+  ],
+  "timestamp": "2026-08-21T06:08:13.259217443Z",
+  "model": "glm-5.3"
+}

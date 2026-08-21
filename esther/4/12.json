@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E riferirono a Mordekhài ⟨את⟩ le parole di Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "E riferirono"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "a Mordekhài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "di Ester"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:21.082599026Z",
+  "model": "glm-5.3"
+}

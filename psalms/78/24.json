@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "e fece piovere su di loro ⟨את⟩ il man da mangiare, e grano dei cieli diede loro.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "e fece piovere"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il man"
+    },
+    {
+      "surface": "מן",
+      "gloss": "il man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "da mangiare"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "e grano"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "למו",
+      "gloss": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:43.455471376Z",
+  "model": "glm-5.3"
+}

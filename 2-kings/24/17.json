@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E fece regnare il re di Babilonia ⟨את⟩ Mattania, suo zio, al posto suo, e cambiò ⟨את⟩ il suo nome in Tzidqiahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "fece regnare"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Babilonia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattania"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattania"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "suo zio"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "al posto suo"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "e cambiò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo nome"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "in Tzidqiahu"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:31.476851488Z",
+  "model": "glm-5.3"
+}

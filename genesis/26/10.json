@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E Abimèlech disse: «Che cosa ⟨è⟩ questa che hai fatto a noi? Poco ci è mancato che uno del popolo giacesse con ⟨את⟩ tua moglie, e avresti fatto ricadere su di noi una colpa».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimèlech"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "poco è mancato"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "giacesse"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tua moglie"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tua moglie"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "e avresti fatto ricadere"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "una colpa"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:14.498349540Z",
+  "model": "glm-5.3"
+}

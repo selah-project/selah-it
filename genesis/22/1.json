@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E avvenne dopo queste cose, che Elohim mise alla prova ⟨את⟩ Abramo, e gli disse: «Abramo!». Ed ⟨egli⟩ disse: «Eccomi».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le cose"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "mise alla prova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abramo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo!"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Eccomi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:15.318067769Z",
+  "model": "glm-5.3"
+}

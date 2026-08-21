@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Due cose ho chiesto ⟨da⟩ ⟨את⟩ te; non rifiutarmele prima che io muoia.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "due cose"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ho chiesto"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "da ⟨את⟩ te",
+      "marks": "te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "rifiutare"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "a me"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "io muoia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:08.448581675Z",
+  "model": "glm-5.3"
+}

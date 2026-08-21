@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E visse Lemek, dopo che generò ⟨את⟩ Noach, cinquecentonovantacinque anni, e generò figli e figlie.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "e visse"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo che"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "e novanta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e cinque"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "cento"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e figlie"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:58.273403165Z",
+  "model": "glm-5.3"
+}

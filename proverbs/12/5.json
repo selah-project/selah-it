@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "I pensieri dei giusti ⟨sono⟩ giudizio, le macchinazioni dei malvagi ⟨sono⟩ inganno.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "i pensieri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "giudizio"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "le macchinazioni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "inganno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:39.905850745Z",
+  "model": "glm-5.3"
+}

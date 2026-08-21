@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E il suo esercito, con i suoi censiti: settantaquattromila e seicento.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "E il suo esercito"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "con i suoi censiti"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "e settanta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e sei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centinaia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:57.411893940Z",
+  "model": "glm-5.3"
+}

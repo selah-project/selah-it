@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Il desiderio del suo cuore gli hai dato, e la richiesta delle sue labbra non hai negato. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "il desiderio"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "del suo cuore"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "hai dato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "e la richiesta"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "delle sue labbra"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "hai negato"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:46.876395624Z",
+  "model": "glm-5.3"
+}

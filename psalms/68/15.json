@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Quando Shaddai disperse i re in essa, ⟨la terra⟩ imbiancò come neve sul Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Quando disperse"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "i re"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "imbiancò come neve"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "sul Tsalmon"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:45.566950204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Quando vedo i tuoi cieli, opera delle tue dita, la luna e le stelle che hai stabilito —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "vedo"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "i tuoi cieli"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "opera"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "delle tue dita"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "la luna"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "e le stelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "hai stabilito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:45.915369506Z",
+  "model": "glm-5.3"
+}

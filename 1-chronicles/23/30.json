@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "e per stare in piedi ogni mattina, mattina per mattina, per ringraziare e per lodare YHWH, e così alla sera.",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "e per stare in piedi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mattina per mattina"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "per ringraziare"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "e per lodare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "e così"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "alla sera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:52:23.481204192Z",
+  "model": "glm-5.3"
+}

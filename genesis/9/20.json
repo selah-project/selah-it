@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E cominciò Noè, uomo della terra, e piantò una vigna.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "E cominciò"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "e piantò"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "una vigna"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:58.322333854Z",
+  "model": "glm-5.3"
+}

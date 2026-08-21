@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "I miei giorni ⟨sono⟩ come un'ombra distesa, e io come l'erba inaridisco.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "i miei giorni"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "come un'ombra"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "distesa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "come l'erba"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "inaridisco"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:35.653339981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "E vadano vagando i suoi figli, e mendichino, e cerchino ⟨pane⟩ dalle loro rovine.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "vagando"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "vadano errando"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "e mendichino"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "e cerchino"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "dalle loro rovine"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:04.278906297Z",
+  "model": "glm-5.3"
+}

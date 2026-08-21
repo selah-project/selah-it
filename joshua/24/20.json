@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Se abbandonerete ⟨את⟩ YHWH e servirete dèi stranieri, allora si volgerà e vi farà del male, e vi consumerà, dopo avervi fatto del bene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "abbandonerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "e servirete"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dèi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "stranieri"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "si volgerà"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "e farà del male"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "e vi consumerà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ha fatto del bene"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:44.718861257Z",
+  "model": "glm-5.3"
+}

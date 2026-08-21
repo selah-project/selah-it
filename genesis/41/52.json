@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "E ⟨את⟩ il nome del secondo chiamò Efraim, perché Elohim mi ha reso fecondo nella terra della mia afflizione.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "השני",
+      "gloss": "del secondo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chiamò"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "mi ha reso fecondo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "della mia afflizione"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:49.968662926Z",
+  "model": "glm-5.3"
+}

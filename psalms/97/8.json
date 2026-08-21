@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 97,
+  "translation": "Ha udito e si è rallegrata Tzion, e hanno esultato le figlie di Yehudah, a causa dei tuoi giudizi, YHWH.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ha udito"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "e si è rallegrata"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "e hanno esultato"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "le figlie di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dei tuoi giudizi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:30.485568040Z",
+  "model": "glm-5.3"
+}

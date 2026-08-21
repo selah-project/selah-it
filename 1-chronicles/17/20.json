@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "YHWH, non c'è nessuno come te, e non c'è Elohim all'infuori di te, in tutto ciò che abbiamo udito con le nostre orecchie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nessuno come te"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "all'infuori di te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "abbiamo udito"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "con le nostre orecchie"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:49.719734430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "e ⟨את⟩ Resen, tra Ninive e tra Kalach: essa ⟨è⟩ la città grande.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:46.777393659Z",
+  "model": "glm-5.3"
+}

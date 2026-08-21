@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Poiché per sempre non vacillerà; in memoria perenne ⟨sarà⟩ il giusto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "vacillerà"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "in memoria"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perenne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:46.586891502Z",
+  "model": "glm-5.3"
+}

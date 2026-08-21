@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Chi custodisce il comandamento custodisce la propria nefesh; chi disprezza le proprie vie morirà.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "chi custodisce"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "il comandamento"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "custodisce"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la propria nefesh"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "chi disprezza"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "le proprie vie"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "morirà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:01.095103947Z",
+  "model": "glm-5.3"
+}

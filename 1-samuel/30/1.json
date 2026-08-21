@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E avvenne, nell'arrivo di Davide e dei suoi uomini a Tsiklag, al terzo giorno, che gli Amalekiti avevano fatto incursione contro il Negev e contro Tsiklag; colpirono Tsiklag e la bruciarono ⟨את⟩ nel fuoco.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "nell'arrivo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "e dei suoi uomini"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "a Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "al"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terzo giorno"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "gli Amalekiti"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "avevano fatto incursione"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contro"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "il Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "e la bruciarono"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "la (Tsiklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:08.422165911Z",
+  "model": "glm-5.3"
+}

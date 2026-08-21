@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "«Forse mi mancano i pazzi, che avete portato ⟨את⟩ questo a delirare contro di me? Costui entrerà nella mia casa?»",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "mi mancano"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "i pazzi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "avete portato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "a delirare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "costui"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entrerà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "la mia casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:17.907316015Z",
+  "model": "glm-5.3"
+}

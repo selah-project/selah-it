@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Sostenetemi con ⟨i⟩ dolci ⟨את⟩ — le focacce d'uva — ristoratemi con mele, perché ⟨sono⟩ malata d'amore.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "sostenetemi"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "con focacce d'uva"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "ristoratemi"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "con mele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "malata"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "d'amore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:27.157395665Z",
+  "model": "glm-5.3"
+}

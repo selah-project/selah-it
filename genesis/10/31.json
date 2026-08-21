@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Questi ⟨sono⟩ i figli di Shem, secondo le loro famiglie, secondo le loro lingue, nelle loro terre, secondo i loro popoli.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "secondo le loro famiglie"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "secondo le loro lingue"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "nelle loro terre"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "secondo i loro popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:51.993496300Z",
+  "model": "glm-5.3"
+}

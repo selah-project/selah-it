@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Colui che manda ⟨את⟩ la sua parola sulla terra: molto velocemente corre il suo detto.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "colui che manda"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "la sua parola"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sulla terra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "velocemente"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "corre"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "il suo detto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:39.359857152Z",
+  "model": "glm-5.3"
+}

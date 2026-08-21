@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E diede ⟨את⟩ le pietanze gustose e ⟨את⟩ il pane che aveva preparato in mano a Giacobbe, suo figlio.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pietanze gustose"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "le pietanze gustose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il pane"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "il pane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aveva preparato"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "suo figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:36.368761976Z",
+  "model": "glm-5.3"
+}

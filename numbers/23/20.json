@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Ecco, ho ricevuto ⟨l'ordine⟩ di benedire; ed ⟨Egli⟩ ha benedetto, e io non lo revoco.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "di benedire"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ho ricevuto"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ed ⟨Egli⟩ ha benedetto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "lo revoco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:35.855248497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E vide Elohim ⟨את⟩ ⟨la⟩ terra, ed ecco ⟨era⟩ corrotta, perché ogni carne aveva corrotto ⟨את⟩ la propria via sulla terra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E vide"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "era corrotta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "aveva corrotto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la propria via"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "la propria via"
+    },
+    {
+      "surface": "על",
+      "gloss": "sulla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:44.653372328Z",
+  "model": "glm-5.3"
+}

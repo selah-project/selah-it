@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E avverrà che i Mitsriti ti vedranno ⟨את⟩ e diranno: questa è sua moglie; e uccideranno me ⟨את⟩, ma te ⟨את⟩ ti terranno in vita.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e avverrà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vedranno"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ti"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "i Mitsriti"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e diranno"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "e uccideranno"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "ti"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "terranno in vita"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:40.363469192Z",
+  "model": "glm-5.3"
+}

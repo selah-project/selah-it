@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Non per i re, Lemuel, non per i re bere vino, né per i principi ⟨desiderare⟩ bevanda inebriante;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "per i re"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "per i re"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "bere"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "né per i principi"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨desiderare⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "bevanda inebriante"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:37.461157042Z",
+  "model": "glm-5.3"
+}

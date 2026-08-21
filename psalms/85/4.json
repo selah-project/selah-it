@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 85,
+  "translation": "Hai ritirato ⟨את⟩ tutta la tua furia, ti sei volto indietro dall'ardore del tuo furore.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "hai ritirato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "la tua furia"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "ti sei volto indietro"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "dall'ardore"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "del tuo furore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:07.022021640Z",
+  "model": "glm-5.3"
+}

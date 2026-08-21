@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Colui che disciplina ⟨le⟩ nazioni, non forse riprenderà? ⟨Egli⟩ che insegna all'uomo ⟨la⟩ conoscenza.",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "colui che disciplina"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nazioni"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "riprenderà"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "che insegna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "all'uomo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "conoscenza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:12.720415396Z",
+  "model": "glm-5.3"
+}

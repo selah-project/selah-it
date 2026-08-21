@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 67,
+  "translation": "Al direttore ⟨del coro⟩, con strumenti a corde. Mizmor, canto.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "con strumenti a corde"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:16.789111560Z",
+  "model": "glm-5.3"
+}

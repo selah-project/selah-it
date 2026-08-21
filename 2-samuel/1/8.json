@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E mi disse: chi sei tu? E io gli dissi: amalecita io.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amalecita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:37.868610522Z",
+  "model": "glm-5.3"
+}

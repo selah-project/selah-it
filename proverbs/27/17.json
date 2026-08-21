@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Il ferro si affila ⟨dal⟩ ferro, e un uomo affila il volto del suo prossimo.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "il ferro"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "dal ferro"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "si affila"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e un uomo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "affila"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "del suo prossimo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:40.427250038Z",
+  "model": "glm-5.3"
+}

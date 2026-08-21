@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Poiché ecco, YHWH esce dal suo luogo, e scende e calpesta sulle alture della terra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "esce"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "dal suo luogo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e scende"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "e calpesta"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "le alture di"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:41.637177191Z",
+  "model": "glm-5.3"
+}

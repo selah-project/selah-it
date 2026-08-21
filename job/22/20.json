@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "« Non ⟨è⟩ forse annientato il nostro avversario, e il fuoco ha divorato il loro residuo? »",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "non è forse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨non⟩"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "annientato"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "il nostro avversario"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "e il loro residuo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ha divorato"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:47.679060339Z",
+  "model": "glm-5.3"
+}

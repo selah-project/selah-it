@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "I tuoi figli hanno perso i sensi, giacciono al capo di tutte le strade, come un'antilope nella rete, colmi dell'ira di YHWH, del rimprovero del tuo Elohim.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "I tuoi figli"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "hanno perso i sensi"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "giacciono"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "al capo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutte"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "le strade"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "come un'antilope"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "nella rete"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "colmi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "dell'ira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "del rimprovero"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "del tuo Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:31.969362394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 110,
+  "translation": "Giudica fra le nazioni, colma ⟨la terra⟩ di cadaveri, schianta il capo su ⟨una⟩ terra vasta.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Giudica"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra le nazioni"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "colma"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "di cadaveri"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "schianta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "vasta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:33.501782706Z",
+  "model": "glm-5.3"
+}

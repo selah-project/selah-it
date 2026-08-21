@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E il tuo servo ⟨sta⟩ in mezzo al tuo popolo che tu hai scelto — popolo numeroso, che non si può contare né numerare per moltitudine.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "E il tuo servo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "al tuo popolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "tu hai scelto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popolo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "numeroso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "si può contare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "numerare"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "per moltitudine"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:33.859408569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Una vedova, o una ripudiata, o una profanata, una prostituta — ⟨את⟩ queste non prenderà; ma una vergine del suo popolo prenderà come donna.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "una vedova"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "o una ripudiata"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "o una profanata"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "una prostituta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una vedova, una ripudiata, una profanata, una prostituta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prenderà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "una vergine"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "del suo popolo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prenderà"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "come donna"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:48.879995063Z",
+  "model": "glm-5.3"
+}

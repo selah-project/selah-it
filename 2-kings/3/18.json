@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ⟨questa⟩ ⟨è⟩ cosa leggera agli occhi di YHWH, e darà ⟨את⟩ Moab in mano vostra.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "e ⟨è⟩ cosa leggera"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨questa⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e darà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in mano vostra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:40.277121702Z",
+  "model": "glm-5.3"
+}

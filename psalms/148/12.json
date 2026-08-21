@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "i giovani e anche le vergini, i vecchi insieme ai fanciulli:",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "i giovani"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "le vergini"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "i vecchi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "insieme a"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ai fanciulli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:36.697921973Z",
+  "model": "glm-5.3"
+}

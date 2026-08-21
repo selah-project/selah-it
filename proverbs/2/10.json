@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Poiché la Chokhmà verrà nel tuo cuore e la conoscenza sarà dolce alla tua nefesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "verrà"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la Chokhmà"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "nel tuo cuore"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "e la conoscenza"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "alla tua nefesh"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "sarà dolce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:29.795822268Z",
+  "model": "glm-5.3"
+}

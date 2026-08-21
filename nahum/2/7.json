@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Le porte dei fiumi si aprono, e il palazzo si dissolve.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "le porte"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "dei fiumi"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "si aprono"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "e il palazzo"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "si dissolve"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:15.361111032Z",
+  "model": "glm-5.3"
+}

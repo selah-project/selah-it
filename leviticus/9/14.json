@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E lavò ⟨את⟩ le interiora e ⟨את⟩ le zampe, e le fece salire in fumo sull'olà, sopra l'altare.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "e lavò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le interiora"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "le interiora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le zampe"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "le zampe"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "fece salire in fumo"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "l'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:11.325124029Z",
+  "model": "glm-5.3"
+}

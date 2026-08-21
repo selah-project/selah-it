@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E YHWH avrà allontanato ⟨את⟩ l'uomo, e grande sarà l'abbandono in mezzo ⟨alla⟩ terra.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "e avrà allontanato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "e grande sarà"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "l'abbandono"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "alla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:46.637763312Z",
+  "model": "glm-5.3"
+}

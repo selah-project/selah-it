@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Tratta con bontà il tuo servo: che io viva e custodisca la tua parola.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "tratta con bontà"
+    },
+    {
+      "surface": "על",
+      "gloss": "con"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "che io viva"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "e custodisca"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "la tua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:41.609517744Z",
+  "model": "glm-5.3"
+}

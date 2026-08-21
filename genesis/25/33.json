@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E Giacobbe disse: «Giurami oggi come quest'oggi». Ed ⟨egli⟩ giurò a lui, e vendette ⟨את⟩ il suo diritto di primogenitura a Giacobbe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "giurami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come quest'oggi"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "e giurò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "e vendette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo diritto di primogenitura"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "il suo diritto di primogenitura"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "a Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:48.622373749Z",
+  "model": "glm-5.3"
+}

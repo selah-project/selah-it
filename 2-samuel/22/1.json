@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Davide parlò a YHWH le parole di questo canto, nel giorno in cui YHWH lo liberò dalla mano di tutti i suoi nemici e dalla mano di Shaùl.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "parlò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole di questo canto"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "del canto"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "di questo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno in cui"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "liberò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "dalla mano di tutti i suoi nemici e dalla mano di Shaùl"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutti"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "i suoi nemici"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "e dalla mano"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Shaùl"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:33.452934203Z",
+  "model": "glm-5.3"
+}

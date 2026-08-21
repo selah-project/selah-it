@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Quanto a me, a Elohim griderò, e YHWH mi salverà.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "griderò"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "mi salverà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:43.370789720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Io, io ⟨sono⟩ colui che cancella le tue ribellioni per amore di me, e dei tuoi peccati non mi ricordo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Io"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "colui"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "cancella"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "le tue ribellioni"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "per amore di me"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "e dei tuoi peccati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "mi ricordo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:10.091386551Z",
+  "model": "glm-5.3"
+}

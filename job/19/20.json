@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Alla mia pelle e alla mia carne si ⟨è⟩ attaccata la mia ossatura, e sono scampato con la pelle dei miei denti.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "alla mia pelle"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "e alla mia carne"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "si ⟨è⟩ attaccata"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "la mia ossatura"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "e sono scampato"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "con la pelle"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dei miei denti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:12.894671403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E io mi volsi per far disperare ⟨את⟩ il mio cuore riguardo a tutta la fatica che io ho faticato sotto il sole.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "e io mi volsi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "per far disperare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio cuore"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "על",
+      "gloss": "riguardo a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "la fatica"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "che io ho faticato"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:14.714794872Z",
+  "model": "glm-5.3"
+}

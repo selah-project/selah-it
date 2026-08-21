@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Hevel hevalim, disse il Qohelet, il tutto ⟨è⟩ hevel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hevalim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "il Qohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "il tutto"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:32.256176006Z",
+  "model": "glm-5.3"
+}

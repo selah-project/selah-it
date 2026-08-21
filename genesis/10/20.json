@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Questi ⟨sono⟩ i figli di Cam, secondo le loro famiglie, secondo le loro lingue, nelle loro terre, nei loro popoli",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Questi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "חם",
+      "gloss": "di Cam"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "secondo le loro famiglie"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "secondo le loro lingue"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "nelle loro terre"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "nei loro popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:46.748612361Z",
+  "model": "glm-5.3"
+}

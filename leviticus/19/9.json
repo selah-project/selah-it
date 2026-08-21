@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E quando mieterete ⟨את⟩ la messe della vostra terra, non finirai ⟨la⟩ parte estrema del tuo campo nel mietere, e le spigolature della tua messe non spigolerai.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "e quando mieterete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la messe"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "la messe"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "della vostra terra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "finirai"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨la⟩ parte estrema"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "del tuo campo"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "nel mietere"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "e le spigolature"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "della tua messe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "spigolerai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:43.682535451Z",
+  "model": "glm-5.3"
+}

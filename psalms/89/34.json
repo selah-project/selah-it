@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Ma il mio chesed non strapperò via da lui, e nella mia fedeltà non mentirò.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ma il mio chesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "strapperò via"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "mentirò"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "nella mia fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:33.831991266Z",
+  "model": "glm-5.3"
+}

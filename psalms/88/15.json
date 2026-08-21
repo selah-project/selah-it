@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Perché, YHWH, respingi la mia nefesh, nascondi il tuo volto da me?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "respingi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "nascondi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:22.560494217Z",
+  "model": "glm-5.3"
+}

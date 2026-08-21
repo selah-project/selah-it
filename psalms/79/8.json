@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Non ricordare contro di noi le colpe ⟨dei⟩ primi ⟨tempi⟩; affrettati, ci precedano le tue compassioni, poiché siamo molto abbattuti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ricordare"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "contro di noi"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "le colpe"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "dei primi tempi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "affrettati"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ci precedano"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "le tue compassioni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "siamo abbattuti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:07.198101532Z",
+  "model": "glm-5.3"
+}

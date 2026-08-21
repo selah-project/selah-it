@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Poiché ecco, i tuoi nemici rumoreggiano, e quelli che ti odiano hanno sollevato ⟨la⟩ testa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "rumoreggiano"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "e quelli che ti odiano"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hanno sollevato"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨la⟩ testa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:30.660382233Z",
+  "model": "glm-5.3"
+}

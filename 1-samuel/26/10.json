@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E disse Davide: vive YHWH — se non che YHWH lo colpirà, oppure il suo giorno verrà ed egli morirà, oppure scenderà in battaglia e sarà spazzato via.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se non che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "lo colpirà"
+    },
+    {
+      "surface": "או",
+      "gloss": "oppure"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "il suo giorno"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "verrà"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e morirà"
+    },
+    {
+      "surface": "או",
+      "gloss": "oppure"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in battaglia"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scenderà"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "e sarà spazzato via"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:43.625991532Z",
+  "model": "glm-5.3"
+}

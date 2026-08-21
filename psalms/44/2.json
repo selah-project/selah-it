@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Elohim, con le nostre orecchie abbiamo udito, i nostri padri ci hanno raccontato l'opera che hai operato ai loro giorni, nei giorni antichi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "con le nostre orecchie"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "abbiamo udito"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "i nostri padri"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "hanno raccontato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hai operato"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "ai loro giorni"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nei giorni di"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "antichi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:09.898897065Z",
+  "model": "glm-5.3"
+}

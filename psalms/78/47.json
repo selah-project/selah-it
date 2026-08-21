@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Uccise con la grandine le loro viti, e i loro sicomori con il gelo.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Uccise"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "con la grandine"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "le loro viti"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "e i loro sicomori"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "con il gelo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:54.827976924Z",
+  "model": "glm-5.3"
+}

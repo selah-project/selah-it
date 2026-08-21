@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E YHWH innalzò ⟨את⟩ gli avversari di Retzin contro di lui, e ⟨את⟩ i suoi nemici eccitò.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "e innalzò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli avversari di Retzin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "gli avversari"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "di Retzin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contro di lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi nemici"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "i suoi nemici"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "eccitò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:44.466895841Z",
+  "model": "glm-5.3"
+}

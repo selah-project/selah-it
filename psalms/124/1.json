@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 124,
+  "translation": "Canto delle salite, di Davide. Se non fosse stato YHWH, che ⟨è⟩ stato per noi — lo dica ora, ti prego, Israele —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Se non fosse stato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "che è stato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "lo dica"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora, ti prego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:04.534254084Z",
+  "model": "glm-5.3"
+}

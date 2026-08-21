@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Inseguo i miei nemici e li raggiungo, e non torno indietro finché non siano finiti.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "inseguo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "e li raggiungo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "torno indietro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "non siano finiti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:37.144196687Z",
+  "model": "glm-5.3"
+}

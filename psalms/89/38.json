@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Come la luna ⟨sarà⟩ stabilito per sempre, e ⟨come⟩ testimone fedele nella distesa ⟨del cielo⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "come la luna"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "stabilito"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e ⟨come⟩ testimone"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "nella distesa ⟨del cielo⟩"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "fedele"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:20.868049291Z",
+  "model": "glm-5.3"
+}

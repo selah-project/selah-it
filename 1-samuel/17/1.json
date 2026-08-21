@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E radunarono i Pelishtei ⟨את⟩ i loro accampamenti per la guerra, e si radunarono a Sokho, che ⟨è⟩ di Yehudah, e si accamparono tra Sokho e tra Azeqah, in Efes-Dammim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "e radunarono"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Pelishtei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro accampamenti"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "i loro accampamenti"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "per la guerra"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e si radunarono"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "a Sokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e si accamparono"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "in Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Dammim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:36.592365404Z",
+  "model": "glm-5.3"
+}

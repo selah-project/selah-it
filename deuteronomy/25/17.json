@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Ricorda ⟨את⟩ ciò che ti fece Amalek per la strada, quando uscivate dall'Egitto:",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ricorda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che ti fece Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la strada"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "quando uscivate"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:41.141651504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Ma io spererò sempre, e aggiungerò ⟨su⟩ ogni tua lode.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma io"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "spererò"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "e aggiungerò"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨su⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tua lode"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:32.020732738Z",
+  "model": "glm-5.3"
+}

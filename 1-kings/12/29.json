@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E pose ⟨את⟩ l'uno in Bet-El e ⟨את⟩ l'uno collocò in Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uno"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in Bet-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'uno"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "collocò"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "in Dan"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:33.680575955Z",
+  "model": "glm-5.3"
+}

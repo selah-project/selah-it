@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Poiché si consumano nel dolore la mia vita e i miei anni nel sospiro; vacilla per la mia colpa la mia forza, e le mie ossa si consumano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "si consumano"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "nel dolore"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "la mia vita"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "e i miei anni"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "nel sospiro"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "vacilla"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "per la mia colpa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "la mia forza"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "e le mie ossa"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "si consumano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:59.079696430Z",
+  "model": "glm-5.3"
+}

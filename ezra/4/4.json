@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E il popolo del paese indeboliva le mani del popolo di Yehudah e li faceva esitare ⟨את⟩ nel costruire.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo di"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "indeboliva"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "le mani di"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "e li faceva esitare"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "li (il popolo di Yehudah)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nel costruire"
+    }
+  ],
+  "timestamp": "2026-08-21T09:38:54.296916681Z",
+  "model": "glm-5.3"
+}

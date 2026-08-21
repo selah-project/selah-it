@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E contese il popolo con Mosè, e dissero: dateci acqua e berremo. E disse loro Mosè: perché contendete con me? perché mettete alla prova ⟨את⟩ YHWH?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "e contese"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "date"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "e berremo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "מה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "contendete"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "mettete alla prova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:39.706874349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Elohim, quando uscivi davanti al tuo popolo, quando marciavi nel deserto — Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "quando uscivi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "al tuo popolo"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "quando marciavi"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.787156431Z",
+  "model": "glm-5.3"
+}

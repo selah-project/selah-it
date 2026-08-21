@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Il profondo, come un mantello, lo coprivi; sopra i monti stavano le acque.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "il profondo"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "come un mantello"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "lo coprivi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stavano"
+    },
+    {
+      "surface": "מים",
+      "gloss": "le acque"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:07.284184263Z",
+  "model": "glm-5.3"
+}

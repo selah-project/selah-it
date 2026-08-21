@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Non mi hai forse versato come latte, e come caglio non mi hai fatto rapprendere?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Non… forse"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "come latte"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "mi hai versato"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "e come caglio"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "non mi hai fatto rapprendere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:01.549146467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E li prese e li fece passare ⟨את⟩ il torrente, e fece passare ⟨את⟩ ciò che aveva.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "e li prese"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "e li fece passare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il torrente"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "il torrente"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "e fece passare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che aveva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aveva"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:33.293162669Z",
+  "model": "glm-5.3"
+}

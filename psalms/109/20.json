@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Questa sia la retribuzione dei miei accusatori da parte ⟨את⟩ di YHWH, e di quelli che parlano male contro la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "la retribuzione"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "dei miei accusatori"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "di YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "e di quelli che parlano"
+    },
+    {
+      "surface": "רע",
+      "gloss": "male"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:02.762907340Z",
+  "model": "glm-5.3"
+}

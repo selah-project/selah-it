@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Davanti a Efraim e Beniamino e Manasseh, risveglia ⟨את⟩ la tua forza, e vieni in nostro soccorso!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "e Beniamino"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "e Manasseh"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "risveglia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua forza"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "la tua forza"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "e vieni"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "in soccorso"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:06.958034646Z",
+  "model": "glm-5.3"
+}

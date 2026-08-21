@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e il suo esercito e i suoi recensiti: nove e cinquanta ⟨mila⟩ e trecento.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "e il suo esercito"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "e i loro recensiti"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nove"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e cinquanta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "e tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:19.775542808Z",
+  "model": "glm-5.3"
+}

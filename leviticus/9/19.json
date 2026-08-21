@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E ⟨את⟩ i grassi del bue e del montone: la coda grassa, e il velo che copre le interiora, e i reni, e il lobo sovrapposto al fegato.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i grassi"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "i grassi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "del"
+    },
+    {
+      "surface": "השור",
+      "gloss": "bue"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e del"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "montone"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "la coda grassa"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "e il velo che copre"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "e i reni"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "e il lobo sovrapposto"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "al fegato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:08.669511865Z",
+  "model": "glm-5.3"
+}

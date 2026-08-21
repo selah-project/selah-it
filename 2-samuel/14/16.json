@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Poiché il re ascolterà, per salvare ⟨את⟩ la sua serva dalla mano dell'uomo ⟨che⟩ cerca di distruggere ⟨את⟩ me e ⟨את⟩ mio figlio insieme, dall'eredità di Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolterà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "per salvare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua serva"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "la sua serva"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "per distruggere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mio figlio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "dall'eredità"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:03.411172701Z",
+  "model": "glm-5.3"
+}

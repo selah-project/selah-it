@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Guai ad Ashshur, scettro della mia ira: e il bastone che ⟨è⟩ nella loro mano ⟨è⟩ la mia furia.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Guai"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ad Ashshur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "scettro"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "della mia ira"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "e il bastone"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "nella loro mano"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "la mia furia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:38.256737321Z",
+  "model": "glm-5.3"
+}

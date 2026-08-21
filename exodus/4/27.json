@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 4:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse YHWH ad Aharon: « va' incontro a Mosè, nel deserto ». Ed egli andò e lo incontrò al monte dell'Elohim, e lo baciò.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "incontro a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ed egli andò"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "e lo incontrò"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "al monte"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "e lo baciò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:53.854087319Z",
+  "model": "glm-5.3"
+}

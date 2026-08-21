@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "Al direttore del coro, su ⟨il canto di⟩ Machalat. Maskil di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil (poema didattico)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:42.895323555Z",
+  "model": "glm-5.3"
+}

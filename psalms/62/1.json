@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 62,
+  "translation": "Al maestro del coro, secondo Jedutun. Mizmor di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al maestro del coro"
+    },
+    {
+      "surface": "על",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:37.089610737Z",
+  "model": "glm-5.3"
+}

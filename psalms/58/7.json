@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Elohim, rompi i loro denti nella loro bocca; le zanne dei leoncellini frantuma, YHWH",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "rompi"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "i loro denti"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "nella loro bocca"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "le zanne"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "dei leoncellini"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "frantuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:02.969712389Z",
+  "model": "glm-5.3"
+}

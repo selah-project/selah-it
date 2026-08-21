@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 87,
+  "translation": "Cose gloriose si dicono di te, città di Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "cose gloriose"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "si dicono"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "città"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:51.543906458Z",
+  "model": "glm-5.3"
+}

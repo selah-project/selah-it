@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E il serpente disse alla donna: «Morire ⟨di certo⟩ non morirete.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "il serpente"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "donna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Morire"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "morirete"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:09.907439458Z",
+  "model": "glm-5.3"
+}

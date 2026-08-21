@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Ha detto in cuor suo: «Non sarò mai smosso; di generazione in generazione ⟨sarò⟩ senza male».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in cuor suo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarò smosso"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "di generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "in generazione"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "in male"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:21.866764994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Elohim non bestemmierai, e un principe in mezzo al tuo popolo non maledirai.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "bestemmierai"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "e un principe"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "in mezzo al tuo popolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאור",
+      "gloss": "maledirai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:34.320981267Z",
+  "model": "glm-5.3"
+}

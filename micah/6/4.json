@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Poiché ti ho fatto salire dal paese d'Egitto, dalla casa di servitù ti ho riscattato, e ho mandato davanti a te ⟨את⟩ Moshè, Aharon e Miryàm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ti ho fatto salire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "di servitù"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ti ho riscattato"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "e ho mandato"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "e Miryàm"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:16.670633461Z",
+  "model": "glm-5.3"
+}

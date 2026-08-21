@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "Lodate Yah! Loda, anima mia, ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Loda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "anima mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.899285879Z",
+  "model": "glm-5.3"
+}

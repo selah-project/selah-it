@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Da te ⟨את⟩ ⟨procede⟩ la mia lode nella grande assemblea; i miei voti li adempirò davanti a quelli che lo temono.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "da ⟨את⟩ te",
+      "marks": "la mia lode"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "la mia lode"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nell'assemblea"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "i miei voti"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "adempirò"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "quelli che lo temono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:04.093102090Z",
+  "model": "glm-5.3"
+}

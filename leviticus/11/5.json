@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E ⟨את⟩ lo sciacallo-di-roccia (lo shafan), perché ⟨esso⟩ fa risalire il bolo ma lo zoccolo non spaccia — impuro ⟨esso⟩ è per voi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "lo shafan (lo iossàssèrò, dicer-di-roccia)"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "lo shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "fa risalire"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "il bolo (gerà)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "e lo zoccolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "spaccia"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impuro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:41.481381139Z",
+  "model": "glm-5.3"
+}

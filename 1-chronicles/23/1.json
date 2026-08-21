@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Davide invecchiò e fu sazio di giorni, e fece regnare ⟨את⟩ Salomone suo figlio su Israele.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "e Davide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "invecchiò"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e fu sazio"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di giorni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "fece regnare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salomone"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:54.810660415Z",
+  "model": "glm-5.3"
+}

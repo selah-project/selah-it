@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E Yaakov inviò messaggeri davanti a sé, da Esav suo fratello, nella terra di Seir, il campo di Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e inviò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a sé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "di Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:17.752640335Z",
+  "model": "glm-5.3"
+}

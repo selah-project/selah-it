@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "nel giorno in cui tremeranno i guardiani della casa e si curveranno gli uomini forti, e cesseranno le macine perché sono diventate poche, e si oscureranno quelle che guardano dalle finestre",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "in cui tremeranno"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "i guardiani di"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "e si curveranno"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini di"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "forza"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "e cesseranno"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "le macine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "sono diventate poche"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "e si oscureranno"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "quelle che guardano"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "dalle finestre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:26.548919268Z",
+  "model": "glm-5.3"
+}

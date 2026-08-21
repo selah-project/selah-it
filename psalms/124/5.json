@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 124,
+  "translation": "allora le acque altere sarebbero passate sopra la nostra nefesh.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "allora"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "sarebbero passate"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "la nostra nefesh"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "altere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:14.372354743Z",
+  "model": "glm-5.3"
+}

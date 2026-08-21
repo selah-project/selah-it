@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 2:25",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Trattieni il tuo piede dal andare scalzo e la tua gola dalla sete; ma tu hai detto: « ⟨È⟩ disperato; no, perché ho amato gli stranieri e dietro a loro camminerò ».",
+  "tokens": [
+    {
+      "surface": "מנעי",
+      "gloss": "trattieni"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "il tuo piede"
+    },
+    {
+      "surface": "מיחף",
+      "gloss": "dall'andare scalzo"
+    },
+    {
+      "surface": "וגורנך",
+      "gloss": "e la tua gola"
+    },
+    {
+      "surface": "מצמאה",
+      "gloss": "dalla sete"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "ma tu hai detto"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "disperato"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ho amato"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "gli stranieri"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "e dietro a loro"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "camminerò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:59:10.931664683Z",
+  "model": "glm-5.3"
+}

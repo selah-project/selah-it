@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Avram partì, camminando e proseguendo verso il Neghev.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "partì"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "camminando"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "proseguendo"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "verso il Neghev"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:40.362691120Z",
+  "model": "glm-5.3"
+}

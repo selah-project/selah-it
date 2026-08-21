@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Mi ha consumato il mio zelo, perché i miei nemici hanno dimenticato le tue parole.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "Mi ha consumato"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "il mio zelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "hanno dimenticato"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "le tue parole"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "i miei nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:41.211075751Z",
+  "model": "glm-5.3"
+}

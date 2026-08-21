@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "⟨את⟩ lo straniero potrai esigere; ma ciò che avrà il tuo fratello con te, ⟨את⟩ lui la tua mano lo rimetterà.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo straniero"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "lo straniero"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "potrai esigere"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ma ciò che"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "avrà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo fratello"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "il tuo fratello"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "la tua mano rimetterà"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:27.359435548Z",
+  "model": "glm-5.3"
+}

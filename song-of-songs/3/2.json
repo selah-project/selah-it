@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Mi alzerò ⟨ora⟩ e girerò per la città, per le piazze e per le strade larghe; cercherò ⟨את⟩ colui che ama la mia nefesh. L'ho cercato e non l'ho trovato.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "mi alzerò"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ora⟩"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "e girerò"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "per la città"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "per le piazze"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "e per le strade larghe"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "cercherò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "colui che ama la mia nefesh"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "che ama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "l'ho cercato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "l'ho trovato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:23.802072778Z",
+  "model": "glm-5.3"
+}

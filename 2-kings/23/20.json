@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E sgozzò ⟨את⟩ tutti i sacerdoti delle bamot che erano là, sugli altari; e bruciò ⟨את⟩ ossa d'uomo su di loro; e tornò a Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "e sgozzò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i sacerdoti delle bamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "i sacerdoti di"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "le bamot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "gli altari"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "e bruciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ossa d'uomo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ossa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:54.420512508Z",
+  "model": "glm-5.3"
+}

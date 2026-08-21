@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Non mi vedrà più l'occhio che mi guarda; i tuoi occhi ⟨sono⟩ su di me, e io non ⟨sono⟩ più.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "mi vedrà"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'occhio"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "che mi guarda"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i tuoi occhi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "e io non sono più"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:25.576463286Z",
+  "model": "glm-5.3"
+}

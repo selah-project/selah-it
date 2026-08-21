@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Se il toro incorna uno schiavo o una schiava: trenta sicli d'argento darà al loro padrone, e il toro sarà lapidato.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "uno schiavo"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "incorna"
+    },
+    {
+      "surface": "השור",
+      "gloss": "il toro"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "una schiava"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sicli"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "al loro padrone"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "e il toro"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "sarà lapidato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:23.143097921Z",
+  "model": "glm-5.3"
+}

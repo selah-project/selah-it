@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E avvenne ⟨nel⟩ terzo anno, e scese Yehoshafat re di Yehudah dal re d'Israele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "⟨nel⟩ anno"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "terzo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:24.079497698Z",
+  "model": "glm-5.3"
+}

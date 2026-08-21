@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Tutti quelli che mi vedono mi scherniscono; storcono il labbro, scuotono ⟨il⟩ capo:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "quelli che mi vedono"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "mi scherniscono"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "storcono"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "il labbro"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "scuotono"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨il⟩ capo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:59.578519516Z",
+  "model": "glm-5.3"
+}

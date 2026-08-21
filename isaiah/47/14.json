@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Ecco, sono come paglia: il fuoco li ha divorati; non salveranno ⟨la loro⟩ nefesh dalla mano della fiamma. Non ⟨resta⟩ brace per scaldarsi, né fuoco per sedersi davanti a esso.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sono come"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "paglia"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "li ha divorati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "salveranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro nefesh"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "la loro nefesh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "della fiamma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "brace"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "per scaldarsi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "né fuoco"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "per sedersi"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "davanti a esso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:26.743146228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Dal fulgore dinanzi a lui passarono le sue nubi — grandine e braci di fuoco.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "dal fulgore"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "dinanzi a lui"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "le sue nubi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "passarono"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "grandine"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "e braci di"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:16.048133671Z",
+  "model": "glm-5.3"
+}

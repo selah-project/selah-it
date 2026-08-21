@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Poiché abominazione di YHWH ⟨è⟩ il perverso, e con ⟨את⟩ i retti il suo segreto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "abominazione"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "il perverso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i retti"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "i retti"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "il suo segreto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:22.315115924Z",
+  "model": "glm-5.3"
+}

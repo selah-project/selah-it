@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "e ⟨את⟩ l'altare dell'olà ⟨את⟩ con tutti i suoi utensili, e ⟨את⟩ la conca e ⟨את⟩ il suo basamento.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare dell'olà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dell'olà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi utensili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i suoi utensili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la conca"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "la conca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo basamento"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "il suo basamento"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:30.541437538Z",
+  "model": "glm-5.3"
+}

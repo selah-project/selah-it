@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Ha sete la mia nefesh di Elohim, del El vivente: quando verrò e mi presenterò davanti al volto di Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ha sete"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "del El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivente"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "verrò"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "e mi presenterò"
+    },
+    {
+      "surface": "פני",
+      "gloss": "al volto di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:19.322310675Z",
+  "model": "glm-5.3"
+}

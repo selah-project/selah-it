@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Dissi io, nel mio cuore: «Vieni, orsù, metterò alla prova ⟨con⟩ la gioia e vedrò ⟨il⟩ bene»; ed ecco, anche questo è hevel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Dissi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nel mio cuore"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Vieni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "orsù"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "metterò alla prova"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "⟨con⟩ la gioia"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vedrò"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨il⟩ bene"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "questo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "è hevel"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:19.541669587Z",
+  "model": "glm-5.3"
+}

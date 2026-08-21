@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Ed ⟨egli⟩ disse: «Domani». E disse: «Come dici tu, affinché tu sappia che non ⟨vi è⟩ alcuno come YHWH, il nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ed ⟨egli⟩ disse"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Domani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Come dici tu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tu sappia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨vi è⟩ alcuno"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "come YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:28.582344994Z",
+  "model": "glm-5.3"
+}

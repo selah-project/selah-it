@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Ricordami, YHWH, nel favore ⟨del⟩ tuo popolo; visitami con la tua salvezza.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Ricordami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "nel favore"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tuo popolo"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "visitami"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "con la tua salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:32.763673612Z",
+  "model": "glm-5.3"
+}

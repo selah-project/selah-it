@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 5:9",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Il mio cuore ⟨è⟩ verso i legislatori d'Israele, che si offrono volontari tra il popolo: benedite YHWH!",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "לחוקקי",
+      "gloss": "verso i legislatori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "che si offrono volontari"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "tra il popolo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "benedite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:55.972315871Z",
+  "model": "glm-5.3"
+}

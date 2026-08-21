@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "YHWH ⟨è⟩ per me, non temerò: che cosa mi farà l'umano?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "temerò"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'umano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:44.593801437Z",
+  "model": "glm-5.3"
+}

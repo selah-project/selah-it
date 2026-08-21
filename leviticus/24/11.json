@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E il figlio della donna israelita nominò con disprezzo ⟨את⟩ il Nome e maledisse; e lo condussero da Mosè. Il nome di sua madre ⟨era⟩ Shelomit, figlia di Divri, della tribù di Dan.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "e nominò con disprezzo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "della donna"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "israelita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Nome"
+    },
+    {
+      "surface": "השם",
+      "gloss": "il Nome"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "e maledisse"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "e lo condussero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "da Mosè (oggetto: lui)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e il nome"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "di sua madre"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "di Divri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "della tribù"
+    },
+    {
+      "surface": "דן",
+      "gloss": "di Dan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:26.271189244Z",
+  "model": "glm-5.3"
+}

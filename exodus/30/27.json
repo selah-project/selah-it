@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "e ⟨את⟩ la tavola e ⟨את⟩ tutti i suoi utensili, e ⟨את⟩ la menorah e ⟨את⟩ i suoi utensili, e ⟨את⟩ l'altare dell'incenso,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la tavola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi utensili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i suoi utensili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "la menorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi utensili"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "i suoi utensili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "dell'incenso"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:56.114967478Z",
+  "model": "glm-5.3"
+}

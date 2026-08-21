@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Azzimi si mangeranno ⟨את⟩ i sette giorni, e non ti si veda lievitato, e non ti si veda lievito entro tutti i tuoi confini.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Azzimi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "si mangeranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i sette giorni"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i sette"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "si veda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "presso di te"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "lievitato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "si veda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "presso di te"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "lievito"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "entro tutti"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "i tuoi confini"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:45.114093327Z",
+  "model": "glm-5.3"
+}

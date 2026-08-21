@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Poiché non nel mio arco mi confido, e la mia spada non mi salverà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "nel mio arco"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "mi confido"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "e la mia spada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "mi salverà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:58.125042519Z",
+  "model": "glm-5.3"
+}

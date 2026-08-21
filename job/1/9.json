@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E rispose il satan ⟨את⟩ YHWH e disse: forse che per nulla Giobbe teme Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "il satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "per nulla"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "teme"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Giobbe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:36.223683675Z",
+  "model": "glm-5.3"
+}

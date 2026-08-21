@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E i pesci che sono nel fiume moriranno, e il fiume puzzerà, e l'Egitto si stancherà di bere acqua dal fiume.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "E i pesci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "sono nel fiume"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "moriranno"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "e puzzerà"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "il fiume"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "e si stancherà"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "di bere"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "il fiume"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:48.422001283Z",
+  "model": "glm-5.3"
+}

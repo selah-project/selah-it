@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "il leone, possente tra le bestie, che non si volge indietro davanti a ⟨nessuno⟩;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "il leone"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "possente"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "tra le bestie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "si volge indietro"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨nessuno⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:27.635033241Z",
+  "model": "glm-5.3"
+}

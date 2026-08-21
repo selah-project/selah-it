@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 15:27",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Chi rapina guagno turba la propria casa, e chi odia i regali vivrà.",
+  "tokens": [
+    {
+      "surface": "עכר",
+      "gloss": "turba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la propria casa"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "chi rapina"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "guadagno"
+    },
+    {
+      "surface": "ושונא",
+      "gloss": "e chi odia"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "i regali"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "vivrà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:37.205906604Z",
+  "model": "glm-5.3"
+}

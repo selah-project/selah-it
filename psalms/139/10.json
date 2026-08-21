@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "anche là la tua mano mi guida, e la tua destra mi afferra.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "mi guida"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "e mi afferra"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.237186536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Un sacco ho cucito sulla mia pelle, e nella polvere ho immerso il mio corno.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "un sacco"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "ho cucito"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "la mia pelle"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "e ho immerso"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "nella polvere"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "il mio corno"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:22.112317485Z",
+  "model": "glm-5.3"
+}

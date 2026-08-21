@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "E l'uomo fece come aveva detto Yosef, e l'uomo portò ⟨את⟩ gli uomini alla casa di Yosef.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fece"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aveva detto"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "portò"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli uomini"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "alla casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "di Yosef"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:05.831633114Z",
+  "model": "glm-5.3"
+}

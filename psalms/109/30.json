@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Loderò YHWH grandemente con la mia bocca, e in mezzo a molti lo celebrerò.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "loderò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandemente"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "con la mia bocca"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "e in mezzo a"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "lo celebrerò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:09.572129759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E baciò Giacobbe Rachele, e alzò ⟨את⟩ la sua voce e pianse.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "e baciò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachele"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "e alzò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua voce"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "la sua voce"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "e pianse"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:00.501176471Z",
+  "model": "glm-5.3"
+}

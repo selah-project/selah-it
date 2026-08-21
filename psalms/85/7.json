@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 85,
+  "translation": "Non tornerai ⟨Tu⟩ a farci rivivere, così che il tuo popolo gioisca in te?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Non… forse?"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Tu⟩"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tornerai"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "a farci rivivere"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "e il tuo popolo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gioisca"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:47.739884576Z",
+  "model": "glm-5.3"
+}

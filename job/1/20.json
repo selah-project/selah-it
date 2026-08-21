@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Allora Iyov si alzò, si stracciò ⟨את⟩ il suo mantello, si rasò ⟨את⟩ il suo capo, cadde a terra e si prostrò.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "si alzò"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "e si stracciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo mantello"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "il suo mantello"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "e si rasò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo capo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "il suo capo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e cadde"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "e si prostrò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:23.803783296Z",
+  "model": "glm-5.3"
+}

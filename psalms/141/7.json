@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 141,
+  "translation": "Come chi fende e spaccia ⟨la terra⟩ in terra, così sono sparse le nostre ossa alla bocca dello Sheol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "chi fende"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "e spacca"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in terra"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "sono sparse"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "le nostre ossa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "alla bocca"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "dello Sheol"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:06.860731837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ma ⟨את⟩ Nathan il profeta, e Benayahu, e ⟨את⟩ i guerrieri, e ⟨את⟩ Shelomoh suo fratello, non chiamò.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nathan il profeta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "e Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i guerrieri"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "i guerrieri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh suo fratello"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chiamò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:17.713884915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Generazione a generazione loderà le tue opere, e le tue potenze racconteranno.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Generazione"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "a generazione"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "loderà"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "le tue opere"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "e le tue potenze"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "racconteranno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:12.077290701Z",
+  "model": "glm-5.3"
+}

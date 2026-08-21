@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Hanno forse salvato ⟨את⟩ loro gli dèi delle nazioni che i miei padri hanno devastato: ⟨את⟩ Gozan e ⟨את⟩ Charan, e Retzef e i figli di Eden, che erano in Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "hanno forse salvato"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gli dèi di"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "hanno devastato"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "i miei padri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "e Retzef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e i figli di"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "in Telassar"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:36.331929851Z",
+  "model": "glm-5.3"
+}

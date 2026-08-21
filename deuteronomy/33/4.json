@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Una Torah ci ha comandato Mosè, eredità dell'assemblea di Giacobbe.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Una Torah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "eredità"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "dell'assemblea"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:39.168375622Z",
+  "model": "glm-5.3"
+}

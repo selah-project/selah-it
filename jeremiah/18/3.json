@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E io scesi alla casa del vasaio, ed ecco ⟨lui⟩, occupato in un lavoro sulle pietre.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "E io scesi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "alla casa"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "del vasaio"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "ed ecco ⟨lui⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "occupato in"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "un lavoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "le pietre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:04:17.009926622Z",
+  "model": "glm-5.3"
+}

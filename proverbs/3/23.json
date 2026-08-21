@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Allora camminerai sicuro per la tua via, e il tuo piede non urterà.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Allora"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "camminerai"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sicuro"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "per la tua via"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "e il tuo piede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "urterà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:37.991324028Z",
+  "model": "glm-5.3"
+}

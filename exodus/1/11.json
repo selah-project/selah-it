@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E posero sopra di lui capi delle corvée, per opprimerlo con i loro pesi; ed egli costruì per il faraone città-deposito: ⟨את⟩ Pitom e ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "e posero"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sopra di lui"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capi"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "delle corvée"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "opprimerlo"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "con i loro pesi"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ed egli costruì"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "città"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "-deposito"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "per il faraone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:51.281180140Z",
+  "model": "glm-5.3"
+}

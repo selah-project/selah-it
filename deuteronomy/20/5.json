@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 20:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E parleranno gli sceriffi al popolo, dicendo: chi ⟨è⟩ l'uomo che ha costruito una casa nuova e non l'ha inaugurata? Vada e torni alla sua casa, che non muoia in battaglia e un altro uomo la inaugurisca al suo posto.",
+  "tokens": [
+    {
+      "surface": "ודברו",
+      "gloss": "E parleranno"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "gli sceriffi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ha costruito"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuova"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "חנכו",
+      "gloss": "l'ha inaugurata"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "Vada"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e torni"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "alla sua casa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "che non"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "muoia"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in battaglia"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e un altro uomo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altro"
+    },
+    {
+      "surface": "יחנכנו",
+      "gloss": "la inaugurisca"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:51.047166704Z",
+  "model": "glm-5.3"
+}

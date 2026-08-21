@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Queste ⟨sono⟩ le feste fisse di YHWH, convocazioni sante, che voi proclamerete ⟨את⟩ al loro tempo fissato.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Queste"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "le feste fisse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "convocazioni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sante"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "voi proclamerete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "al loro tempo fissato"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "al loro tempo fissato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:23.090681122Z",
+  "model": "glm-5.3"
+}

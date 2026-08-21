@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Elohim, facci tornare, e illumina il tuo volto, e saremo salvati!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "facci tornare"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "e illumina"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "e saremo salvati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:06.958184137Z",
+  "model": "glm-5.3"
+}

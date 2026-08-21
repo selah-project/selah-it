@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E YHWH mandò ⟨את⟩ Ierubbaal e ⟨את⟩ Bedan e ⟨את⟩ Iftach e ⟨את⟩ Shemuël, e vi liberò ⟨את⟩ dalla mano dei vostri nemici all'intorno; e abitaste al sicuro.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Ierubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Iftach"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Iftach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "e vi liberò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dei vostri nemici"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "all'intorno"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "e abitaste"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "al sicuro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:18.150066769Z",
+  "model": "glm-5.3"
+}

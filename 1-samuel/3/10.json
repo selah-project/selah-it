@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E venne YHWH e si fermò in piedi, e chiamò come volta per volta: «Shemuèl, Shemuèl». E disse Shemuèl: «Parla, perché il tuo servo ascolta».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "e si fermò in piedi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "come volta"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "per volta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuèl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuèl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuèl"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:45.887040580Z",
+  "model": "glm-5.3"
+}

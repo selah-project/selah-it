@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Non uscire in fretta a contendere, perché non sai che fare alla fine di essa, quando il tuo prossimo ti avrà umiliato ⟨אתך⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uscire"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "a contendere"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "in fretta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "saprai fare"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "alla fine di essa"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "quando... avrà umiliato"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ti (il prossimo, oggetto dell'umiliazione)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "il tuo prossimo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:10.997521168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E Giosuè si alzò di buon mattino e i sacerdoti sollevarono ⟨את⟩ l'arca di YHWH.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "e si alzò di buon mattino"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Giosuè"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "e sollevarono"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:52.897379837Z",
+  "model": "glm-5.3"
+}

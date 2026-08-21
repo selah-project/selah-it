@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Per ogni cosa ⟨c'è⟩ un tempo, e un'ora per ogni volere sotto i cieli.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "per ogni cosa"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "un tempo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un'ora"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per ogni"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "volere"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:18.952234466Z",
+  "model": "glm-5.3"
+}

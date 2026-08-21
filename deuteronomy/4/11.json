@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E vi avvicinaste e vi fermaste ai piedi del monte, e il monte ardeva nel fuoco fino al cuore dei cieli: tenebra, nube e caligine.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "e vi avvicinaste"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "e vi fermaste"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ai piedi di"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "e il monte"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ardeva"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "לב",
+      "gloss": "al cuore"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "nube"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "e caligine"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:53.042087870Z",
+  "model": "glm-5.3"
+}

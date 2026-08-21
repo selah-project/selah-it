@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 27:31",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E se un uomo vuole riscattare ⟨qualcosa⟩ della sua decima, aggiunga il quinto di essa su di essa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "riscattare"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "vuole riscattare"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ממעשרו",
+      "gloss": "della sua decima"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "il quinto di essa"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "aggiunga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di essa"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:21.015168051Z",
+  "model": "glm-5.3"
+}

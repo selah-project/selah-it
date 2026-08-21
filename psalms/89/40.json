@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Hai ripudiato il patto del tuo servo, hai profanato fino a terra la sua corona.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "hai ripudiato"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "il patto"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "del tuo servo"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "hai profanato"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fino a terra"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "la sua corona"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:20.868285973Z",
+  "model": "glm-5.3"
+}

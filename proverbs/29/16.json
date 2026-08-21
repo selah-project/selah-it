@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Quando i malvagi si moltiplicano, moltiplica ⟨il⟩ delitto, ma i giusti vedranno la loro caduta.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "quando si moltiplicano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "moltiplica"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "il delitto"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ma i giusti"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "la loro caduta"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vedranno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:54.076979265Z",
+  "model": "glm-5.3"
+}

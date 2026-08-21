@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Poiché il sogno viene con la moltitudine di occupazioni, e la voce dello stolto con la moltitudine di parole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "il sogno"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "con la moltitudine di"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "occupazioni"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e la voce"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dello stolto"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "con la moltitudine di"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "parole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:42.821385736Z",
+  "model": "glm-5.3"
+}

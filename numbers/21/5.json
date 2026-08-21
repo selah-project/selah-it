@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 21:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E parlò il popolo contro Elohim e contro Mosè: «Perché ci avete fatti salire dall'Egitto per morire nel deserto? Poiché non c'è pane e non c'è acqua, e la nostra nefesh è nauseata da questo pane fiacco».",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "contro Elohim"
+    },
+    {
+      "surface": "ו במשה",
+      "gloss": "e contro Mosè"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ci avete fatti salire"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "למות",
+      "gloss": "per morire"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "ונפשנו",
+      "gloss": "e la nostra nefesh"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "è nauseata"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "dal pane"
+    },
+    {
+      "surface": "הקלקל",
+      "gloss": "fiacco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:36.352969442Z",
+  "model": "glm-5.3"
+}

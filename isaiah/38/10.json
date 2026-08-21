@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Io dicevo: nel declino dei miei giorni me ne andrò, alle porte dello Sheol sono contati ⟨per me⟩ il resto dei miei anni.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dicevo"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "nel declino"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dei miei giorni"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "me ne andrò"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "alle porte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "dello Sheol"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "sono contati"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "dei miei anni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:50.364821242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E farà YHWH a loro come fece a Sichon e a Og, re dell'Emorita, e alla loro terra, che ⟨lui⟩ distrusse ⟨את⟩ loro.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "e farà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "a Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "e a Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "re"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "dell'Emorita"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "e alla loro terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "distrusse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:20.201228771Z",
+  "model": "glm-5.3"
+}

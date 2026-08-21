@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E avvenne, al sentire del re ⟨את⟩ le parole della donna, che egli squarciò ⟨את⟩ le sue vesti mentre passava sulla muraglia; e il popolo guardò, ed ecco il sacco sulla sua carne, all'interno.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "al sentire"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole della donna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "della donna"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ed egli squarciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mentre egli"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passava"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "la muraglia"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e il popolo guardò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "השק",
+      "gloss": "il sacco"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "all'interno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:35.651800908Z",
+  "model": "glm-5.3"
+}

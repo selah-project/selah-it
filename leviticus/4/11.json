@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "e ⟨את⟩ la pelle del toro, e ⟨את⟩ tutta la sua carne, sopra la sua testa e sopra le sue gambe, e le sue interiora e il suo letame.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la pelle del toro"
+    },
+    {
+      "surface": "עור",
+      "gloss": "la pelle"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "del toro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la sua carne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "la sua testa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sopra"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "le sue gambe"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "e le sue interiora"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "e il suo letame"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:21.789532167Z",
+  "model": "glm-5.3"
+}

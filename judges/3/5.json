@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E i figli di Israele abitarono in mezzo al cananeo, all'ittita, all'emoreo, al perizzita, all'ivveo e al Gebuseo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "abitarono"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "al cananeo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "all'ittita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "all'emoreo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "al perizzita"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "all'ivveo"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "al Gebuseo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:08.421940156Z",
+  "model": "glm-5.3"
+}

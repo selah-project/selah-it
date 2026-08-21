@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E un fiume usciva da Eden per irrigare ⟨את⟩ il giardino, e di là si divideva e diventava quattro capi.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "e un fiume"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "usciva"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "da Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "per irrigare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giardino"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "il giardino"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "e di là"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "si divideva"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e diventava"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "capi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:24.497658798Z",
+  "model": "glm-5.3"
+}

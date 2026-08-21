@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 137,
+  "translation": "Se dimentico te, Gerusalemme, si dimentichi la mia destra.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "dimentico te"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "si dimentichi"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "la mia destra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.370974413Z",
+  "model": "glm-5.3"
+}

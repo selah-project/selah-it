@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Mizmor di Davide. Date a YHWH, figli di Elim, date a YHWH gloria e vigore.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "date"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "di Elim"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "date"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloria"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e vigore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:42.161238277Z",
+  "model": "glm-5.3"
+}

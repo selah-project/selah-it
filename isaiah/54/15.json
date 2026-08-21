@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 54,
+  "translation": "Ecco, uno muoverà guerra — ma non ⟨da⟩ me; chi muove guerra con te, su di te cadrà.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "גור",
+      "gloss": "uno muoverà guerra"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "muoverà guerra (sicuramente)"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ da me",
+      "marks": "«da me» — chi attacca, marcato dall'aleph-tav"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muove guerra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "con ⟨את⟩ te"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cadrà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:47.700236864Z",
+  "model": "glm-5.3"
+}

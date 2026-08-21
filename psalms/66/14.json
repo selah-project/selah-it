@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "che le mie labbra hanno dischiuso e la mia bocca ha pronunciato nel mio stretto ⟨bisogno⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "hanno dischiuso"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "le mie labbra"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e ha pronunciato"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nella mia angustia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mio⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:01.769171431Z",
+  "model": "glm-5.3"
+}

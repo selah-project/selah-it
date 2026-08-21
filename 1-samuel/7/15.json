@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E Samuele giudicò ⟨את⟩ Israele tutti i giorni della sua vita.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "e giudicò"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni di"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "della sua vita"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:40.914223984Z",
+  "model": "glm-5.3"
+}

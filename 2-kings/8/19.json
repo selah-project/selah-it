@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E YHWH non volle distruggere ⟨את⟩ Giuda, per amore di Davide suo servo, come gli aveva detto, di dare a lui una lampada ai suoi figli tutti i giorni.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "volle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "distruggere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "suo servo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aveva detto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "di dare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "una lampada"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ai suoi figli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "i giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:20.408053283Z",
+  "model": "glm-5.3"
+}

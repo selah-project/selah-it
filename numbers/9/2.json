@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E facciano i figli d'Israele ⟨את⟩ la Pasqua al tempo suo stabilito.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "E facciano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Pasqua"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "la Pasqua"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "al tempo suo stabilito"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:16.208457841Z",
+  "model": "glm-5.3"
+}

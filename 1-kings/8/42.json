@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "poiché udranno ⟨את⟩ il tuo nome grande e ⟨את⟩ la tua mano forte e il tuo braccio disteso — ed egli verrà e preghierà verso questa casa —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "udranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo nome grande"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la tua mano forte"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "forte"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "e il tuo braccio"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "disteso"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ed egli verrà"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "e preghierà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:07.120410768Z",
+  "model": "glm-5.3"
+}

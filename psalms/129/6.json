@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 129,
+  "translation": "Siano come l'erba dei tetti, che prima di essere strappata è già secca.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "siano"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "come l'erba"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "dei tetti"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "che prima di"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "essere strappata"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "è già secca"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:56.509609090Z",
+  "model": "glm-5.3"
+}

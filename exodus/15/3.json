@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "YHWH ⟨è⟩ uomo di guerra: YHWH ⟨è⟩ il suo nome.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "di guerra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:58.709167529Z",
+  "model": "glm-5.3"
+}

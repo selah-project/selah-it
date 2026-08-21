@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E il sacerdote prenderà ⟨את⟩ l'agnello dell'asham e ⟨את⟩ il log dell'olio, e il sacerdote li eleverà ⟨את⟩ come tenufà davanti a YHWH.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "E prenderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'agnello dell'asham"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "l'agnello"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "dell'asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il log dell'olio"
+    },
+    {
+      "surface": "לג",
+      "gloss": "il log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "dell'olio"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "e eleverà"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (l'agnello e il log)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "come tenufà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:10.002964928Z",
+  "model": "glm-5.3"
+}

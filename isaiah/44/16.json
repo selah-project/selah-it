@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Metà ne brucia nel fuoco; sulla metà cucina carne, arrostisce l'arrosto e si sazia; anzi si scalda e dice: «Ah! Mi sono scaldato, ho visto la fiamma».",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "metà"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ne brucia"
+    },
+    {
+      "surface": "במו",
+      "gloss": "nel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "la metà"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "cucina"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "arrostisce"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "l'arrosto"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "e si sazia"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anzi"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "si scalda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e dice"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "mi sono scaldato"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la fiamma"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:06.172623416Z",
+  "model": "glm-5.3"
+}

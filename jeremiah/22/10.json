@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non piangete ⟨il⟩ morto, né lamentatevi per lui; piangete, piangete per colui che se ne va, perché non tornerà più e non vedrà ⟨את⟩ la terra che gli ha dato i natali.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "piangete"
+    },
+    {
+      "surface": "למת",
+      "gloss": "⟨il⟩ morto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "né"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "lamentatevi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "piangete"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "piangete"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "per colui che se ne va"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tornerà"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vedrà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "che gli ha dato i natali"
+    }
+  ],
+  "timestamp": "2026-08-21T08:04:46.089901214Z",
+  "model": "glm-5.3"
+}

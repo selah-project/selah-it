@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 149,
+  "translation": "Esultino i fedeli nella gloria, cantino di gioia sui loro giacigli.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "esultino"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "i fedeli"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "nella gloria"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "cantino di gioia"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "i loro giacigli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:10.858120603Z",
+  "model": "glm-5.3"
+}

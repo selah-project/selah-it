@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E gli dissero: «No, mio signore; i tuoi servi sono venuti a comprare cibo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mio signore"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "e i tuoi servi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sono venuti"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "a comprare"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cibo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:54.256419957Z",
+  "model": "glm-5.3"
+}

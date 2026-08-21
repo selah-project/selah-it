@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Essi vagano in cerca di cibo; se non saranno saziati, passeranno la notte ⟨brontolando⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Essi"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "vagano"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "in cerca di cibo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "saranno saziati"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "passeranno la notte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:34.692985291Z",
+  "model": "glm-5.3"
+}

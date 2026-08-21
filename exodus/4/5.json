@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "perché credano che si è fatto vedere a te YHWH, Elohim dei loro padri, Elohim di Abramo, Elohim di Isacco ed Elohim di Giacobbe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "credano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "si è fatto vedere"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dei loro padri"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "di Abramo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "di Isacco"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ed Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:17.893234235Z",
+  "model": "glm-5.3"
+}

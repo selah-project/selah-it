@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 114,
+  "translation": "Quando Israele uscì dall'Egitto, la casa di Giacobbe da un popolo di lingua straniera,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "quando uscì"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "da un popolo"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "di lingua straniera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:35.611425470Z",
+  "model": "glm-5.3"
+}

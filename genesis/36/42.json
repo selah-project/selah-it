@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "capo Kenaz, capo Teman, capo Mibtsar.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "capo"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "capo"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "capo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Mibtsar"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:15.113228674Z",
+  "model": "glm-5.3"
+}

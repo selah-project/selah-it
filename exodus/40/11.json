@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E ungerai ⟨את⟩ la conca e ⟨את⟩ la sua base, e consacrerai ⟨את⟩ essa.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ungerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la conca"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "la conca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la sua base"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "la sua base"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "consecrerai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ essa",
+      "marks": "la conca e la sua base"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:06.535424030Z",
+  "model": "glm-5.3"
+}

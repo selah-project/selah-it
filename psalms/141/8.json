@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 141,
+  "translation": "Poiché a te, YHWH, Adonai, ⟨sono⟩ i miei occhi; in te mi sono rifugiato: non esporre la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "in te"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi sono rifugiato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תער",
+      "gloss": "esporre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:06.860854727Z",
+  "model": "glm-5.3"
+}

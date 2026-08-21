@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E Saul rivestì Davide ⟨את⟩ dei suoi abiti e pose un elmo di rame sul suo capo, e lo rivestì ⟨את⟩ di una corazza.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "e rivestì"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "dei suoi abiti"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "un elmo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "di rame"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "il suo capo"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "e rivestì"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "di una corazza"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "una corazza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:49.937237569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Vedi, io vi ho insegnato ⟨את⟩ statuti e norme, come mi ha comandato YHWH, il mio Elohim, per fare così in mezzo alla terra nella quale voi entrate là per possederla.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vedi"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "io ho insegnato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi — statuti e norme"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "statuti"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "e norme"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "mi ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "il mio Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "per fare"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nella quale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "entrate"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "per possederla"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:38.238880014Z",
+  "model": "glm-5.3"
+}

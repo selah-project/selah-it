@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Amate ⟨את⟩ YHWH, tutti i suoi fedeli! YHWH custodisce i leali e ripaga oltre misura chi agisce con superbia.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "amate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "i suoi fedeli"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "i leali"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "custodisce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "e ripaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "misura"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chi agisce"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "con superbia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:51.056378316Z",
+  "model": "glm-5.3"
+}

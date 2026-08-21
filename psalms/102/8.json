@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Veglio senza sonno, e sono come ⟨un⟩ uccello solitario sul tetto.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "veglio senza sonno"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "e sono"
+    },
+    {
+      "surface": "кצפור",
+      "gloss": "come un uccello"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "solitario"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "גג",
+      "gloss": "tetto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:41.208865192Z",
+  "model": "glm-5.3"
+}

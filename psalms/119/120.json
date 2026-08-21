@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Si è accapponata la mia carne davanti al tuo terrore, e dai tuoi giudizi ho timore.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "si è accapponata"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "davanti al tuo terrore"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "la mia carne"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "e dai tuoi giudizi"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ho timore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:59.616350536Z",
+  "model": "glm-5.3"
+}

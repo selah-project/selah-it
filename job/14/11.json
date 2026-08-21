@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Le acque svaniscono dal mare, e il fiume si prosciuga e inaridisce:",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "svaniscono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "e il fiume"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "si prosciuga"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "e inaridisce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:55.117686622Z",
+  "model": "glm-5.3"
+}

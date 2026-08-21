@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E porterai ⟨את⟩ la minchah che sarà fatta da queste cose a YHWH, e la presenterai al sacerdote, ed egli la avvicinerà all'altare.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "e porterai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "la minchah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sarà fatta"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "da queste cose"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "e la presenterai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sacerdote"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ed egli la avvicinerà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "all'"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:00.277965031Z",
+  "model": "glm-5.3"
+}

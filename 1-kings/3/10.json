@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E la cosa fu buona agli occhi di Adonai, perché Salomone aveva chiesto ⟨את⟩ questa cosa.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "e fu buona"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "aveva chiesto"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa cosa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "questa cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:19.727416565Z",
+  "model": "glm-5.3"
+}

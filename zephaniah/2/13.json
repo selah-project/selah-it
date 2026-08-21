@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E stenderà la sua mano contro il settentrione e distruggerà ⟨את⟩ Ashsur, e farà ⟨את⟩ Ninive una desolazione, arida come il deserto.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "e stenderà"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "il settentrione"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "e distruggerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashsur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashsur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e farà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "una desolazione"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "arida"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "come il deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:39:56.780841101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Rovine ⟨sono⟩ in mezzo ad essa, e dalla sua piazza non si ritirano oppressione e frode.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "rovine"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in mezzo ad essa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "si ritirano"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "dalla sua piazza"
+    },
+    {
+      "surface": "תך",
+      "gloss": "oppressione"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "e frode"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:59.652654246Z",
+  "model": "glm-5.3"
+}

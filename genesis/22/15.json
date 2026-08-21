@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E il messaggero di YHWH chiamò Abramo una seconda volta dai cieli.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "una seconda volta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:36.286311656Z",
+  "model": "glm-5.3"
+}

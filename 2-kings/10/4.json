@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E furono presi da timore grande, grandissimo, e dissero: « Ecco, i due re non sono rimasti in piedi davanti a lui — e come resteremmo in piedi noi? ».",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "e furono presi da timore"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grande"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandissimo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i due"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "sono rimasti in piedi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "e come"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "resteremmo in piedi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:11.797885619Z",
+  "model": "glm-5.3"
+}

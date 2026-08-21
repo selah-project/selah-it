@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "per far passare la regalità dalla casa di Saul e per stabilire ⟨את⟩ il trono di David su Israele e su Giuda, da Dan fino a Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "per far passare"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "la regalità"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Saul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "e per stabilire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il trono di David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "il trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "da Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:26.797412668Z",
+  "model": "glm-5.3"
+}

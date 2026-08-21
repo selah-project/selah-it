@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Venite e vedete le opere di Elohim: tremendo ⟨è⟩ ⟨egli⟩ nelle sue gesta verso i figli dell'uomo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Venite"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e vedete"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "le opere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "tremendo"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "nelle sue gesta"
+    },
+    {
+      "surface": "על",
+      "gloss": "verso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:19.452599812Z",
+  "model": "glm-5.3"
+}

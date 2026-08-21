@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 11:40",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Salomone cercò di mettere a morte ⟨את⟩ Ierobeam; ma Ierobeam si alzò e fuggì in Egitto, da Shishak re d'Egitto, e rimase in Egitto fino alla morte di Salomone.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "cercò"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "di mettere a morte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierobeam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Ierobeam"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "si alzò"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Ierobeam"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "e fuggì"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e rimase"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "alla morte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Salomone"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:46.185069567Z",
+  "model": "glm-5.3"
+}

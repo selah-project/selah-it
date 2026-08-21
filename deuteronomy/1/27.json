@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E vi lamentaste nelle vostre tende e diceste: nell'odio di YHWH ⟨verso⟩ noi ci ha fatto uscire dal paese d'Egitto, per consegnarci ⟨את⟩ in mano all'Emoreo, per distruggerci.",
+  "tokens": [
+    {
+      "surface": "ויתרגנו",
+      "gloss": "e vi lamentaste"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "nelle vostre tende"
+    },
+    {
+      "surface": "ויתאמרו",
+      "gloss": "e diceste"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "nell'odio di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "noi (fatti uscire dall'Egitto)"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "ci ha fatto uscire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per dare"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "noi (consegnati in mano all'Emoreo)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "all'Emoreo"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "per distruggerci"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:46.738417910Z",
+  "model": "glm-5.3"
+}

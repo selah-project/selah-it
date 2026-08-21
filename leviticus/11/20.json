@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Ogni essere che brulica alato, che cammina su quattro — ⟨esso⟩ ⟨è⟩ un abominio per voi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "essere che brulica"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "alato"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "che cammina"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "un abominio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:40.852360929Z",
+  "model": "glm-5.3"
+}

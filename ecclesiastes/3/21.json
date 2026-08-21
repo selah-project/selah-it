@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Chi conosce ⟨il⟩ Ruach dei figli dell'umano, se sale verso l'alto, e ⟨il⟩ ruach della bestia, se scende verso il basso, ⟨fino⟩ alla terra?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruach"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'umano"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sale"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "verso l'alto"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e ⟨il⟩ ruach"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "della bestia"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "scende"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "verso il basso"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "alla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:52.694838766Z",
+  "model": "glm-5.3"
+}

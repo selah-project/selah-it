@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E catturò ⟨את⟩ le città fortificate che erano di Giuda, e arrivò fino a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "e catturò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le città fortificate"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "fortificate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e arrivò"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:56.118613691Z",
+  "model": "glm-5.3"
+}

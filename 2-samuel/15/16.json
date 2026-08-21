@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E uscì il re e tutta la sua casa ⟨al suo seguito⟩, a piedi; e il re lasciò ⟨את⟩ dieci donne, concubine, a custodire la casa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "a piedi"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "e lasciò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieci donne, concubine"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "donne"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "concubine"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "a custodire"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:09.997392734Z",
+  "model": "glm-5.3"
+}

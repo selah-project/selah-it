@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E queste sono le generazioni di Aharon e di Moshe, nel giorno in cui YHWH parlò ⟨את⟩ con Moshe sul monte Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e queste"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "le generazioni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "di Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "e di Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parlò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:24.396306877Z",
+  "model": "glm-5.3"
+}

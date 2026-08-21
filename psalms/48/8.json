@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Con un vento d'oriente tu spezzi le navi di Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "con un vento"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "d'oriente"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "tu spezzi"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "le navi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "di Tarshish"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:44.524490011Z",
+  "model": "glm-5.3"
+}

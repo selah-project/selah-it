@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Non farete ⟨את⟩ me dèi d'argento, e dèi d'oro non farete per voi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "farete"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ con me"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dèi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argento"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e dèi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "farete"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:55.587407322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E non giurerete ⟨nel⟩ mio Nome ⟨per⟩ la menzogna, e profaneresti ⟨il⟩ Nome del tuo Elohim: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "giurerete"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "⟨nel⟩ mio Nome"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "⟨per⟩ la menzogna"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "e profaneresti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Nome"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "del tuo Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:43.683228666Z",
+  "model": "glm-5.3"
+}

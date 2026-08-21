@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Così ha detto Adonai YHWH: non sussisterà, e non sarà.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sussisterà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:28.136880340Z",
+  "model": "glm-5.3"
+}

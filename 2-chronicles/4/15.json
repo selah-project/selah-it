@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "⟨את⟩ il Mare, uno, e ⟨את⟩ i buoi, dodici, sotto di esso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Mare"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il Mare"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i buoi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "i buoi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sotto di esso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:54:50.762265411Z",
+  "model": "glm-5.3"
+}

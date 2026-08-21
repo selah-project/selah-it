@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "«Ah, YHWH! Ricorda ⟨את⟩ ti prego come ho camminato davanti a te in verità e con cuore integro, e il bene ai tuoi occhi ho fatto». E pianse Chizkiyyahu con un pianto grande.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah, ti prego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Ricorda"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "come ho camminato… e ho fatto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ho camminato"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in verità"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "e con cuore"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "integro"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "e il bene"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ai tuoi occhi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ho fatto"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "E pianse"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "con un pianto"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:13.809437489Z",
+  "model": "glm-5.3"
+}

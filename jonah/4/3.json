@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E ora, YHWH, prendi ti prego ⟨את⟩ la mia nefesh da me, perché la mia morte ⟨è⟩ meglio della mia vita.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia nefesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "la mia morte"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "della mia vita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:57.471740626Z",
+  "model": "glm-5.3"
+}

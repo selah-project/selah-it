@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E visse Peleg, dopo che generò ⟨את⟩ Reu, nove anni e duecento anni; e generò figli e figlie.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "e visse"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo che"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nove"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e duecento"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e figlie"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:46.953383417Z",
+  "model": "glm-5.3"
+}

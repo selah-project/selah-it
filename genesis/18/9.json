@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E dissero a lui: dov'è Sara, tua moglie? E disse: ecco, nella tenda.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dov'è?"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tua moglie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nella tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:11.885024209Z",
+  "model": "glm-5.3"
+}

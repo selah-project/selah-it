@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "⟨Tu che⟩ ascolti la preghiera: a te verrà ogni carne.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "⟨tu che⟩ ascolti"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "la preghiera"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "verrà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:57.375827919Z",
+  "model": "glm-5.3"
+}

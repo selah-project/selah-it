@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "L'accorto vede il male e si nasconde; gli ingenui passano oltre e sono puniti.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "l'accorto"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "e si nasconde"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "gli ingenui"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "passano oltre"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "e sono puniti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:18.411252168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E il sacerdote, se acquista una persona ⟨nefesh⟩, acquisto del suo denaro, ⟨egli⟩ ne mangerà; e il nato nella sua casa, essi mangeranno del suo pane.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "e il sacerdote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "acquista"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "una persona (nefesh)"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "acquisto"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "del suo denaro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ne mangerà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di esso"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "e il nato"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nella sua casa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeranno"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "del suo pane"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:50.919063712Z",
+  "model": "glm-5.3"
+}

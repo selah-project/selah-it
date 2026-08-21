@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Di generazione in generazione ⟨è⟩ la tua fedeltà: hai fondato la terra, ed essa sta salda.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "di generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "in generazione"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "la tua fedeltà"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "hai fondato"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ed essa sta salda"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:54.815402686Z",
+  "model": "glm-5.3"
+}

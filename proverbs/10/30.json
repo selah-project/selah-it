@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Il giusto per sempre non sarà smosso, ma i malvagi non abiteranno ⟨la⟩ terra.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non affatto"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarà smosso"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ma i malvagi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "abiteranno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:28.348390788Z",
+  "model": "glm-5.3"
+}

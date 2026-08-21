@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E Faraone chiamò Moshe e Aharon e disse: « Pregate YHWH, ed egli allontani le rane da me e dal mio popolo, e io lascerò andare ⟨את⟩ il popolo perché sacrifichi a YHWH ».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "pregate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ed egli allontani"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "le rane"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "e dal mio popolo"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "e io lascerò andare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "perché sacrifichino"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:52.900447366Z",
+  "model": "glm-5.3"
+}

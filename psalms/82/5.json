@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 82,
+  "translation": "Non sanno e non comprendono, nel buio vanno errando; tutti i fondamenti della terra sono scossi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "comprendono"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "nel buio"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "vanno errando"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "sono scossi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "i fondamenti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:25.187862188Z",
+  "model": "glm-5.3"
+}

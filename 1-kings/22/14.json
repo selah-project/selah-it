@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E Mikaihu disse: vive YHWH — ⟨את⟩ ciò che YHWH mi dirà, ⟨את⟩ quello io parlerò.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E-disse"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaihu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che YHWH mi dirà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò-che"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dirà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a-me"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "quello (la parola che YHWH dirà)"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "io-parlerò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:00.420446658Z",
+  "model": "glm-5.3"
+}

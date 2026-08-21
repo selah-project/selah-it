@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E ora, certo andartene sei andato, perché hai sospirato ⟨per⟩ la casa di tuo padre; perché ⟨allora⟩ hai rubato ⟨את⟩ i miei dèi?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "certo andartene"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "sei andato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "hai sospirato"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "sospirato"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "per la casa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "di tuo padre"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "hai rubato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei dèi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "i miei dèi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:26.460126018Z",
+  "model": "glm-5.3"
+}

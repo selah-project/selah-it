@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "YHWH lo guidava da solo, e non ⟨era⟩ con lui ⟨un⟩ El straniero.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "da solo"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "lo guidava"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "straniero"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:01.564263621Z",
+  "model": "glm-5.3"
+}

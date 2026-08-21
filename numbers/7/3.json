@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 7:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E portarono ⟨את⟩ la loro offerta davanti a YHWH: sei carri coperti e dodici buoi — un carro per due principi e un bue per ciascuno — e li presentarono davanti al mishkan.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "portarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro offerta"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "la loro offerta (qorban)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "carri"
+    },
+    {
+      "surface": "צב",
+      "gloss": "coperti"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dodici"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buoi"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "un carro"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "principi"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "e un bue"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "per ciascuno"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "e li presentarono"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "li (i carri e i buoi)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "al mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:46.633664369Z",
+  "model": "glm-5.3"
+}

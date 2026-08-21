@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E non opprima un uomo ⟨את⟩ il suo prossimo, e temerai il tuo Elohim; poiché io ⟨sono⟩ YHWH ⟨il⟩ vostro Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "opprima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "e temerai"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:29.697146993Z",
+  "model": "glm-5.3"
+}

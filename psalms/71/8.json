@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Si riempia la mia bocca della tua lode, tutto il giorno della tua magnificenza.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "si riempia"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "della tua lode"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "della tua magnificenza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:36.943135403Z",
+  "model": "glm-5.3"
+}

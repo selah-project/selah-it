@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Che cosa restituirò a YHWH per tutti i suoi benefici verso di me?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "restituirò"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "i suoi benefici"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "verso di me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:35.452259798Z",
+  "model": "glm-5.3"
+}

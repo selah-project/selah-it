@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 137,
+  "translation": "Felice chi prenderà e sbatterà ⟨את⟩ i tuoi piccoli contro ⟨la⟩ roccia.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Felice"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "chi prenderà"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "e sbatterà"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi piccoli"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "i tuoi piccoli"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "contro"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "la roccia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:29.748802042Z",
+  "model": "glm-5.3"
+}

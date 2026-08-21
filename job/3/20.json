@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Perché si dà luce a chi ⟨è⟩ nell'affanno, e vita a chi ha ⟨la⟩ nefesh amareggiata?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "si dà"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "a chi nell'affanno"
+    },
+    {
+      "surface": "אור",
+      "gloss": "luce"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "e vita"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "a chi ha amareggiata"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:59.267615014Z",
+  "model": "glm-5.3"
+}

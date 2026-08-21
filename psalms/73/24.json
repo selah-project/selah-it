@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Con il tuo consiglio mi guidi, e dopo ⟨in⟩ gloria mi accoglierai.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "con il tuo consiglio"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "mi guidi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨in⟩ gloria"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "mi accoglierai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:02.971957348Z",
+  "model": "glm-5.3"
+}

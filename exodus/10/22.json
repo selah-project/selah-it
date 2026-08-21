@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E stese Mosè ⟨את⟩ la sua mano verso i cieli, e fu tenebra-afelà su tutta la terra di Mitzrajim per tre giorni.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "e stese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "verso"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "afelà (densa)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "su tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrajim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:14.307914282Z",
+  "model": "glm-5.3"
+}

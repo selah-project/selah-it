@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Ogni letto su cui si corica il zav diventa impuro, e ogni oggetto su cui egli siede diventa impuro.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ogni"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "letto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "su cui"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "si corica"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di esso"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "il zav"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "diventa impuro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "oggetto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "su cui"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "siede"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di esso"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "diventa impuro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:07.006775337Z",
+  "model": "glm-5.3"
+}

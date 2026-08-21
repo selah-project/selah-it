@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Poiché i benedetti da Lui erediteranno ⟨la⟩ terra, e i maledetti da Lui saranno sterminati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "i benedetti da Lui"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "erediteranno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "e i maledetti da Lui"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "saranno sterminati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:27.929864196Z",
+  "model": "glm-5.3"
+}

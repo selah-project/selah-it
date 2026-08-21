@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "poiché lo davano a quelli che facevano il lavoro, e con esso rafforzavano ⟨את⟩ la casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "a quelli che facevano"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "il lavoro"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "lo davano"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "e rafforzavano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "con esso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:15.248952821Z",
+  "model": "glm-5.3"
+}

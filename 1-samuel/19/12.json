@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Mikal calò ⟨את⟩ David dalla finestra; ed egli se ne andò, fuggì e si salvò.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "e calò"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "finestra"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ed egli se ne andò"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "fuggì"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "e si salvò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:53.392852838Z",
+  "model": "glm-5.3"
+}

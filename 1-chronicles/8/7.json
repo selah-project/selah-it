@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "e Naaman, e Achiya, e Ghera — lui ⟨è⟩ colui che li deportò — e generò ⟨את⟩ Uzza e ⟨את⟩ Achiud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "e Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "e Achiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "e Ghera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "colui che li deportò"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Achiud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Achiud"
+    }
+  ],
+  "timestamp": "2026-08-21T09:47:06.577702563Z",
+  "model": "glm-5.3"
+}

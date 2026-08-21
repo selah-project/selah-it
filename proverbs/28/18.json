@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Chi cammina nell'integrità sarà salvato, ma chi è tortuoso nelle vie cadrà in una ⟨volta⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "chi cammina"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nell'integrità"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "sarà salvato"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "ma chi è tortuoso"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "nelle vie"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cadrà"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "in una ⟨volta⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:11.804287115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "e che Jaakob aveva ascoltato suo padre e sua madre, ed ⟨egli⟩ era andato a Paddan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e aveva ascoltato"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ed era andato"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:31.777895380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Il Giusto considera con intelligenza la casa del malvagio: rovescia i malvagi nella loro disgrazia.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "considera con intelligenza"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il Giusto"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "rovescia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "nella loro disgrazia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:07.606109022Z",
+  "model": "glm-5.3"
+}

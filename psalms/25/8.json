@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Buono e retto ⟨è⟩ YHWH; perciò istruisce i peccatori nella via.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "e retto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "istruisce"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "i peccatori"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nella via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:18.270941717Z",
+  "model": "glm-5.3"
+}

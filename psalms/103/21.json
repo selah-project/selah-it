@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Benedite YHWH, tutti i suoi eserciti, i suoi ministri, che fate la sua volontà.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Benedite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "i suoi eserciti"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "i suoi ministri"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "che fate"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "la sua volontà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:30.593275221Z",
+  "model": "glm-5.3"
+}

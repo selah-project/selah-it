@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E alzò Mosè ⟨את⟩ la sua mano e colpì ⟨את⟩ la roccia con il suo bastone, due volte; e uscirono acque abbondanti, e bevve l'assemblea e il suo bestiame.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "e alzò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la roccia"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "la roccia"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "con il suo bastone"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "due volte"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "e uscirono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abbondanti"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "e bevve"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "e il suo bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:32.416762854Z",
+  "model": "glm-5.3"
+}

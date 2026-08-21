@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 20:2",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Pashchur colpì ⟨את⟩ Geremia il profeta, e lo mise sulla gogna che ⟨sta⟩ alla porta di Beniamino, l'alta, che ⟨sta⟩ nella casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "colpì"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashchur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geremia il profeta"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Geremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e mise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "Geremia (suffisso oggetto)"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "la gogna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "alla porta"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "di Beniamino"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "l'alta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:09.042982130Z",
+  "model": "glm-5.3"
+}

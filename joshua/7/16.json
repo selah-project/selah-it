@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Giosuè si alzò di buon mattino e fece avvicinare ⟨את⟩ Israele per le sue tribù; e fu colta la tribù di Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "si alzò di buon mattino"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Giosuè"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "e fece avvicinare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "per le sue tribù"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e fu colta"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "la tribù"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-21T06:52:00.230240544Z",
+  "model": "glm-5.3"
+}

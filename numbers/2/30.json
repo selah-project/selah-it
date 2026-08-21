@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e il suo esercito e i suoi censiti: cinquantatré ⟨mila⟩ e quattrocento.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "e il suo esercito"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "e i loro censiti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e cinquanta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e quattro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento (pl.)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:17.027153417Z",
+  "model": "glm-5.3"
+}

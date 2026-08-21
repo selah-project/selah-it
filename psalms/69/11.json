@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "E piansi ⟨con⟩ digiuno per la mia nefesh, e questo divenne per me un insulto.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "e piansi"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "⟨con⟩ digiuno"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "per la mia nefesh"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e divenne"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "un insulto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:24.342775327Z",
+  "model": "glm-5.3"
+}

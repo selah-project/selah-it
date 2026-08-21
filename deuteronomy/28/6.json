@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Benedetto ⟨sarai⟩ tu nel tuo entrare, e benedetto ⟨sarai⟩ tu nel tuo uscire.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Benedetto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "nel tuo entrare"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "e benedetto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nel tuo uscire"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:00.456434230Z",
+  "model": "glm-5.3"
+}

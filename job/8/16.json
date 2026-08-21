@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "È rigoglioso davanti al sole, e sul suo giardino esce il suo germoglio.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "È rigoglioso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Egli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sole"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "il suo giardino"
+    },
+    {
+      "surface": "יונקתו",
+      "gloss": "il suo germoglio"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "esce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:10.830843474Z",
+  "model": "glm-5.3"
+}

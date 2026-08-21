@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Hai fatto vedere al tuo popolo cose dure; ci hai fatto bere un vino di stordimento.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "hai fatto vedere"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "al tuo popolo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "cose dure"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "ci hai fatto bere"
+    },
+    {
+      "surface": "יין",
+      "gloss": "un vino"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "di stordimento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:50.733443157Z",
+  "model": "glm-5.3"
+}

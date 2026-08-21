@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Olà dello shabbat nello suo shabbat, oltre l'olà del perpetuo ⟨e⟩ la sua libazione.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "Olà"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "dello shabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "nello suo shabbat"
+    },
+    {
+      "surface": "על",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "del perpetuo"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "e la sua libazione"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:57.786151115Z",
+  "model": "glm-5.3"
+}

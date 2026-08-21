@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E dissero Mosè e Aharon a tutti i figli d'Israele: « ⟨È⟩ sera, e conoscerete che YHWH vi ha fatti uscire dalla terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sera"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "e conoscerete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ha fatti uscire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:27.806211105Z",
+  "model": "glm-5.3"
+}

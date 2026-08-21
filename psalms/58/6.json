@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "che non ascolta la voce degli incantatori, dell'incantatore espertissimo in incantesimi",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "degli incantatori"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "dell'incantatore"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "in incantesimi"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "espertissimo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:02.969545474Z",
+  "model": "glm-5.3"
+}

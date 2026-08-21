@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "perché conosca la generazione ultima, i figli che nasceranno; si alzino e raccontino ai loro figli,",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "conosca"
+    },
+    {
+      "surface": "דור",
+      "gloss": "la generazione"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ultima"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "che nasceranno"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "si alzino"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "e raccontino"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ai loro figli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:41.237177882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Ed Elihu aveva atteso ⟨את⟩ Giobbe con parole, perché ⟨essi erano⟩ anziani più di lui nei giorni.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "ed Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "aveva atteso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giobbe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Giobbe"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "con parole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "anziani"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "più di lui"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "nei giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:22.820151653Z",
+  "model": "glm-5.3"
+}

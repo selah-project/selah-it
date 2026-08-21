@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Quanto a me, nella mia integrità camminerò; riscattami e fammi grazia.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Quanto a me"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "nella mia integrità"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "camminerò"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "riscattami"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e fammi grazia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:19.175175873Z",
+  "model": "glm-5.3"
+}

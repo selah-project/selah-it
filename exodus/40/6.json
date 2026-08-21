@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E porrai ⟨את⟩ l'altare dell'olà davanti all'ingresso del mishkan, della tenda del convegno.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "e porrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare dell'olà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dell'olà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "del mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:22.469768722Z",
+  "model": "glm-5.3"
+}

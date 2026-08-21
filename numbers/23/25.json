@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E Balak disse a Bilam: anche maledire non lo maledirai, anche benedire non lo benedirai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "קב",
+      "gloss": "maledire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "lo maledirai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "benedire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "lo benedirai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:07.432076858Z",
+  "model": "glm-5.3"
+}

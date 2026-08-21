@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Fa' ⟨a⟩ loro come ⟨a⟩ Madián, come ⟨a⟩ Sisera, come ⟨a⟩ Iabin, al torrente di Qishon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fa'"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨a⟩ loro"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "come ⟨a⟩ Madián"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "come ⟨a⟩ Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "come ⟨a⟩ Iabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "al torrente di"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Qishon"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:14.323601518Z",
+  "model": "glm-5.3"
+}

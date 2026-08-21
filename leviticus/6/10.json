@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Non sarà cotta con lievito: la loro porzione ⟨l'⟩ho data ⟨את⟩ dalle mie offerte di fuoco; cosa santissima essa è, come l'offerta per il peccato e come l'offerta per la colpa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "sarà cotta"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "con lievito"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "la loro porzione"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dalle mie offerte di fuoco"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "dalle mie offerte di fuoco"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santità"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "di santità (santissima)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "come l'offerta per il peccato"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "e come l'offerta per la colpa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:39.167095606Z",
+  "model": "glm-5.3"
+}

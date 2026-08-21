@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "In YHWH saran giustificati tutti i discendenti di Israele, e si glorieranno.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "saran giustificati"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "e si glorieranno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "i discendenti (lett. seme)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:11.132139408Z",
+  "model": "glm-5.3"
+}

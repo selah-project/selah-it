@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Dite fra le nazioni: «YHWH regna!». Anche ⟨la⟩ terra abitata ⟨è⟩ stabilita, non sarà smossa; egli giudicherà i popoli con rettitudine.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dite"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra le nazioni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨è⟩ stabilita"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "la terra abitata"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sarà smossa"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "giudicherà"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "con rettitudine"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:34.916420795Z",
+  "model": "glm-5.3"
+}

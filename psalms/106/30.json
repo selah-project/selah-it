@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E si alzò Pinechas e intercesse, e la peste fu trattenuta.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "e intercesse"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "e fu trattenuta"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "la peste"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:11.951899713Z",
+  "model": "glm-5.3"
+}

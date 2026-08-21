@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E mangeranno Aharon e i suoi figli ⟨את⟩ la carne del montone e ⟨את⟩ il pane che è nel cesto, all'ingresso della tenda del convegno.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "e mangeranno"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la carne del montone"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "del montone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il pane"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "il pane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "è nel cesto"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:20.230602120Z",
+  "model": "glm-5.3"
+}

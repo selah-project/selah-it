@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Raccoglie come cumulo le acque del mare, mette nei suoi depositi gli abissi.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "raccoglie"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "come cumulo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "הים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mette"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "nei depositi"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "gli abissi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:13.028752319Z",
+  "model": "glm-5.3"
+}

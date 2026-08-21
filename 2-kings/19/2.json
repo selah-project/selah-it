@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E inviò Elyaqim, che ⟨era⟩ sopra la casa, e Shevnà lo scriba e ⟨את⟩ gli anziani dei sacerdoti, coperti di sacco, da Yesha'yàhu il profeta, figlio di Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e inviò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaqim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyaqim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "e Shevnà"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "lo scriba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gli anziani dei sacerdoti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dei sacerdoti"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "coperti"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "di sacco"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesha'yàhu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "di Amots"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:02.987911452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Ed egli si affrettò e si tolse ⟨את⟩ la benda dagli occhi, e il re d'Israele lo riconobbe — che era tra i profeti.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "si affrettò"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "si tolse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la benda (האפר)"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "la benda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "e lo riconobbe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "tra i profeti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli era"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:35.854710999Z",
+  "model": "glm-5.3"
+}

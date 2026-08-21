@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 128,
+  "translation": "La tua donna ⟨è⟩ come vigna feconda nell'intimo della tua casa; i tuoi figli come germogli d'ulivo intorno alla tua tavola.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "La tua donna"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "come vigna"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "feconda"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "nell'intimo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "della tua casa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "i tuoi figli"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "come germogli"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "d'ulivo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "intorno"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "alla tua tavola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:13.507039982Z",
+  "model": "glm-5.3"
+}

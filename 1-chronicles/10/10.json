@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E posero ⟨את⟩ le sue armi nella casa dei loro dèi, e ⟨את⟩ il suo cranio fissarono nella casa di Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "e posero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue armi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "le sue armi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "dei loro dèi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo cranio"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "il suo cranio"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "fissarono"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "di Dagon"
+    }
+  ],
+  "timestamp": "2026-08-21T09:48:55.637671125Z",
+  "model": "glm-5.3"
+}

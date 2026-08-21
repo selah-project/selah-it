@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Anche se cresceranno ⟨את⟩ i loro figli, io li renderò senza figli fino a non lasciare un uomo; infatti anche guai a loro quando me ne andrò da loro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "anche se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(anche) se"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "cresceranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro figli"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "i loro figli"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "io li renderò senza figli"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "fino a non lasciare un uomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "infatti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "guai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "quando me ne andrò"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "da loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:00.263373919Z",
+  "model": "glm-5.3"
+}

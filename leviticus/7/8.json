@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E il sacerdote che presenta ⟨את⟩ l'olà di un uomo: la pelle dell'olà che ha presentato — al sacerdote apparterrà essa.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "e il sacerdote"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "che presenta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'olà di un uomo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "l'olà (offerta di elevazione)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "la pelle"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dell'olà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ha presentato"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "al sacerdote"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:13.445832804Z",
+  "model": "glm-5.3"
+}

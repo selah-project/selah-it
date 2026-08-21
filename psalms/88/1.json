@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Canto, salmo dei figli di Korach, al direttore, su Machalat Leannót; poema didattico di Heman lEzrachita.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannót"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poema didattico"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "di Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "lEzrachita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:24.374205547Z",
+  "model": "glm-5.3"
+}

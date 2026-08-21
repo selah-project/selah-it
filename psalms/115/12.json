@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "YHWH si è ricordato di noi: benedirà, benedirà ⟨את⟩ la casa di Israele, benedirà ⟨את⟩ la casa di Aaronne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "si è ricordato di noi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "benedirà"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "benedirà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "benedirà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "di Aaronne"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:36.819677437Z",
+  "model": "glm-5.3"
+}

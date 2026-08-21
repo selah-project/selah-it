@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Solo ⟨את⟩ tutto il regno non strapperò: una tribù darò a tuo figlio, per amore di David mio servo e per amore di Gerusalemme che ho scelto.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "solo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il regno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "strapperò"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "una tribù"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "darò"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "a tuo figlio"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mio servo"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e per amore di"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ho scelto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:40.822537855Z",
+  "model": "glm-5.3"
+}

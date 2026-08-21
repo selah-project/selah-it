@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Attorno si aggirano i malvagi, quando la bassezza ⟨viene⟩ esaltata fra i figli dell'uomo.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "attorno"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "si aggirano"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "quando"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "la bassezza"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fra i figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:57.786380268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E fu grave per Giona un male grande, e ⟨gli⟩ divampò ⟨dentro⟩ ⟨l'ira⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "fu grave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "per"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Giona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un male"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "divampò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨gli⟩ dentro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:57.471274122Z",
+  "model": "glm-5.3"
+}

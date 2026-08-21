@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "È passata la mietitura, finita l'estate, e noi non siamo stati salvati.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "È passata"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "la mietitura"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "finita"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "l'estate"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "e noi"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "siamo stati salvati"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:12.488380015Z",
+  "model": "glm-5.3"
+}

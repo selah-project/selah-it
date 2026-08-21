@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Anche la mia lingua, tutto il giorno, mediterà la tua giustizia, perché sono vergognosi, perché sono confusi quelli che cercano il mio male.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "la mia lingua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mediterà"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia (tzedakà)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "sono vergognosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "sono confusi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "quelli che cercano"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "il mio male"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:18.390176423Z",
+  "model": "glm-5.3"
+}

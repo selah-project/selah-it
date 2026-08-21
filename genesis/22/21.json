@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uz, il suo primogenito, e ⟨את⟩ Buz, suo fratello, e ⟨את⟩ Kemuel, padre di Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "il suo primogenito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre di"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:03.324931646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Verranno e annunceranno la sua giustizia a un popolo che nascerà — perché ⟨egli⟩ ha fatto ⟨questo⟩.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "verranno"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "e annunceranno"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "la sua giustizia"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a un popolo"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "che nascerà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto ⟨questo⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:09.550548103Z",
+  "model": "glm-5.3"
+}

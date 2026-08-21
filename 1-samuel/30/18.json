@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E Davide recuperò ⟨את⟩ tutto ciò che Amalek aveva preso, e ⟨את⟩ le sue due mogli Davide mise in salvo.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "recuperò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che Amalek aveva preso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "aveva preso"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le sue due mogli"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "le due"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sue mogli"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "mise in salvo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:16.582610514Z",
+  "model": "glm-5.3"
+}

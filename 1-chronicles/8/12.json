@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E i figli di Elpaal: Ever, Mishàm e Shamed; egli costruì ⟨את⟩ Ono e ⟨את⟩ Lod e le sue borgate.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "e i figli di"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "e Mishàm"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "e Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "e le sue borgate"
+    }
+  ],
+  "timestamp": "2026-08-21T09:47:00.026370934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 121,
+  "translation": "YHWH ti custodirà da ogni male, custodirà ⟨את⟩ la tua nefesh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ti custodirà"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da ogni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "male"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "custodirà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:33.992752545Z",
+  "model": "glm-5.3"
+}

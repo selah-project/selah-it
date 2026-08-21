@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E entrarono nel patto per cercare ⟨את⟩ YHWH, Elohim dei loro padri, con tutto il loro cuore e con tutta la loro nefesh.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "e entrarono"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "nel patto"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "per cercare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH, Elohim dei loro padri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "dei loro padri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "il loro cuore"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e con tutta"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "la loro nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:57:16.366916718Z",
+  "model": "glm-5.3"
+}

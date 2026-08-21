@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Adamo conobbe di nuovo ⟨את⟩ sua moglie, ed ella partorì un figlio e chiamò ⟨את⟩ il suo nome Shet: « perché Elohim mi ha posto un altro seme al posto di Hevel, poiché lo uccise Qayin ».",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "e conobbe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "di nuovo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sua moglie"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ed ella partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo nome"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ha posto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "un seme"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altro"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "lo uccise"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:54.331151434Z",
+  "model": "glm-5.3"
+}

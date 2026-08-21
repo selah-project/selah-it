@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E Giuda fu sconfitto davanti a Israele, e fuggirono, ciascuno alla sua tenda.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "e fu sconfitto"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e fuggirono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "alla sua tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:56.964487848Z",
+  "model": "glm-5.3"
+}

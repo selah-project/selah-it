@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Cammineranno forse due insieme, senza che si siano incontrati d'accordo?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Cammineranno forse"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "אם",
+      "gloss": "che non"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "si siano incontrati d'accardo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:10.244666314Z",
+  "model": "glm-5.3"
+}

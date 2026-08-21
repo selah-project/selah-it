@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E Sha'ul inviò messaggeri a Ishai e disse: mandami David, tuo figlio, che ⟨is⟩ con il gregge.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e inviò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "manda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tuo figlio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "con il gregge"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:00.903191475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Non tramare il male contro il tuo prossimo, mentre egli siede sicuro presso ⟨את⟩ te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tramare"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "il tuo prossimo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mentre egli"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "siede"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sicuro"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ presso di te",
+      "marks": "te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:22.314688930Z",
+  "model": "glm-5.3"
+}

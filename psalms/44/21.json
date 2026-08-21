@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Se abbiamo dimenticato il nome del nostro Elohim, o se abbiamo disteso le palme verso ⟨un⟩ el straniero,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "abbiamo dimenticato"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "e abbiamo disteso"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "le palme"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "verso un el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "straniero"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:33.681331248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E inimicizia porrò fra te e la donna, e fra il tuo seme e il suo seme: egli ti colpirà ⟨il⟩ capo, e tu lo colpirai ⟨il⟩ calcagno.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "e inimicizia"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "porrò"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "fra te"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e fra"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e fra"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "il tuo seme"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e fra"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "il suo seme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "ti colpirà"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "lo colpirai"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "calcagno"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:15.721690298Z",
+  "model": "glm-5.3"
+}

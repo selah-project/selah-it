@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Tu, YHWH, non trattenere ⟨le⟩ tue misericordie da me; il tuo chesed e la tua verità mi custodiscano sempre.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "trattenere"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "le tue misericordie"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "e la tua verità"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "mi custodiscano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:03.477947155Z",
+  "model": "glm-5.3"
+}

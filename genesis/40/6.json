@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E venne da loro Giuseppe la mattina, e vide ⟨את⟩ loro, ed ecco, ⟨erano⟩ turbati.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "da loro"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "turbati"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:24.692330041Z",
+  "model": "glm-5.3"
+}

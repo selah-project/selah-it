@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Si può togliere la preda al guerriero? O il prigioniero del giusto sarà salvato?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "si può togliere"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "al guerriero"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "la preda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "il prigioniero"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "del giusto"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sarà salvato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:51.765150884Z",
+  "model": "glm-5.3"
+}

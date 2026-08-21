@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E trovarono ⟨את⟩ Adoni-Bezek a Bezek, e combatterono contro di lui, e colpirono ⟨את⟩ il Cananeo e ⟨את⟩ il Perizzita.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "e trovarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "a Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "e combatterono"
+    },
+    {
+      "surface": "בו",
+      "gloss": "contro di lui"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Cananeo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il Cananeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il Perizzita"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "il Perizzita"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:41.587048058Z",
+  "model": "glm-5.3"
+}

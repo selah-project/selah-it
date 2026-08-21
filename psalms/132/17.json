@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "Là farò germogliare una qeren per David, ho preparato una lampada per il mio Mashiach.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "farò germogliare"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "una qeren (corno)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "per David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ho preparato"
+    },
+    {
+      "surface": "נר",
+      "gloss": "una lampada"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "per il mio Mashiach"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:28.591755359Z",
+  "model": "glm-5.3"
+}

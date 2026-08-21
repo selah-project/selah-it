@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "i monti e tutte le colline, gli alberi da frutto e tutti i cedri:",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutte"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "le colline"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gli alberi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "da frutto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "i cedri"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:36.697314246Z",
+  "model": "glm-5.3"
+}

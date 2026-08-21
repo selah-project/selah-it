@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 2:27",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Dicono al legno: « Tu sei mio padre », e alla pietra: « Tu ⟨את⟩ mi hai generato ». Perché a me hanno voltato la nuca e non il volto; ma nel tempo della loro sventura diranno: « Àlzati e salvaci ».",
+  "tokens": [
+    {
+      "surface": "אמרים",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "al legno"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "e alla pietra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "« mi hai generato »"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "mi hai generato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "hanno voltato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "la nuca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ma nel tempo"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "della loro sventura"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "diranno"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "והושיענו",
+      "gloss": "e salvaci"
+    }
+  ],
+  "timestamp": "2026-08-21T07:59:10.932059065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Grazioso e misericordioso ⟨è⟩ YHWH, lento all'ira e grande nel chesed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "grazioso"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "e misericordioso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lento"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "all'ira"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "e grande"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "nel chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:48.544076985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E andarono Mosè e Aharon, e riunirono ⟨את⟩ tutti gli anziani dei figli di Israele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andarono"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e riunirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti gli anziani dei figli di Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:08.636767588Z",
+  "model": "glm-5.3"
+}

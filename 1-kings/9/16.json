@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Parò, re d'Egitto, era salito e catturò ⟨את⟩ Ghezer e la bruciò nel fuoco, e ⟨את⟩ il kenaaneo che abitava nella città uccise; e la diede ⟨come dono⟩ — sheluchim — a sua figlia, moglie di Salomone.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Parò"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "era salito"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e catturò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ghezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Ghezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "e la bruciò"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il kenaaneo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il kenaaneo"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "che abitava"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "uccise"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "e la diede"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "sheluchim (dono di congedo)"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "a sua figlia"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moglie"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Salomone"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:34.760626074Z",
+  "model": "glm-5.3"
+}

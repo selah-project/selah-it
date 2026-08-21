@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "⟨את⟩ il kenita, e ⟨את⟩ il kenizzita, e ⟨את⟩ il kadmonita —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il kenita"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "il kenita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il kenizzita"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "il kenizzita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il kadmonita"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "il kadmonita"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:11.771575935Z",
+  "model": "glm-5.3"
+}

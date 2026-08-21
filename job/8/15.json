@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "⟨Egli⟩ si appoggia sulla sua casa, e non sta in piedi; vi si afferra, e non si regge ⟨su⟩.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "si appoggia"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sta in piedi"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "vi si afferra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "si regge"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:10.830693631Z",
+  "model": "glm-5.3"
+}

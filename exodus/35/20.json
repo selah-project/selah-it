@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "E uscì tutta la comunità dei figli di Israele dalla presenza di Mosè.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "E uscì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "la comunità"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dalla presenza di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:26.182735701Z",
+  "model": "glm-5.3"
+}

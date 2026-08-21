@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Chi è questa che sale dal deserto, appoggiata sul suo diletto? Sotto il melo ti ho svegliata: là ti ha concepita tua madre, là ha partorito colei che ti ha generata.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sale"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "deserto"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "appoggiata"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "il suo diletto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "il melo"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "ti ho svegliata"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "ti ha concepita"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tua madre"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "ha partorito"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "colei che ti ha generata"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:54.241307980Z",
+  "model": "glm-5.3"
+}

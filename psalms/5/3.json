@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Porgi orecchio alla voce del mio grido, mio re e mio Elohim, perché a te io prego.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Porgi orecchio"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "alla voce"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "del mio grido"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mio re"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e mio Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "io prego"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:58.463374601Z",
+  "model": "glm-5.3"
+}

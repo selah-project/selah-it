@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Una pioggia di doni liberi tu scuoti, o Elohim; la tua eredità, quand'era esausta, tu l'hai resa ferma.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "una pioggia"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "di doni liberi"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "tu scuoti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "la tua eredità"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "quand'era esausta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "l'hai resa ferma"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.492884419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E li mandò Mosè dal deserto di Paran, sulla bocca di YHWH; tutti loro, uomini, capi dei figli di Israele, erano quelli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e li mandò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (gli uomini mandati)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dal deserto"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "di Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tutti loro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "erano quelli"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:24.223923812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E uscirono gli uomini della città e combatterono contro ⟨את⟩ Ioab, e caddero del popolo, tra i servi di David; e morì anche Uria lo Hittita.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "e uscirono"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "e combatterono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e caddero"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "tra i servi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "lo Hittita"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:43.700609026Z",
+  "model": "glm-5.3"
+}

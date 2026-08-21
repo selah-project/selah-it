@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Al maestro del coro. Di Davide. Salmo. Canto.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al maestro del coro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Salmo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:22.394900107Z",
+  "model": "glm-5.3"
+}

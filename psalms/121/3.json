@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 121,
+  "translation": "Non lascerà vacillare il tuo piede, non sonnecchierà il tuo custode.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lascerà"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "vacillare"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "il tuo piede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sonnecchierà"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "il tuo custode"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:27.777526373Z",
+  "model": "glm-5.3"
+}

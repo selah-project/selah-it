@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Anche a me ⟨ appartiene ⟩ un cuore come ⟨ a ⟩ voi; non sono da meno di voi; e ⟨את⟩ chi non ⟨ c'è ⟩ come queste cose?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Anche"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "un cuore"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "come ⟨a⟩ voi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "sono da meno (letteralmente: caduto)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "di voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "queste cose"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:43.540604913Z",
+  "model": "glm-5.3"
+}

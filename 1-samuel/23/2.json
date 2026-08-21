@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E Davide consultò YHWH, dicendo: andrò e colpirò questi Filistei? E YHWH disse a Davide: va', colpisci i Filistei e salva ⟨את⟩ Qeilà.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "E consultò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "andrò"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "e colpirò"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "questi Filistei"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "e colpisci"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "e salva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeilà"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeilà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:36.919903712Z",
+  "model": "glm-5.3"
+}

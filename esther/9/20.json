@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E Mordecai scrisse ⟨את⟩ queste parole, e mandò lettere a tutti i Giudei che erano in tutte le province del re Achashverosh, i vicini e i lontani.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "e scrisse"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "queste parole"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "lettere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "i Giudei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "le province"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "i vicini"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "e i lontani"
+    }
+  ],
+  "timestamp": "2026-08-21T10:16:15.062755404Z",
+  "model": "glm-5.3"
+}

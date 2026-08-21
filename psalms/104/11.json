@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Abbeverano tutte le bestie dei campi, gli onagri spezzano ⟨la⟩ loro sete.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "abbeverano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "le bestie"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dei campi"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "spezzano"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "gli onagri"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "la loro sete"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:15.633224468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E andò con ⟨את⟩ Joram figlio di Achab alla guerra contro Chazaèl, re di Aram, a Ramot di Gilead; e gli Aramei colpirono ⟨את⟩ Joram.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E andò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram — qui preposizione «con» (את II), non il marcatore di oggetto"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "di Achab"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "alla guerra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contro"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazaèl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "a Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "di Gilead"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "gli Aramei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:47.022124317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Nel giorno della mia angoscia Adonai ho cercato; la mia mano si è distesa nella notte e non si affloscia; la mia nefesh rifiuta ⟨di⟩ essere consolata.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "della mia angoscia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ho cercato"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nella notte"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "si è distesa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "si affloscia"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "rifiuta"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "essere consolata"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:02.794257611Z",
+  "model": "glm-5.3"
+}

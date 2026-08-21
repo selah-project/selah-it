@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E mandò messaggeri ad Ahab re d'Israele, nella città.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "nella città"
+    }
+  ],
+  "timestamp": "2026-08-21T07:33:11.242255491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "C'è chi parla come trafitture di spada, ma la lingua dei sagi ⟨porta⟩ guarigione.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "c'è chi"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "parla [in modo impulsivo]"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "come trafitture"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "di spada"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ma la lingua"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dei saggi"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "guarigione"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:02.986647091Z",
+  "model": "glm-5.3"
+}

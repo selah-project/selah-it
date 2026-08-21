@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e il suo esercito, con i suoi contati: due e trenta ⟨migliaia⟩ e duecento.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "e il suo esercito"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "con i suoi contati"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e trenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨migliaia⟩"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e duecento"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:14.160044757Z",
+  "model": "glm-5.3"
+}

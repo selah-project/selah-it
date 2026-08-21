@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Chi confida nel proprio cuore ⟨è⟩ un insensato, ma chi cammina nella sapienza ⟨egli⟩ scamperà.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "chi confida"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nel proprio cuore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "un insensato"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "ma chi cammina"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "nella sapienza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨egli⟩"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "scamperà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:18.110358207Z",
+  "model": "glm-5.3"
+}

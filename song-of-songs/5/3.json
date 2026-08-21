@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Mi sono spogliata ⟨את⟩ della mia tunica — come la rimetterò? Mi sono lavata ⟨את⟩ i miei piedi — come li sporcherò?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "mi sono spogliata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "della mia tunica"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "della mia tunica"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "come"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "la rimetterò"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "mi sono lavata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei piedi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i miei piedi"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "come"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "li sporcherò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:26.343338978Z",
+  "model": "glm-5.3"
+}

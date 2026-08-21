@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "e parlò loro secondo il consiglio dei ragazzi, dicendo: mio padre ha reso pesante ⟨את⟩ il vostro giogo, e io aggiungerò al vostro giogo; mio padre vi ha castigati ⟨את⟩ con fruste, e io vi castigherò ⟨את⟩ con scorpioni.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "secondo il consiglio"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "dei ragazzi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ha reso pesante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il vostro giogo"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "il vostro giogo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "aggiungerò"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "il vostro giogo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ha castigato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "con fruste"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "con fruste"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "castigherò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "con scorpioni"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "con scorpioni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:26.582404469Z",
+  "model": "glm-5.3"
+}

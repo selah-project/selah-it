@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "allora Io porrò la mia faccia contro quell'uomo e contro la sua famiglia, e sterminerò lui e ⟨את⟩ tutti quelli che si prostituiscono dietro a lui per prostituirsi dietro al Molech, dal mezzo del loro popolo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "allora Io porrò"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia faccia"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la mia faccia"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "contro quell'uomo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quell'"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "e contro la sua famiglia"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e sterminerò"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti quelli che si prostituiscono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "quelli che si prostituiscono"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dietro a lui"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "per prostituirsi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il Molech"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dal mezzo di"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "del loro popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:20.362528695Z",
+  "model": "glm-5.3"
+}

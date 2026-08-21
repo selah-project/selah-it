@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 4:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse Lemek alle sue mogli: Ada e Tsilla, ascoltate la mia voce; mogli di Lemek, porgete orecchio al mio dire: poiché un uomo ho ucciso per la mia ferita, e un ragazzo per il mio livido.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "לנשיו",
+      "gloss": "alle sue mogli"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "וצלה",
+      "gloss": "e Tsilla"
+    },
+    {
+      "surface": "שמען",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "mogli di"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "האזנה",
+      "gloss": "porgete orecchio"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "al mio dire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "ho ucciso"
+    },
+    {
+      "surface": "לפצעי",
+      "gloss": "per la mia ferita"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "e un ragazzo"
+    },
+    {
+      "surface": "לחברתי",
+      "gloss": "per il mio livido"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:26.114098495Z",
+  "model": "glm-5.3"
+}

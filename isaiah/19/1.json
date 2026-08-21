@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 19:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Oracolo sull'Egitto. Ecco, YHWH cavalca su una nube leggera e viene in Egitto, e tremano gli idoli dell'Egitto davanti a lui, e il cuore dell'Egitto si scioglie dentro di esso.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Oracolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sull'Egitto"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "cavalca"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "עב",
+      "gloss": "una nube"
+    },
+    {
+      "surface": "קל",
+      "gloss": "leggera"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e viene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ונעו",
+      "gloss": "e tremano"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "gli idoli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dell'Egitto"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "e il cuore"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dell'Egitto"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "si scioglie"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "dentro di esso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:15.714756149Z",
+  "model": "glm-5.3"
+}

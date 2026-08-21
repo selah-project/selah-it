@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E la sua razione, una razione perpetua, gli era data da ⟨את⟩ ⟨il⟩ re, la parte di un giorno nel suo giorno, tutti i giorni della sua vita.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "e la sua razione"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "una razione"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "perpetua"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "era data"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "da ⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parte"
+    },
+    {
+      "surface": "יום",
+      "gloss": "di un giorno"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "nel suo giorno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "della sua vita"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:14.278557583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Chi temeva ⟨את⟩ la parola di YHWH tra i servi del Faraone fece rifugiare ⟨את⟩ i suoi servi e ⟨את⟩ il suo bestiame nelle case.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "chi temeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parola di YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "tra i servi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "del Faraone"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "fece rifugiare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi servi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo bestiame"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "il suo bestiame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "le case"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:20.735614405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Voce di frusta e voce di fragore di ruota, e cavallo che galoppa e carrozza che saltella.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "di frusta"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e voce"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "di fragore"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "di ruota"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "e cavallo"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "che galoppa"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "e carrozza"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "che saltella"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:34.871702152Z",
+  "model": "glm-5.3"
+}

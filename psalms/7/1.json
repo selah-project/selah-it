@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Shigaion di Davide, che cantò a YHWH, sulle parole di Cush il beniaminita.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שר",
+      "gloss": "cantò"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Cush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "il beniaminita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:15.081011021Z",
+  "model": "glm-5.3"
+}

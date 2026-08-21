@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 25:36",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Voce del grido dei pastori e dell'ululato dei potenti del gregge, perché YHWH sta devastando ⟨את⟩ il loro pascolo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "del grido"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "dei pastori"
+    },
+    {
+      "surface": "ויללת",
+      "gloss": "e dell'ululato"
+    },
+    {
+      "surface": "אדירי",
+      "gloss": "dei potenti"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "del gregge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "sta devastando"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il loro pascolo"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "il loro pascolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:06:46.221421622Z",
+  "model": "glm-5.3"
+}

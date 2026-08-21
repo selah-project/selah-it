@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "Allora torneranno indietro i miei nemici nel giorno in cui io invocherò: questo io so, che Elohim ⟨è⟩ per me.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "torneranno indietro"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "indietro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io invocherò"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "io so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:00.883067393Z",
+  "model": "glm-5.3"
+}

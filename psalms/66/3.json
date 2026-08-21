@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Dite a Elohim: «Come ⟨sei⟩ tremendo nelle tue opere! Nell'abbondanza della tua forza ti mentiranno i tuoi nemici.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dite"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "come"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "tremendo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "nelle tue opere"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nell'abbondanza"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "della tua forza"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "mentiranno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:18.594038287Z",
+  "model": "glm-5.3"
+}

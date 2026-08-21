@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E disse loro: Contaminate ⟨את⟩ la casa e riempite ⟨את⟩ i cortici di uccisi — ⟨i⟩ cortili — uscite. E uscirono e colpirono nella città.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "Contaminate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e riempite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cortili"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "i cortili"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "di uccisi"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "uscite"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "E uscirono"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    }
+  ],
+  "timestamp": "2026-08-21T08:19:20.689284255Z",
+  "model": "glm-5.3"
+}

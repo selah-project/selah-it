@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E pose ⟨את⟩ la cortina dell'ingresso del mishkan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cortina dell'ingresso"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "la cortina"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "dell'ingresso"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "del mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:26.402685934Z",
+  "model": "glm-5.3"
+}

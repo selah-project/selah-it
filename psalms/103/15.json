@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "L'umano — come erba ⟨sono⟩ i suoi giorni; come il fiore del campo, così fiorisce.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "come erba"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "i suoi giorni"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "come il fiore"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "del campo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "fiorisce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:00.654864119Z",
+  "model": "glm-5.3"
+}

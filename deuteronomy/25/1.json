@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Quando ci sia una contesa tra uomini e si presentino al giudizio, e ⟨i giudici⟩ li giudichino, allora dichiareranno giusto ⟨את⟩ il giusto e dichiareranno colpevole ⟨את⟩ il colpevole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ci sia"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "una contesa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "e si presentino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "e li giudichino"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "dichiareranno giusto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giusto"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "e dichiareranno colpevole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il colpevole"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "il colpevole"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:02.226333434Z",
+  "model": "glm-5.3"
+}

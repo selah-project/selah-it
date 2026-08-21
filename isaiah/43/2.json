@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Quando attraverserai le acque, ⟨את⟩ te ⟨sarò⟩ io con te, e nei fiumi non ti sommergeranno; quando camminerai in mezzo al fuoco, non ti scotterai, e la fiamma non divamperà su di te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "attraverserai"
+    },
+    {
+      "surface": "במים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "io, con te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "e nei fiumi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "ti sommergeranno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "camminerai"
+    },
+    {
+      "surface": "במו",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "ti scotterai"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "e la fiamma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "divamperà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "su di te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:41.088365640Z",
+  "model": "glm-5.3"
+}

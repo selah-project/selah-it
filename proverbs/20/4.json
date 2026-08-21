@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Per il freddo dell'inverno il pigro non ara; chiederà alla mietitura — e non ⟨ci sarà⟩ nulla.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "per il freddo dell'inverno"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "il pigro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "chiederà"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "alla mietitura"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨ci sarà⟩ nulla"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:50.270623906Z",
+  "model": "glm-5.3"
+}

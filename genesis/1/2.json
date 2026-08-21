@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E la terra era tohu e vohu, e tenebra su ⟨la⟩ facia dell'abisso, e il Ruach di Elohim aleggiava su ⟨la⟩ faccia delle acque.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "e la terra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "era"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "e vohu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "e tenebra"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la⟩ faccia"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dell'abisso"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e il Ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "aleggiava"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la⟩ faccia"
+    },
+    {
+      "surface": "המים",
+      "gloss": "delle acque"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:35.680262969Z",
+  "model": "glm-5.3"
+}

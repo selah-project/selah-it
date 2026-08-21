@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Conosco ogni uccello dei monti, e ciò che si muove nei campi ⟨è⟩ con me.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Conosco"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "uccello"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dei monti"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "e ciò che si muove"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "nei campi"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:12.768692293Z",
+  "model": "glm-5.3"
+}

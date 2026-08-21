@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E Bilhah concepì e partorì a Giacobbe un figlio.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "e concepì"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "a Giacobbe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:29.608955492Z",
+  "model": "glm-5.3"
+}

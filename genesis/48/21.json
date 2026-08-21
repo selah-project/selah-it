@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "E disse Israele a Giuseppe: ecco, io muoio, e Elohim sarà con voi e vi riporterà alla terra dei vostri padri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מת",
+      "gloss": "muoio"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con voi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "e riporterà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi (a voi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dei vostri padri"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:39.873462595Z",
+  "model": "glm-5.3"
+}

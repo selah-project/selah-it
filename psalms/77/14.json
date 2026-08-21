@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Elohim, nel santuario ⟨è⟩ la tua via: chi ⟨è⟩ El grande come Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nel santuario"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "la tua via"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "come Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:23.248031043Z",
+  "model": "glm-5.3"
+}

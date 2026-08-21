@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Un cuore puro crea in me, o Elohim, e uno spirito fermo rinnova dentro di me.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "un cuore"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "crea"
+    },
+    {
+      "surface": "לי",
+      "gloss": "in me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e uno spirito"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "fermo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "rinnova"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "dentro di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:27.928105419Z",
+  "model": "glm-5.3"
+}

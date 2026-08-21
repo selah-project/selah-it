@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Al direttore del coro. Mizmor di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al direttore del coro"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:37.783250149Z",
+  "model": "glm-5.3"
+}

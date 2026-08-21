@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Voglio raccontare ⟨il⟩ decreto: YHWH mi ha detto: « Figlio mio sei tu; io oggi ti ho generato ».",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "voglio raccontare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "חק",
+      "gloss": "decreto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ti ho generato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:59.883161901Z",
+  "model": "glm-5.3"
+}

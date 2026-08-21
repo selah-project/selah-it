@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E le ripeterai ai tuoi figli, e parlerai di esse quando siedi nella tua casa, quando cammini per la strada, quando ti corichi e quando ti alzi.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "e le ripeterai"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ai tuoi figli"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "e parlerai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di esse"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "quando siedi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nella tua casa"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "quando cammini"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la strada"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "quando ti corichi"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "e quando ti alzi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:15.228136543Z",
+  "model": "glm-5.3"
+}

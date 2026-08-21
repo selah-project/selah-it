@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 2:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Perché io non la spogli nuda, e non la esponga come nel giorno della sua nascita, e non la faccia come il deserto, e non la riduca come terra arida, e non la faccia morire di sete.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "perché... non"
+    },
+    {
+      "surface": "אפשיטנה",
+      "gloss": "io non la spogli"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "nuda"
+    },
+    {
+      "surface": "והצגתיה",
+      "gloss": "e non la esponga"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come il giorno"
+    },
+    {
+      "surface": "הולדה",
+      "gloss": "della sua nascita"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "e non la faccia"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "come il deserto"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "e non la riduca"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "come terra"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "arida"
+    },
+    {
+      "surface": "והמתיה",
+      "gloss": "e non la faccia morire"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "di sete"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:13.093661937Z",
+  "model": "glm-5.3"
+}

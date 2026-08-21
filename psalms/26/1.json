@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Di David. Fammi giustizia, YHWH, perché io nella mia integrità ho camminato, e in YHWH ho confidato, non ⟨io⟩ vacillerò.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Fammi giustizia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "nella mia integrità"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ho camminato"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "e in YHWH"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ho confidato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "vacillerò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:41.384838021Z",
+  "model": "glm-5.3"
+}

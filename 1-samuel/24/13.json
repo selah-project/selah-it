@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Giudichi YHWH tra me e te, e mi vendichi YHWH di te; ma la mia mano non sarà su di te.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "giudichi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tra me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e te"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "e mi vendichi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "di te"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "ma la mia mano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "su di te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:05.211005862Z",
+  "model": "glm-5.3"
+}

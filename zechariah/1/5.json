@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "I vostri padri, dove sono? E i profeti, vivranno forse per sempre?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "i vostri padri"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dove"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sono?"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "e i profeti"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "vivranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:40:59.312226574Z",
+  "model": "glm-5.3"
+}

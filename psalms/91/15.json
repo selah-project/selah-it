@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Mi invocherà e io gli risponderò; io sarò con lui nella angoscia, lo trarrò in salvo e lo onorerò.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "mi invocherà"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "e io gli risponderò"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "nella angoscia"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "lo trarrò in salvo"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "e lo onorerò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:04.392953500Z",
+  "model": "glm-5.3"
+}

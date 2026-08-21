@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 111,
+  "translation": "Splendore e maestà ⟨sono⟩ l'opera sua, e la sua giustizia sta per sempre.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Splendore"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "e maestà"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "l'opera sua"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "e la sua giustizia"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sta"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:10.243119181Z",
+  "model": "glm-5.3"
+}

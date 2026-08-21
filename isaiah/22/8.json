@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E fu scoperto ⟨את⟩ il velo di Yehudah, e ti volgesti in quel giorno alle armi della Casa della Foresta.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "E fu scoperto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il velo di Yehudah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "il velo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "e ti volgesti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "armi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della Casa"
+    },
+    {
+      "surface": "היער",
+      "gloss": "della Foresta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:03.242512106Z",
+  "model": "glm-5.3"
+}

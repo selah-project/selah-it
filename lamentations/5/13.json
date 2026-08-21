@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "I giovani ⟨il⟩ mulino hanno portato, e i ragazzi sotto ⟨il⟩ legno sono inciampati.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "i giovani"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "il mulino (macina)"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hanno portato"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "e i ragazzi"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "sotto il legno"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "sono inciampati"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:37.071153078Z",
+  "model": "glm-5.3"
+}

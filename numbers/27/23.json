@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E impose ⟨את⟩ le sue mani su di lui e gli diede l'incarico, come aveva parlato YHWH per mano di Mosè.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "e impose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue mani"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "le sue mani"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "e gli diede l'incarico"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:46.183992338Z",
+  "model": "glm-5.3"
+}

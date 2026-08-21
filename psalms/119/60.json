@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Mi sono affrettato e non ho esitato a custodire i tuoi comandamenti.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "mi sono affrettato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ho esitato"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "a custodire"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "i tuoi comandamenti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:52.056056642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Adonai dà la parola: ⟨le⟩ annunciatrici ⟨sono⟩ una grande schiera.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "le annunciatrici"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "una schiera"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.493230724Z",
+  "model": "glm-5.3"
+}

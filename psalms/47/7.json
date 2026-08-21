@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Cantate a Elohim, cantate; cantate al nostro Re, cantate.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "al nostro Re"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cantate"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:51.617848979Z",
+  "model": "glm-5.3"
+}

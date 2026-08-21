@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "⟨Colui che⟩ dice al sole, ed esso non sorge, e sigilla le stelle.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "al sole"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "sorge"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "e"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "le stelle"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "sigilla"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:38.892348857Z",
+  "model": "glm-5.3"
+}

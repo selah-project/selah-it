@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Così era sempre: la nube lo copriva, e ⟨c'era⟩ l'aspetto di un fuoco di notte.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "era"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nube"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "lo copriva"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "e l'aspetto"
+    },
+    {
+      "surface": "אש",
+      "gloss": "di un fuoco"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di notte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:13.647581410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E i filistei si strinsero dietro a Saul e dietro ai suoi figli, e i filistei colpirono ⟨את⟩ Yonatan e ⟨את⟩ Avinadav e ⟨את⟩ Malkishua, figli di Saul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "E si strinsero dietro"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i filistei"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e dietro a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ai suoi figli"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i filistei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Saul"
+    }
+  ],
+  "timestamp": "2026-08-21T09:48:59.171359443Z",
+  "model": "glm-5.3"
+}

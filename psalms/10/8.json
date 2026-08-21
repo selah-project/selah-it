@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Siede in agguato presso i villaggi; nei nascondigli uccide l'innocente; i suoi occhi spiano in segreto il misero.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "siede"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "in agguato"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "presso i villaggi"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "nei nascondigli"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "uccide"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "l'innocente"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "il misero"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "spiano in segreto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:21.867013376Z",
+  "model": "glm-5.3"
+}

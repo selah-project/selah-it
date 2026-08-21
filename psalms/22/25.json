@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Poiché non ha disprezzato né aborrito l'afflizione dell'afflitto, e non ha nascosto la sua faccia da lui; e al suo gridare verso di lui, ⟨egli⟩ ha ascoltato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ha disprezzato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ha aborrito"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "l'afflizione"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dell'afflitto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ha nascosto"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "la sua faccia"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "e al suo gridare"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "verso di lui"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ha ascoltato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:04.092658759Z",
+  "model": "glm-5.3"
+}

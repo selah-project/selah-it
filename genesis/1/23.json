@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E fu sera e fu mattina: giorno quinto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sera"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mattina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "quinto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:26.201522712Z",
+  "model": "glm-5.3"
+}

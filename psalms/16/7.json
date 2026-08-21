@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Benedirò ⟨את⟩ YHWH che mi consiglia; anche le notti mi istruiscono i miei reni.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "benedirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "mi consiglia"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "le notti"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "mi istruiscono"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "i miei reni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:40.504806781Z",
+  "model": "glm-5.3"
+}

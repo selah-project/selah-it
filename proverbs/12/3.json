@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Non si rende stabile l'uomo mediante la malvagità, ma la radice dei giusti non sarà smossa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "si rende stabile"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "mediante la malvagità"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ma la radice"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non (affatto)"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarà smossa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:47.911719743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E provocarono l'ira alle acque di Merivà, e andò male a Mosè per causa loro.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "e provocarono l'ira"
+    },
+    {
+      "surface": "על",
+      "gloss": "presso"
+    },
+    {
+      "surface": "מי",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "di Merivà"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "e andò male"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "a Mosè"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "per causa loro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:11.952177726Z",
+  "model": "glm-5.3"
+}

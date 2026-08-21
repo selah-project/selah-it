@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E lo videro ⟨את⟩ da lontano, e prima che si avvicinasse a loro, complottarono contro di lui ⟨את⟩ per metterlo a morte.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "e lo videro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (Yosef)"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "da lontano"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "e prima che"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "si avvicinasse"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "complottarono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "contro di lui (il complotto)"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "per metterlo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:37.780550434Z",
+  "model": "glm-5.3"
+}

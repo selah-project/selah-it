@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Chi ha plasmato un dio, e un idolo colato, che non giovi a nulla?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ha plasmato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "un dio"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "e un idolo"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "colato"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "che non"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "giovi a nulla"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:06.932961550Z",
+  "model": "glm-5.3"
+}

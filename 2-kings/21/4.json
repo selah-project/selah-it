@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E costruì altari nella casa di YHWH, della quale YHWH aveva detto: « A Gerusalemme porrò ⟨את⟩ il mio Nome ».",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "E costruì"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "altari"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "della quale"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aveva detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "A Gerusalemme"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "porrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio Nome"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio Nome"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:34.797633028Z",
+  "model": "glm-5.3"
+}

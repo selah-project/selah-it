@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 19:9",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E un uomo puro raccoglierà ⟨את⟩ la cenere della giovenca e la deporrà fuori ⟨dell'⟩accampamento, in un luogo puro; e sarà per la comunità dei figli d'Israele in custodia, per le acque di purificazione: è un'offerta per il peccato.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "e raccoglierà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cenere"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "la cenere"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "della giovenca"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "e la deporrà"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "dell'accampamento"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in un luogo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "per la comunità"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "in custodia"
+    },
+    {
+      "surface": "למי",
+      "gloss": "per le acque"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "di purificazione"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "offerta per il peccato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa è"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:27.582464402Z",
+  "model": "glm-5.3"
+}

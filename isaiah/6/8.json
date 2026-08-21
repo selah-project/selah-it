@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E udii ⟨את⟩ la voce di Adonai che diceva: ⟨את⟩ chi manderò, e chi andrà per noi? E io dissi: eccomi, manda me.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "E udii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "di Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "che diceva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "manderò"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "andrà"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "E io dissi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "eccomi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "manda me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:53.511531244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "perché io racconti tutte le tue lodi nelle porte della figlia di Sion, esulti in te nella tua salvezza ⟨io⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "io racconti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "le tue lodi"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "nelle porte"
+    },
+    {
+      "surface": "בת",
+      "gloss": "della figlia"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "di Sion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "esulti ⟨io⟩"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nella tua salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:14.792346208Z",
+  "model": "glm-5.3"
+}

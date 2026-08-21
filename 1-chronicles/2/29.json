@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E il nome della moglie di Abishur ⟨era⟩ Avihail, e gli partorì ⟨את⟩ Achban e ⟨את⟩ Molid.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "e il nome"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "della moglie"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "di Abishur"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Avihail"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Achban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Molid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Molid"
+    }
+  ],
+  "timestamp": "2026-08-21T09:45:12.456105019Z",
+  "model": "glm-5.3"
+}

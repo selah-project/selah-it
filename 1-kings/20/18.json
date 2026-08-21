@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E disse: se sono usciti per shalom, prendeteli vivi; e se sono usciti per la guerra, vivi prendeteli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "per shalom"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sono usciti"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "prendeteli"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "per la guerra"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sono usciti"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivi"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "prendeteli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:33:05.974171247Z",
+  "model": "glm-5.3"
+}

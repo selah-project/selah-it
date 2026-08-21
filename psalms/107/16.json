@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "poiché spezzò porte di bronzo e sbarre di ferro tagliò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "spezzò"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "porte"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "di bronzo"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "e sbarre"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "di ferro"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "tagliò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:42.466784046Z",
+  "model": "glm-5.3"
+}

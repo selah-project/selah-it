@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Con cui i tuoi nemici hanno vituperato, YHWH, con cui hanno vituperato le orme del tuo Mashiach.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "hanno vituperato"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "hanno vituperato"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "le orme"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "del tuo Mashiach"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:49.670788748Z",
+  "model": "glm-5.3"
+}

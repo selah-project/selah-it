@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E disse YHWH a Noè: entra, tu e tutta la tua casa, nell'arca, perché ⟨את⟩ te ho visto giusto davanti a me in questa generazione.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "a Noè"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "la tua casa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "te (con את preposizionale, non il marcatore)"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa generazione"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:39.116939155Z",
+  "model": "glm-5.3"
+}

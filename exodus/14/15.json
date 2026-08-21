@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E disse YHWH a Mosè: perché gridi verso di me? Parla ai figli d'Israele, e partano.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "מה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "gridi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Parla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "e partano"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:02.865576502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Si appresti la tavola, si stabilisca ⟨la⟩ vedetta: mangiare, bere — alzatevi, o principi, ungere ⟨il⟩ scudo!",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "si appresti"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "si stabilisca la vedetta"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "⟨la⟩ vedetta"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "mangiare"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "bere"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "alzatevi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "o principi"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "ungere"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "lo scudo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:59.467799491Z",
+  "model": "glm-5.3"
+}

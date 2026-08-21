@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ed egli le disse: « Dammi da bere, ti prego, un po' d'acqua, perché ho sete ». Ed ella aprì ⟨את⟩ l'otre del latte, lo dissetò e lo coprì.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ed egli disse"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "le"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "Dammi da bere"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un po'"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "ho sete"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "Ed ella aprì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'otre del latte"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "l'otre"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "del latte"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "lo dissetò"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "e lo coprì"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:29.592326362Z",
+  "model": "glm-5.3"
+}

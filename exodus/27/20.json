@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E tu ordinerai ⟨את⟩ i figli d'Israele, e prenderanno verso di te olio d'oliva puro, battuto, per la lampada, per far salire la luce di continuo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E tu"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ordinerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e prenderanno"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "verso di te"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "זית",
+      "gloss": "d'oliva"
+    },
+    {
+      "surface": "זך",
+      "gloss": "puro"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "battuto"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "per la lampada"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "per far salire"
+    },
+    {
+      "surface": "נר",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "di continuo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:39.121959420Z",
+  "model": "glm-5.3"
+}

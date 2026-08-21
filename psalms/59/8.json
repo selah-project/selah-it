@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Ecco, eruttano con la loro bocca: spade ⟨sono⟩ sulle loro labbra, perché: chi ascolta?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "eruttano"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "con la loro bocca"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "spade"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "sulle loro labbra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:18.419629409Z",
+  "model": "glm-5.3"
+}

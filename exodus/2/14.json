@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 2:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E quegli disse: chi ti ha posto ⟨come⟩ uomo capo e giudice sopra di noi? Forse mi vuoi uccidere, come hai ucciso ⟨את⟩ l'egiziano? E Moshe ebbe paura e disse: certo, la cosa ⟨è⟩ diventata nota.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e quegli disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ti ha posto"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "come uomo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "e giudice"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sopra di noi"
+    },
+    {
+      "surface": "הלהרגני",
+      "gloss": "mi vuoi uccidere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dici"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "hai ucciso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'egiziano"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "l'egiziano"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "e ebbe paura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "certo"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "è diventata nota"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:08.265517371Z",
+  "model": "glm-5.3"
+}

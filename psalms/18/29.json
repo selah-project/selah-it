@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 18:29",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Poiché tu accendi la mia lampada, YHWH, il mio Elohim, illumina la mia oscurità.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "accendi"
+    },
+    {
+      "surface": "נרי",
+      "gloss": "la mia lampada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "il mio Elohim"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "illumina"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "la mia oscurità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:41.181504434Z",
+  "model": "glm-5.3"
+}

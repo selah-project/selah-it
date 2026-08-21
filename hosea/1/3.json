@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E andò e prese ⟨את⟩ Gomer figlia di Divlaim, ed essa concepì e gli partorì un figlio.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "E andò"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "di Divlaim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ed essa concepì"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:45.503058107Z",
+  "model": "glm-5.3"
+}

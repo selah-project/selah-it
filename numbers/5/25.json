@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E il sacerdote prenderà dalla mano della donna ⟨את⟩ l'offerta della gelosia, e agiterà l'offerta davanti a YHWH, e la presenterà ⟨את⟩ presso l'altare.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "e prenderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "della donna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offerta della gelosia"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "l'offerta"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "della gelosia"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "e agiterà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offerta"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "l'offerta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "e presenterà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lei",
+      "marks": "l'offerta (suffisso femminile)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "presso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:24:51.357710374Z",
+  "model": "glm-5.3"
+}

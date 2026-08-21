@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Lividi di ferita purgano il male, e percosse ⟨raggiungono⟩ le stanze interne del ventre.",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "lividi"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "di ferita"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "purgano"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "e percosse"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "le stanze interne"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "del ventre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:25.004633511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "e ⟨את⟩ tutti i re di Zimri, e ⟨את⟩ tutti i re di Elam, e ⟨את⟩ tutti i re dei Medi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i re di Zimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "i re di"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i re di Elam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "i re di"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i re dei Medi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "i re di"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "dei Medi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:06:37.230887535Z",
+  "model": "glm-5.3"
+}

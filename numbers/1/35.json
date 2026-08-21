@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "I loro censiti, per la tribù di Menashshe: due e trenta mila e duecento.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "i loro censiti"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "per la tribù"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "di Menashshe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e trenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e duecento"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:27.645462409Z",
+  "model": "glm-5.3"
+}

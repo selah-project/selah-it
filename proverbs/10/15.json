@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "La ricchezza del ricco ⟨è⟩ la sua città forte, la rovina dei poveri ⟨è⟩ la loro povertà.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "la ricchezza"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "del ricco"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "la città"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "forte sua"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "la rovina"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "dei poveri"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "la loro povertà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:42.981749450Z",
+  "model": "glm-5.3"
+}

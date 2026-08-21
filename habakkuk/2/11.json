@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Poiché la pietra griderà dal muro, e la trave dal legno le risponderà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "la pietra"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "dal muro"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "griderà"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "e la trave"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "dal legno"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "le risponderà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:52.135088146Z",
+  "model": "glm-5.3"
+}

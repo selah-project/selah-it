@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "come aveva comandato YHWH ⟨את⟩ Mosè; e li censì nel deserto del Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "e li censì"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "del Sinai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:39.496612656Z",
+  "model": "glm-5.3"
+}

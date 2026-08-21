@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E come potresti volgere ⟨את⟩ il volto di un solo governatore dei più piccoli servi del mio signore? E tu ti affidi all'Egitto per carri e cavalieri!",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "e come"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "potresti volgere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il volto di un solo governatore"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "di un governatore"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un solo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dei servi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "del mio signore"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "i più piccoli"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "e tu ti affidi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "על",
+      "gloss": "all'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egitto"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "per carri"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "e cavalieri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:33.041477988Z",
+  "model": "glm-5.3"
+}

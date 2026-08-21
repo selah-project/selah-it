@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Dieci cubiti ⟨sarà⟩ la lunghezza dell'asse, e un cubito e mezzo la larghezza dell'asse, di ciascuna.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "la lunghezza"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "dell'asse"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e un cubito"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e mezzo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "cubito"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "la larghezza"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "dell'asse"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "di ciascuna"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:05.569331607Z",
+  "model": "glm-5.3"
+}

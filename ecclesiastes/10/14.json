@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E lo stolto moltiplica parole: l'uomo non conosce che cosa sarà, e ciò che sarà dopo di lui, chi glielo dichiarerà?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "E lo stolto"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "moltiplica"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "parole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ciò che"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "dopo di lui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "dichiarerà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:10.111270027Z",
+  "model": "glm-5.3"
+}

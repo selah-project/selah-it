@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E il sacerdote prenderà del sangue della chatàt con il suo dito e lo metterà sulle corna dell'altare dell'olà, e ⟨את⟩ il suo sangue verserà alla base dell'altare dell'olà.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "e prenderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "del sangue"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "della chatàt (offerta per il peccato)"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "con il suo dito"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e lo metterà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "le corna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dell'altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dell'olà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo sangue"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "verserà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "alla base"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dell'altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dell'olà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:08.414741041Z",
+  "model": "glm-5.3"
+}

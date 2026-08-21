@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Salva, YHWH, perché ⟨il⟩ pio è venuto meno, perché i fedeli sono scomparsi dai figli dell'uomo.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "salva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "è venuto meno"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "il pio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "sono scomparsi"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "i fedeli"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dai figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:58.772651144Z",
+  "model": "glm-5.3"
+}

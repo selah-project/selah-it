@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Ho portato ⟨il⟩ lieto annunzio della giustizia in ⟨un'⟩ assemblea grande; ecco, le mie labbra non trattengo: YHWH, tu sai.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ho portato il lieto annunzio"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in assemblea"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "le mie labbra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "trattengo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:03.477679534Z",
+  "model": "glm-5.3"
+}

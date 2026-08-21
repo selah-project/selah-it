@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E Abimèlech ordinò a ⟨את⟩ tutto il popolo, dicendo: «Chi tocca quest'uomo o sua moglie, morendo morirà».",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e ordinò"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimèlech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il popolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chi tocca"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "o sua moglie"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morendo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "morirà"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:14.500820125Z",
+  "model": "glm-5.3"
+}

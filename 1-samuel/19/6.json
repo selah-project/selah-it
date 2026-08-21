@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Saul ascoltò la voce di Gionatan, e Saul giurò: «Com'è vivo YHWH, non sarà messo a morte».",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e ascoltò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "di Gionatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "e giurò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "com'è vivo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "non sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:09.233695492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Il giusto conosce ⟨la⟩ nefesh del suo bestiame, ma le viscere ⟨di pietà⟩ dei malvagi ⟨sono⟩ crudeli.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "del suo bestiame"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ma le viscere di pietà"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "crudeli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:58.123753761Z",
+  "model": "glm-5.3"
+}

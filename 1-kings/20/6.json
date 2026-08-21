@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "ma domani a quest'ora manderò ⟨את⟩ i miei servi da te, e perquisiranno ⟨את⟩ la tua casa e ⟨את⟩ le case dei tuoi servi; e sarà: tutto ciò che è desiderabile ai tuoi occhi lo metteranno in mano loro e lo prenderanno».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "a quest'ora"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "domani"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "manderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei servi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i miei servi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "e perquisiranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua casa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "la tua casa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le case dei tuoi servi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "le case"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dei tuoi servi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "ciò che è desiderabile"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ai tuoi occhi"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "metteranno"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in mano loro"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "e lo prenderanno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:33:21.955841091Z",
+  "model": "glm-5.3"
+}

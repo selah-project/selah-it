@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Poiché tu benedirai ⟨il⟩ giusto, YHWH; come con uno scudo, di favore lo cingerai — lo incoronerai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "benedirai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨il⟩ giusto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "come con uno scudo"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "favore"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "lo cingerai — lo incoronerai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:43.629578152Z",
+  "model": "glm-5.3"
+}

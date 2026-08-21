@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Un abisso chiama l'altro abisso al rumore dei tuoi canali d'acqua; tutte le tue onde e i tuoi marosi sono passati su di me.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Un abisso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "l'altro"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "abisso"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "chiama"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "al rumore"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "dei tuoi canali d'acqua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "le tue onde"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "e i tuoi marosi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "sono passati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:17.074495052Z",
+  "model": "glm-5.3"
+}

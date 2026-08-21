@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Poiché l'oppressione fa impazzire il saggio, e il dono distrugge ⟨את⟩ il cuore ⟨del⟩ regalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "l'oppressione"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "fa impazzire"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "il saggio"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "e distrugge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cuore"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "il regalo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:59.882685756Z",
+  "model": "glm-5.3"
+}

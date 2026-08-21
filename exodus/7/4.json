@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E non ascolterà verso di voi Faraone, e porrò ⟨את⟩ la mia mano sull'Egitto, e farò uscire ⟨את⟩ i miei eserciti, ⟨את⟩ il mio popolo, i figli d'Israele, dal paese d'Egitto con grandi giudizi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "E non"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolterà"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "verso di voi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e porrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia mano"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sull'Egitto"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "e farò uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei eserciti"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "i miei eserciti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo, i figli d'Israele"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "con giudizi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:18.954763406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E rispose il re e disse: «Datele ⟨את⟩ il bambino vivo e non lo mettete a morte: lei ⟨è⟩ sua madre».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "E rispose"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Date"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bambino vivo"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "il bambino"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "e non mettete a morte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:47.066225216Z",
+  "model": "glm-5.3"
+}

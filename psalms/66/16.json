@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Venite, ascoltate, e io racconterò a tutti voi che temete Elohim ciò che ⟨egli⟩ ha fatto alla mia nefesh.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "e io racconterò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "a tutti"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "voi che temete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "alla mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:01.769415707Z",
+  "model": "glm-5.3"
+}

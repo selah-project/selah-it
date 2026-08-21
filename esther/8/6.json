@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché come potrei ⟨io⟩ vedere il male che troverà ⟨את⟩ il mio popolo? E come potrei vedere la distruzione della mia patria?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "come"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "potrei"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "e vedere"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "troverà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "e come"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "potrei"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "e vedere"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "la distruzione"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "della mia patria"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:30.710880809Z",
+  "model": "glm-5.3"
+}

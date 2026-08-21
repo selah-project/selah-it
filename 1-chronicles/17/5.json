@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Poiché non ho abitato in ⟨una⟩ casa dal giorno in cui feci salire ⟨את⟩ Israele fino a questo giorno, e sono stato da tenda a tenda e dal mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ho abitato"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in ⟨una⟩ casa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "feci salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "e sono stato"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "da tenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "e dal mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:14.798312665Z",
+  "model": "glm-5.3"
+}

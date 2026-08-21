@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Mosè udì ⟨את⟩ il popolo che piangeva, per le sue famiglie, ognuno all'ingresso della propria tenda; e l'ira di YHWH si accese moltissimo, e agli occhi di Mosè ⟨fu⟩ una cosa cattiva.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "piangeva"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "per le sue famiglie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ognuno"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "della propria tenda"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "e si accese"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l'ira (lett. il naso)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "moltissimo"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "e agli occhi di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "רע",
+      "gloss": "una cosa cattiva"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:14.406668529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E giudicò ⟨את⟩ Israele ai giorni dei filistei vent'anni.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "e giudicò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ai giorni di"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei filistei"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:03:13.254935619Z",
+  "model": "glm-5.3"
+}

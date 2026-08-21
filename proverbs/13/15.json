@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Il buon senno dà favore, ma la via dei traditori ⟨è⟩ dura.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "il senno"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favore"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ma la via"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "dei traditori"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "dura"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:02.675725132Z",
+  "model": "glm-5.3"
+}

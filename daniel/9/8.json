@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "YHWH, a noi la vergogna del volto, ai nostri re, ai nostri principi e ai nostri padri, perché abbiamo peccato verso di te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "la vergogna"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "del volto"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ai nostri re"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "ai nostri principi"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "e ai nostri padri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "abbiamo peccato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "verso di te"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:35.101907328Z",
+  "model": "glm-5.3"
+}

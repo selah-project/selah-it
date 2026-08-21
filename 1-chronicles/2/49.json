@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e partorì Shaaf, padre di Madmannah, ⟨את⟩ Sheva, padre di Machbenah, e padre di Ghibea; e la figlia di Caleb ⟨fu⟩ Aksa.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Shaaf"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre di"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmannah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre di"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Machbenah"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "e padre di"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Ghibea"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "e la figlia di"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Caleb"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:45:07.901256202Z",
+  "model": "glm-5.3"
+}

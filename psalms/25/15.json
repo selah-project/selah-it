@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "I miei occhi ⟨sono⟩ sempre verso YHWH, perché lui tirerà fuori dalla rete i miei piedi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "tirerà fuori"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "dalla rete"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i miei piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:15.663548419Z",
+  "model": "glm-5.3"
+}

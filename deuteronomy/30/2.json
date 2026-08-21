@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "e tornerai fino a YHWH, il tuo Elohim, e ascolterai la sua voce, secondo tutto ciò che io ti comando oggi, tu e i tuoi figli, con tutto il tuo cuore e con tutta la tua nefesh —",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "e tornerai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "e ascolterai"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "la sua voce"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti comando"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "e i tuoi figli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e con tutta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:07.856170371Z",
+  "model": "glm-5.3"
+}

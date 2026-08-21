@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Colui che pianta ⟨il⟩ orecchio, non forse ascolterà? Colui che forma ⟨l'⟩occhio, non forse guarderà?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "colui che pianta"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "orecchio"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolterà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "colui che (forme)"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "forma"
+    },
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "guarderà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:12.720232308Z",
+  "model": "glm-5.3"
+}

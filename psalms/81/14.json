@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Se il mio popolo mi ascoltasse! Se Israele camminasse nelle mie vie!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "se…!"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascoltasse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "nelle mie vie"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "camminasse"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:40.075785768Z",
+  "model": "glm-5.3"
+}

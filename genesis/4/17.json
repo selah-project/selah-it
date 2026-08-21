@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Kayin conobbe ⟨את⟩ sua moglie, ed ella concepì e partorì ⟨את⟩ Chenokh; ed egli fu costruendo una città, e chiamò il nome della città come il nome di suo figlio, Chenokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "e conobbe"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sua moglie"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ed ella concepì"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chenokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chenokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ed egli fu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "costruendo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "una città"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "come il nome"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "di suo figlio"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chenokh"
+    }
+  ],
+  "timestamp": "2026-08-21T10:15:44.017266065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Un re con ⟨il⟩ giudizio fa stare salda la terra, ma l'uomo ⟨delle⟩ contribuzioni la demolisce.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "con giudizio"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "fa stare salda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma l'uomo"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "contribuzioni"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "la demolisce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:44.097859676Z",
+  "model": "glm-5.3"
+}

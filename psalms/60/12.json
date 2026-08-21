@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Non sei forse tu, Elohim, che ci hai respinti? E non esci, Elohim, con i nostri eserciti!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "non… forse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ci hai respinti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "esci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "con i nostri eserciti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:38.251121566Z",
+  "model": "glm-5.3"
+}

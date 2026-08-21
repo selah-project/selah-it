@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Al direttore del coro. Un mashkil dei figli di Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al direttore del coro"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un mashkil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:19.321972095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Vicino ⟨è⟩ YHWH agli dal cuore spezzato, e ⟨את⟩ gli schiacciati nello spirito salva.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Vicino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "agli spezzati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gli schiacciati nello spirito"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "gli schiacciati"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nello spirito"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "salva"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:16.712346129Z",
+  "model": "glm-5.3"
+}

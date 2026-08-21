@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "⟨Egli⟩ ha riscattato in shalom la mia nefesh da chi mi ⟨stava⟩ vicino, poiché molti erano con me.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ha riscattato"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in shalom"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "da vicino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erano"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:43.371144171Z",
+  "model": "glm-5.3"
+}

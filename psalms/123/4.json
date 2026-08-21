@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 123,
+  "translation": "Troppo è sazia di scherno ⟨la nostra nefesh⟩ — ⟨lo scherno⟩ dei tranquilli, ⟨il disprezzo⟩ dei superbi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Troppo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "è sazia"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "la nostra nefesh"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "di scherno"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "dei tranquilli"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "⟨il disprezzo⟩"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "dei superbi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:23.554725153Z",
+  "model": "glm-5.3"
+}

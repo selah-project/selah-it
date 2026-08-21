@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E dissero, uno al suo prossimo: «Orsù, facciamo mattoni e cuociamoli nella cottura». E il mattone fu per loro pietra, e il bitume fu per loro calcina.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E dissero"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "al suo prossimo"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Orsù"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "facciamo mattoni"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "mattoni"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "e cuociamoli"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "nella cottura (fornace)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "il mattone"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "pietra"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "e il bitume"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "calcina"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:48.065222864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e chi entra nella casa per tutti i giorni del suo chiuderla ⟨את⟩ sarà impuro fino alla sera.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "e chi entra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "del chiuderla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "essa — la casa chiusa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "alla sera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:54.152020765Z",
+  "model": "glm-5.3"
+}

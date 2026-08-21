@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Quando le vie di un uomo piacciono a YHWH, anche i suoi nemici egli pacifica ⟨con⟩ lui ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "quando piacciono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "le vie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "i suoi nemici"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pacifica"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui — con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:07.302275721Z",
+  "model": "glm-5.3"
+}

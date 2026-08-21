@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E voi sapete che con tutta la mia forza ho servito vostro padre ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "e voi"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "sapete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutta"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "la mia forza"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ho servito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vostro padre"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "vostro padre"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:44.469051032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E David si alzò di buon mattino, lui e i suoi uomini, per partire al mattino e tornare nella terra dei Filistei; e i Filistei salirono a Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "e si alzò di buon mattino"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "e i suoi uomini"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "per partire"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "per tornare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei Filistei"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "e i Filistei"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "salirono"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "a Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:08.410600655Z",
+  "model": "glm-5.3"
+}

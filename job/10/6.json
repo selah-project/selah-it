@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "poiché cerchi la mia iniquità, e il mio peccato investighi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "cerchi"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "la mia iniquità"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "e il mio peccato"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "investighi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:26.025508908Z",
+  "model": "glm-5.3"
+}

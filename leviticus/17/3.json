@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Ogni uomo ⟨della⟩ casa d'Israele che scanni un bue, o un montone, o una capra, nell'accampamento, o che scanni fuori dell'accampamento —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ogni uomo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨della⟩ casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "scanni"
+    },
+    {
+      "surface": "שור",
+      "gloss": "un bue"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "un montone"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "עז",
+      "gloss": "una capra"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nell'accampamento"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "scanni"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "dell'accampamento"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:18.944238078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ho visto ⟨את⟩ tutte le opere che si fanno sotto il sole, ed ecco: tutto ⟨è⟩ hevel e un pascere di vento.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le opere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "le opere"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "che si fanno"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel (vapore)"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e un pascere"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "di vento"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:01.129926241Z",
+  "model": "glm-5.3"
+}

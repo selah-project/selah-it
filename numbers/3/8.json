@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E custodiranno ⟨את⟩ tutti gli strumenti della tenda del convegno e ⟨את⟩ la custodia dei figli d'Israele, per servire ⟨את⟩ il servizio del mishkan (tabernacolo).",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "E custodiranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti gli strumenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gli strumenti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la custodia dei figli d'Israele"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la custodia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "per servire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il servizio del mishkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "il servizio"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "del mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:07.283577829Z",
+  "model": "glm-5.3"
+}

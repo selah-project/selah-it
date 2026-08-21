@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "⟨I⟩ cieli raccontano la gloria di El, e il firmamento annuncia l'opera delle sue mani.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "⟨i⟩ cieli"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "raccontano"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "e l'opera"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "delle sue mani"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "annuncia"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "il firmamento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:22.500843741Z",
+  "model": "glm-5.3"
+}

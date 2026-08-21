@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Dico all'El, mia rupe: perché mi hai dimenticato? Perché ⟨vado⟩ scuro ⟨in volto⟩ sotto l'oppressione del nemico?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "dico"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "all'El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mia rupe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "mi hai dimenticato"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "scuro ⟨in volto⟩"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "⟨vado⟩"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sotto l'oppressione"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "del nemico"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:07.756124996Z",
+  "model": "glm-5.3"
+}

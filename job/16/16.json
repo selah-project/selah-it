@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Il mio volto è infiammato per il pianto, e sulle mie palpebre ⟨sta⟩ l'ombra della morte.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "il mio volto"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "è infiammato"
+    },
+    {
+      "surface": "מני",
+      "gloss": "per"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "il pianto"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "le mie palpebre"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "l'ombra della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:22.112561763Z",
+  "model": "glm-5.3"
+}

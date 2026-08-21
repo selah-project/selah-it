@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Non si trovi in te chi fa passare il suo figlio o la sua figlia nel fuoco, né chi pratica divinazioni, indovino, augure, né mago:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "si trovi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "chi fa passare"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "il suo figlio"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "o la sua figlia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "chi pratica divinazioni"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "divinazioni"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "indovino"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "augure"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "mago"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:27.592542325Z",
+  "model": "glm-5.3"
+}

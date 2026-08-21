@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Egli muta ⟨il⟩ deserto in stagni d'acqua e ⟨la⟩ terra arida in sorgenti d'acqua.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Egli muta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "deserto"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "in stagni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e terra"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "arida"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "in sorgenti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:46.127669290Z",
+  "model": "glm-5.3"
+}

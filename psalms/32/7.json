@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Tu ⟨sei⟩ rifugio per me, dall'angoscia mi guarderai, con canti di liberazione mi circonderai. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "rifugio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dall'angoscia"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "mi guarderai"
+    },
+    {
+      "surface": "רני",
+      "gloss": "con canti"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "di liberazione"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "mi circonderai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:09.921236840Z",
+  "model": "glm-5.3"
+}

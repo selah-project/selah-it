@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Mesha re di Moav era un allevatore di greggi, e rendeva al re di Israele centomila agnelli e centomila montoni, con la lana.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "E Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "un allevatore di greggi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "e rendeva"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "agnelli"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "e cento"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "montoni"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "con la lana"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:12.438044352Z",
+  "model": "glm-5.3"
+}

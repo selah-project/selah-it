@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E il re Coresh fece uscire ⟨את⟩ gli oggetti della casa di YHWH, che Nevukhadnetstsar aveva fatto uscire da Gerusalemme, e li depose nella casa del suo Elohim.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Coresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "fece uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli oggetti della casa di YHWH"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gli oggetti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "aveva fatto uscire"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "da Gerusalemme"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "e li depose"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "del suo Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:37:22.833960383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Perché davanti alle spade sono fuggiti, davanti alla spada sguainata, e davanti all'arco teso, e davanti al peso della guerra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "alle spade"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "sono fuggiti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti alla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "spada"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "sguainata"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e davanti all'"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arco"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "teso"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e davanti al"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "peso"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "della guerra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:53.025655723Z",
+  "model": "glm-5.3"
+}

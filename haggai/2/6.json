@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Poiché così ha detto YHWH degli eserciti: Ancora una volta — ⟨è⟩ poca cosa — e io scuoterò ⟨את⟩ i cieli e ⟨את⟩ la terra e ⟨את⟩ il mare e ⟨את⟩ l'arido.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una volta"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "poca"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨è⟩ cosa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "scuoterò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cieli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il mare"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'arido"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "l'arido"
+    }
+  ],
+  "timestamp": "2026-08-21T08:40:30.994179327Z",
+  "model": "glm-5.3"
+}

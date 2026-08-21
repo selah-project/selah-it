@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "se vedranno ⟨את⟩ la terra che ho giurato ai loro padri! E tutti quelli che mi hanno disprezzato non la vedranno.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vedranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ho giurato"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "ai loro padri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "quelli che mi hanno disprezzato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "la vedranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:56.738134341Z",
+  "model": "glm-5.3"
+}

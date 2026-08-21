@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E mangerai e ti sazierai, e benedirai ⟨את⟩ YHWH tuo Elohim per la terra buona che ti ha dato.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "e mangerai"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "e ti sazierai"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "e benedirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "buona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:50.679109347Z",
+  "model": "glm-5.3"
+}

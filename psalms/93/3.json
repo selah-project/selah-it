@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 93,
+  "translation": "Hanno levato i fiumi, YHWH, hanno levato i fiumi la loro voce, leveranno i fiumi i loro frangenti.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "hanno levato"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "i fiumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hanno levato"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "i fiumi"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "la loro voce"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "leveranno"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "i fiumi"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "i loro frangenti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:20.375545168Z",
+  "model": "glm-5.3"
+}

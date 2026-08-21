@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Sii per me rupe di dimora, per entrarvi sempre: tu hai comandato di salvarmi, perché mia rupe e mia fortezza ⟨sei⟩ tu.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "rupe di"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "dimora"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "per entrarvi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "tu hai comandato"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "di salvarmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mia rupe"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "e mia fortezza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:19.851817159Z",
+  "model": "glm-5.3"
+}

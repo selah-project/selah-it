@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "che formo la luce e creo le tenebre, che fo la pace e creo il male: io ⟨sono⟩ YHWH, che fo tutte queste cose.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "che formo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "e creo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "le tenebre"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "che fo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la pace"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "e creo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "che fo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "queste cose"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:07.732068673Z",
+  "model": "glm-5.3"
+}

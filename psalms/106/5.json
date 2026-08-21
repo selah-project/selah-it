@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Per vedere il bene dei tuoi eletti, per gioire della gioia della tua nazione, per gloriarmi con la tua eredità.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "per vedere"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "il bene di"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "i tuoi eletti"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "per gioire"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "della gioia di"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "la tua nazione"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "per gloriarmi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "la tua eredità"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:20.284311376Z",
+  "model": "glm-5.3"
+}

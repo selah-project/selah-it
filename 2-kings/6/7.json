@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E disse: Alza ⟨lo⟩ per te. Ed ⟨egli⟩ tese la mano e lo prese.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Alza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ed ⟨egli⟩ tese"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "e lo prese"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:01.178166329Z",
+  "model": "glm-5.3"
+}

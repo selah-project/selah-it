@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Esulterà il deserto e ⟨la⟩ terra arida, e gioirà l'Araba, e fiorirà come il narciso.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "esulterà"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "il deserto"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "e ⟨la⟩ terra arida"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "e gioirà"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "l'Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "e fiorirà"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "come il narciso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:55.555150154Z",
+  "model": "glm-5.3"
+}

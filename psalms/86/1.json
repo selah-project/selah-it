@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Preghiera di Davide. Inclina il tuo orecchio, YHWH, rispondimi, perché ⟨sono⟩ povero e bisognoso, io.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Preghiera"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Inclina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "il tuo orecchio"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "rispondimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עני",
+      "gloss": "povero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e bisognoso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:48.010239962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E YHWH scese in una colonna di nube e si fermò all'ingresso della tenda, e chiamò Aharon e Miryam, e uscirono entrambi.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "in una colonna"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "di nube"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e si fermò"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "e Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "e uscirono"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "entrambi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:00.023690667Z",
+  "model": "glm-5.3"
+}

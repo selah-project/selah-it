@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E Faraone si adirò contro i suoi due cortigiani, contro il capo dei coppieri e contro il capo dei fornai.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "e si adirò"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "i suoi cortigiani"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dei coppieri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "dei fornai"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:20.766287169Z",
+  "model": "glm-5.3"
+}

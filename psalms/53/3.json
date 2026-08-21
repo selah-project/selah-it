@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "Elohim dai cieli si è affacciato sui figli dell'uomo, per vedere se ⟨c'è⟩ chi abbia intendimento, chi cerchi ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dai cieli"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "si è affacciato"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "per vedere"
+    },
+    {
+      "surface": "היש",
+      "gloss": "se ⟨c'è⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "chi abbia intendimento"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "chi cerchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:42.895738143Z",
+  "model": "glm-5.3"
+}

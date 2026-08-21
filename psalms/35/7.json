@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Poiché senza motivo hanno nascosto ⟨per⟩ me ⟨una⟩ fossa — la loro rete; senza motivo hanno scavato per la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "senza motivo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "hanno nascosto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "fossa"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "la loro rete"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "senza motivo"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "hanno scavato"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "per la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:44.900952460Z",
+  "model": "glm-5.3"
+}

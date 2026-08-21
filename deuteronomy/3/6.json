@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E le votammo allo sterminio ⟨את⟩ ⟨אותם⟩, come avevamo fatto a Sichon, re di Cheshbon: sterminio completo in ogni città — gli uomini, le donne e i bambini.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "e le votammo allo sterminio"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "loro — le città e la loro gente"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "avevamo fatto"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "a Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "di Cheshbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "sterminio completo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "città"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "e i bambini"
+    }
+  ],
+  "timestamp": "2026-08-21T10:06:06.905274817Z",
+  "model": "glm-5.3"
+}

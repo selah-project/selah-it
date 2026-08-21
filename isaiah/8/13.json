@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "⟨את⟩ YHWH degli eserciti, ⟨את⟩ lui santificate; ed egli ⟨sia⟩ il vostro timore, ed egli ⟨sia⟩ il vostro spavento.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH degli eserciti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "⟨את⟩ dell'oggetto: « lui santificate »"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "santificate"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed egli"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "il vostro timore"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed egli"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "il vostro spavento"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:58.835185801Z",
+  "model": "glm-5.3"
+}

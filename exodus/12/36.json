@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E YHWH diede ⟨את⟩ il favore del popolo agli occhi degli Egiziani, ed essi li accontentarono, e spogliarono ⟨את⟩ l'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il favore"
+    },
+    {
+      "surface": "חן",
+      "gloss": "il favore"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "gli Egiziani"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "ed essi li accontentarono"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "e spogliarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:38.370933939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "Casa di Aaronne, confidate in YHWH: ⟨il⟩ loro aiuto e ⟨il⟩ loro scudo ⟨è⟩ lui.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "di Aaronne"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "confidate"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "il loro aiuto"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "e il loro scudo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:36.819399294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Conceiverete paglia, partorirete stoppia; il vostro Ruach — fuoco ⟨che⟩ vi divorerà.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "conceiverete"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "paglia secca"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "partorirete"
+    },
+    {
+      "surface": "קש",
+      "gloss": "stoppia"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "il vostro Ruach"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "vi divorerà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:40.368141009Z",
+  "model": "glm-5.3"
+}

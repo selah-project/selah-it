@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 131,
+  "translation": "Canzone delle salite, di Davide. YHWH, non si è innalzato il mio cuore e non si sono levati in alto i miei occhi; e non ho camminato in cose grandi e in meraviglie ⟨troppo⟩ per me.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canzone"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "si è innalzato"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "si sono levati in alto"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ho camminato"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "in cose grandi"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "e in meraviglie"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "per me (oltre me)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:42.609185052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Conta il numero delle stelle, a tutte chiama per nome.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Conta"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "il numero"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "delle stelle"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "a tutte"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "per nome"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "chiama"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:12.158446566Z",
+  "model": "glm-5.3"
+}

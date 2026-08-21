@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "E disse Faraone a Giuseppe: io ⟨sono⟩ Faraone, e senza di te nessun uomo alzerà ⟨את⟩ la sua mano e ⟨את⟩ il suo piede in tutta la terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "e senza di te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "alzerà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nessun uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo piede"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "il suo piede"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:27.942295889Z",
+  "model": "glm-5.3"
+}

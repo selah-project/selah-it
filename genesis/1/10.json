@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E chiamò Elohim ⟨את⟩ l'asciutto « terra », e ⟨את⟩ la raccolta delle acque chiamò « mari »; e vide Elohim che ⟨era⟩ buono.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "l'asciutto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "« terra »"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "e la raccolta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "delle acque"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chiamò"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "« mari »"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:06.315919788Z",
+  "model": "glm-5.3"
+}

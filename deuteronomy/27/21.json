@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Maledetto chi si congiunge con qualunque bestia; e tutto il popolo dirà: amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maledetto"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "chi si congiunge"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qualunque"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bestia"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dirà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:32.174627790Z",
+  "model": "glm-5.3"
+}

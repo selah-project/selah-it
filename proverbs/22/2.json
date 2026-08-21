@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Il ricco e il povero si incontrano ⟨l'uno con l'altro⟩; il facitore di tutti ⟨è⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "il ricco"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "e il povero"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "si incontrano"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il facitore"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "di tutti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:18.411102055Z",
+  "model": "glm-5.3"
+}

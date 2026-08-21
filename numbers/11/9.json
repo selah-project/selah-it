@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E quando la rugiada scendeva sull'accampamento di notte, il mannà scendeva su di essa.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "e quando scendeva"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "la rugiada"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "l'accampamento"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scendeva"
+    },
+    {
+      "surface": "המן",
+      "gloss": "il mannà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di essa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:14.406421324Z",
+  "model": "glm-5.3"
+}

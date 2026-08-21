@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Chiunque colpisce una nefesh, sulla bocca di testimoni sarà messo a morte l'omicida ⟨את⟩; ma un testimone solo non deporrà contro una nefesh ⟨per condannarla⟩ a morte.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "colpisce"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "una nefesh"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sulla bocca"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "di testimoni"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "sarà messo a morte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'omicida"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "l'omicida"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e un testimone"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "deporrà"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "contro una nefesh"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:38:45.439324422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Non ⟨את⟩ ⟨con⟩ i padri nostri YHWH ⟨ha⟩ tagliato ⟨את⟩ questo patto, ma con noi — noi, questi, qui oggi, tutti noi viventi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨con⟩",
+      "marks": "i padri nostri"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "i padri nostri"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tagliò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo patto"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "il patto"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ con noi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "tutti noi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "viventi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:12.411115197Z",
+  "model": "glm-5.3"
+}

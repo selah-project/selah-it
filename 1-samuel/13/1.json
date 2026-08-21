@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Figlio di un anno ⟨era⟩ Sha'ul al suo regnar⟨e⟩, e due anni regnò su Israele.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "di un anno"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "al suo regnare"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "e due"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regnò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:25.518899Z",
+  "model": "glm-5.3"
+}

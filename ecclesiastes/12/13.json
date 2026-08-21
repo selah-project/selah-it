@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Fine del discorso: tutto ⟨è⟩ stato udito. Temi ⟨את⟩ l'Elohim e custodisci ⟨את⟩ i suoi comandamenti, perché questo ⟨è⟩ il tutto dell'uomo.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Fine"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "del discorso"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨è⟩ stato udito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "Temi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi comandamenti"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "i suoi comandamenti"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "custodisci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "il tutto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:11.435168365Z",
+  "model": "glm-5.3"
+}

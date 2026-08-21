@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "⟨את⟩ l'agnello primo lo farai al mattino, e ⟨את⟩ l'agnello secondo lo farai tra le sere.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'agnello primo"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "l'agnello"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "primo (l'uno)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'agnello secondo"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "l'agnello"
+    },
+    {
+      "surface": "השני",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "le sere"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:51.910429048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ecco, io li ridesto dal luogo dove li avete venduti ⟨את⟩, là, e ricambio la vostra condotta sul vostro capo.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ecco, io"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "li ridesto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "luogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "li avete venduti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro (i venduti)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "e ricambio"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "la vostra condotta"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "sul vostro capo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:16.373355273Z",
+  "model": "glm-5.3"
+}

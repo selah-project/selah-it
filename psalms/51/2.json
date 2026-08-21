@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Quando venne da lui Natan il profeta, dopo che ⟨egli⟩ era entrato da Bat-Sceva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Quando venne"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dopo che"
+    },
+    {
+      "surface": "בא",
+      "gloss": "era entrato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sceva"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:37.783440921Z",
+  "model": "glm-5.3"
+}

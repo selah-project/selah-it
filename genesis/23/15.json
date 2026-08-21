@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "« Mio signore, ascoltami: una terra di quattrocento sicli d'argento — tra me e te, che ⟨è⟩? Seppelli pure ⟨את⟩ il tuo morto ».",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "mio signore"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ascoltami"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "cento"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sicli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argento"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tra me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e te"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "è"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo morto"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "il tuo morto"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "seppelli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:39.701045400Z",
+  "model": "glm-5.3"
+}

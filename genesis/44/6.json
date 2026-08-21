@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E li raggiunse, e parlò loro ⟨את⟩ queste parole.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "e li raggiunse"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "queste parole"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:14.648371425Z",
+  "model": "glm-5.3"
+}

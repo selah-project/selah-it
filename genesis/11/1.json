@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E avvenne: tutta la terra ⟨era⟩ una lingua sola e parole uniche.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "una lingua (letteralmente: labbro)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una sola"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "e parole"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "uniche"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:48.064210302Z",
+  "model": "glm-5.3"
+}

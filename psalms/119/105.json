@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Lampada ai miei piedi ⟨è⟩ la tua parola, e luce al mio sentiero.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lampada"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ai miei piedi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "la tua parola"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "e luce"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "al mio sentiero"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:38.306839795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Avvicinati alla mia nefesh, riscattala; a causa dei miei nemici libera ⟨את⟩ me.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "avvicinati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "riscattala"
+    },
+    {
+      "surface": "למען",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dei miei nemici"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "libera ⟨את⟩ me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:41.347682479Z",
+  "model": "glm-5.3"
+}

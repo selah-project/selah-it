@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Anche tu — per il sangue del tuo patto — ho mandato fuori i tuoi prigionieri dalla cisterna in cui non ⟨c'è⟩ acqua.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu",
+      "marks": "בדם — «per il sangue (del tuo patto)»"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "per il sangue"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "del tuo patto"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ho mandato fuori"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "i tuoi prigionieri"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "dalla cisterna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "מים",
+      "gloss": "c'è acqua"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in essa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:43.838883776Z",
+  "model": "glm-5.3"
+}

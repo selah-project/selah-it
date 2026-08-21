@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Ascolta, YHWH, la mia voce: io grido — abbi grazia di me e rispondimi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io grido"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "abbi grazia di me"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "e rispondimi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:03.674129806Z",
+  "model": "glm-5.3"
+}

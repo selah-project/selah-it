@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Mandò ⟨la⟩ tenebra, e ⟨essa⟩ fece buio, e non si ribellarono ⟨את⟩ alla sua parola.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "e fece buio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "si ribellarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla sua parola"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "alla sua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:55.999170285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse YHWH a lui: che cos'è ⟨questo⟩ nella tua mano? E disse: un bastone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "che cos'è ⟨questo⟩"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nella tua mano"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "un bastone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:02.130236150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Ma voi siete quelli che abbandonate YHWH, che dimenticate il monte della mia santità, che preparate la tavola per Gad e riempite il miscuglio per Meni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ma voi"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "che abbandonate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "che dimenticate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il monte"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "della mia santità"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "che preparate"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "per Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "la tavola"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "e riempite"
+    },
+    {
+      "surface": "למני",
+      "gloss": "per Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "il miscuglio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:20.170679424Z",
+  "model": "glm-5.3"
+}

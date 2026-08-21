@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E comandò YHWH Elohim all'uomo, dicendo: «Di ogni albero del giardino, mangiando mangerai;",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e comandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "all'uomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "di ogni"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "albero"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "del giardino"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangiando"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangerai"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:27.651033666Z",
+  "model": "glm-5.3"
+}

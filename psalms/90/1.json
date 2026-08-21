@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Preghiera di Moshe, uomo dell'Elohim. Adonai, rifugio ⟨sei⟩ tu per noi, in generazione e generazione.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "preghiera"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "di Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "rifugio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "sei stato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "in generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e generazione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:09.716544546Z",
+  "model": "glm-5.3"
+}

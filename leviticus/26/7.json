@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "e voi inseguirete ⟨את⟩ i vostri nemici, e cadranno davanti a voi per la spada.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "e voi inseguirete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri nemici"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "i vostri nemici"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "e cadranno"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "per la spada"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:22.923907816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E hai sgozzato ⟨את⟩ i tuoi figli e li hai dati, facendoli passare ⟨את⟩ a loro.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "e hai sgozzato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi figli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i tuoi figli"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "li hai dati"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "facendoli passare"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-li",
+      "marks": "a loro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:20:11.774197227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E io odiai io ⟨את⟩ tutta la mia fatica che io fatico sotto il sole, perché dovrò lasciarla all'uomo che sarà dopo di me.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "e io odiai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la mia fatica"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "la mia fatica"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "che io"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fatico"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "perché dovrò lasciarla"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "all'uomo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "che sarà"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo di me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:14.714344027Z",
+  "model": "glm-5.3"
+}

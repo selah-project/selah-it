@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se un uomo dà al suo prossimo argento o oggetti da custodire, e ⟨ciò⟩ viene rubato dalla casa dell'uomo — se il ladro viene trovato, pagherà ⟨il⟩ doppio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "al suo prossimo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "oggetti"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "da custodire"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "e viene rubato"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "viene trovato"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "il ladro"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pagherà"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il doppio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:40.066579629Z",
+  "model": "glm-5.3"
+}

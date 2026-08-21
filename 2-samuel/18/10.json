@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E un uomo vide e riferì a Ioab, e disse: ecco, ho visto ⟨את⟩ Assalonne appeso nel terebinto.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "a Ioab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assalonne"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Assalonne"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "appeso"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "nel terebinto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:47.224165293Z",
+  "model": "glm-5.3"
+}

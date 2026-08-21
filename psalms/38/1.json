@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Mizmor di Davide, per far ricordare.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "per far ricordare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:25.104526454Z",
+  "model": "glm-5.3"
+}

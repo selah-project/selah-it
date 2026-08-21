@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Perciò l'uomo lascerà ⟨את⟩ suo padre e ⟨את⟩ sua madre, e si terrà stretto a sua moglie, e saranno una carne sola.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "l'uomo lascerà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sua madre"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "e si terrà stretto"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "a sua moglie"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e saranno"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "una carne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sola"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:38.478812908Z",
+  "model": "glm-5.3"
+}

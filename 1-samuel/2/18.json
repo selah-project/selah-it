@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E Shemuèl ministrava ⟨את⟩ davanti alla faccia di YHWH, ragazzo cinto di un efod di lino.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "e Shemuèl"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ministrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "davanti alla faccia"
+    },
+    {
+      "surface": "פני",
+      "gloss": "davanti alla faccia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ragazzo"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "cinto"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "un efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "di lino"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:26.482736598Z",
+  "model": "glm-5.3"
+}

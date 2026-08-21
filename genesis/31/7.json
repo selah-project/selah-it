@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E vostro padre mi ha ingannato e ha cambiato ⟨את⟩ la mia mercede dieci volte; ma Elohim non gli ha permesso di farmi del male.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "e vostro padre"
+    },
+    {
+      "surface": "התל",
+      "gloss": "ha ingannato"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "e ha cambiato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia mercede"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "la mia mercede"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "volte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ha permesso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "di fare del male"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:44.474836565Z",
+  "model": "glm-5.3"
+}

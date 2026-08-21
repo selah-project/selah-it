@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "E ⟨את⟩ l'aroma balsamico e ⟨את⟩ l'olio, per la luce e per l'olio dell'unzione, e per l'incenso degli aromi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'aroma balsamico"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "l'aroma balsamico"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'olio"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "per la luce"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "e per l'olio"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dell'unzione"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "e per l'incenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "degli aromi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:38.710093887Z",
+  "model": "glm-5.3"
+}

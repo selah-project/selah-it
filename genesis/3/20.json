@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E l'uomo chiamò il nome di sua moglie Chavvàh, perché lei ⟨era⟩ madre di ogni vivente.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome di"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvàh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "era"
+    },
+    {
+      "surface": "אם",
+      "gloss": "madre di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivente"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:09.937531468Z",
+  "model": "glm-5.3"
+}

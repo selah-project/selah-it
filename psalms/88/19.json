@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Hai allontanato da me l'amico e ⟨il⟩ compagno; i miei conoscenti ⟨sono⟩ ⟨il⟩ buio.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "hai allontanato"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "l'amico"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "e compagno"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "i miei conoscenti"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "il buio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:59.841548745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E depose ⟨את⟩ il suo cadavere nella sua tomba, e fecero lamentazione su di lui: « Ah, fratello mio! »",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "e depose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo cadavere"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "il suo cadavere"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "nella sua tomba"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "e fecero lamentazione"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratello mio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:19.394602883Z",
+  "model": "glm-5.3"
+}

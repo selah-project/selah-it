@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Ora mi leverò, dice YHWH; ora mi innalzerò, ora sarò esaltato.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "mi leverò"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "mi innalzerò"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "sarò esaltato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:40.368007657Z",
+  "model": "glm-5.3"
+}

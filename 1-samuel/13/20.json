@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E tutto Israele scendeva dai Filistei per affilare, ciascuno, ⟨את⟩ la sua zappa e ⟨את⟩ il suo vomere e ⟨את⟩ la sua scure e ⟨את⟩ il suo erpice.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "e scendeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "dai Filistei"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "per affilare"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua zappa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "la sua zappa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo vomere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "il suo vomere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua scure"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "la sua scure"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo erpice"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "il suo erpice"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:22.954033141Z",
+  "model": "glm-5.3"
+}

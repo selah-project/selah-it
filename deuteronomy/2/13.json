@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "« Ora levatevi e passate per voi ⟨את⟩ il torrente Zered ». E passammo ⟨את⟩ il torrente Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ora"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "levatevi"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "e passate"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il torrente Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "il torrente"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "e passammo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il torrente Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "il torrente"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-08-21T10:06:09.223749788Z",
+  "model": "glm-5.3"
+}

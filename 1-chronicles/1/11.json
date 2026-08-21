@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E Mitzraim generò ⟨את⟩ i Luditi e ⟨את⟩ gli Anamiti e ⟨את⟩ i Leabiti e ⟨את⟩ i Naftuchiti.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "e Mitzraim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Luditi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "i Luditi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gli Anamiti"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "gli Anamiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Leabiti"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "i Leabiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Naftuchiti"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "i Naftuchiti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:50.388957676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Così si farà per il bue ⟨il⟩uno, o per l'ariete ⟨il⟩uno, o per l'agnello tra i montoni o tra le capre.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "così"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "si farà"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "per il bue"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "per l'ariete"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "per l'agnello"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "tra i montoni"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "tra le capre"
+    }
+  ],
+  "timestamp": "2026-08-21T06:30:17.269859282Z",
+  "model": "glm-5.3"
+}

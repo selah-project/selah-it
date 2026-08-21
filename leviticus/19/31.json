@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non vi volgete verso gli evocatori ⟨di spiriti⟩ e verso i conoscitori-⟨spiriti⟩, non cercateli per contaminarvi con loro: io ⟨sono⟩ YHWH vostro Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "vi volgete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "gli evocatori (ha-ovot)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e verso"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "i conoscitori-spiriti (yiddeonim)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "cercateli"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "per contaminarvi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "con loro"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:20.451921081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E ora alzati di buon mattino, tu e i servi del tuo signore che sono venuti ⟨את⟩ con te; alzatevi di buon mattino, appena c'è luce per voi, e andatevene.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "alzati di buon mattino"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "e i servi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "del tuo signore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sono venuti"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te",
+      "marks": "«con te» — qui את è preposizione (H854), «con», non il marcatore di oggetto"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "e vi alzerete di buon mattino"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "e appena c'è luce"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "e andatevene"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:08.410463597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E confesseranno ⟨את⟩ la loro colpa e ⟨את⟩ la colpa dei loro padri, nella loro infedeltà con cui hanno agito slealmente contro di me, e anche che hanno camminato con me in ostinata opposizione.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "e confesseranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro colpa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "la loro colpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la colpa dei loro padri"
+    },
+    {
+      "surface": "עון",
+      "gloss": "la colpa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dei loro padri"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "nella loro infedeltà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "hanno agito slealmente"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hanno camminato"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "in ostinata opposizione"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:31.643024455Z",
+  "model": "glm-5.3"
+}

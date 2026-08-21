@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Sostenuto ⟨è⟩ il suo cuore, non avrà paura, finché guardi i suoi avversari.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "sostenuto"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "il suo cuore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "avrà paura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "guardi"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "i suoi avversari"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:46.587182690Z",
+  "model": "glm-5.3"
+}

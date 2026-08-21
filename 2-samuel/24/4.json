@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E la parola del re prevalse su Ioab e sui capi dell'esercito; e uscirono Ioab e i capi dell'esercito davanti al re, per contare ⟨את⟩ il popolo, ⟨את⟩ Israele.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "e prevalse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sui"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "dell'esercito"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e i capi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "dell'esercito"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "per contare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:19.140211103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 22:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E disse: «Prendi ora ⟨את⟩ tuo figlio, ⟨את⟩ il tuo unico, che ami, ⟨את⟩ Itzchak, e va' per te nella terra di Moriah, e offrilo lì in olà su uno dei monti che ti dirò».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Prendi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuo figlio"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tuo figlio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo unico"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "il tuo unico"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "ami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itzchak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itzchak"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e va'"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "המריה",
+      "gloss": "di Moriah"
+    },
+    {
+      "surface": "והעלהו",
+      "gloss": "e offrilo (fallo salire)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lì"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "in olà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dei monti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dirò"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:15.318446761Z",
+  "model": "glm-5.3"
+}

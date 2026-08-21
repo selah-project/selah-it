@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Egli riduce la tempesta a una calma, e le onde si acquietano.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "riduce"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "la tempesta"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "a una calma"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "e si acquietano"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "le onde"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:35.163760860Z",
+  "model": "glm-5.3"
+}

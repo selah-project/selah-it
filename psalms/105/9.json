@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "che egli tagliò ⟨את⟩ con Abramo, e il suo giuramento a Isacco,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tagliò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abramo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "con Abramo"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "e il suo giuramento"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "a Isacco"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:38.927003122Z",
+  "model": "glm-5.3"
+}

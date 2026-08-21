@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E si staccarono tutti ⟨il popolo⟩ gli anelli d'oro che erano nei loro orecchi, e li portarono ad Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "e si staccarono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli anelli d'oro"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "gli anelli"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "nei loro orecchi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "e portarono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:16.748132568Z",
+  "model": "glm-5.3"
+}

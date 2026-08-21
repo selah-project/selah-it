@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E Lavan le diede ⟨את⟩ Zilpa, la sua schiava — a Leà, sua figlia — come schiava.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "la sua schiava"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "a Leà"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sua figlia"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "come schiava"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:52.122031944Z",
+  "model": "glm-5.3"
+}

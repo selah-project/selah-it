@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Al direttore del coro. Di Davide. In YHWH mi sono rifugiato; come dite alla mia nefesh: migra ⟨alla⟩ tua montagna, uccello?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi sono rifugiato"
+    },
+    {
+      "surface": "איך",
+      "gloss": "come"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "dite"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "alla mia nefesh"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "migra!"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "vostra montagna"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "uccello"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:18.258468147Z",
+  "model": "glm-5.3"
+}

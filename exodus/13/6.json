@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Sette giorni mangerai azzimi, e nel settimo giorno ⟨vi sarà⟩ festa per YHWH.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangerai"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "azzimi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "e nel giorno"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:45.113932764Z",
+  "model": "glm-5.3"
+}

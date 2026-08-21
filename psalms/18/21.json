@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "YHWH mi ha retribuito secondo la mia giustizia, secondo la nettezza delle mie mani mi ha reso ⟨il contraccambio⟩.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "mi ha retribuito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "secondo la mia giustizia"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "delle mie mani"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mi ha reso ⟨il contraccambio⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:48.072045716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Moav ⟨è⟩ il mio vaso da lavaggio; su Edom scaglio il mio sandalo; su di me, Peleshet, acclama!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "il vaso"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "da lavaggio"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "scaglio"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "il mio sandalo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "acclama"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:38.250850718Z",
+  "model": "glm-5.3"
+}

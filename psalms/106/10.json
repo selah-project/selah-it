@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E li salvò dalla mano di chi li odiava, e li riscattò ⟨come goel⟩ dalla mano del nemico.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "e li salvò"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "di chi li odiava"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "e li riscattò"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "del nemico"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:32.810312297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Perché non ⟨⟨proferiscono⟩⟩ shalom, e contro i quieti della terra parole d'inganno tramano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "proferiscono"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "i quieti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "parole"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "d'inganno"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "tramano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:00.187888832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E tagliarono ⟨את⟩ la sua testa e spogliarono ⟨את⟩ le sue armi, e mandarono ⟨annuncio⟩ nella terra dei Filistei intorno, per portare la notizia alla casa dei loro idoli e ⟨את⟩ al popolo.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "e tagliarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua testa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "la sua testa"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "e spogliarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue armi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "le sue armi"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "e mandarono"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei Filistei"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "intorno"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "per portare la notizia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "alla casa"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "dei loro idoli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "al popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:11.600156035Z",
+  "model": "glm-5.3"
+}

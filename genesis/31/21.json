@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E fuggì egli con tutto ciò che ⟨era⟩ suo, e si alzò e passò ⟨את⟩ il fiume, e volse ⟨את⟩ il suo volto verso il monte di Gilead.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "e fuggì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "suo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "e passò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il fiume"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "il fiume"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e volse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo volto"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "הר",
+      "gloss": "verso il monte"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "di Gilead"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:41.261964299Z",
+  "model": "glm-5.3"
+}

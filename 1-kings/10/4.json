@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E la regina di Sheba vide ⟨את⟩ tutta la saggezza di Shelomoh e ⟨את⟩ la casa che aveva costruito.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "E vide"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "la regina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "di Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la saggezza di Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "la saggezza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "e la casa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aveva costruito"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:10.347690005Z",
+  "model": "glm-5.3"
+}

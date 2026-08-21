@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Al riso dissi: «Folle!», e alla gioia: «Che cosa fa questa?»",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Al riso"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dissi"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "Folle"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "e alla gioia"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Che cosa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:19.541883757Z",
+  "model": "glm-5.3"
+}

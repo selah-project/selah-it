@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "L'Elohim del suo chesed mi verrà incontro; Elohim mi farà vedere ⟨la loro fine⟩ nei miei avversari.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "del suo chesed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "mi verrà incontro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "mi farà vedere"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "nei miei avversari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:40.804784492Z",
+  "model": "glm-5.3"
+}

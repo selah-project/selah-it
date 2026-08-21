@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E morì Ya'ir, e fu sepolto in Qamon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ya'ir"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e fu sepolto"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "in Qamon"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:36.252940602Z",
+  "model": "glm-5.3"
+}

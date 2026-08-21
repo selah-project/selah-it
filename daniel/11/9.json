@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E ⟨egli⟩ entrerà nel regno del re del sud, e tornerà alla propria terra.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "e entrerà"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "nel regno"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "del sud"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "e tornerà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "alla propria terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:37:11.939932794Z",
+  "model": "glm-5.3"
+}

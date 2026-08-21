@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Ma se gli sarà certamente rubato, risarcirà il suo padrone.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "certamente rubato"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "sarà rubato"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "risarcirà"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "il suo padrone"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:34.470017094Z",
+  "model": "glm-5.3"
+}

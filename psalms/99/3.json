@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 99,
+  "translation": "Lodino il tuo Nome — grande e terribile; santo ⟨è⟩ lui.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Lodino"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "terribile"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:59.646700453Z",
+  "model": "glm-5.3"
+}

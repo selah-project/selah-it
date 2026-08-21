@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E verrai dal re e gli parlerai secondo questa parola. E Ioab mise ⟨את⟩ le parole nella sua bocca.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "verrai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "parlerai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo questa parola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "nella sua bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:32.594778969Z",
+  "model": "glm-5.3"
+}

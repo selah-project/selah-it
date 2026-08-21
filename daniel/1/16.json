@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E il dispensiere portava via ⟨את⟩ la loro vivanda e il vino della loro bevanda, e dava loro legumi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avveniva"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "il dispensiere"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "portava via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro vivanda"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "la loro vivanda"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "e il vino"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "della loro bevanda"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e dava"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "legumi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:02.467338981Z",
+  "model": "glm-5.3"
+}

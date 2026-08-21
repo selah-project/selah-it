@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Mio ⟨è⟩ Gilead, e mio ⟨è⟩ Menashsheh; Efrayim ⟨è⟩ la roccaforte del mio capo; Yehudah ⟨è⟩ il mio legislatore.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "e mio"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "la roccaforte"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "del mio capo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "il mio legislatore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:38.250539902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "In YHWH si vanti la mia nefesh; gli umili ascoltino e si rallegrino.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "si vanti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ascoltino"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "gli umili"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "e si rallegrino"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:46.020606148Z",
+  "model": "glm-5.3"
+}

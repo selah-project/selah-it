@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E Ieoachaz implorò ⟨את⟩ il volto di YHWH, e YHWH lo ascoltò, perché vide ⟨את⟩ l'oppressione d'Israele — perché li opprimeva ⟨אתם⟩ il re di Aram.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "e implorò"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Ieoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il volto di YHWH"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e ascoltò"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'oppressione d'Israele"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "l'oppressione"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "opprimeva"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:23.848977642Z",
+  "model": "glm-5.3"
+}

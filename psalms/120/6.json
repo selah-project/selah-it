@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 120,
+  "translation": "Troppo a lungo ha dimorato la mia nefesh con chi odia la shalom.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Troppo a lungo"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ha dimorato"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ad essa⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "chi odia"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la shalom"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:20.117808614Z",
+  "model": "glm-5.3"
+}

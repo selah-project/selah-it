@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse Mosè: voglio voltarmi ora, e vedere ⟨את⟩ questa grande visione: perché il roveto non brucia?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "voglio voltarmi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "e vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa grande visione"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "la visione"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "grande"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "brucia"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "il roveto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:11.091294923Z",
+  "model": "glm-5.3"
+}

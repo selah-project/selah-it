@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E Aharon presenterà ⟨את⟩ il capro su cui è salita la sorte per YHWH, e lo offrirà come sacrificio per il peccato.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "presenterà"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il capro"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "il capro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "è salita"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "la sorte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "e lo offrirà"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "come sacrificio per il peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:30.162382100Z",
+  "model": "glm-5.3"
+}

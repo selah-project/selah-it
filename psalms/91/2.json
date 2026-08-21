@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Dico a YHWH: rifugio mio e roccaforte mia, Elohim mio, in lui mi rifugio.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dico"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "rifugio mio"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "e roccaforte mia"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "mi rifugio"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:56.996181972Z",
+  "model": "glm-5.3"
+}

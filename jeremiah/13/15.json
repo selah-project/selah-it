@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Ascoltate e porgete l'orecchio, non vi innalzate, perché YHWH ha parlato.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ascoltate"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "e porgete l'orecchio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "vi innalzate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:02:48.518298426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E Davide giacque con i suoi padri e fu sepolto nella città di Davide.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "e giacque"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e fu sepolto"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:27.305274622Z",
+  "model": "glm-5.3"
+}

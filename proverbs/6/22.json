@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Quando cammini, essa ti guiderà; quando ti corichi, essa veglierà su di te; e al tuo svegliarti, essa parlerà con te.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Quando cammini"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "guiderà"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "quando ti corichi"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "veglierà"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "e al tuo svegliarti"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "parlerà con te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:50.400613678Z",
+  "model": "glm-5.3"
+}

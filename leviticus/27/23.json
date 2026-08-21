@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "il sacerdote gli calcolerà ⟨את⟩ la somma della tua stima fino all'anno del yovel, ed egli darà ⟨את⟩ la tua stima in quel giorno, cosa santa a YHWH.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "calcolerà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la somma"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "la somma"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "della tua stima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "all'anno"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "del yovel"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua stima"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "la tua stima"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "cosa santa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:45.214289763Z",
+  "model": "glm-5.3"
+}

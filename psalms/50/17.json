@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Tu odi ⟨la⟩ correzione e getti le mie parole dietro di te.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "odi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "correzione"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "e getti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dietro di te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:08.376036131Z",
+  "model": "glm-5.3"
+}

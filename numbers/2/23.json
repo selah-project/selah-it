@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e il suo esercito, con i suoi contati: cinque e trenta ⟨migliaia⟩ e quattrocento.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "e il suo esercito"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "con i suoi contati"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e trenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨migliaia⟩"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e quattro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centinaia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:14.160432154Z",
+  "model": "glm-5.3"
+}

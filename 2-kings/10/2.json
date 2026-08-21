@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "« E ora, appena giunge a voi questa lettera — ⟨avete⟩ con voi i figli del vostro signore, e ⟨avete⟩ con voi il carro e i cavalli, e una città fortificata e le armi —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "appena giunge"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "questa lettera"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "i figli del vostro signore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "del vostro signore"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "il carro e i cavalli"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "il carro"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "e i cavalli"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "e una città"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortificata"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "e le armi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:11.797637161Z",
+  "model": "glm-5.3"
+}

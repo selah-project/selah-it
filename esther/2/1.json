@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Dopo queste cose, quando l'ardore dell'ira del re Achashverosh si fu calmato, egli si ricordò di ⟨את⟩ Vashti e ⟨את⟩ ciò che ella aveva fatto e ⟨את⟩ ciò che era stato decretato su di lei.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Dopo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "queste cose"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "quando… si fu calmato"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "l'ira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "si ricordò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ciò che ella aveva fatto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ella aveva fatto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ciò che era stato decretato su di lei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "era stato decretato"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di lei"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:00.840063538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Quelli che abbandonano la Torah lodano il malvagio; e quelli che custodiscono la Torah contendono con loro.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "quelli che abbandonano"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "lodano"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "e quelli che custodiscono"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "contendono"
+    },
+    {
+      "surface": "בם",
+      "gloss": "con loro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:15.950361927Z",
+  "model": "glm-5.3"
+}

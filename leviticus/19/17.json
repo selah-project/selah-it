@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non odierai ⟨את⟩ tuo fratello nel tuo cuore; rimprovererai — certo rimprovererai ⟨את⟩ il tuo prossimo, e non porterai su di lui peccato.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "odierai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuo fratello"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "nel tuo cuore"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "rimprovererai"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "certo rimprovererai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo prossimo"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "il tuo prossimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "porterai"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:51.284224134Z",
+  "model": "glm-5.3"
+}

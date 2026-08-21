@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Così dice Adonai YHWH: e stenderò su di te ⟨את⟩ la mia rete nell'assemblea di molti popoli, e ti tireranno su nella mia rete.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "e stenderò"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia rete"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "la mia rete"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nell'assemblea"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "di popoli"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "e ti tireranno su"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "nella mia rete"
+    }
+  ],
+  "timestamp": "2026-08-21T08:25:19.178148221Z",
+  "model": "glm-5.3"
+}

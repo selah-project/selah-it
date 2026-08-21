@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Omri si addormentò con i suoi padri e fu sepolto in Shomron; e Achav suo figlio regnò al suo posto.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "si addormentò"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e fu sepolto"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e regnò"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "al suo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:12.578240488Z",
+  "model": "glm-5.3"
+}

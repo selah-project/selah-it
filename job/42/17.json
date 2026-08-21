@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E morì Iyov, vecchio e sazio di giorni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "E morì"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vecchio"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e sazio"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:26.525265814Z",
+  "model": "glm-5.3"
+}

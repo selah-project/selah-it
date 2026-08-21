@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Davide mandò a informarsi della donna, e ⟨gli⟩ disse: non ⟨è⟩ questa Bat-Sheva, figlia di Eliam, moglie di Uria l'Hittita?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E mandò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "a informarsi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "della donna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "di Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moglie"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "di Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "l'Hittita"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:12.483235714Z",
+  "model": "glm-5.3"
+}

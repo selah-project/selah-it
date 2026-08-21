@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E si alzò in mezzo alla notte e prese ⟨את⟩ mio figlio dal mio fianco — mentre la tua serva dormiva — e lo coricò nel proprio seno, e ⟨את⟩ suo figlio, il morto, lo coricò nel mio seno.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "la notte"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mio figlio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "dal mio fianco"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mentre la tua serva"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "dormiva"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "e lo coricò"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "nel proprio seno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "suo figlio, il morto"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "המת",
+      "gloss": "il morto"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "coricò"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "nel mio seno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:26.985929256Z",
+  "model": "glm-5.3"
+}

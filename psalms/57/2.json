@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Fammi grazia, Elohim, fammi grazia, perché in te si rifugia la mia nefesh; all'ombra delle tue ali mi rifugerò, finché passino le rovine.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "fammi grazia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fammi grazia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "si rifugia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "all'ombra"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "delle tue ali"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mi rifugerò"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "passino"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "le rovine"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:25.618360242Z",
+  "model": "glm-5.3"
+}

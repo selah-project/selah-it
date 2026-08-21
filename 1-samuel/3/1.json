@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E il giovane Shemuël serviva ⟨את⟩ YHWH davanti a Eli, e la parola di YHWH era rara in quei giorni — non ⟨era⟩ visione che irrompesse.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "e il giovane"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "serviva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "rara"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in... giorni"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "quei"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "visione"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "che irrompesse"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:28.840648327Z",
+  "model": "glm-5.3"
+}

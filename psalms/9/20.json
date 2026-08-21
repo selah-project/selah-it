@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Sorgi, YHWH! Non prevalga ⟨il⟩ mortale; siano giudicate le nazioni davanti alla tua faccia.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sorgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "prevalga"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨il⟩ mortale"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "siano giudicate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "על",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "alla tua faccia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:21.396482223Z",
+  "model": "glm-5.3"
+}

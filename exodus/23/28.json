@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Manderò ⟨את⟩ lo sciamo davanti a ⟨te⟩, ed esso scaccerà ⟨את⟩ il Chivvita, ⟨את⟩ il Kenaanita e ⟨את⟩ il Chittita da davanti a ⟨te⟩.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "e manderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo sciamo"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "lo sciamo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "e scaccerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Chivvita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "il Chivvita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Kenaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il Kenaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il Chittita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "il Chittita"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "da davanti a te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:57.260989878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E si affrettarono e fecero scendere ciascuno ⟨את⟩ la sua bisaccia a terra, e aprì ciascuno la sua bisaccia.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "e si affrettarono"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "e fecero scendere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua bisaccia"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "la sua bisaccia"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "e aprirono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "la sua bisaccia"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:18.666547941Z",
+  "model": "glm-5.3"
+}

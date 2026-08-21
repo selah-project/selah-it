@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Non si disprezza ⟨il⟩ ladro se ruba per riempire ⟨la⟩ sua nefesh, quando ha fame.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "si disprezza"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "il ladro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "ruba"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "per riempire"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "ha fame"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:08.152683143Z",
+  "model": "glm-5.3"
+}

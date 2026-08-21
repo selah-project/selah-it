@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E io ho detto a te: manda via ⟨את⟩ mio figlio, ed egli mi serva; ma tu hai rifiutato di mandarlo: ecco, io uccido ⟨את⟩ tuo figlio, il tuo primogenito.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "E io ho detto"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "manda via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mio figlio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ed egli mi serva"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "ma tu hai rifiutato"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "di mandarlo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "uccido"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuo figlio"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tuo figlio"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "il tuo primogenito"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:26.536187970Z",
+  "model": "glm-5.3"
+}

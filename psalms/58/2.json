@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Davvero, in silenzio ⟨parlate⟩ giustizia? Con rettitudine giudicate, figli dell'uomo?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "davvero"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "in silenzio"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "parlate"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "con rettitudine"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "giudicate"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:02.836708968Z",
+  "model": "glm-5.3"
+}

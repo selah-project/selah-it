@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E le disse il messaggero di YHWH: «Moltiplicando moltiplicherò ⟨את⟩ la tua discendenza, e non si conterà per la moltitudine».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "moltiplicando"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "moltiplicherò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua discendenza"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "la tua discendenza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "si conterà"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "per la moltitudine"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:10.823894852Z",
+  "model": "glm-5.3"
+}

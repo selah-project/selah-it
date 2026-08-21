@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E colpì ⟨את⟩ Moab, e i Moabiti furono servi di Davide, portatori di doni.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "E colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "i Moabiti"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "servi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "portatori"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "di doni (tributo)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:35.341434359Z",
+  "model": "glm-5.3"
+}

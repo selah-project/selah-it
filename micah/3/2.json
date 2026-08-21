@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "che odiate il bene e amate il male, che strappate la loro pelle di dosso a loro e la loro carne di sopra alle loro ossa —",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "che odiate"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "e amate"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "che strappate"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "la loro pelle"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "di dosso a loro"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "e la loro carne"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di sopra a"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "alle loro ossa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:40.361318357Z",
+  "model": "glm-5.3"
+}

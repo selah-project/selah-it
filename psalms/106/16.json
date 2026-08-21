@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E furono gelosi di Mosè nell'accampamento, ⟨di⟩ Aharon, il santo di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "e furono gelosi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "di Mosè"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nell'accampamento"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "di Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "il santo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:21.238652165Z",
+  "model": "glm-5.3"
+}

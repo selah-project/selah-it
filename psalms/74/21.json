@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Non torni indietro deluso il fiacco, né ⟨sia⟩ oltraggiato ⟨l'umile⟩; l'afflitto e il povero lodino il tuo nome.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "torni indietro"
+    },
+    {
+      "surface": "דך",
+      "gloss": "il fiacco"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "sia oltraggiato"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'afflitto"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e il povero"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "lodino"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:01.512679597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E Davide salì di là e abitò nelle fortezze di En-Ghedì.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "E salì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e abitò"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "nelle fortezze"
+    },
+    {
+      "surface": "עין",
+      "gloss": "di En-Ghedì"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "En-Ghedì"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:03.356137276Z",
+  "model": "glm-5.3"
+}

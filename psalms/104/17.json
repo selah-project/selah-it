@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "dove gli uccelli fanno il nido; la cicogna — i cipressi ⟨sono⟩ la sua casa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "gli uccelli"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "fanno il nido"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "la cicogna"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "i cipressi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "la sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:21.458603664Z",
+  "model": "glm-5.3"
+}

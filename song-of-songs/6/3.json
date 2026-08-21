@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Io ⟨sono⟩ del mio diletto, e il mio diletto ⟨è⟩ mio; ⟨colui che⟩ pascola tra i gigli.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "⟨sono⟩ del mio diletto"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "e il mio diletto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨è⟩ mio"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "⟨colui che⟩ pascola"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "tra i gigli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:22.534431956Z",
+  "model": "glm-5.3"
+}

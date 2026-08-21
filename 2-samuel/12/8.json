@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "e ti ho dato ⟨את⟩ la casa del tuo signore e ⟨את⟩ le donne del tuo signore nel tuo seno, e ti ho dato ⟨את⟩ la casa d'Israele e di Yehudah; e se ⟨fosse⟩ poco, avrei aggiunto a te così e così.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "e ti ho dato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa del tuo signore"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "del tuo signore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le donne del tuo signore"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "del tuo signore"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "nel tuo seno"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e ti ho dato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa d'Israele e di Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e di Yehudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "poco"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "avrei aggiunto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "così"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "e così"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:55.403895237Z",
+  "model": "glm-5.3"
+}

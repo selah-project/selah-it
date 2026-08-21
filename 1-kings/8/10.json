@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E avvenne, all'uscire dei sacerdoti dal santuario, che la nube riempì ⟨את⟩ la casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "all'uscire"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dei sacerdoti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "il santuario"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "e la nube"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "riempì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:50.562482934Z",
+  "model": "glm-5.3"
+}

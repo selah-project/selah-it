@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Solo, carne con la sua nefesh — il suo sangue — non ne mangiate.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "con la sua nefesh"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangiate"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:38.737104680Z",
+  "model": "glm-5.3"
+}

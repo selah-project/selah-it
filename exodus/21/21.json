@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Solo se resta in piedi un giorno o due giorni, non sarà punito, perché ⟨è⟩ il suo denaro.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "יום",
+      "gloss": "un giorno"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "due giorni"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "resta in piedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "sarà punito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "il suo denaro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli ⟨è⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:12.170231216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "poiché sei mesi dimorò là Ioab e tutto Israele, fino a sterminare ogni maschio in Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sei"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mesi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dimorò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "sterminare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:40.823149452Z",
+  "model": "glm-5.3"
+}

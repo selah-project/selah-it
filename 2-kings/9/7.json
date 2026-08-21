@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E colpirai ⟨את⟩ la casa di Achab, tuo signore, e io vendicherò il sangue dei miei servi, i profeti, e il sangue di tutti i servi di YHWH, dalla mano di Izevel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "e colpirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di Achab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "di Achab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuo signore"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "e io vendicherò"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dei miei servi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "i profeti"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "e il sangue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "di Izevel"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:48.250582178Z",
+  "model": "glm-5.3"
+}

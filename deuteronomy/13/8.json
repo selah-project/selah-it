@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "— degli elohim dei popoli che ⟨sono⟩ intorno a voi, vicini a te o lontani da te, da ⟨un⟩ confine della terra fino ⟨al⟩ confine della terra —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "degli elohim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dei popoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "intorno a voi"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "vicini"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "lontani"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "da un confine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "al confine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:36.457878026Z",
+  "model": "glm-5.3"
+}

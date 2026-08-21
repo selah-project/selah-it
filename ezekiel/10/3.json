@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E i cherubim stavano ⟨alla⟩ destra della casa quando quell'uomo entrò, e la nube riempì ⟨את⟩ il cortile interno.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "e i cherubim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stavano"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "a destra"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "quando entrò"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "e la nube"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "riempì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cortile interno"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "il cortile"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "interno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:18:38.426136781Z",
+  "model": "glm-5.3"
+}

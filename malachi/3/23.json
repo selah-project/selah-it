@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ecco, io mando a voi ⟨את⟩ Elia, il profeta, prima che venga il giorno di YHWH, il grande e il tremendo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mando"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prima di"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "che venga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "il grande"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "e il tremendo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:58.389864959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Essi sono quelli che parlarono al faraone, re d'Egitto, per far uscire ⟨את⟩ i figli d'Israele dall'Egitto: essi ⟨sono⟩ Mosè e Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "quelli che parlarono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egitto"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "per far uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:38.198610320Z",
+  "model": "glm-5.3"
+}

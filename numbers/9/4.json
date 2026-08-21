@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E parlò Moshe ai figli d'Israele di fare ⟨את⟩ la Pasqua.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E parlò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "la Pasqua"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:16.208745925Z",
+  "model": "glm-5.3"
+}

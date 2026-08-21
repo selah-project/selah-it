@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Facciamo ⟨ti prego⟩ una piccola camera ⟨in⟩ muratura, e mettiamo per lui là un letto, un tavolo, una sedia e una lampada; e sarà, quando verrà da noi, che si ritirerà là.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "facciamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "una camera in alto"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "in muratura"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "piccola"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "e mettiamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "un letto"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "un tavolo"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "una sedia"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "una lampada"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "quando verrà"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "da noi"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "si ritirerà"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:06.048917892Z",
+  "model": "glm-5.3"
+}

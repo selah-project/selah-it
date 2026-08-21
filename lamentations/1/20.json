@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Vedi, YHWH, perché ⟨sono⟩ in angoscia: le mie viscere bollono, il mio cuore si è capovolto dentro di me, perché amaramente ho disobbedito; fuori la spada ha reso orfani, in casa come la morte.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "צר",
+      "gloss": "in angoscia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sono"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "le mie viscere"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "bollono"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "si è capovolto"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "dentro di me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "amaramente"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ho disobbedito"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "ha reso orfani"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in casa"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "come la morte"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:58.885648218Z",
+  "model": "glm-5.3"
+}

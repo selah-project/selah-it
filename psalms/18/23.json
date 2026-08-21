@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Poiché tutti i suoi giudizi ⟨erano⟩ davanti a me, e i suoi statuti non ho allontanato da me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "i suoi giudizi"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "e i suoi statuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ho allontanato"
+    },
+    {
+      "surface": "מני",
+      "gloss": "da me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:48.072351310Z",
+  "model": "glm-5.3"
+}

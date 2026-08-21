@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Mosè prese ⟨את⟩ il bastone da davanti a YHWH, come gli aveva comandato.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bastone"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "il bastone"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "da davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gli aveva comandato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:32.416339345Z",
+  "model": "glm-5.3"
+}

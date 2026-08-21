@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E un uomo: ⟨את⟩ le sue cose sante a lui saranno; ciò che un uomo darà al sacerdote, a lui sarà.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue cose sante"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "le sue cose sante"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saranno"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciò che un uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "al sacerdote"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:04.547566558Z",
+  "model": "glm-5.3"
+}

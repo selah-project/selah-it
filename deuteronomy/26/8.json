@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E YHWH ci fece uscire dall'Egitto con mano forte e con braccio disteso e con timore grande e con segni e con portenti.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "e ci fece uscire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "con mano"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "forte"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "e con braccio"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "disteso"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "e con timore"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "e con segni"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "e con portenti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:17.985604838Z",
+  "model": "glm-5.3"
+}

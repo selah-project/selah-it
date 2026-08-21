@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E ora tu dici: « Va', di' al tuo signore: ecco, Eliyahu ⟨è qui⟩ » — ed ⟨egli⟩ mi ucciderà!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dici"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di'"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "al tuo signore"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "e mi ucciderà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:39.354312603Z",
+  "model": "glm-5.3"
+}

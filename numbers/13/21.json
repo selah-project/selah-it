@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E salirono ed esplorarono ⟨את⟩ la terra, dal deserto di Tsin fino a Rechov, all'ingresso di Chamat.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "e salirono"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "ed esplorarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dal deserto"
+    },
+    {
+      "surface": "צן",
+      "gloss": "di Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "di Chamat"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:37.349732565Z",
+  "model": "glm-5.3"
+}

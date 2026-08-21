@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 82,
+  "translation": "Liberate il debole e il bisognoso, dalla mano dei malvagi strappateli.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Liberate"
+    },
+    {
+      "surface": "דל",
+      "gloss": "il debole"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e il bisognoso"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "strappateli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:15.105811239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Ma se ⟨lo⟩ riscatta davvero, aggiungerà il suo quinto sulla tua stima.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "riscatta"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "lo riscatta davvero"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "aggiungerà"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "il suo quinto"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "la tua stima"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:41.936435617Z",
+  "model": "glm-5.3"
+}

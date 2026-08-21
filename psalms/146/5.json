@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "Beato chi ha come aiuto ⟨il⟩ Dio di Giacobbe, la cui speranza è su YHWH, ⟨il suo⟩ Elohim:",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beato"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "ha come aiuto"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "la cui speranza"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "il suo Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:14.336167996Z",
+  "model": "glm-5.3"
+}

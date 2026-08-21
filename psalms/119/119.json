@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Come scorie hai fatto cessare tutti i malvagi della terra; perciò io amo le tue testimonianze.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "come scorie"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "hai fatto cessare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "perciò"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "io amo"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "le tue testimonianze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:59.616220553Z",
+  "model": "glm-5.3"
+}

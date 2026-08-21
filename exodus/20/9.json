@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Sei giorni lavorerai e farai tutto il tuo lavoro,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "lavorerai"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "il tuo lavoro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:28.744932698Z",
+  "model": "glm-5.3"
+}

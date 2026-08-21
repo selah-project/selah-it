@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E fece uscire ⟨את⟩ l'Asherah dalla casa di YHWH, fuori da Gerusalemme, al torrente Kidron, e la bruciò nel torrente Kidron, e la ridusse in polvere, e gettò ⟨את⟩ la polvere di essa sulle tombe dei figli del popolo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "fece uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Asherah"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "l'Asherah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "da Gerusalemme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "il torrente"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "e la bruciò"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lei",
+      "marks": "l'Asherah"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "nel torrente"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "e la frantumò"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "in polvere"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "e gettò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la polvere di essa"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "la polvere di essa"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "le tombe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:51.449105539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "La menzogna ho odiato e l'ho detestata; la tua Torah ho amato.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "La menzogna"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ho odiato"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "e l'ho detestata"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "la tua Torah"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ho amato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:50.862695247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 9:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ricorda, non dimenticare ⟨את⟩ come hai fatto infuriare ⟨את⟩ YHWH, il tuo Elohim, nel deserto; dal giorno in cui uscisti dal paese d'Egitto fino al vostro arrivare a questo luogo, ribelli siete stati con YHWH.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ricorda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dimenticare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "come hai fatto infuriare YHWH nel deserto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "הקצפת",
+      "gloss": "hai fatto infuriare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH, il tuo Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "למן",
+      "gloss": "da"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "uscisti"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "al vostro arrivare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "a"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "il luogo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ממרים",
+      "gloss": "ribelli"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "siete stati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:40.633564460Z",
+  "model": "glm-5.3"
+}

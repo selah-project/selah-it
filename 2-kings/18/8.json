@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Egli percosse ⟨את⟩ i Filistei fino a Gaza e ⟨את⟩ i suoi confini, dalla torre dei custodi fino alla città fortificata.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "percosse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Filistei"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi confini"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "i suoi confini"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "dalla torre di"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "custodi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortificata"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:52.741725780Z",
+  "model": "glm-5.3"
+}

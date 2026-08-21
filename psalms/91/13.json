@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Sul leone e sulla vipera camminerai, calpesterai il leoncello e il serpente.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "il leone"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "e sulla vipera"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "camminerai"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "calpesterai"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "il leoncello"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "e il serpente"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:04.392656681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 142,
+  "translation": "Guardo a destra e vedo — e non ho chi mi riconosca; perduto ⟨è⟩ il rifugio da me: nessuno chiede della mia nefesh.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "guardo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "a destra"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vedo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "chi mi riconosca"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "perduto"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "il rifugio"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "chi chiede"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "della mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:27.253073992Z",
+  "model": "glm-5.3"
+}

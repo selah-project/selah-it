@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Dov'⟨è⟩ la parola del re ⟨lì è⟩ potere, e chi gli dirà: « che cosa fai? »",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "potere"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dirà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fai"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:19.604339526Z",
+  "model": "glm-5.3"
+}

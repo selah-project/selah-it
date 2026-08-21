@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E chiamò Elohim la luce «giorno», e alla tenebra chiamò «notte». E fu sera e fu mattina: giorno uno.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "יום",
+      "gloss": "«giorno»"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "e alla tenebra"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chiamò"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "«notte»"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sera"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mattina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:35.681362651Z",
+  "model": "glm-5.3"
+}

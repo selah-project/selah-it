@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E comandò Giosuè ⟨את⟩ i preposti del popolo, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "E comandò"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Giosuè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i preposti del popolo"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "i preposti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:27.983277394Z",
+  "model": "glm-5.3"
+}

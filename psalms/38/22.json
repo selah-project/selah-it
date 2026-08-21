@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Non abbandonarmi, YHWH, Elohim mio; non allontanarti da me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abbandonarmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "allontanarti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:21.642946325Z",
+  "model": "glm-5.3"
+}

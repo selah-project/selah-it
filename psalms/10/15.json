@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Spezza il braccio del malvagio, e del tristo; ⟨la⟩ sua malvagità ⟨cerca⟩ — non la si troverà più.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "spezza"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "il braccio"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "e del tristo"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "la sua malvagità"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non… affatto"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "si troverà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:18.531251526Z",
+  "model": "glm-5.3"
+}

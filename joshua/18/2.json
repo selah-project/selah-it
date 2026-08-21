@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E rimasero tra i figli d'Israele che non avevano diviso ⟨את⟩ la loro eredità sette tribù.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "e rimasero"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "tra i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "avevano diviso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro eredità"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "la loro eredità"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sette"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "tribù"
+    }
+  ],
+  "timestamp": "2026-08-21T06:55:41.585424263Z",
+  "model": "glm-5.3"
+}

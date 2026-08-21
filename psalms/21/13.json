@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Poiché tu li porrai in fuga ⟨dando loro le spalle⟩; contro il loro volto appresti i tuoi archi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "tu li porrai"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "⟨le spalle⟩ (shekhem, la nuca)"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "i tuoi archi (le corde del tuo arco)"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "appresti"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "il loro volto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:07.068059456Z",
+  "model": "glm-5.3"
+}

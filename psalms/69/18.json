@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "E non nascondere il tuo volto dal tuo servo, perché ⟨io⟩ sono in angustia: affrettati, rispondimi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "nascondere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "dal tuo servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "צר",
+      "gloss": "in angustia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨io⟩ sono"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "affrettati"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "rispondimi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:41.347527547Z",
+  "model": "glm-5.3"
+}

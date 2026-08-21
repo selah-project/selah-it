@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E io ho istruito, ho rafforzato le loro braccia, ma contro di me tramano il male.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "ho istruito"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "ho rafforzato"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "le loro braccia"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "tramano"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:04.051646427Z",
+  "model": "glm-5.3"
+}

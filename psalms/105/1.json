@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Rendete grazie a YHWH, invocate ⟨il suo nome⟩, fate conoscere tra i popoli le sue imprese.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "rendete grazie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "invocate"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "fate conoscere"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tra i popoli"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "le sue imprese"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:59.800358761Z",
+  "model": "glm-5.3"
+}

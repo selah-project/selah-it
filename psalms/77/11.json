@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "E dissi: «⟨Questa⟩ ⟨è⟩ la mia infermità — i mutamenti della destra dell'Altissimo».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "la mia infermità"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨è⟩ questa"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "i mutamenti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "della destra"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "dell'Altissimo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:03.855185008Z",
+  "model": "glm-5.3"
+}

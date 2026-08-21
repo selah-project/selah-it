@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E si levarono i suoi servi e congiurarono una congiura, e colpirono ⟨את⟩ Ioash in Bet-Millò, che scende a Sillà.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "e si levarono"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "e congiurarono"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "una congiura"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Ioash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in Bet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millò"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "che scende"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "a Sillà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:54.840237011Z",
+  "model": "glm-5.3"
+}

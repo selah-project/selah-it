@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Hai detto: solo parola di labbra ⟨è⟩ consiglio e forza per la guerra! Ora, su chi ti sei fidato, che ti sei ribellato a me?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "hai detto"
+    },
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parola"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "di labbra"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "consiglio"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "e forza"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "per la guerra"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "ti sei fidato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "ti sei ribellato"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:10.368474471Z",
+  "model": "glm-5.3"
+}

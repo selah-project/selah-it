@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "« Rotola verso YHWH — ⟨lo⟩ liberi, ⟨lo⟩ salvi, poiché si compiace in lui ».",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "rotola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "lo liberi"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "lo salvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "si compiace"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:57.166563993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "Elohim, un canto nuovo canterò per te, con il nevel a dieci corde salmeggerò per te.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuovo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "con il nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "a dieci corde"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "salmeggerò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:48.504809380Z",
+  "model": "glm-5.3"
+}

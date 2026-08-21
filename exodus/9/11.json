@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E non poterono i maghi stare davanti a Mosè a causa dell'ulcere, perché l'ulcere ⟨era⟩ sui maghi e su tutto l'Egitto.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "poterono"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "i maghi"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "l'ulcere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "l'ulcere"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "sui maghi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e su tutto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:20.469105672Z",
+  "model": "glm-5.3"
+}

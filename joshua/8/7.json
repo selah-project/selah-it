@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E voi vi alzerete dall'agguato e prenderete possesso ⟨את⟩ della città; e YHWH, il vostro Elohim, la darà nella vostra mano.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "e voi"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "vi alzerete"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "dall'agguato"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "prenderete possesso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la città"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "e la darà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "nella vostra mano"
+    }
+  ],
+  "timestamp": "2026-08-21T06:52:02.294387138Z",
+  "model": "glm-5.3"
+}

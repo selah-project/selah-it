@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Ricchezza e onore ⟨sono⟩ ⟨את⟩ con me, sostanza preziosa e giustizia.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ricchezza"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "e onore"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ con me",
+      "marks": "ricchezza e onore"
+    },
+    {
+      "surface": "הון",
+      "gloss": "sostanza"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "preziosa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:16.371195147Z",
+  "model": "glm-5.3"
+}

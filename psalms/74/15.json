@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Tu hai spaccato sorgente e torrente, Tu hai prosciugato fiumi perenni.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "hai spaccato"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "sorgente"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "e torrente"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "hai prosciugato"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "fiumi"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "perenni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:36.579764141Z",
+  "model": "glm-5.3"
+}

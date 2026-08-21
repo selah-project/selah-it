@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "e pelli di arieti tinte di rosso, e pelli di tachash, e legni di acacia",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "e pelli di"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "arieti"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "tinte di rosso"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "e pelli di"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "e legni di"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:50.336650714Z",
+  "model": "glm-5.3"
+}

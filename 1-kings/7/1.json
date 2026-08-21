@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E ⟨את⟩ la sua casa Salomone la costruì: tredici anni, e completò ⟨את⟩ tutta la sua casa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la sua casa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "costruì"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "e completò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la sua casa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:26:51.012205741Z",
+  "model": "glm-5.3"
+}

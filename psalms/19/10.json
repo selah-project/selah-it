@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Il timore di YHWH ⟨è⟩ puro, sussiste per sempre; i giudizi di YHWH ⟨sono⟩ verità, ⟨sono⟩ giusti tutti insieme.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "il timore di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "puro"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "sussiste"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "i giudizi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verità"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "giusti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tutti insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:39.845438563Z",
+  "model": "glm-5.3"
+}

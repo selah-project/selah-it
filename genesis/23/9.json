@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 23:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "che mi dia ⟨את⟩ la caverna di Makpelà, che è sua, che sta all'estremità del suo campo; a prezzo pieno la dia a me, in mezzo a voi, come possesso di sepoltura.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "che dia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la caverna di Makpelà"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "la caverna"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "di Makpelà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "è sua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "all'estremità"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "del suo campo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "a denaro"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pieno"
+    },
+    {
+      "surface": "יתננה",
+      "gloss": "la dia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in mezzo a voi"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "come possesso"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "di sepoltura"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:26.955561725Z",
+  "model": "glm-5.3"
+}

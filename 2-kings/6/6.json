@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E l'uomo di Elohim disse: Dove ⟨⟨è⟩⟩ caduto? Ed ⟨egli⟩ gli mostrò ⟨את⟩ il luogo; ed ⟨egli⟩ tagliò un legno e lo gettò là, e fece galleggiare il ferro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Dove"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "⟨è⟩ caduto"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ed ⟨egli⟩ gli mostrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il luogo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "il luogo"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ed ⟨egli⟩ tagliò"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "un legno"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "e lo gettò"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "e fece galleggiare"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "il ferro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:01.178041934Z",
+  "model": "glm-5.3"
+}

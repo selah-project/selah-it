@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Poiché ⟨את⟩ il giogo del suo carico e ⟨את⟩ il bastone della sua spalla — lo scettro di chi lo opprime — tu hai spezzato come nel giorno di Middian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giogo del suo carico"
+    },
+    {
+      "surface": "על",
+      "gloss": "il giogo"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "del suo carico"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il bastone della sua spalla"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "il bastone"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "della sua spalla"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "lo scettro"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "di chi lo opprime"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "tu hai spezzato"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come nel giorno"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "di Middian"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:10.938334690Z",
+  "model": "glm-5.3"
+}

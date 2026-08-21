@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "⟨את⟩ i miei shabbat custodirete, e il mio santuario temerete: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei shabbat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "i miei shabbat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "custodirete"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "e il mio santuario"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temerete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:20.451788942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Allora farai uscire ⟨את⟩ quell'uomo o ⟨את⟩ quella donna che ha fatto ⟨את⟩ questa cosa cattiva, alle tue porte — ⟨את⟩ l'uomo o ⟨את⟩ la donna — e li lapiderai con pietre e moriranno.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "farai uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quell'uomo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quella donna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa cosa cattiva"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "cattiva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "alle tue porte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la donna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "e li lapiderai"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "con pietre"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "e moriranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:00.901619095Z",
+  "model": "glm-5.3"
+}

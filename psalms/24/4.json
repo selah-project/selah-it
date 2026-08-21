@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "L'innocente di mani e il puro di cuore, che non ha sollevato a vanità la sua nefesh, e non ha giurato con inganno.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "l'innocente"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "di mani"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "e il puro"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "di cuore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ha sollevato"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "a vanità"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ha giurato"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "con inganno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:13.490956630Z",
+  "model": "glm-5.3"
+}

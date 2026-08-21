@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E Davide udì, e mandò ⟨את⟩ Ioab e ⟨את⟩ tutta l'armata dei prodi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutta l'armata dei prodi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "l'armata"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "dei prodi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:21.774333370Z",
+  "model": "glm-5.3"
+}

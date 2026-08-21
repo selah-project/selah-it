@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E visse Eber, dopo che generò ⟨את⟩ Peleg, trenta anni e quattrocento anni; e generò figli e figlie.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "e visse"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo che"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e quattrocento"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e figlie"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:46.952789274Z",
+  "model": "glm-5.3"
+}

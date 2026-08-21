@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Perché libererà il povero che grida, e l'oppresso che non ha chi lo aiuti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "libererà"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "che grida"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "e l'oppresso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "che non ha"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "chi lo aiuti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:23.218255928Z",
+  "model": "glm-5.3"
+}

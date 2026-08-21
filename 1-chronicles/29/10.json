@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E Davide benisse YHWH ⟨את⟩ davanti agli occhi di tutta l'assemblea, e disse Davide: « Benedetto tu, YHWH, Elohim d'Israele, nostro padre, dall'eternità e fino all'eternità ».",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "e benisse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "davanti agli occhi di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nostro padre"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dall'eternità"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "l'eternità"
+    }
+  ],
+  "timestamp": "2026-08-21T09:53:28.098677924Z",
+  "model": "glm-5.3"
+}

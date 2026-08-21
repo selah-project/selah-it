@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Si è fatto innanzi per contendere YHWH, e sta in piedi per giudicare i popoli.",
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "si è fatto innanzi"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "per contendere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "e sta in piedi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "per giudicare"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:11.509615290Z",
+  "model": "glm-5.3"
+}

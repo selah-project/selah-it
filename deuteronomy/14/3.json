@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Non mangerai alcuna cosa abominevole.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangerai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alcuna"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "cosa abominevole"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:21.511963737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Allontanati dal male e fa' il bene; cerca lo shalom e insegui⟨lo⟩.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "allontanati"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dal male"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e fa'"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lo shalom"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "e insegui⟨lo⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:27.508269325Z",
+  "model": "glm-5.3"
+}

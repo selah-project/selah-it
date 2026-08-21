@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E farai ⟨את⟩ le stanghe di legno di shittim e le rivestirai d'oro, e con esse sarà portata ⟨את⟩ la tavola.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le stanghe"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "le stanghe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "legno di"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "e rivestirai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e sarà portata"
+    },
+    {
+      "surface": "בם",
+      "gloss": "con esse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tavola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:57.033781594Z",
+  "model": "glm-5.3"
+}

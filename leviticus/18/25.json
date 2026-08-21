@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E si contaminò la terra, e io visitai la sua colpa su di essa, e la terra vomitò ⟨את⟩ i suoi abitanti.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "e si contaminò"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "e io visitai"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "la sua colpa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "e vomitò"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi abitanti"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "i suoi abitanti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:45.557203840Z",
+  "model": "glm-5.3"
+}

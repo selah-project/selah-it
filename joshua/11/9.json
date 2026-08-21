@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Yehoshua fece loro come gli aveva detto YHWH: i loro cavalli ⟨את⟩ azzoppò e i loro carri ⟨את⟩ bruciò con il fuoco.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fece"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aveva detto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro cavalli"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "i loro cavalli"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "azzoppò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i loro carri"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "i loro carri"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bruciò"
+    },
+    {
+      "surface": "באש",
+      "gloss": "con il fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:52.857196283Z",
+  "model": "glm-5.3"
+}

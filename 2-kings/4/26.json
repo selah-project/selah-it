@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ora corri, ti prego, incontro a lei e dille: c'è shalom per te? c'è shalom per tuo marito? c'è shalom per il bambino? Ed ella disse: shalom.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "corri"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "incontro a lei"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dille"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "c'è shalom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "c'è shalom"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "per tuo marito"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "c'è shalom"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "per il bambino"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ed ella disse"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:47.805914529Z",
+  "model": "glm-5.3"
+}

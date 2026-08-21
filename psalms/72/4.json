@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Egli giudicherà i poveri del popolo, salverà i figli del bisognoso, e schiaccerà l'oppressore.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "giudicherà"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "i poveri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "salverà"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "del bisognoso"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "e schiaccerà"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "l'oppressore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:34.171845014Z",
+  "model": "glm-5.3"
+}

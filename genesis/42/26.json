@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E caricarono ⟨את⟩ il loro grano sui loro asini e partirono di là.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "e caricarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il loro grano"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "il loro grano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "i loro asini"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e partirono"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:49.600541592Z",
+  "model": "glm-5.3"
+}

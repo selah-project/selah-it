@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Mandò davanti a loro un uomo: Giuseppe, ⟨fu⟩ venduto come schiavo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "davanti a loro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "come schiavo"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "fu venduto"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:39.663743797Z",
+  "model": "glm-5.3"
+}

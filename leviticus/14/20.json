@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E il sacerdote farà salire ⟨את⟩ l'olà e ⟨את⟩ l'oblazione sull'altare; e il sacerdote farà espiazione per lui, ed egli sarà puro.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "e farà salire"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'olà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'oblazione"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "l'oblazione"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "e farà espiazione"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ed egli sarà puro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:40.499015453Z",
+  "model": "glm-5.3"
+}

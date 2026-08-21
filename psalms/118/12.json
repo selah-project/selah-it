@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Mi hanno circondato come api, si sono spenti come fuoco di spine; nel Nome di YHWH ⟨io⟩ li reciderò ⟨da me⟩.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Mi hanno circondato"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "come api"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "si sono spenti"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "come fuoco"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "di spine"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨io⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "li reciderò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:04.513305663Z",
+  "model": "glm-5.3"
+}

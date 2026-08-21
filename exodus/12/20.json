@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Ogni cosa lievitata non ne mangerete; in tutte le vostre dimore mangerete matzot.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni cosa"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "lievitata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "le vostre dimore"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matzot"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:40.319480946Z",
+  "model": "glm-5.3"
+}

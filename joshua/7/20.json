@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E rispose Akan ⟨את⟩ Yehoshua e disse: « In verità, io ho peccato contro YHWH, Elohim di Israele, e così e così ho fatto ».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "rispose"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "in verità"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ho peccato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "contro YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "e così"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "e così"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ho fatto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:52:16.131523142Z",
+  "model": "glm-5.3"
+}

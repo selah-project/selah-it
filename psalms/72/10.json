@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "I re di Tarsis e delle isole presenteranno tributo; i re di Sheva e di Seva offriranno doni.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "i re di"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsis"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "e delle isole"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tributo"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "presenteranno"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "i re di"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "e di Seva"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "doni"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "offriranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:23.218044636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E risponderanno e diranno: « Le nostre mani non hanno versato ⟨את⟩ questo sangue, e i nostri occhi non l'hanno visto ».",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "e risponderanno"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e diranno"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "le nostre mani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "hanno versato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo sangue"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "questo sangue"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "e i nostri occhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hanno visto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:23.361113936Z",
+  "model": "glm-5.3"
+}

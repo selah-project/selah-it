@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E diedi a Yitschak ⟨את⟩ Yaakov e ⟨את⟩ Esav, e diedi a Esav ⟨את⟩ il monte Seir in possesso; e Yaakov e i suoi figli scesero in Egitto.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "e diedi"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "a Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "e diedi"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "a Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il monte Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "in possesso"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ lo"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "e Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "scesero"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:16.287808255Z",
+  "model": "glm-5.3"
+}

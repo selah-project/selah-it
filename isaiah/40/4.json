@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Ogni valle sarà innalzata e ogni monte e collina saranno abbassati; il terreno accidentato diventerà pianura e i luoghi scoscesi ⟨diventeranno⟩ una valle aperta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ogni"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "valle"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "sarà innalzata"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "e collina"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "saranno abbassati"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "diventerà"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "il terreno accidentato"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "pianura"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "e i luoghi scoscesi"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "una valle aperta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:56.672708931Z",
+  "model": "glm-5.3"
+}

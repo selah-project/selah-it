@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Torneranno i malvagi allo Sheol, tutte le nazioni che dimenticano Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Torneranno"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "allo Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "che dimenticano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:21.396219282Z",
+  "model": "glm-5.3"
+}

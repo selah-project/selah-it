@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E depose Mosè ⟨את⟩ le verghe davanti a YHWH, nella tenda della testimonianza.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "E depose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le verghe"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "le verghe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nella tenda"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "della testimonianza"
+    }
+  ],
+  "timestamp": "2026-08-21T06:30:44.791757318Z",
+  "model": "glm-5.3"
+}

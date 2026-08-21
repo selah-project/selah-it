@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E avvenne, quando il re Chizkiàhu udì ⟨ciò⟩, che si stracciò ⟨את⟩ le sue vesti e si coprì di sacco ed entrò nella casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "quando udì"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiàhu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "si stracciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "e si coprì"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "di sacco"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ed entrò"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:02.987514082Z",
+  "model": "glm-5.3"
+}

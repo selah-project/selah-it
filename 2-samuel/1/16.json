@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E gli disse Davide: «Il tuo sangue ⟨sia⟩ sulla tua testa, perché la tua bocca ha testimoniato contro di te, dicendo: io ho ucciso ⟨את⟩ il Mashiach di YHWH».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "il tuo sangue"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "la tua testa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "la tua bocca"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ha testimoniato"
+    },
+    {
+      "surface": "בך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ho ucciso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Mashiach"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "il Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:46.993385058Z",
+  "model": "glm-5.3"
+}

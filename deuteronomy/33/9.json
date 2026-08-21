@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Il quale disse al padre e alla madre: non l'ho visto; e ⟨את⟩ i suoi fratelli non riconobbe, e ⟨את⟩ i suoi figli non conobbe; poiché essi custodirono la tua parola e il tuo patto essi osserveranno.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "il quale disse"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "al padre"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "e alla madre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "l'ho visto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi fratelli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "riconobbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conobbe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "custodirono"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "la tua parola"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "e il tuo patto"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "osserveranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:57.823825132Z",
+  "model": "glm-5.3"
+}

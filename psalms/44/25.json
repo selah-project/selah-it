@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Perché ⟨il tuo⟩ volto nascondi, dimentichi la nostra miseria e la nostra oppressione?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "volto"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "nascondi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dimentichi"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "la nostra miseria"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "e la nostra oppressione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:20.539021099Z",
+  "model": "glm-5.3"
+}

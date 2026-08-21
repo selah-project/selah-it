@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E camminò nel deserto e aggirò ⟨את⟩ la terra di Edom e ⟨את⟩ la terra di Moab, e venne da oriente, dal lato del sole, alla terra di Moab, e accamparono oltre l'Arnon, e non entrarono nel territorio di Moab, perché l'Arnon ⟨è⟩ il confine di Moab.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e camminò"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "e aggirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra di Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra di"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra di Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra di"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "da oriente"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "del sole"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "alla terra di"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "e accamparono"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "l'Arnon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "באו",
+      "gloss": "entrarono"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "nel territorio di"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "l'Arnon"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "il confine di"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-21T07:02:17.568502374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Dalla bocca di bambini lattanti e poppanti hai fondato la forza, a causa dei tuoi avversari, per far tacere il nemico e il vendicatore.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "dalla bocca"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "di bambini"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "e poppanti"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "hai fondato"
+    },
+    {
+      "surface": "עז",
+      "gloss": "la forza"
+    },
+    {
+      "surface": "למען",
+      "gloss": "a causa"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "dei tuoi avversari"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "per far tacere"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "e il vendicatore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:45.915250625Z",
+  "model": "glm-5.3"
+}

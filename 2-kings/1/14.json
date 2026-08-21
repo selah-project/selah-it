@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ecco, scese fuoco dai cieli e divorò ⟨את⟩ i due capi dei cinquanta primi e ⟨את⟩ i loro cinquanta; e ora sia preziosa la mia nefesh ai tuoi occhi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "scese"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "e divorò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i due capi dei cinquanta primi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i due"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capi"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "dei cinquanta"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "primi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i loro cinquanta"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "i loro cinquanta"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "sia preziosa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ai tuoi occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:51.677569008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E fece Elohim ⟨את⟩ i due grandi luminari: ⟨את⟩ il luminare grande per il dominio del giorno, e ⟨את⟩ il luminare piccolo per il dominio della notte — e ⟨את⟩ le stelle.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fece"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i due grandi luminari"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i due"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "luminari"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il luminare grande"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "il luminare"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "grande"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "per il dominio"
+    },
+    {
+      "surface": "היום",
+      "gloss": "del giorno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il luminare piccolo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "il luminare"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "piccolo"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "per il dominio"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "della notte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le stelle"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "le stelle"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:07.473910337Z",
+  "model": "glm-5.3"
+}

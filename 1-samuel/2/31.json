@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Ecco, giorni vengono: io taglierò il tuo braccio e il braccio della casa di tuo padre, perché non vi sia ⟨un⟩ vecchio nella tua casa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vengono"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "e io taglierò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo braccio"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "il tuo braccio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il braccio della casa di tuo padre"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "il braccio"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "di tuo padre"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "perché non vi sia"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vecchio"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nella tua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:28.828908827Z",
+  "model": "glm-5.3"
+}

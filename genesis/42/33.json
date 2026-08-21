@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E l'uomo, il signore del paese, ci disse: da questo saprò che siete sinceri: uno dei vostri fratelli lasciate ⟨את⟩ presso di me, e ⟨את⟩ il cibo per la fame delle vostre case prendete, e andate.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "il signore"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "da questo"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "saprò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "sinceri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "dei vostri fratelli"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "lasciate"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "presso di me — qui את preposizione («con me»), non marcatore di oggetto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il cibo"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "il cibo per la fame"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "delle vostre case"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "prendete"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "e andate"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:29.925607841Z",
+  "model": "glm-5.3"
+}

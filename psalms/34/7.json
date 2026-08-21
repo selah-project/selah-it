@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Quest'oppresso gridò e YHWH lo udì, e da tutte le sue angosce lo salvò.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "oppresso"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gridò"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lo udì"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e da tutte"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "le sue angosce"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "lo salvò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:29.612177280Z",
+  "model": "glm-5.3"
+}

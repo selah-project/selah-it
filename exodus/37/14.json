@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Di fronte alla cornice erano gli anelli, case per le stanghe, per portare ⟨את⟩ la tavola.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "di fronte a"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "la cornice"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erano"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "gli anelli"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "case\/alloggi"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "per le stanghe"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "per portare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tavola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    }
+  ],
+  "timestamp": "2026-08-21T06:08:12.914854698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E Chazaèl, re di Aram, oppressse ⟨את⟩ Israele tutti i giorni di Ieoachaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "e Chazaèl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "oppressse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "di Ieoachaz"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:45.206260588Z",
+  "model": "glm-5.3"
+}

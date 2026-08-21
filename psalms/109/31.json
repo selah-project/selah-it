@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Poiché egli starà alla destra del povero, per salvare ⟨l'anima sua⟩ da quelli che giudicano la sua vita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "starà"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "alla destra"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "del povero"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "per salvare"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "da quelli che giudicano"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua vita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:09.572259603Z",
+  "model": "glm-5.3"
+}

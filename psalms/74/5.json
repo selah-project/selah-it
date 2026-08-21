@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Si facevano conoscere come chi solleva in alto le scuri nel folto del bosco.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "si facevano conoscere"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "come chi solleva"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "in alto"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "nel folto"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "del bosco"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "le scuri"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:27.976503736Z",
+  "model": "glm-5.3"
+}

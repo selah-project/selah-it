@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E costruì con ⟨את⟩ le pietre un altare nel nome di YHWH, e fece un canale intorno all'altale, dello spazio di due seah di seme, tutt'intorno.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "E costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pietre"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "le pietre"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altare"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "un canale"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "dello spazio di"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "due seah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "di seme"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutt'intorno"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "all'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:27.903760491Z",
+  "model": "glm-5.3"
+}

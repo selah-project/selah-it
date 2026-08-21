@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "La cui messe la mangia l'affamato, e fino fra le spine ⟨la⟩ prende, e gli assetati ansimano ⟨dietro⟩ la loro ricchezza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "la cui"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "messe"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "l'affamato"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangia"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e fino fra"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "le spine"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "la prende"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "ansimano"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "gli assetati"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "la loro ricchezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:12.626420007Z",
+  "model": "glm-5.3"
+}

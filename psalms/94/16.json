@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Chi si leverà per me contro i malvagi? Chi starà in piedi per me contro gli operatori di iniquità?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "si leverà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contro"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "starà in piedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contro"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gli operatori di"
+    },
+    {
+      "surface": "און",
+      "gloss": "iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:20.806031668Z",
+  "model": "glm-5.3"
+}

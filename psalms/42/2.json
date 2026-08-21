@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Come una cerva anela ai corsi d'acqua, così la mia nefesh anela a Te, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "come una cerva"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "anela"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "i corsi d'acqua"
+    },
+    {
+      "surface": "מים",
+      "gloss": "(d')acqua"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "anela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a Te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:19.322192404Z",
+  "model": "glm-5.3"
+}

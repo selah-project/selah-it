@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Dieci cubiti ⟨era⟩ la lunghezza del⟨⟩ tabulato, e un cubito e mezzo la larghezza del tabulato, per ciascuno.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cubiti"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "la lunghezza"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "del tabulato"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e un cubito"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e mezzo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "di cubito"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "la larghezza"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "del tabulato"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "per ciascuno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:08:47.692794549Z",
+  "model": "glm-5.3"
+}

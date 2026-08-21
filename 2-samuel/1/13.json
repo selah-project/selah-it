@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse Davide al giovane che glielo riferiva: «Di dove sei?». E lui disse: «Figlio di un forestiero, un amalekita, io sono».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il giovane"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "che riferiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "glielo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "di dove"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "forestiero"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amalekita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:46.992841563Z",
+  "model": "glm-5.3"
+}

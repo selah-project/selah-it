@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E prenderanno del sangue e lo metteranno sui due stipiti e sull'architrave ⟨sopra⟩ le case nelle quali lo mangeranno ⟨in esse⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "e prenderanno"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "e lo metteranno"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "i due"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "stipiti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "l'architrave"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sopra⟩"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "le case"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nelle quali"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeranno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo — l'agnello, oggetto marcato (con בהם)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨in esse⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:57.728815762Z",
+  "model": "glm-5.3"
+}

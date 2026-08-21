@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "È perito il pio dalla terra, e l'uomo retto tra gli uomini non ⟨c'è⟩: tutti per sangui tendono agguati, ciascuno ⟨את⟩ suo fratello cacciano con la rete.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "È perito"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "il pio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "e l'uomo retto"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "tra gli uomini"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "per sangui"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "tendono agguati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo fratello"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "cacciano"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "con la rete"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:41.228562080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Ha aperto YHWH ⟨את⟩ il suo tesoro ed è uscito ⟨את⟩ l'armamento del suo furore, poiché un'opera ⟨è⟩ per Adonai YHWH degli eserciti nella terra dei Kasdim.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ha aperto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo tesoro"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "il suo tesoro"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "ed è uscito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'armamento"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "l'armamento"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "del suo furore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "un'opera"
+    },
+    {
+      "surface": "היא",
+      "gloss": "è"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "per Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "dei Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:14:50.602504329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 138,
+  "translation": "YHWH porterà a compimento ⟨ciò che mi riguarda⟩; YHWH, il tuo chesed ⟨dura⟩ per sempre: le opere delle tue mani non abbandonare.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "porterà a compimento"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨ciò che mi riguarda⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "le opere di"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "le tue mani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "abbandonare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:50.525704252Z",
+  "model": "glm-5.3"
+}

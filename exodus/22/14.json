@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se il suo padrone ⟨è⟩ con lui, non ripagherà; se ⟨è⟩ un salariato, ⟨il danno⟩ viene ⟨coperto⟩ con il suo salario.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "il suo padrone"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ripagherà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "un salariato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "con il suo salario"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:32.117266614Z",
+  "model": "glm-5.3"
+}

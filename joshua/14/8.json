@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E i miei fratelli che salirono con me sciolsero ⟨את⟩ il cuore del popolo, ma io mi riempii ⟨di seguire⟩ YHWH, il mio Elohim.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "e i miei fratelli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "salirono"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "sciolsero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cuore"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "mi riempii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di seguire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "il mio Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:54:20.009462361Z",
+  "model": "glm-5.3"
+}

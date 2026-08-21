@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Sia la gloria di YHWH per sempre; si rallegri YHWH nelle sue opere!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "si rallegri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "nelle sue opere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.542154659Z",
+  "model": "glm-5.3"
+}

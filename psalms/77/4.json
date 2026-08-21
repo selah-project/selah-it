@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Ricordo Elohim e gemo; rimugino, e il mio spirito viene meno. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ricordo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "e gemo"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "rimugino"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "e viene meno"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "il mio spirito"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:02.794374920Z",
+  "model": "glm-5.3"
+}

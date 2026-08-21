@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Che dispone le travi delle sue stanze superiori nelle acque, che fa delle nubi il suo carro, che cammina sulle ali del Ruach.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "che dispone le travi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nelle acque"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "delle sue stanze superiori"
+    },
+    {
+      "surface": "השם",
+      "gloss": "che fa"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "delle nubi"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "il suo carro"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "che cammina"
+    },
+    {
+      "surface": "על",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ali"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "del Ruach"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:10.203890959Z",
+  "model": "glm-5.3"
+}

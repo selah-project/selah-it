@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Maskil di Eitan l'Ezrachita.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (poema didattico)"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "di Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "l'Ezrachita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:34.373461578Z",
+  "model": "glm-5.3"
+}

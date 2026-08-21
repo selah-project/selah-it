@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Tra i morti, libero, come gli uccisi che giacciono nella tomba, che tu non ricordi più: ed essi dalla tua mano sono stati recisi.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "tra i morti"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "libero"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "gli uccisi"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "che giacciono"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "nella tomba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "tu ricordi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ed essi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "dalla tua mano"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "sono stati recisi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:10.503943414Z",
+  "model": "glm-5.3"
+}

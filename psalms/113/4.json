@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 113,
+  "translation": "Alto sopra tutte le nazioni ⟨è⟩ YHWH, sopra i cieli ⟨è⟩ la sua Gloria.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Alto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "la sua Gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:45.963686254Z",
+  "model": "glm-5.3"
+}

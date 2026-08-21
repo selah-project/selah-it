@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e il pellicano, e ⟨את⟩ l'avvoltoio, e ⟨את⟩ il cormorano",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "e il pellicano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'avvoltoio"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "l'avvoltoio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il cormorano"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "il cormorano"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:01.810907161Z",
+  "model": "glm-5.3"
+}

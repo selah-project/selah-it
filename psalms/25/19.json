@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Vedi i miei nemici, perché sono diventati molti, e con odio violento mi hanno odiato.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "sono diventati molti"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "e con odio"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violento"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "mi hanno odiato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:34.960560421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "e darò le vostre piogge a loro tempo, e darà la terra il suo raccolto, e l'albero del campo darà il suo frutto.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e darò"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "le vostre piogge"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "a loro tempo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "e darà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "il suo raccolto"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "e l'albero"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "del campo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "il suo frutto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:02.097741780Z",
+  "model": "glm-5.3"
+}

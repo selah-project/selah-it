@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E mangeranno e non si sazieranno; si prostituiranno e non si moltiplicheranno, perché hanno abbandonato ⟨את⟩ YHWH per non custodire.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "e mangeranno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "si sazieranno"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "si sono prostituiti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "si moltiplicheranno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hanno abbandonato"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "per custodire"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:00.132680379Z",
+  "model": "glm-5.3"
+}

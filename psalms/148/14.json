@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "E ⟨egli⟩ ha innalzato ⟨una⟩ corna per il suo popolo: lode per tutti i suoi fedeli (*chesed*), per i figli di Israele, popolo a lui vicino. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "E ha innalzato"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "corna"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "per il suo popolo"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lode"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "i suoi fedeli"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popolo"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "a lui vicino"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:38.022082991Z",
+  "model": "glm-5.3"
+}

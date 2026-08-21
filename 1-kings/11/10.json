@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e gli aveva comandato riguardo a questa cosa, di non andare dietro ad altri elohim; ma egli non custodì ⟨את⟩ ciò che YHWH aveva comandato.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "e aveva comandato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "riguardo a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "di non"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "andare"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "custodì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:20.580104012Z",
+  "model": "glm-5.3"
+}

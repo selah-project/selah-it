@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E gli disse Avram — Abramo: «Guardati dal rimandare ⟨את⟩ mio figlio là.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "guardati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "rimandare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mio figlio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:03.119731406Z",
+  "model": "glm-5.3"
+}

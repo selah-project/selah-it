@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 101,
+  "translation": "Di Davide, mizmor. Chesen e mishpat canterò; a te, YHWH, suonerò.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e mishpat"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "suonerò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:44.285316187Z",
+  "model": "glm-5.3"
+}

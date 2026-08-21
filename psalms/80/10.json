@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Hai spianato ⟨davanti a lei⟩, ed ⟨essa⟩ ha messo radici e ha riempito la terra.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "hai spianato"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "davanti a lei"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "ed ha messo radici"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "le sue radici"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "e ha riempito"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:28.311214913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 113,
+  "translation": "Sia ⟨il⟩ Nome di YHWH benedetto, da ora e fino all'eterno.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "da ora"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "all'eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:45.963426447Z",
+  "model": "glm-5.3"
+}

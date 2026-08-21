@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E gli disse: ecco, ho accolto il tuo volto anche per questa parola, di non rovesciare ⟨את⟩ la città di cui hai parlato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ho accolto"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "per questa parola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "di non"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "rovesciare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la città"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di cui"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "hai parlato"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:32.719144357Z",
+  "model": "glm-5.3"
+}

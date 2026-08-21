@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Non custodirono il patto di Elohim, e nella sua Torah rifiutarono di camminare.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "custodirono"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "il patto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "e nella sua Torah"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "rifiutarono"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "di camminare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:44.954596189Z",
+  "model": "glm-5.3"
+}

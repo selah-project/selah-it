@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E ⟨את⟩ questi detesterete tra gli uccelli: non si mangeranno, sono abominio: ⟨את⟩ il grande avvoltoio, e ⟨את⟩ l'avvoltoio barbuto, e ⟨את⟩ l'avvoltoio nero.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "questi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "detesterete"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tra"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "gli uccelli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "si mangeranno"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abominio"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il grande avvoltoio"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "il grande avvoltoio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'avvoltoio barbuto"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "l'avvoltoio barbuto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'avvoltoio nero"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "l'avvoltoio nero"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:51.359527187Z",
+  "model": "glm-5.3"
+}

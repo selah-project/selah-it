@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E si aggiunse l'ira di YHWH per ardere contro Israele, e incitò ⟨את⟩ Davide contro di loro, dicendo: va', conta ⟨את⟩ Israele e ⟨את⟩ Giuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "e si aggiunse"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l'ira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "per ardere"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contro Israele"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "e incitò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "contro di loro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "conta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:19.139475803Z",
+  "model": "glm-5.3"
+}

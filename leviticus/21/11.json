@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E presso ogni nefesh morta non entrerà; per suo padre e per sua madre non si renderà impuro.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E presso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "entrerà"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "per suo padre"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "e per sua madre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "si renderà impuro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:50.765899513Z",
+  "model": "glm-5.3"
+}

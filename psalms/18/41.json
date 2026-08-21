@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E ai miei nemici hai dato ⟨la⟩ nuca, e quelli che mi odiano li stermino.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "e ai miei nemici"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "hai dato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "la nuca"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "e quelli che mi odiano"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "li stermino"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:12.749743489Z",
+  "model": "glm-5.3"
+}

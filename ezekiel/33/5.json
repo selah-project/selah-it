@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "⟨את⟩ la voce del shofar egli udì e non si mise in guardia: il suo sangue sarà su di lui; ma se si mette in guardia, la sua nefesh egli avrà messo in salvo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voce del shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "del shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "udì"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "si mise in guardia"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma lui"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "si mise in guardia"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "avrà messo in salvo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:26:29.525595378Z",
+  "model": "glm-5.3"
+}

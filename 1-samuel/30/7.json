@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E disse Davide ad Abiatar il sacerdote, figlio di Achimèlech: avvicina, ti prego, a me l'efod. E Abiatar avvicinò ⟨את⟩ l'efod a Davide.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimèlech"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "avvicina"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "l'efod"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "e avvicinò"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "l'efod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:19.358201920Z",
+  "model": "glm-5.3"
+}

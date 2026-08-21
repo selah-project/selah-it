@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E Iehoash giacque con i suoi padri e fu sepolto a Shomron con i re d'Israele; e regnò Iarovam suo figlio al suo posto.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "e giacque"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Iehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e fu sepolto"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "a Shomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "i re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e regnò"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Iarovam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "al suo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:37.378597246Z",
+  "model": "glm-5.3"
+}

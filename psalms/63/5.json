@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Così ti benedirò finché vivo, nel tuo nome alzerò le mie palme.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ti benedirò"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "finché vivo"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nel tuo nome"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "alzerò"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "le mie palme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:06.305041608Z",
+  "model": "glm-5.3"
+}

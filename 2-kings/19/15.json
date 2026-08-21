@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 19:15",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Chizkiyyahu pregò davanti a YHWH e disse: YHWH, Elohim d'Israele, che siedi ⟨sui⟩ keruvim, tu solo sei ⟨il⟩ Elohim di tutti i regni della terra; tu hai fatto ⟨את⟩ i cieli e ⟨את⟩ la terra.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "pregò"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyyahu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "che siedi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "⟨sui⟩ keruvim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sei"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨il⟩ Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "di tutti"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "i regni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cieli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:32.760679936Z",
+  "model": "glm-5.3"
+}

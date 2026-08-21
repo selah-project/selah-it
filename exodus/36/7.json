@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E ⟨la materia⟩ ⟨era⟩ sufficiente per tutta l'opera per farla ⟨את⟩, e ne avanzava.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "e l'opera"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "דים",
+      "gloss": "sufficiente"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutta"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "per fare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "essa (l'opera)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "e ne avanzava"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:05.568370757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Fammi conoscere, YHWH, la mia fine, e la misura dei miei giorni — che cosa ⟨essa⟩ è: saprò quanto io sia caduco.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "fammi conoscere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "la mia fine"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "e la misura"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dei miei giorni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨essa⟩ è"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "saprò"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "caduco"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:46.380789272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Tutto questo ho visto, e ho dato il mio cuore ⟨את⟩ a ogni opera che si fa sotto il sole: un tempo in cui l'uomo domina sull'uomo, per il suo male.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto questo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "e ho dato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio cuore"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a ogni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "si fa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un tempo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "domina"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sull'uomo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "per il male"
+    },
+    {
+      "surface": "לו",
+      "gloss": "suo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:01.789326342Z",
+  "model": "glm-5.3"
+}

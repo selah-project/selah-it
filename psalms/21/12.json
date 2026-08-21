@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Poiché hanno teso contro di te il male, hanno tramato un piano — ⟨ma⟩ non potrono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "hanno teso"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "hanno tramato"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "un piano"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "potranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:34.358532071Z",
+  "model": "glm-5.3"
+}

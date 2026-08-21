@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Esav prese ⟨את⟩ le sue mogli dalle figlie di Kenaan: ⟨את⟩ Adah figlia di Elon il Chittita, e ⟨את⟩ Aholibamah figlia di Anah, figlia di Tsiveon il Chivvita.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue mogli"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "le sue mogli"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dalle figlie"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adah"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "di Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "il Chittita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aholibamah"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Aholibamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "di Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "di Tsiveon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "il Chivvita"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:33.907855025Z",
+  "model": "glm-5.3"
+}

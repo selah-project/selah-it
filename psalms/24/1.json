@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Di Davide. Mizmor. Di YHWH ⟨è⟩ la terra e la sua pienezza, il mondo e i suoi abitanti.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (canto strumentale)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "e la sua pienezza"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "il mondo"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "e gli abitanti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:13.490222492Z",
+  "model": "glm-5.3"
+}

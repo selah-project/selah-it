@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Siamo diventati un obbrobrio per i nostri vicini, scherno e ludibrio per quelli che ci circondano.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Siamo diventati"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "un obbrobrio"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "per i nostri vicini"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "scherno"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "e ludibrio"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "per quelli che ci circondano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:12.486330116Z",
+  "model": "glm-5.3"
+}

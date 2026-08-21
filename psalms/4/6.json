@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Sacrificate sacrifici di giustizia e confidate in YHWH",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Sacrificate"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sacrifici"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "di giustizia"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "e confidate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:56.822273019Z",
+  "model": "glm-5.3"
+}

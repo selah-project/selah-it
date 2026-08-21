@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E si accenderà il mio furore e vi ucciderò ⟨אתכם⟩ con la spada, e saranno le vostre donne vedove e i vostri figli orfani.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "e si accenderà"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "il mio furore"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "e vi ucciderò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "con la spada"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e saranno"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "le vostre donne"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vedove"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "e i vostri figli"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "orfani"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:30.376704512Z",
+  "model": "glm-5.3"
+}

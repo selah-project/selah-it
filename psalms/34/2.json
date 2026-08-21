@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Benedirò ⟨את⟩ YHWH in ogni tempo; continuamente la sua lode ⟨sarà⟩ nella mia bocca.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Benedirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ogni"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuamente"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "la sua lode"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nella mia bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:46.744240074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Ti esalterò, YHWH, perché mi hai tirato su, e non hai fatto gioire i miei nemici su di me.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Ti esalterò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "mi hai tirato su"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "hai fatto gioire"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "לי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:33.397293010Z",
+  "model": "glm-5.3"
+}

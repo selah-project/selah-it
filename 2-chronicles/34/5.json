@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E le ossa dei sacerdoti bruciò sui loro altari, e purificò ⟨את⟩ Giuda e ⟨את⟩ Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "e le ossa"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "dei sacerdoti"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bruciò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "i loro altari"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "e purificò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T10:03:26.593673546Z",
+  "model": "glm-5.3"
+}

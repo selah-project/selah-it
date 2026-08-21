@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E disse il re ad Amasà: «Convocami ⟨את⟩ gli uomini di Yehudah entro tre giorni, e tu resta qui presente.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasà"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "convoca (chiama a gran voce)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi (per me)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli uomini di Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre (entro)"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "resta presente (sta')"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:12.835889580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Quando la sua lampada brillava sul mio capo, e alla sua luce camminavo attraverso ⟨il⟩ buio;",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "quando brillava"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "la sua lampada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "il mio capo"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "alla sua luce"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "camminavo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "il buio"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:48.963060632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E ungerai ⟨את⟩ l'altare dell'olà e ⟨את⟩ tutti i suoi strumenti, e consacrerai ⟨את⟩ l'altare, e l'altare sarà santo dei santi.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ungerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare dell'olà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dell'olà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi strumenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i suoi strumenti"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "consecrerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "dei santi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:06.535297934Z",
+  "model": "glm-5.3"
+}

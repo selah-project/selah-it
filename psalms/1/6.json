@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Poiché YHWH conosce la via dei giusti, ma la via dei malvagi perirà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ma la via"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "perirà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:43.030581597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Al direttore del coro, su «Shoshannim». Testimonianza. Di Asaf. Salmo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "«Shoshannim» (sui gigli)"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "testimonianza"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:06.957559218Z",
+  "model": "glm-5.3"
+}

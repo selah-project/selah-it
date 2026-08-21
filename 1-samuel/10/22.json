@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 10:22",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E chiesero di nuovo a YHWH: «È forse giunto fin qui un altro uomo?». E disse YHWH: «Ecco, egli si è nascosto presso il bagaglio».",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "E chiesero"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "di nuovo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "È forse giunto"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "un altro"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "fin qui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "si è nascosto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "presso"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "il bagaglio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:13.414134729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Se nei miei statuti camminate, e ⟨את⟩ i miei comandamenti osservate e li farete —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "nei miei statuti"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "camminate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i miei comandamenti"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "i miei comandamenti"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "osservate"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "e farete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (i comandamenti)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:02.097577458Z",
+  "model": "glm-5.3"
+}

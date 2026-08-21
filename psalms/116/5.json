@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Pieno di grazia ⟨è⟩ YHWH e giusto, e il nostro Elohim ⟨è⟩ misericordioso.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "pieno di grazia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "e giusto"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "e il nostro Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "misericordioso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:22.227141466Z",
+  "model": "glm-5.3"
+}

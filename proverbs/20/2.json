@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Come il ruggito di un leone ⟨è⟩ il terrore di un re: chi lo provoca all'ira pecca contro la propria ⟨nefesh⟩.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "il ruggito"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "di un leone"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "il terrore"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di un re"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "lo provoca all'ira"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "pecca"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la propria nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:50.270397855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Per amore del tuo nome, YHWH, perdona la mia colpa, perché ⟨essa⟩ è grande.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "e perdona"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "la mia colpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:24.540060598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E riferì a lui Mordekhài ⟨את⟩ tutto ciò che gli era capitato, e ⟨את⟩ la cifra esatta del denaro che Haman aveva detto di pesare sui tesori del re riguardo ai Giudei, per distruggerli.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che gli era capitato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "gli era capitato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la cifra del denaro"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "la cifra esatta (la spiegazione)"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "del denaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aveva detto"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "di pesare"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "i tesori"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "riguardo ai Giudei"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "per distruggerli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:50.183380603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Nel grembo afferrò per il calcagno ⟨את⟩ suo fratello, e nella sua forza lottò ⟨את⟩ con Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "nel grembo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "afferrò per il calcagno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo fratello"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "e nella sua forza"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "lottò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:14.471929378Z",
+  "model": "glm-5.3"
+}

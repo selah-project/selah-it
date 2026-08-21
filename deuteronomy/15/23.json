@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Solo ⟨את⟩ il suo sangue non mangerai: sulla terra lo verserai, come acqua.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo sangue"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangerai"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "lo verserai"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "come acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:32.210315322Z",
+  "model": "glm-5.3"
+}

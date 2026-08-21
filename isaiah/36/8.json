@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E ora, ti prego, trattieni ⟨את⟩ il mio signore ⟨il⟩ re di Ashshur, e io ti darò duemila cavalli, se puoi mettere su di essi cavalieri per te.",
+  "tokens": [
+    {
+      "surface": "ויתערב",
+      "gloss": "trattieni",
+      "marks": "il mio signore (re di Ashshur)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio signore, il re di Ashshur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨את⟩ il mio signore"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashshur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e io darò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duemila"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "cavalli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "puoi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mettere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "cavalieri"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di essi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:45.072570621Z",
+  "model": "glm-5.3"
+}

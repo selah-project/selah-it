@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse: ti prego, Adonai, manda, ti prego, per mano di chi manderai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "manda"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano di"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "chi manderai"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:38.070554384Z",
+  "model": "glm-5.3"
+}

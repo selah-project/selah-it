@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Siano svergognati e confusi quelli che cercano la mia nefesh; indietreggino e siano coperti di vergogna quelli che tramano il mio male.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "siano svergognati"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "e confusi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "quelli che cercano"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "indietreggino"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "indietro"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "e siano coperti di vergogna"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "quelli che tramano"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "il mio male"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:54.108454233Z",
+  "model": "glm-5.3"
+}

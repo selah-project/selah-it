@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Rinforzate le mani fiacche, e le ginocchia vacillanti rafforzate!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Rinforzate"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "le mani"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "fiacche"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "e le ginocchia"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "vacillanti"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "rafforzate"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:55.555532463Z",
+  "model": "glm-5.3"
+}

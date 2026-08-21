@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E Cush generò ⟨את⟩ Nimrod: ⟨lui⟩ cominciò a essere potente sulla terra.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "e Cush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "החל",
+      "gloss": "cominciò"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "a essere"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "potente"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:50.388836970Z",
+  "model": "glm-5.3"
+}

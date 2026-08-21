@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E guarderà il sacerdote ⟨את⟩ il segno, e chiuderà ⟨את⟩ il segno sette giorni.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "e guarderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il segno"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "il segno"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "e chiuderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il segno"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "il segno"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:29.628052727Z",
+  "model": "glm-5.3"
+}

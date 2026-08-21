@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 25:2",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E ⟨c'era⟩ un uomo a Maon, e il suo lavoro ⟨era⟩ al Carmelo; e l'uomo ⟨era⟩ molto grande, e aveva greggi: tremila e mille capre; e avvenne, al tosare ⟨את⟩ il suo gregge al Carmelo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e ⟨c'era⟩ un uomo"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "a Maon"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "e il suo lavoro"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "al Carmelo"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "e ⟨aveva⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "greggi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tremila"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mila"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "e mille"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "capre"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בגזז",
+      "gloss": "al tosare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo gregge (צאנו)"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "il suo gregge"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "al Carmelo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:38.584306428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Siano cancellati dal libro dei viventi, e con i giusti non siano scritti.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "siano cancellati"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "dal libro"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dei viventi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e con"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "siano scritti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:07.750863763Z",
+  "model": "glm-5.3"
+}

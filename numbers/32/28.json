@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E ordinò loro Mosè ⟨את⟩ Elazar il sacerdote e ⟨את⟩ Yehoshua figlio di Nun e ⟨את⟩ i capi dei padri delle tribù dei figli di Israele.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e ordinò"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i capi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "i capi di"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "i padri"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "delle tribù"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:37:29.229422202Z",
+  "model": "glm-5.3"
+}

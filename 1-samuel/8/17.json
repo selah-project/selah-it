@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Il vostro gregge egli decimerà, e voi sarete per lui come servi.",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "il vostro gregge"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "decimerà"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e voi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "sarete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "come servi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:39.732173163Z",
+  "model": "glm-5.3"
+}

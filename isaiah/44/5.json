@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Questi dirà: «Io ⟨sono⟩ di YHWH», e questi chiamerà ⟨se stesso⟩ con il nome di Giacobbe, e questo scriverà la sua mano: «⟨sono⟩ di YHWH», e con il nome di Israele si titolerà.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dirà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "e questi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "chiamerà"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "con il nome"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "e questo"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "scriverà"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "e con il nome"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "si titolerà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:30.956382331Z",
+  "model": "glm-5.3"
+}

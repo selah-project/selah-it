@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Hai messo gioia nel mio cuore, più di quando il loro grano e il loro mosto abbondano",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Hai messo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gioia"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nel mio cuore"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "più di quando"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "il loro grano"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "e il loro mosto"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "abbondano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:56.822540849Z",
+  "model": "glm-5.3"
+}

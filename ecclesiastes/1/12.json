@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Io, Kohelet, sono stato re su Israele, a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono stato"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:00.787144970Z",
+  "model": "glm-5.3"
+}

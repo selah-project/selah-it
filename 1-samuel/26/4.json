@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E Davide mandò esploratori, e seppe che Shaùl era venuto ⟨davvero⟩ a Nakhòn.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "esploratori"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "e seppe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "בא",
+      "gloss": "era venuto"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaùl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nakhòn"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:26.099951811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E alzai ⟨את⟩ i miei occhi e vidi, ed ecco un uomo vestito di lino, e i suoi fianchi cinti con oro di Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "e alzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei occhi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "e vidi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "vestito"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "di lino"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "e i suoi fianchi"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "cinti"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "con oro"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "di Uphaz"
+    }
+  ],
+  "timestamp": "2026-08-21T09:36:30.949215897Z",
+  "model": "glm-5.3"
+}

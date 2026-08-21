@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Sii innalzato sopra i cieli, Elohim, e la tua gloria sopra tutta la terra.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "sii innalzato"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "la tua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:53.141547288Z",
+  "model": "glm-5.3"
+}

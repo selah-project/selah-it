@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "Anche il passero ha trovato una casa, e la rondine un nido per sé, dove ha posto i suoi piccoli: ⟨presso⟩ i tuoi altari, YHWH degli eserciti, mio Re e mio Elohim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "il passero"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ha trovato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "e la rondine"
+    },
+    {
+      "surface": "קן",
+      "gloss": "un nido"
+    },
+    {
+      "surface": "לה",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ha posto"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "i suoi piccoli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi altari"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "i tuoi altari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mio Re"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e mio Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:05.877250834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E partirono dal monte Hor per la via del mare dei Giunchi, per girare intorno ⟨את⟩ alla terra di Edom; e la nefesh del popolo si fece corta per la via.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "partirono"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "monte Hor"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "per la via"
+    },
+    {
+      "surface": "ים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "dei Giunchi"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "per girare intorno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla terra di Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "alla terra"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "di Edom"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "si fece corta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la via"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:46.449175414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E sarà come segno sulla tua mano e come filatteri tra i tuoi occhi, perché con mano forte YHWH ci ha fatti uscire dall'Egitto.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "come segno"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "e come filatteri"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i tuoi occhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "con forza"
+    },
+    {
+      "surface": "יד",
+      "gloss": "di mano"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "ci ha fatti uscire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:00.265725145Z",
+  "model": "glm-5.3"
+}

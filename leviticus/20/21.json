@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E un uomo che prenda ⟨את⟩ la moglie di suo fratello: ⟨è⟩ impurità; la nudità di suo fraturo egli ha scoperto; privi di figli saranno.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e un uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la moglie di suo fratello"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la moglie"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "di suo fratello"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "impurità"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa ⟨è⟩"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudità"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "di suo fratello"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ha scoperto"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "privi di figli"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:58.481425023Z",
+  "model": "glm-5.3"
+}

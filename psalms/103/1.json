@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Di Davide. Benici, nefesh mia, ⟨את⟩ YHWH, e tutto ciò che ⟨è⟩ dentro di me ⟨benedica⟩ ⟨את⟩ il nome ⟨della⟩ sua santità.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "benici"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "ciò che dentro di me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il nome della sua santità"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "della sua santità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:01.128199663Z",
+  "model": "glm-5.3"
+}

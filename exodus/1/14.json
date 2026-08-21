@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E resero amara ⟨את⟩ la loro vita con lavoro duro, nell'argilla e nei mattoni e in ogni lavoro nei campi; ⟨את⟩ ogni loro lavoro che fecero loro fare su di loro ⟨fu⟩ con durezza.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "resero amara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro vita"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "la loro vita"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "con lavoro"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "duro"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "nell'argilla"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "e nei mattoni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e in ogni"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "lavoro"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nei campi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni loro lavoro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "loro lavoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "fecero loro fare"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "con durezza"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:04.888402399Z",
+  "model": "glm-5.3"
+}

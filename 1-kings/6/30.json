@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E ⟨את⟩ il pavimento della casa rivestì d'oro, all'interno e all'esterno.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il pavimento della casa"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "il pavimento"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "rivestì"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "all'interno"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "e all'esterno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:11.557362470Z",
+  "model": "glm-5.3"
+}

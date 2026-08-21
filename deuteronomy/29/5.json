@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Pane non avete mangiato, e vino e bevanda inebriante non avete bevuto, perché sapeste che io ⟨sono⟩ YHWH, vostro Elohim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "avete mangiato"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "e vino"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "e bevanda inebriante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "avete bevuto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "sapeste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:05.735085930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Dalla loro carne non mangerete, e ⟨את⟩ le loro carogne non toccherete — impuri essi sono per voi.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "dalla loro carne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "e le loro carogne (nevelà)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "toccherete"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "impuri"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:41.481995189Z",
+  "model": "glm-5.3"
+}

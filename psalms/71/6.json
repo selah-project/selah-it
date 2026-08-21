@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Su di te mi sono appoggiato fin dal seno materno; dal ventre di mia madre tu mi hai tratto: di te ⟨è⟩ la mia lode, sempre.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "mi sono appoggiato"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "fin dal seno"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "dal ventre"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "di mia madre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "mi hai tratto"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di te"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "la mia lode"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:36.942840548Z",
+  "model": "glm-5.3"
+}

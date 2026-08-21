@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E visse Iyov dopo questa ⟨cosa⟩ centoquaranta anni, e vide ⟨את⟩ i suoi figli e ⟨את⟩ i figli dei suoi figli, quattro generazioni.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "e visse"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e quaranta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i figli dei suoi figli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dei suoi figli"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "generazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:00.147034445Z",
+  "model": "glm-5.3"
+}

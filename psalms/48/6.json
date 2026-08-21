@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Essi videro — così furono stupiti; furono sconvolti, fuggirono in fretta.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "videro"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "furono stupiti"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "furono sconvolti"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "fuggirono in fretta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:44.524280553Z",
+  "model": "glm-5.3"
+}

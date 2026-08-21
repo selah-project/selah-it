@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Posso passare, ti prego, e vedere ⟨את⟩ la terra buona che è di là dal Giordano, questo monte buono e il Lebanon?",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "posso passare"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "e vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra buona"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "buona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di là dal"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Giordano"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "e il Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:34.048934995Z",
+  "model": "glm-5.3"
+}

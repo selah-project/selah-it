@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E perché non hai custodito ⟨את⟩ il giuramento di YHWH e ⟨את⟩ il comandamento che ti ho imposto?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "hai custodito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giuramento di YHWH"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "il giuramento"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il comandamento"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "il comandamento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ti ho imposto"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:20.866384259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Guai ai pastori che fanno perire e disperdono ⟨את⟩ il gregge del mio pascolo — oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Guai"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ai pastori"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "che fanno perire"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "e disperdono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "del mio pascolo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:16.440419935Z",
+  "model": "glm-5.3"
+}

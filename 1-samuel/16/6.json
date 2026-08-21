@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E avvenne, al loro venire, che vide ⟨את⟩ Eliab, e disse: «Davvero, davanti a YHWH ⟨il suo⟩ Mashiach».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "al loro venire"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אך",
+      "gloss": "davvero"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "il suo Mashiach"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:52.464242522Z",
+  "model": "glm-5.3"
+}

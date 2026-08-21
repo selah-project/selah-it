@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Nascondi il tuo volto dai miei peccati e tutte le mie iniquità cancella.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "nascondi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "dai miei peccati"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutte"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "le mie iniquità"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "cancella"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:27.927966348Z",
+  "model": "glm-5.3"
+}

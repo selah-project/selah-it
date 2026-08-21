@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E disse YHWH al satan: eccolo, ⟨è⟩ in tua mano; soltanto ⟨את⟩ la sua nefesh custodisci.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "al satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "eccolo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in tua mano"
+    },
+    {
+      "surface": "אך",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "custodisci"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:18.489436308Z",
+  "model": "glm-5.3"
+}

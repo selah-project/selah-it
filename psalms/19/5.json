@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "In tutta ⟨la⟩ terra esce il loro cordiglio, e alle estremità del mondo le loro parole; per il sole ⟨Egli⟩ ha posto una tenda in esse.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "esce"
+    },
+    {
+      "surface": "קום",
+      "gloss": "il loro cordiglio"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "e alle estremità"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "del mondo"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "le loro parole"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "per il sole"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ha posto"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "una tenda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in esse"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:33.684168871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 101,
+  "translation": "Non porro davanti ai miei occhi una cosa da belial; l'agire perverso ho odiato, non si attaccherà a me.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "porro"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una cosa"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "da belial"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "l'agire"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "perverso"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ho odiato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "si attaccherà"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:44.285823598Z",
+  "model": "glm-5.3"
+}

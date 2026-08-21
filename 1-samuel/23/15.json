@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E Davide vide che Saul era uscito a cercare ⟨את⟩ la sua vita; e Davide ⟨era⟩ nel deserto di Zif, in Chorsha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "E vide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "era uscito"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "a cercare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua vita"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua vita"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e Davide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "di Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "in Chorsha"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:39.929855660Z",
+  "model": "glm-5.3"
+}

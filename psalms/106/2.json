@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Chi potrà narrare le gesta potenti di YHWH, chi farà udire tutta la sua lode?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Chi"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "narrerà"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "le gesta potenti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "farà udire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "la sua lode"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:32.763395509Z",
+  "model": "glm-5.3"
+}

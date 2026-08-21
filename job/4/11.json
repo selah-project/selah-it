@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Il leone possente perisce per mancanza di preda, e i figli della leonessa si disperdono.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "il leone possente"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "perisce"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "per mancanza"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "di preda"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e i figli"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "della leonessa"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "si disperdono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:50.863178979Z",
+  "model": "glm-5.3"
+}

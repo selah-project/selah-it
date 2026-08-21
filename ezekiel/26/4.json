@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E demoliranno le mura di Tzor e demoliranno le sue torri; e raschierò la sua polvere da lei e ridurrò ⟨את⟩ lei a nuda rupe.",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "E demoliranno"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "le mura"
+    },
+    {
+      "surface": "צר",
+      "gloss": "di Tzor"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "e demoliranno"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "le sue torri"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "e raschierò"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "la sua polvere"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "da lei"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e ridurrò"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ lei",
+      "marks": "lei — Tzor, ridotta a nuda rupe"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "a nuda"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "rupe"
+    }
+  ],
+  "timestamp": "2026-08-21T08:23:57.658270658Z",
+  "model": "glm-5.3"
+}

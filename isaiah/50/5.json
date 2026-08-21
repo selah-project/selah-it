@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Adonai YHWH ha aperto a me l'orecchio, e io non mi sono ribellato, all'indietro non mi sono ritratto.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ha aperto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'orecchio"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "mi sono ribellato"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "all'indietro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "mi sono ritratto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:15.794799373Z",
+  "model": "glm-5.3"
+}

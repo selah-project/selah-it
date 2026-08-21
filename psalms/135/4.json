@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "perché Yah si ⟨è⟩ scelto Giacobbe per sé, Israele come suo tesoro particolare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "si è scelto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "come suo tesoro particolare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:17.475151424Z",
+  "model": "glm-5.3"
+}

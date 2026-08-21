@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E sia YHWH per giudice, e giudichi tra me e te, e veda, e sostenga ⟨את⟩ la mia causa, e mi faccia giustizia dalla tua mano.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e sia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "per giudice"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "e giudichi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tra me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e te"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e veda"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "e sostenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia causa"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "la mia causa"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "e mi faccia giustizia"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "dalla tua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:05.211500080Z",
+  "model": "glm-5.3"
+}

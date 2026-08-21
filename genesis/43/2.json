@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "E avvenne, quando finirono di mangiare ⟨את⟩ il grano che avevano portato dall'Egitto, che il loro padre disse loro: tornate, comprateci un poco di cibo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "finirono"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "di mangiare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il grano"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "il grano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "avevano portato"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "il loro padre"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "tornate"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "comprate"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un poco"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "di cibo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:48.780126756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "e Azarià generò ⟨את⟩ Seraià, e Seraià generò ⟨את⟩ Iehotsadàq.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "e Azarià"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraià"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraià"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "e Seraià"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehotsadàq"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Iehotsadàq"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:18.764029771Z",
+  "model": "glm-5.3"
+}

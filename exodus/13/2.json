@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "« Consacra a me ogni primogenito: ogni primo che apre ogni seno tra i figli d'Israele, nell'uomo e nella bestia: mio ⟨esso è ⟩».",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Consacra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primogenito"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "primo che apre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "seno"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "tra i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nell'uomo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e nella bestia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso è"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:36.759087715Z",
+  "model": "glm-5.3"
+}

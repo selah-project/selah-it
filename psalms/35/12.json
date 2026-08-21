@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Mi ripagano di male per il bene: privazione ⟨per⟩ la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "mi ripagano"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "di male"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "privazione"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "per la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:16.009189875Z",
+  "model": "glm-5.3"
+}

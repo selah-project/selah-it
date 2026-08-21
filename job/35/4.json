@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Io ti restituirò parole, e ⟨את⟩ i tuoi amici insieme a te.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ti restituirò"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "parole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi amici"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "i tuoi amici"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "insieme a te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:17.998239524Z",
+  "model": "glm-5.3"
+}

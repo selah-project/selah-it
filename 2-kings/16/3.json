@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E camminò sulla via dei re d'Israele; inoltre fece passare ⟨את⟩ suo figlio attraverso il fuoco, secondo gli abomini delle nazioni che YHWH aveva scacciato ⟨את⟩ esse davanti ai figli d'Israele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e camminò"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sulla via"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dei re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "inoltre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo figlio"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "fece passare"
+    },
+    {
+      "surface": "באש",
+      "gloss": "attraverso il fuoco"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "secondo gli abomini"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "delle nazioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "aveva scacciato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ esse",
+      "marks": "le nazioni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:39.671165292Z",
+  "model": "glm-5.3"
+}

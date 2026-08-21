@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Di' alla Chokhmà: «Sorella mia ⟨את⟩tu»; e al discernimento da' il nome di intimo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Di'"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "alla Chokhmà"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Sorella mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩tu",
+      "marks": "Sorella mia"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "e al discernimento"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "al discernimento (בינה)"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "da' il nome di intimo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:04.663357406Z",
+  "model": "glm-5.3"
+}

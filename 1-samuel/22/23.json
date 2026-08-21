@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Resta con me, non temere, perché chi cerca ⟨את⟩ la mia vita cerca ⟨את⟩ la tua vita: tu infatti ⟨sei⟩ affidato alla mia custodia.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "resta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "con me ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia vita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia vita"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua vita"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua vita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "infatti"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "affidato alla custodia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:32.808940006Z",
+  "model": "glm-5.3"
+}

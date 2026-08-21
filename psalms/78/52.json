@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "E fece uscire come gregge il suo popolo, e li condusse come un branco ⟨nel⟩ deserto.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "E fece uscire"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "come gregge"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "e li condusse"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "come un branco"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:55.522717540Z",
+  "model": "glm-5.3"
+}

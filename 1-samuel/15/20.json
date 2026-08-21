@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E disse Sha'ul a Shemuël: «Sì, ho ascoltato la voce di YHWH e sono andato per la via in cui YHWH mi aveva mandato, e ho condotto ⟨את⟩ Agag re di Amaleq, e ⟨את⟩ Amaleq ho votato allo sterminio.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che \/ in cui"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ho ascoltato"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "e sono andato"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la via"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mi aveva mandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "e ho condotto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag re di Amaleq"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "di Amaleq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Amaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "ho votato allo sterminio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:38.108344434Z",
+  "model": "glm-5.3"
+}

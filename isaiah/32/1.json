@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Ecco, per la giustizia regnerà un re, e i principi per il diritto governeranno.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "per la giustizia"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "regnerà"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "e i principi"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "per il diritto"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "governeranno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:41.918102059Z",
+  "model": "glm-5.3"
+}

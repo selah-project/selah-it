@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Chi custodisce la sua bocca custodisce la sua ⟨nefesh⟩; chi spalanca le sue labbra — rovina per lui.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "custodisce"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "la sua bocca"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "custodisce"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "spalanca"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "le sue labbra"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "rovina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:11.098698800Z",
+  "model": "glm-5.3"
+}

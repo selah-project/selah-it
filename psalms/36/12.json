@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Non venga su di me il piede dell'orgoglio, e la mano dei malvagi non mi faccia vagare.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "venga su di me"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "il piede"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "dell'orgoglio"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "e la mano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "mi faccia vagare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:52.120235117Z",
+  "model": "glm-5.3"
+}

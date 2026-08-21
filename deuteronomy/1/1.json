@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Queste sono le parole che Mosè parlò a tutto Israele oltre ⟨il⟩ Giordano, nel deserto, nell'Araba, di fronte a Suph, tra Paran e tra Tofel e Laban e Chatzerot e Di-Zahav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Queste"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parlò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "nell'Araba"
+    },
+    {
+      "surface": "מול",
+      "gloss": "di fronte a"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "e Laban"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "e Chatzerot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "e Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:51.962339920Z",
+  "model": "glm-5.3"
+}

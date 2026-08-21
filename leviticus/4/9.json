@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "e ⟨את⟩ i due reni, e ⟨את⟩ il grasso che è su di essi, che è sui lombi, e ⟨את⟩ il lobo sopra il fegato, sui reni lo toglierà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i due reni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "i due"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "reni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il grasso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "su di essi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "i lombi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il lobo"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "il lobo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "il fegato"
+    },
+    {
+      "surface": "על",
+      "gloss": "sui"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "reni"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "lo toglierà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:21.789169739Z",
+  "model": "glm-5.3"
+}

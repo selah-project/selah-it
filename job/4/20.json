@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Dal mattino alla sera sono frantumati; senza che alcuno ponga ⟨mente⟩, per sempre periscono.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "dal mattino"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "sono frantumati"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "senza che"
+    },
+    {
+      "surface": "משים",
+      "gloss": "ponga ⟨mente⟩"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "periscono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:10.030280846Z",
+  "model": "glm-5.3"
+}

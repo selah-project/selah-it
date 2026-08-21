@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "e l'Araba e il Giordano e il confine, da Kinneret fino al mare dell'Araba, il mare del Sale, sotto le pendici del Pisga, verso l'est.",
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "e l'Araba"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "e il Giordano"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "e il confine"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "da Kinneret"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "dell'Araba"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "del Sale"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "le pendici"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "del Pisga"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "verso l'est"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:35.870432685Z",
+  "model": "glm-5.3"
+}

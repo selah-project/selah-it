@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Come l'opera della terra d'Egitto, in cui avete abitato, non farete; e come l'opera della terra di Kenaan, verso cui io vi sto portando ⟨את⟩, là, non farete; e nelle loro chukkot non camminerete.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "Come l'opera"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "avete abitato"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "farete"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "e come l'opera"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Kenaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "verso cui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "sto portando"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "farete"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "e nelle loro chukkot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "camminerete"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:51.647527741Z",
+  "model": "glm-5.3"
+}

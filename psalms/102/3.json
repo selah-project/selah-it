@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Non nascondere il tuo volto da me, nel giorno dell'angoscia ⟨per me⟩; tendi verso di me il tuo orecchio; nel giorno in cui grido, affrettati, rispondimi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "nascondere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dell'angoscia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨per me⟩"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tendere"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "il tuo orecchio"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "grido"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "affrettati"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "rispondimi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:41.940328001Z",
+  "model": "glm-5.3"
+}

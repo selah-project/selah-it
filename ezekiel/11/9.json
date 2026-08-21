@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E vi farò uscire dal suo mezzo e vi consegnerò in mano a stranieri, ed eseguirò su di voi sentenze.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "E vi farò uscire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "«vi» — l'oggetto del verbo"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "dal suo mezzo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e vi consegnerò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "«vi» — secondo oggetto marcato"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano a"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "stranieri"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ed eseguirò"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sentenze"
+    }
+  ],
+  "timestamp": "2026-08-21T08:18:15.881000813Z",
+  "model": "glm-5.3"
+}

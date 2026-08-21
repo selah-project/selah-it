@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Dopo questo, Ijob aprì ⟨את⟩ la sua bocca e maledisse ⟨את⟩ il suo giorno.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aprì"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua bocca"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "la sua bocca"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "e maledisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo giorno"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "il suo giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:08.718743729Z",
+  "model": "glm-5.3"
+}

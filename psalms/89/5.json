@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Per sempre stabilirò la tua discendenza, e edificherò per generazione e generazione il tuo trono. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "stabilirò"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "la tua discendenza"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "e edificherò"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "per generazione"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "e generazione"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "il tuo trono"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:05.143966765Z",
+  "model": "glm-5.3"
+}

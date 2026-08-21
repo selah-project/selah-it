@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Perché mi vennero incontro le ginocchia? E quali seni, perché poppassi?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mi vennero incontro"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "le ginocchia"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "E quali"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "seni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "poppassi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:44.664902547Z",
+  "model": "glm-5.3"
+}

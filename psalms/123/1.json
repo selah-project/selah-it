@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 123,
+  "translation": "Canto delle salite. A te ho alzato ⟨את⟩ i miei occhi, o tu che siedi nei cieli.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "A te"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ho alzato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei occhi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "o tu che siedi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:23.554148737Z",
+  "model": "glm-5.3"
+}

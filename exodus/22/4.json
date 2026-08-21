@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se un uomo fa bruciare al pascolo un campo o una vigna, e manda ⟨את⟩ il bestiame, e questo pascola nel campo di un altro, dal meglio del suo campo e dal meglio della sua vigna restituirà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "fa bruciare al pascolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "un campo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "una vigna"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "e manda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bestiame"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "e pascola"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "di un altro"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "dal meglio"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "del suo campo"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "e dal meglio"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "della sua vigna"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "restituirà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:24.228053421Z",
+  "model": "glm-5.3"
+}

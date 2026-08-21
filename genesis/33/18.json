@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 33:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E Giacobbe giunse salvo alla città di Shechem, che ⟨è⟩ nella terra di Kenaan, al suo venire da Paddan-Aram, e si accampò di fronte ⟨את⟩ alla città.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "giunse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "salvo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "alla città"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "di Shechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Kenaan"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "al suo venire"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "da Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "e si accampò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la faccia della città (פני העיר)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di fronte"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "alla città"
+    }
+  ],
+  "timestamp": "2026-08-21T10:15:53.446035421Z",
+  "model": "glm-5.3"
+}

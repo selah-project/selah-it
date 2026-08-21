@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Vi circoncidete ⟨את⟩ la carne del vostro prepuzio, e sarà come segno di patto fra me e voi.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "vi circoncidete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la carne del vostro prepuzio"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "del vostro prepuzio"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "come segno"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "di patto"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "fra me"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "e voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:25.268545347Z",
+  "model": "glm-5.3"
+}

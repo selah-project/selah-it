@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "La casa dei malvagi sarà distrutta, ma la tenda dei retti fiorirà.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "sarà distrutta"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ma la tenda"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dei retti"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "fiorirà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:11.732341837Z",
+  "model": "glm-5.3"
+}

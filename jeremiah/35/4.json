@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 35:4",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "E li portai nella casa di YHWH, nella stanza dei figli di Chanàn figlio di Ighdalijàhu, uomo dell'Elohim, che ⟨era⟩ accanto alla stanza dei capi, che ⟨era⟩ sopra la stanza di Maasejàhu figlio di Shallùm, guardiano della soglia.",
+  "tokens": [
+    {
+      "surface": "ואבא",
+      "gloss": "e li portai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (i Rechabiti)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nella"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "stanza dei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanàn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "יגדליהו",
+      "gloss": "Ighdalijàhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo dell'"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "accanto a"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "alla stanza dei"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "capi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "ללשכת",
+      "gloss": "alla stanza di"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasejàhu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallùm"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "guardiano della"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "soglia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:09:47.227995664Z",
+  "model": "glm-5.3"
+}

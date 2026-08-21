@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Guai a chi edifica una città con sangue e fonda una città con l'ingiustizia!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Guai"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "chi edifica"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "una città"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "con sangue"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "e fonda"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "una città"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "con l'ingiustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:52.135194083Z",
+  "model": "glm-5.3"
+}

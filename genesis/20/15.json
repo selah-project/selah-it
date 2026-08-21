@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E disse Abimèlech: ecco, la mia terra ⟨è⟩ davanti a te; dimora dove è bene ai tuoi occhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimèlech"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "la mia terra"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dove è bene"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ai tuoi occhi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dimora"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:32.806321787Z",
+  "model": "glm-5.3"
+}

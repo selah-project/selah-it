@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Lavan si alzò di buon mattino, baciò i suoi figli e le sue figlie e li benedisse ⟨את⟩; poi Lavan partì e tornò al suo luogo.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "si alzò di buon mattino"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "e baciò"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "e le sue figlie"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "loro — i figli e le figlie"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e partì"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "al suo luogo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:17.748328306Z",
+  "model": "glm-5.3"
+}

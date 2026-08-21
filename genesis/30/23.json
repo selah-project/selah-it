@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Ed essa concepì e partorì un figlio, e disse: Elohim ha raccolto ⟨את⟩ il mio obbrobrio.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "e concepì"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ha raccolto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio obbrobrio"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "il mio obbrobrio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:13.532836626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E amerai ⟨את⟩ YHWH ⟨il⟩ tuo Elohim con tutto il tuo cuore, con tutta la tua nefesh e con tutto il tuo vigore.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "e amerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH il tuo Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e con tutta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua nefesh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e con tutto"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "il tuo vigore"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:15.227801397Z",
+  "model": "glm-5.3"
+}

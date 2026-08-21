@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Se vedi l'asino di colui che ti odia accovacciato sotto il suo carico, ti asterrai dall'abbandonarlo ⟨a lui⟩: abbandonando abbandinerai ⟨il carico⟩ con lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "l'asino"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "di colui che ti odia"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "accovacciato"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "il suo carico"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "ti asterrai"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "dall'abbandonare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "abbandonando"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "abbandinerai"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:42.973168324Z",
+  "model": "glm-5.3"
+}

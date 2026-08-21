@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E aprì la terra ⟨את⟩ la sua bocca e ⟨את⟩ li inghiottì, e ⟨את⟩ Korach, alla morte dell'assemblea, quando divorò il fuoco ⟨את⟩ cinquanta e duecento uomini; e furono per segnale.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "e aprì"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua bocca"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "la sua bocca"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "e inghiottì"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "במות",
+      "gloss": "alla morte di"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "quando divorò"
+    },
+    {
+      "surface": "האש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinquanta e duecento uomini"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquanta"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e duecento"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "per segnale"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:19.688802447Z",
+  "model": "glm-5.3"
+}

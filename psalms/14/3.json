@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Tutti ⟨si sono⟩ sviati, insieme si sono corrotti: non ⟨c'è⟩ chi faccia il bene, non ⟨c'è⟩ neanche uno.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "סר",
+      "gloss": "⟨si sono⟩ sviati"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "si sono corrotti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chi faccia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "neanche"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:33.714969722Z",
+  "model": "glm-5.3"
+}

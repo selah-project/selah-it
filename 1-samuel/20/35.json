@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 20:35",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E avvenne al mattino che Gionatan uscì al campo, all'appuntamento con Davide, e un ragazzo piccolo ⟨era⟩ con lui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Gionatan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "al campo"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "all'appuntamento"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "con Davide"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "e un ragazzo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "piccolo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:14.903450457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "I vostri occhi han visto ⟨את⟩ ciò che YHWH fece a Baal-Peor: che ogni uomo che andò dietro a Baal-Peor, YHWH, Elohim tuo, lo distrusse dal tuo mezzo.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "i vostri occhi"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "han visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "a Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Peor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "andò"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Peor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "lo distrusse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tuo"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dal tuo mezzo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:36.690994657Z",
+  "model": "glm-5.3"
+}

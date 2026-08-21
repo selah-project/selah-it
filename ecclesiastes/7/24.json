@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Lontano è ciò che ⟨è⟩ stato, e profondo, profondo — chi lo può trovare?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "lontano"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "è stato"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "e profondo"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "profondo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "lo può trovare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:08.879404914Z",
+  "model": "glm-5.3"
+}

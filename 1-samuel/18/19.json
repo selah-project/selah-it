@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E avvenne, al tempo di dare ⟨את⟩ Merav, figlia di Sha'ul, a David, che ⟨את⟩ lei fu data ad Adriel il Mecholatita come moglie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "al tempo di"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav, figlia di Sha'ul"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Sha'ul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "e lei"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "fu data"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "ad Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "il Mecholatita"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "come moglie"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:51.020278849Z",
+  "model": "glm-5.3"
+}

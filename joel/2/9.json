@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "In ⟨la⟩ città si precipitano, su ⟨la⟩ muraglia corrono, nelle case salgono, attraverso le finestre entrano, come il ladro.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "in ⟨la⟩ città"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "si precipitano"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "su ⟨la⟩ muraglia"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "corrono"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "nelle case"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "salgono"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "attraverso"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "le finestre"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entrano"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "come il ladro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:01.132964215Z",
+  "model": "glm-5.3"
+}

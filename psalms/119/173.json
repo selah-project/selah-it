@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Sia la tua mano per aiutarmi, perché i tuoi precetti ho scelto.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "per aiutarmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "i tuoi precetti"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ho scelto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:36.597687502Z",
+  "model": "glm-5.3"
+}

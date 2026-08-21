@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E avvenne quando salimmo presso ⟨il⟩ tuo servo, mio padre, che riferimmo a lui ⟨את⟩ le parole del mio signore.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "salimmo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "presso"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "e riferimmo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole del mio signore"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "del mio signore"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:39.352953666Z",
+  "model": "glm-5.3"
+}

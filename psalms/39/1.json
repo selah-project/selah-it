@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Al maestro ⟨del canto⟩, a Iedutun. Un mizmor di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al maestro ⟨del canto⟩"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "a Iedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:45.497900401Z",
+  "model": "glm-5.3"
+}

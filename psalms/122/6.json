@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 122,
+  "translation": "Domandate lo shalom di Gerusalemme: siano sereni coloro che ti amano.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "domandate"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "lo shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "siano sereni"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "coloro che ti amano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:38.909209702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Ma ogni servo, ⟨servo⟩ di un uomo comprato con denaro, lo circoncidrai: allora ne mangerà.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ma ogni"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "comprato"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "con denaro"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "e circoncidilo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (il servo)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ne mangerà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:09.800537654Z",
+  "model": "glm-5.3"
+}

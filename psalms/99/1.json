@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 99,
+  "translation": "YHWH regna — tremino i popoli; siede sui keruvim, si scuota la terra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regna"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "tremino"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "siede"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "sui keruvim"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "si scuota"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:59.646401650Z",
+  "model": "glm-5.3"
+}

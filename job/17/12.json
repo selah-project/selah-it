@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "La notte cambiano in giorno: ⟨la⟩ luce è vicina di fronte ⟨alla⟩ tenebra.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "la notte"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "in giorno"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "fanno\/pongono"
+    },
+    {
+      "surface": "אור",
+      "gloss": "luce"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "è vicina"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di fronte a"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:17:31.073840410Z",
+  "model": "glm-5.3"
+}

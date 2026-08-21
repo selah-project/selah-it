@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "La ricchezza aggiunge molti amici, ma il povero dal suo amico viene separato.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "La ricchezza"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "aggiunge"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "amici"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ma il povero"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "dal suo amico"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "viene separato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:52.349349715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Faccia a faccia parlò YHWH con voi sul monte, dal mezzo del fuoco,",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "faccia"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "a faccia"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parlò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con voi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dal mezzo"
+    },
+    {
+      "surface": "האש",
+      "gloss": "del fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:12.411265802Z",
+  "model": "glm-5.3"
+}

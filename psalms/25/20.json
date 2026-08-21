@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Custodisci la mia nefesh e liberami; che io non sia confuso, perché in te mi sono rifugiato.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "custodisci"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "e liberami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "che… non"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "sia confuso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi sono rifugiato"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:34.960708268Z",
+  "model": "glm-5.3"
+}

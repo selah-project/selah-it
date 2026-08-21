@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E gli uomini di Israele uscirono da ha-Mitzpà e inseguirono ⟨את⟩ i Filistei, e li colpirono fin sotto Bet-Kèr.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "e uscirono"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ha-Mitzpà"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "e inseguirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Filistei"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "e li colpirono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fin"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kèr"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:07.227513034Z",
+  "model": "glm-5.3"
+}

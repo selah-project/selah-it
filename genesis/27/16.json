@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E ⟨את⟩ le pelli dei capretti rivestì le sue mani e la parte liscia del suo collo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le pelli dei capretti"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "le pelli"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "dei capretti"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "delle capre"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "rivestì"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "le sue mani"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "la parte liscia"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "del suo collo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:02.889574354Z",
+  "model": "glm-5.3"
+}

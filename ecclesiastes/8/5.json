@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Chi custodisce il comando non conoscerà ⟨la⟩ cosa mala; e tempo e giudizio conosce il cuore del saggio.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "chi custodisce"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "il comando"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conoscerà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cosa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e tempo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e giudizio"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "del saggio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:55.231437131Z",
+  "model": "glm-5.3"
+}

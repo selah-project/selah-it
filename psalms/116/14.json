@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "I miei voti a YHWH io pagherò, davanti, ora, a tutto il suo popolo.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "i miei voti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "io pagherò"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:09.443093333Z",
+  "model": "glm-5.3"
+}

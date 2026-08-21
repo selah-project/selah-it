@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E disse il popolo a Shemuèl: chi ⟨è⟩ colui che ha detto: Saul regnerà su di noi? Date ⟨gli⟩ uomini, e li metteremo a morte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuèl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "regnerà"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "date"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "e li metteremo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:02.032276955Z",
+  "model": "glm-5.3"
+}

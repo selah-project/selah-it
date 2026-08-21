@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Quanto a me, nella mia integrità mi sostieni, e mi fai stare davanti al tuo volto per sempre.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Quanto a me"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "nella mia integrità"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "sostieni"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "e mi fai stare"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti al tuo volto"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:08.582060272Z",
+  "model": "glm-5.3"
+}

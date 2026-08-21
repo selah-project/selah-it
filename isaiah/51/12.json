@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Io, io ⟨sono⟩ colui che vi consola: chi sei tu, da temere ⟨un⟩ mortale che muore, e un figlio d'uomo, dato come erba?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Io"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "colui"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "che vi consola"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu"
+    },
+    {
+      "surface": "ויראי",
+      "gloss": "da temere"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "un mortale"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "che muore"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "e un figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "come erba"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "dato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:30.355171570Z",
+  "model": "glm-5.3"
+}

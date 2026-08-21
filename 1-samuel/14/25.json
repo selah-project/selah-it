@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E tutta la gente del paese entrò nella foresta, e c'era miele sulla superficie del campo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la gente del paese"
+    },
+    {
+      "surface": "באו",
+      "gloss": "entrò"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "nella foresta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e c'era"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "miele"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la superficie"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "del campo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:51.594987051Z",
+  "model": "glm-5.3"
+}

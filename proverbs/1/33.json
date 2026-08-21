@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ma chi ascolta me dimorerà al sicuro, e vivrà tranquillo, senza paura del male.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ma chi ascolta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "dimorerà"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "al sicuro"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "e vivrà tranquillo"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "senza paura"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "del male"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:19.654172193Z",
+  "model": "glm-5.3"
+}

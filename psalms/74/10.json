@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Fino a quando, Elohim, l'avversario insulta? Il nemico disprezza il tuo Nome per sempre?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "a quando"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "insulta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "l'avversario"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "disprezza"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:44.829729378Z",
+  "model": "glm-5.3"
+}

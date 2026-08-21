@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Poiché lo poni ⟨come⟩ benedizioni per sempre, lo allietti di gioia ⟨con⟩ ⟨את⟩ il tuo volto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "lo poni"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "benedizioni"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "lo allietti"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "di gioia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo volto"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:39.573003562Z",
+  "model": "glm-5.3"
+}

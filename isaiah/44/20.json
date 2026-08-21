@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Pasce ⟨di⟩ cenere un cuore ingannato; ⟨lo⟩ ha svuotato, e non libererà ⟨את⟩ la sua nefesh, e non dirà: «Non ⟨c'è⟩ menzogna nella mia destra?».",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "pasce"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "cenere"
+    },
+    {
+      "surface": "לב",
+      "gloss": "un cuore"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "ingannato"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "lo ha svuotato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "libererà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dirà"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "menzogna"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "nella mia destra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:05.497135951Z",
+  "model": "glm-5.3"
+}

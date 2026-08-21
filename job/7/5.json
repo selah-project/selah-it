@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Si è vestita ⟨la⟩ mia carne di vermi e di una zolla di polvere; la mia pelle si fessa e poi si dissolve.",
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "si è vestita"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "la mia carne"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "di vermi"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "e di una zolla"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "di polvere"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "la mia pelle"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "si fessa"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "e poi si dissolve"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:25.576000441Z",
+  "model": "glm-5.3"
+}

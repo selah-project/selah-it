@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ho ereditato le tue testimonianze per sempre, perché ⟨esse sono⟩ la gioia del mio cuore — sono loro.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ho ereditato"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "le tue testimonianze"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "la gioia"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "del mio cuore"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sono loro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:06.169257905Z",
+  "model": "glm-5.3"
+}

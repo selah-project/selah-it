@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Svegliati, mio splendore, svegliati, nevel e kinnor; io sveglierò l'aurora.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "svegliati"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mio splendore"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "svegliati"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "e kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "io sveglierò"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "l'aurora"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:07.567574466Z",
+  "model": "glm-5.3"
+}

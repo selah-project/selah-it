@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E Giacobbe udì che aveva contaminato ⟨את⟩ Dina, sua figlia; e i suoi figli erano con ⟨את⟩ il suo bestiame nel campo, e Giacobbe tacque finché ⟨essi⟩ non vennero.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "E Giacobbe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "udì"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "aveva contaminato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sua figlia"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erano"
+    },
+    {
+      "surface": "את",
+      "gloss": "con ⟨את⟩",
+      "marks": "il suo bestiame"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "il suo bestiame"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "e tacque"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "באם",
+      "gloss": "essi non vennero"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:10.034076831Z",
+  "model": "glm-5.3"
+}

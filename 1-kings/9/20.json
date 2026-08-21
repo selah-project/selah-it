@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "tutto il popolo rimasto dall'Emoreo, dal Chitteo, dal Perizzeo, dal Chivveo e dal Gebuseo, che non erano dei figli d'Israele, loro —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "rimasto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dall'"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoreo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "dal Chitteo"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "dal Perizzeo"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "dal Chivveo"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e dal Gebuseo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:20.704274084Z",
+  "model": "glm-5.3"
+}

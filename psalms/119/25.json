@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Incollata alla polvere ⟨è⟩ la mia nefesh: fammi vivere secondo la tua parola.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "incollata"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "alla polvere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "fammi vivere"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "secondo la tua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:50.703038697Z",
+  "model": "glm-5.3"
+}

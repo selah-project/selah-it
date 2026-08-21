@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ la civetta, e ⟨את⟩ il marangone, e ⟨את⟩ il grande gufo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la civetta"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "la civetta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il marangone"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "il marangone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il grande gufo"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "il grande gufo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:40.851748301Z",
+  "model": "glm-5.3"
+}

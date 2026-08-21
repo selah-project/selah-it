@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 142,
+  "translation": "Davanti a lui rovescio il mio lamento, la mia angoscia davanti a lui dichiaro.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "rovescio"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "il mio lamento"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "la mia angoscia"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "dichiaro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:24.828067722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "« Va', parla al Faraone, re d'Egitto, e mandi fuori i figli d'Israele dalla sua terra ».",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Va'"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e mandi fuori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dalla sua terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:41.541636089Z",
+  "model": "glm-5.3"
+}

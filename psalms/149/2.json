@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 149,
+  "translation": "Esulti Israele in colui che lo ha fatto, i figli di Sion gioiscano nel loro re.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Esulti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "in colui che lo ha fatto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "gioiscano"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "nel loro re"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:18.842015423Z",
+  "model": "glm-5.3"
+}

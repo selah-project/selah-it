@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Adultera con ⟨una⟩ donna chi è privo di cuore: distrugge la sua nefesh, lui ⟨che⟩ lo fa.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "adultera"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "con una donna"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "privo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "distrugge"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "lo fa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:08.152998288Z",
+  "model": "glm-5.3"
+}

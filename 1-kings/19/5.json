@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E si coricò e dormì sotto un ginestro (retem); ed ecco, questo — un messaggero — lo toccò e gli disse: « Àlzati, mangia ».",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "e si coricò"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "e dormì"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "un ginestro (retem)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "un messaggero"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "toccò"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "קום",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "mangia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:10.261517450Z",
+  "model": "glm-5.3"
+}

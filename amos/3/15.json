@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 3:15",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Percuoterò la casa d'inverno sopra la casa d'estate, e periranno le case d'avorio, e verranno meno case molte — oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Percuoterò"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa di"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "inverno"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa di"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "estate"
+    },
+    {
+      "surface": "ואבדו",
+      "gloss": "e periranno"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "le case di"
+    },
+    {
+      "surface": "השן",
+      "gloss": "avorio"
+    },
+    {
+      "surface": "וספו",
+      "gloss": "e verranno meno"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "case"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molte"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:39.032706784Z",
+  "model": "glm-5.3"
+}

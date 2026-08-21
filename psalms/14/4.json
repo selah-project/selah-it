@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Non sanno forse tutti gli operatori di aven, divoratori del mio popolo, ⟨che⟩ hanno mangiato pane? YHWH non hanno invocato.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "non ⟨forse⟩"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gli operatori"
+    },
+    {
+      "surface": "און",
+      "gloss": "di aven"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "divoratori"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "del mio popolo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "hanno mangiato"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hanno invocato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:33.715113672Z",
+  "model": "glm-5.3"
+}

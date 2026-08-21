@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e ⟨את⟩ ogni corvo secondo la sua specie",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogni corvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "corvo"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "secondo la sua specie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:48.859845417Z",
+  "model": "glm-5.3"
+}

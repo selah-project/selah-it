@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "figlio di Tzuf, figlio di Elqana, figlio di Machat, figlio di Amasay.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "Tzuf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "Machat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Amasay"
+    }
+  ],
+  "timestamp": "2026-08-21T09:47:01.218149631Z",
+  "model": "glm-5.3"
+}

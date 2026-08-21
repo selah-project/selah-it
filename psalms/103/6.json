@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "YHWH fa giustizie e giudizi per tutti gli oppressi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "giustizie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "e giudizi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "gli oppressi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:49.411371624Z",
+  "model": "glm-5.3"
+}

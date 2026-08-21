@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E distese ⟨את⟩ la tenda sopra il mishkan e mise ⟨את⟩ la copertura della tenda sopra di essa, di sopra, come YHWH aveva comandato ⟨את⟩ Moshè.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "distese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tenda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la copertura della tenda"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "la copertura"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sopra di essa"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "di sopra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:36.561995434Z",
+  "model": "glm-5.3"
+}

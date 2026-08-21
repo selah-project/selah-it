@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "El udrà e li umilierà, colui che siede da sempre — Sela — loro che non hanno cambiamenti e non temono Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "udrà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "e li umilierà"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "colui che siede"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "da sempre"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non hanno"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "cambiamenti"
+    },
+    {
+      "surface": "למו",
+      "gloss": "loro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "temono"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:43.371279034Z",
+  "model": "glm-5.3"
+}

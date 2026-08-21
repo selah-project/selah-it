@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Salva il tuo popolo e benedici la tua eredità; pascioli e portali su, fino all'eternità.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "salva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo popolo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "e benedici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua eredità"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "la tua eredità"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "pascioli"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "portali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "l'eternità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:23.003543403Z",
+  "model": "glm-5.3"
+}

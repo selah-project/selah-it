@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E venne il re ⟨il⟩ con Haman, a bere con Esther la regina.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "e Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "a bere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "la regina"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:09.467566121Z",
+  "model": "glm-5.3"
+}

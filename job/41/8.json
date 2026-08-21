@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Uno all'altro si stringe, e ⟨neppure⟩ un soffio non entra fra loro.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "all'altro"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "si stringe"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e ⟨neppure⟩ un soffio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entra"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "fra loro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:29.267144959Z",
+  "model": "glm-5.3"
+}

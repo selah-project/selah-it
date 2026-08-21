@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E gli abbiamo detto: « Siamo uomini sinceri ⟨is⟩, non siamo spie ».",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "e abbiamo detto"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "sinceri"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "siamo noi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "siamo stati"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spie"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:02.021491748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E queste ⟨sono⟩ le genealogie dei figli di Noè: Sem, Cam e Iafet; e a loro nacquero figli dopo il diluvio.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e queste"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "le genealogie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "נח",
+      "gloss": "di Noè"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cam"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "e Iafet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "e nacquero"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "il diluvio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:13.562188921Z",
+  "model": "glm-5.3"
+}

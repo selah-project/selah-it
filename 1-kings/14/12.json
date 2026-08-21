@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E tu, àlzati, va' a casa tua; quando i tuoi piedi entreranno in città, il ragazzo morirà.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E tu"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "va'"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "a casa tua"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "quando… entreranno"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "i tuoi piedi"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "in città"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "morirà"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il ragazzo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:28.378411363Z",
+  "model": "glm-5.3"
+}

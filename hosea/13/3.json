@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Perciò saranno come la nube del mattino, come la rugiada che presto se ne va, come la pula che il turbine travolge dall'aia, come il fumo dalla finestra.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "percio"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saranno"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "come la nube"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "del mattino"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "e come la rugiada"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "che presto"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "se ne va"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "come la pula"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "il turbine travolge"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "dall'aia"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "e come il fumo"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "dalla finestra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:16.735616186Z",
+  "model": "glm-5.3"
+}

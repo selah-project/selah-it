@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "⟨את⟩ chi istruirà con conoscenza? e ⟨את⟩ chi farà comprendere l'annuncio? Ai divezzati dal latte, ai tolti dai seni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "istruirà"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "conoscenza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "chi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "farà comprendere"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "l'annuncio"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "divezzati"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dal latte"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "tolti"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "dai seni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:52.446159781Z",
+  "model": "glm-5.3"
+}

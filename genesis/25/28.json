@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E amò Yitschak ⟨את⟩ Esav, perché la caccia ⟨era⟩ in sua bocca; e Rivkah amava ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "e amò"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "la caccia"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in sua bocca"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "e Rivkah"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "amava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:58.866385097Z",
+  "model": "glm-5.3"
+}

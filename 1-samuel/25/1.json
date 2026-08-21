@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E morì Samuele, e tutto Israele si radunò e fece lutto per lui, e lo seppellirono in casa sua a Rama. E Davide si alzò e scese verso il deserto di Paran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "si radunò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "e fece lutto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "e lo seppellirono"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in casa sua"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "a Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "il deserto"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "di Paran"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:38.584035528Z",
+  "model": "glm-5.3"
+}

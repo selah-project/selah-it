@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "« Parla all'assemblea, dicendo: Salite via dai dintorni del mishkan (tabernacolo) di Korach, Datan e Aviram ».",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Salite"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "via dai dintorni"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "del mishkan (tabernacolo)"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "di Korach"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "e Aviram"
+    }
+  ],
+  "timestamp": "2026-08-21T06:30:20.596860995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E venderò i vostri figli ⟨את⟩ e le vostre figlie ⟨את⟩ in mano ai figli di Yehudah, e loro li venderanno agli Scebei, a una nazione lontana; poiché YHWH ha parlato.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "e venderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri figli"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "i vostri figli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le vostre figlie"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "le vostre figlie"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "e li venderanno"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "agli Scebei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "una nazione"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "lontana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:16.373487522Z",
+  "model": "glm-5.3"
+}

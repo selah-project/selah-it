@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Questa ⟨è⟩ la bestia che mangerete: il bue, il piccolo degli ovini e il piccolo delle capre.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "la bestia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "שור",
+      "gloss": "il bue"
+    },
+    {
+      "surface": "שה",
+      "gloss": "il piccolo"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "degli ovini"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "e il piccolo"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "delle capre"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:21.512085806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Moshe scelse uomini valorosi da tutto Israele, e li pose come capi sul popolo: capi di migliaia, capi di centinaia, capi di cinquantine e capi di decine.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "e scelse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "valorosi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li",
+      "marks": "loro (i capi)"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "capi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capi di"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "migliaia"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capi di"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centinaia"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capi di"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquantine"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e capi di"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "decine"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:29.687528844Z",
+  "model": "glm-5.3"
+}

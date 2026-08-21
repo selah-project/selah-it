@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E il Ruach di Elohim irruppe su Shaul quando egli udì ⟨את⟩ queste parole, e la sua ira si accese grandemente.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "e irruppe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il Ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "quando egli udì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "queste parole"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "queste parole"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "e si accese"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "la sua ira"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandemente"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:30.828095317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Hai amato la giustizia e hai odiato la malvagità; perciò ti ha unto Elohim, il tuo Elohim, con olio di esultanza più dei tuoi compagni.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "hai amato"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la giustizia"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "e hai odiato"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "la malvagità"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ti ha unto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "con olio"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "di esultanza"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "più dei tuoi compagni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:37.214979604Z",
+  "model": "glm-5.3"
+}

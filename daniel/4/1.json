@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Io, Nevukhadnetzar, ⟨ero⟩ tranquillo nella mia casa e fiorente nel mio palazzo.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Io"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetzar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "tranquillo"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "⟨ero⟩"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "nella mia casa"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "e fiorente"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "nel mio palazzo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:34:10.458663362Z",
+  "model": "glm-5.3"
+}

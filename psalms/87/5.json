@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 87,
+  "translation": "E di Tzion si dirà: uomo e uomo ⟨è⟩ nato in lei, e l'Altissimo stesso la fonderà.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "e di Tzion"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "si dirà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e uomo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "è nato"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in lei"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e lui stesso"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "la fonderà"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "l'Altissimo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:49.589416345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "«Soltanto, perché hai schernito schernendo ⟨את⟩ i nemici di YHWH con questa cosa, anche il figlio nato a te morirà morendo».",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "schernendo"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "hai schernito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i nemici di YHWH"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i nemici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "con la cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "nato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morirà (infinito assoluto)"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "morendo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:38.177987275Z",
+  "model": "glm-5.3"
+}

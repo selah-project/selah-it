@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Poiché uno sterminio, ⟨e⟩ deciso, Adonai YHWH Tzevaot compie in mezzo a tutta ⟨la⟩ terra.",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כָלָ֖ה",
+      "gloss": "uno sterminio"
+    },
+    {
+      "surface": "וְנֶחֱרָצָ֑ה",
+      "gloss": "e deciso"
+    },
+    {
+      "surface": "אֲדֹנָ֤י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִה֙",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צְבָא֔וֹת",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "עֹשֶׂ֖ה",
+      "gloss": "compie"
+    },
+    {
+      "surface": "בְּקֶ֥רֶב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:36.941441452Z",
+  "model": "glm-5.3"
+}

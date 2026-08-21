@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Libera quelli che ⟨sono⟩ trascinati a morte, e quelli che barcollano verso la strage — se trattieni!",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "libera"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "quelli che sono trascinati"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a morte"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "e quelli che barcollano"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "verso la strage"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "trattieni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:53.658900466Z",
+  "model": "glm-5.3"
+}

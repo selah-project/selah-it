@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E tutti gli uomini d'Israele, quando videro ⟨את⟩ l'uomo, fuggirono davanti a lui e furono presi da grande paura.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "E tutti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "quando videro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "fuggirono"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "e furono presi da paura"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:48.424427758Z",
+  "model": "glm-5.3"
+}

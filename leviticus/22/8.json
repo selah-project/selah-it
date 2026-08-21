@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Morta ⟨di sé⟩ o sbranata non ne mangerà, per rendersi impuro con essa. Io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "morta (carcassa)"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "o sbranata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ne mangerà"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "per rendersi impuro"
+    },
+    {
+      "surface": "בה",
+      "gloss": "con essa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:40.743340972Z",
+  "model": "glm-5.3"
+}

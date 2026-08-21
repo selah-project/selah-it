@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Non permise a nessun uomo di opprimerli, e rimproverò per loro dei re:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "permise"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nessun uomo"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "di opprimerli"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "e rimproverò"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dei re"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:04.318028517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Io conosco il tuo sedere e il tuo uscire e il tuo entrare, e ⟨את⟩ il tuo agitarti contro di me.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "e il tuo sedere"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "e il tuo uscire"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "e il tuo entrare"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ho conosciuto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo agitarti"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "il tuo agitarti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "contro di me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:40.346409908Z",
+  "model": "glm-5.3"
+}

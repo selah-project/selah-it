@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Natan andò a casa sua; e YHWH colpì ⟨את⟩ il bambino che aveva partorito la moglie di Uria a Davide, e si ammalò gravemente.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa sua"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bambino"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il bambino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "aveva partorito"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la moglie"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "di Uria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "e si ammalò gravemente"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:38.178157288Z",
+  "model": "glm-5.3"
+}

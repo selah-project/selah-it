@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Elohim nelle sue rocche si ⟨è⟩ fatto conoscere come fortezza.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "nelle sue rocche"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "si ⟨è⟩ fatto conoscere"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "come fortezza"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:47.222733226Z",
+  "model": "glm-5.3"
+}

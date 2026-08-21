@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E lo delizierà il timore di YHWH; non secondo l'apparire dei suoi occhi giudicherà, e non secondo l'udire delle sue orecchie deciderà.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "e lo delizierà"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "il timore di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "non"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "secondo l'apparire"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "dei suoi occhi"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "giudicherà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "secondo l'udire"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "delle sue orecchie"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "deciderà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:16.992185464Z",
+  "model": "glm-5.3"
+}

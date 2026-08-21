@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Tou re di Chamat sentì che Davide aveva colpito ⟨את⟩ tutto l'esercito di Hadadezer re di Tzova.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sentì"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "aveva colpito"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto l'esercito di Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "l'esercito"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tzova"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:20.045479181Z",
+  "model": "glm-5.3"
+}

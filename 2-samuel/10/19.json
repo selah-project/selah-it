@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 10:19",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E videro tutti i re, servi di Hadadèzer, che erano stati battuti davanti a Israele, e fecero pace con ⟨את⟩ Israele e li servirono; e Aram temette di salvare ancora ⟨את⟩ i figli di Ammon.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "e videro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "i re"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servi di"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadèzer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "erano stati battuti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "וישלמו",
+      "gloss": "e fecero pace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "e li servirono"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "e temettero"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "di salvare"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli di Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:21.684596186Z",
+  "model": "glm-5.3"
+}

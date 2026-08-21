@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Nell'angoscia mia io invocai YHWH, e al mio Elohim gridai; ⟨dal⟩ suo palazzo udì la mia voce, e il mio grido davanti a lui giunse nelle sue orecchie.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "nell'angoscia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mia"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io invocai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "al mio Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "gridai"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "udì"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "⟨dal⟩ suo palazzo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "e il mio grido"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "giunse"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "nelle sue orecchie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:21.541055204Z",
+  "model": "glm-5.3"
+}

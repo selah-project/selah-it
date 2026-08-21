@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "YHWH impoverisce e arricchisce, umilia e anche esalta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "impoverisce"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "e arricchisce"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "umilia"
+    },
+    {
+      "surface": "אף",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "esalta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:02.539611446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Grande ⟨è⟩ YHWH e molto lodato, e della sua grandezza non c'⟨è⟩ ricerca.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Grande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "e lodato"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "e della sua grandezza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'⟨è⟩"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ricerca"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:12.077173482Z",
+  "model": "glm-5.3"
+}

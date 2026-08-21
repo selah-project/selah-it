@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Non temere il terrore improvviso, né la rovina dei malvagi quando verrà.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temere"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "il terrore"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "improvviso"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "né la rovina"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "verrà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:52.887539193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "il re di Gerusalemme, uno; il re di Hebron, uno;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "di Hebron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:03.812250799Z",
+  "model": "glm-5.3"
+}

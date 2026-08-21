@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Maledetto chi non conferma ⟨את⟩ le parole di questa Torah per metterle in pratica. E tutto il popolo dirà: amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maledetto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "conferma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole di questa Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "di questa Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "(questa)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "per metterle in pratica"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dirà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:57.958881195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Al direttore ⟨del coro⟩, dei figli di Qorach, un mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:14.945409780Z",
+  "model": "glm-5.3"
+}

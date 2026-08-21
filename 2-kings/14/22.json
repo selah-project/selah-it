@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Egli costruì ⟨את⟩ Eilat e la restituì a Yehudah, dopo che il re giacque con i suoi padri.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "e la restituì"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "a Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "il giacere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:04.760669276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "Perché le nazioni dovrebbero dire: « Dov'è ⟨dunque⟩ il loro Elohim? »",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dovrebbero dire"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dov'è"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨dunque⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "il loro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:26.130956156Z",
+  "model": "glm-5.3"
+}

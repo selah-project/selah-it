@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Il Ruach di El mi ha fatto, e il soffio di Shaddai mi dà vita.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Il Ruach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "mi ha fatto"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "e il soffio"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "di Shaddai"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "di Shaddai"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "mi dà vita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:37.263758167Z",
+  "model": "glm-5.3"
+}

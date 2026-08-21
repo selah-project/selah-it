@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "Poiché il nemico ha inseguito la mia nefesh, ha schiacciato a terra la mia vita, mi ha fatto dimorare in luoghi tenebrosi, come i morti da tempo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ha inseguito"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ha schiacciato"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "la mia vita"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "mi ha fatto dimorare"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "in luoghi tenebrosi"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "come i morti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "da tempo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.858985564Z",
+  "model": "glm-5.3"
+}

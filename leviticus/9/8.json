@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E si avvicinò Aharon all'altare, e sgozzò ⟨את⟩ il vitello del sacrificio per il peccato, che era per lui.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "e si avvicinò"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "all'"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "e sgozzò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il vitello del sacrificio per il peccato"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "il vitello"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "del sacrificio per il peccato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "era per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:47.592525537Z",
+  "model": "glm-5.3"
+}

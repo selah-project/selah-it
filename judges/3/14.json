@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E i figli di Israele servirono ⟨את⟩ Eglon re di Moab diciotto anni.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "e servirono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon re di Moab"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "otto"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:41.100371853Z",
+  "model": "glm-5.3"
+}

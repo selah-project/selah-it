@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Saranno versati ⟨sotto⟩ ⟨la⟩ spada, diventeranno porzione per gli sciacalli.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "saranno versati"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sotto⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨la⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "spada"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "porzione"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "per gli sciacalli"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "diventeranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:46.789049279Z",
+  "model": "glm-5.3"
+}

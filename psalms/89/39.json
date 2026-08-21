@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Ma tu hai respinto e disprezzato, ti sei adirato con ⟨il tuo⟩ Mashiach.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "hai respinto"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "e disprezzato"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "ti sei adirato"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "il tuo Mashiach"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:20.868169466Z",
+  "model": "glm-5.3"
+}

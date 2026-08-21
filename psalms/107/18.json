@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Ogni cibo ⟨era⟩ in abominio alla loro nefesh, e arrivarono fino alle porte della morte.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ogni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cibo"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "in abominio"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "alla loro nefesh"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "e arrivarono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "alle porte"
+    },
+    {
+      "surface": "מות",
+      "gloss": "della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:33.325806810Z",
+  "model": "glm-5.3"
+}

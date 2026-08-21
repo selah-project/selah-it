@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Tu conosci il mio sedermi e il mio alzarmi; discerni il mio pensiero da lontano.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "conosci"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "il mio sedermi"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "e il mio alzarmi"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "discerni"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "il mio pensiero"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "da lontano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:05.705895166Z",
+  "model": "glm-5.3"
+}

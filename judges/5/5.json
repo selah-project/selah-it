@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "I monti colavano davanti a YHWH — questo ⟨è⟩ il Sinai — davanti a YHWH, Elohim di Israele.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "colavano"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "il Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:51.688976249Z",
+  "model": "glm-5.3"
+}

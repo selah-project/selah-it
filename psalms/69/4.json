@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Sono sfinito dal mio gridare, ⟨la⟩ gola mi brucia, ⟨gli⟩ occhi si spengono, aspettando il mio Elohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "sono sfinito"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "dal mio gridare"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "brucia (si secca)"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "la gola"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "si spengono (sono consumati)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "aspettando"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "il mio Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.506936192Z",
+  "model": "glm-5.3"
+}

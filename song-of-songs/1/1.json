@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Il canto dei canti, che ⟨è⟩ di Shelomò.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "dei canti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "di Shelomò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:44.281545946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Hai forse occhi di carne, o vedi come vede un mortale?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "hai forse occhi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "di carne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "come vede"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un mortale"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu vedi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:54.258602177Z",
+  "model": "glm-5.3"
+}

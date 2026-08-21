@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non dài acqua da bere allo stanco, e all'affamato neghi il pane.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "allo stanco"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "dài da bere"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "e all'affamato"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "neghi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il pane"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:21.395933101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Ho cercato YHWH ⟨את⟩ ed egli mi ha risposto, e da tutte le mie paure mi ha liberato.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "ho cercato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "e mi ha risposto"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e da tutte"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "le mie paure"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "mi ha liberato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:29.611796769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E Davide prese ⟨את⟩ la testa del filisteo e la portò a Gerusalemme; e ⟨את⟩ le sue armi mise nella sua tenda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la testa del filisteo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "del filisteo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "e la portò"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le sue armi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "le sue armi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mise"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "nella sua tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:25.263329461Z",
+  "model": "glm-5.3"
+}

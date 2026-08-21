@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 30:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Quando alzerai ⟨את⟩ la testa dei figli d'Israele per il loro censimento, essi daranno ciascun uomo un riscatto della propria nefesh a YHWH, quando li censirai ⟨אתם⟩, e non sarà fra loro piaga, quando li censirai ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "alzerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la testa dei figli d'Israele"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "per il loro censimento"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "essi daranno"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascun uomo"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "un riscatto"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "della propria nefesh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "quando… censirai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fra loro"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "piaga"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "quando… censirai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "li"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:12.975033672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "⟨את⟩ ogni corvo secondo la sua specie.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni corvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "corvo"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "secondo la sua specie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:51.360051973Z",
+  "model": "glm-5.3"
+}

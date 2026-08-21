@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Benedetto ⟨sia⟩ YHWH, Elohim, Elohim di Israele, che fa meraviglie ⟨da solo⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "che fa"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "meraviglie"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "da solo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:18.016236313Z",
+  "model": "glm-5.3"
+}

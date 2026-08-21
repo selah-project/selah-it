@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "E si è avvolta su di me la mia Ruach; dentro di me si stupisce il mio cuore.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "si è avvolta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "la mia Ruach"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "dentro di me"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "si stupisce"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.859169042Z",
+  "model": "glm-5.3"
+}

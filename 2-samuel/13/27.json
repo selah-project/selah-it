@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E Avshalom insistette con lui, ed egli mandò con ⟨את⟩ lui ⟨את⟩ Amnon e ⟨את⟩ tutti i figli del re.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "e insistette"
+    },
+    {
+      "surface": "בו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "con ⟨את⟩ lui",
+      "marks": "preposizione «con lui»"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti i figli del re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:07.488422771Z",
+  "model": "glm-5.3"
+}

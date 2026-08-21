@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non ti mostrare amico ⟨את⟩ di un uomo d'ira, e con un uomo furioso ⟨את⟩ non entrare.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "ti mostrare amico"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un uomo d'ira"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "di un padrone"
+    },
+    {
+      "surface": "אף",
+      "gloss": "d'ira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "un uomo furioso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "furioso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "entrare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:33.987358058Z",
+  "model": "glm-5.3"
+}

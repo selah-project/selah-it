@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E consegnerà ⟨את⟩ Israele a causa dei peccati di Iaravàm, che egli commise e con cui fece peccare ⟨את⟩ Israele.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e consegnerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dei peccati"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "di Iaravàm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "commise"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e con cui"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "fece peccare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:21.251367762Z",
+  "model": "glm-5.3"
+}

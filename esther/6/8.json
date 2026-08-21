@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "portino una veste regale con cui il re si ⟨è⟩ vestito, e un cavallo su cui il re ⟨è⟩ cavalcato, e su cui ⟨è⟩ posto un diadema regale sul suo capo.",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "portino"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "una veste"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "regale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "si ⟨è⟩ vestito"
+    },
+    {
+      "surface": "בו",
+      "gloss": "con esso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "e un cavallo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "su cui"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "⟨è⟩ cavalcato"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di esso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e su cui"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨è⟩ posto"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "un diadema"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "regale"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sul suo capo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:03.421987359Z",
+  "model": "glm-5.3"
+}

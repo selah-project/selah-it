@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Vi ho amati, dice YHWH; e voi dite: « In che ci hai amati? » Non ⟨era⟩ forse Esaù fratello di Giacobbe? — oracolo di YHWH — e io ho amato ⟨את⟩ Giacobbe,",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Vi ho amati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "e voi dite"
+    },
+    {
+      "surface": "במה",
+      "gloss": "in che"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "ci hai amati"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "אח",
+      "gloss": "fratello"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaù"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "e io ho amato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giacobbe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:51.432489582Z",
+  "model": "glm-5.3"
+}

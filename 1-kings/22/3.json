@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E disse il re d'Israele ai suoi servi: Sapete ⟨voi⟩ che a noi ⟨appartiene⟩ Ramot di Gilad, e noi stiamo in silenzio dal prenderla ⟨את⟩-essa di mano al re di Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Sapete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "di Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "e noi"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "stiamo in silenzio"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "dal prenderla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "essa — Ramot di Gilad"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "di mano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:24.079651048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Ma se non mi ascoltate e non fate ⟨את⟩ tutti questi comandamenti,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "farete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti questi comandamenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "i comandamenti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:37.567448809Z",
+  "model": "glm-5.3"
+}

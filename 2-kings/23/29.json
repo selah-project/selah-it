@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 23:29",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Ai suoi giorni salì Faraone Neko, re di Mitzrajim, contro il re di Ashshur, sul fiume Perat; e il re Yoshiyahu andò incontro a lui, e ⟨quello⟩ lo mise a morte a Meghiddo, quando lo vide ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "ai suoi giorni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "salì"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashshur"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "fiume"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "incontro a lui"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "e lo mise a morte"
+    },
+    {
+      "surface": "במגדו",
+      "gloss": "a Meghiddo"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "quando lo vide"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui — Yoshiyahu, l'oggetto visto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:02.057678792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Ma se non ci ascolterete per farvi circoncidere, prenderemo ⟨את⟩ nostra figlia e ce ne andremo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ci ascolterete"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "verso di noi"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "per farvi circoncidere"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "prenderemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nostra figlia"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "nostra figlia"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "e ce ne andremo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:00.632785199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Grande ⟨è⟩ il nostro Adonai, e abbondante in forza; alla sua intelligenza non v'è numero.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Grande"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "il nostro Adonai"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e abbondante"
+    },
+    {
+      "surface": "כח",
+      "gloss": "in forza"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "alla sua intelligenza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non v'è"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numero"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.267537277Z",
+  "model": "glm-5.3"
+}

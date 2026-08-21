@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Maledetto chi giace con la donna di suo padre, perché ha scoperto l'orlo di suo padre. E tutto il popolo dirà: amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maledetto"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "giace"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ha scoperto"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "l'orlo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dirà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:08.951081744Z",
+  "model": "glm-5.3"
+}

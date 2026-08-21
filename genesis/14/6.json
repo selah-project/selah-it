@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e ⟨את⟩ gli Chorei sul loro monte Seir, fino a El-Paran, che ⟨sta⟩ sul deserto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gli Chorei"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "gli Chorei"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "sul loro monte"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "il deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:56.032887783Z",
+  "model": "glm-5.3"
+}

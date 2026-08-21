@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E venne il messaggero e gli riferì, per dire: «Hanno portato le teste dei figli del re». E disse: «Metteteli ⟨את⟩ in due mucchi all'ingresso della porta fino al mattino».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "riferì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "per dire"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "hanno portato"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "le teste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "metteteli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "mucchi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "השער",
+      "gloss": "della porta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "al mattino"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:53.960248772Z",
+  "model": "glm-5.3"
+}

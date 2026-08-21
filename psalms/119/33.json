@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Insegnami, YHWH, la via dei tuoi decreti, e la custodirò ⟨fino⟩ alla fine.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "insegnami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dei tuoi decreti"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "e la custodirò"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "alla fine"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:35.704766082Z",
+  "model": "glm-5.3"
+}

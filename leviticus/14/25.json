@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E scannerà ⟨את⟩ l'agnello dell'asham, e il sacerdote prenderà del sangue dell'asham e lo metterà sul lobo dell'orecchio di colui che deve essere purificato, ⟨il⟩ destro, e sul pollice della sua mano, la destra, e sull'alluce del suo piede, il destro.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "e scannerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'agnello dell'asham"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "l'agnello"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "dell'asham"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "e prenderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "del sangue"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "dell'asham"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e lo metterà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "il lobo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dell'orecchio"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "di colui che deve essere purificato"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "destro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "il pollice"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "della sua mano"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "la destra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "l'alluce"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "del suo piede"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "il destro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:06.839918556Z",
+  "model": "glm-5.3"
+}

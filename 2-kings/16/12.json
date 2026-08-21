@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E venne il re da Damasco, e vide il re ⟨את⟩ l'altare, e si accostò il re all'altare, e offrì su di esso.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "da Damasco"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "e si accostò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e offrì"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di esso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:15.370076497Z",
+  "model": "glm-5.3"
+}

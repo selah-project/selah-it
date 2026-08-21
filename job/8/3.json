@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Forse El perverte il giudizio, o Shaddai perverte la giustizia?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "forse El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "perverte"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "perverte"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:31.831063723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Ti prego, YHWH: salva, ti prego! Ti prego, YHWH: fa' prosperare, ti prego!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "salva"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "fa' prosperare"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:18.438717245Z",
+  "model": "glm-5.3"
+}

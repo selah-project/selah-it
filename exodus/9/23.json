@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E stese Moshe ⟨את⟩ il suo bastone verso i cieli, e YHWH diede voci e grandine, e un fuoco camminava verso la terra; e YHWH fece piovere grandine sulla terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "e stese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo bastone"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "il suo bastone"
+    },
+    {
+      "surface": "על",
+      "gloss": "verso"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "voci"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "e grandine"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "e camminava"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "verso la terra"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "e fece piovere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "grandine"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:03.660569527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Inaridito come coccio ⟨è⟩ il mio vigore, e la mia lingua si incolla alle mie mascelle; e alla polvere della morte tu mi deponi.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "inaridito"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "come coccio"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "il mio vigore"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "e la mia lingua"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "si incolla"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "alle mie mascelle"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "e alla polvere"
+    },
+    {
+      "surface": "מות",
+      "gloss": "della morte"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "tu mi deponi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:05.995804345Z",
+  "model": "glm-5.3"
+}

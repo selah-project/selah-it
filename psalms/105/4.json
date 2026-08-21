@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Cercate YHWH e la sua forza, cercate il suo volto continuamente.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "cercate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "e la sua forza"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "cercate"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuamente"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:59.800816285Z",
+  "model": "glm-5.3"
+}

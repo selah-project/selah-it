@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 42:11",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Non temete davanti al re di Babilonia, del quale voi avete paura; non lo temete — oracolo di YHWH — perché io ⟨sono⟩ con voi ⟨את⟩, per salvare ⟨את⟩ voi e per liberare ⟨את⟩ voi dalla sua mano.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Babilonia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "del quale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "avete paura"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "di lui"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "con voi ⟨את⟩",
+      "marks": "con voi (io sono con voi)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "per salvare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩voi",
+      "marks": "voi (salvare)"
+    },
+    {
+      "surface": "ולהציל",
+      "gloss": "e per liberare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩voi",
+      "marks": "voi (liberare)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "dalla sua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:12:28.168885749Z",
+  "model": "glm-5.3"
+}

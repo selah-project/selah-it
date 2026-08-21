@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non avete abbandonato ⟨את⟩ i vostri fratelli per molti giorni, fino a questo giorno, e avete custodito ⟨את⟩ la custodia del comandamento di YHWH, il vostro Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "avete abbandonato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri fratelli"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "i vostri fratelli"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "per giorni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "e avete custodito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la custodia del comandamento"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la custodia"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "del comandamento"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:56:29.514891848Z",
+  "model": "glm-5.3"
+}

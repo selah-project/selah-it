@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E avvenne dopo questo che il cuore di David ⟨את⟩ lo percosse, perché aveva tagliato ⟨את⟩ il bordo che era di Saul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e percosse"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lo"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "aveva tagliato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bordo"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "il bordo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "era di Saul"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:11.050305953Z",
+  "model": "glm-5.3"
+}

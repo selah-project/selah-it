@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E disse loro: sia così YHWH con voi, come io manderò ⟨את⟩ voi e ⟨את⟩ i vostri piccoli! Vedete: perché il male ⟨sta⟩ davanti ai vostri volti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con voi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "io manderò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i vostri piccoli"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "i vostri piccoli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vedete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ai vostri volti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:56.744139019Z",
+  "model": "glm-5.3"
+}

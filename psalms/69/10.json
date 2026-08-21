@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Poiché lo zelo per la tua casa mi ha divorato, e gli insulti di chi ti insulta sono caduti su di me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "lo zelo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "per la tua casa"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "mi ha divorato"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "e gli insulti"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "di chi ti insulta"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sono caduti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:24.342558343Z",
+  "model": "glm-5.3"
+}

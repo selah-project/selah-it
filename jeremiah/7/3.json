@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Così dice YHWH degli eserciti, Elohim d'Israele: migliorate le vostre vie e le vostre azioni, e io vi farò dimorare in ⟨את⟩ questo luogo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "migliorate"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "le vostre vie"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "e le vostre azioni"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "e io vi farò dimorare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in questo luogo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:00:46.136706348Z",
+  "model": "glm-5.3"
+}

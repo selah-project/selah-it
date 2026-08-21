@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Il giusto mangia a sazietà della sua ⟨nefesh⟩; ma il ventre dei malvagi ⟨sarà⟩ vuoto.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Il giusto"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangia"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "a sazietà"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "della sua nefesh"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "ma il ventre"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "mancherà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:26.864283151Z",
+  "model": "glm-5.3"
+}

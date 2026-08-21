@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E fu YHWH ⟨את⟩ con Giuda, ed egli prese possesso ⟨את⟩ della montagna; ma non ⟨poté⟩ scacciare gli abitanti della valle, perché carri di ferro ⟨avevano⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ con"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "e prese possesso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la montagna"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "la montagna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "⟨poté⟩ scacciare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli abitanti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "della valle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "carri"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "di ferro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨avevano⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:14.501182255Z",
+  "model": "glm-5.3"
+}

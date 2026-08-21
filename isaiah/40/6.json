@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Una voce dice: « Proclama! » E ⟨quelli⟩ dice: « Che cosa proclamerò? Ogni carne ⟨è⟩ erba, e tutto il suo chesed ⟨è⟩ come il fiore del campo ».",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "una voce"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "« proclama! »"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dice"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "proclamerò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "⟨è⟩ erba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "come il fiore"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "del campo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:35.789176065Z",
+  "model": "glm-5.3"
+}

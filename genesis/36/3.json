@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "e ⟨את⟩ Bosmat figlia di Yishmael, sorella di Nevayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "di Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sorella"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "di Nevayot"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:33.908031120Z",
+  "model": "glm-5.3"
+}

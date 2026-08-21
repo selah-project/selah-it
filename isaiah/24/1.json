@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Ecco, YHWH svuota la terra e la desola, ne stravolge ⟨il⟩ volto e disperde i suoi abitanti.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "svuota"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "e la desola"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ne stravolge"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "⟨il⟩ volto"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "e disperde"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "i suoi abitanti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:16.779524981Z",
+  "model": "glm-5.3"
+}

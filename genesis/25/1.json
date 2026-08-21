@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Abrahamo aggiunse e prese una moglie, e il suo nome ⟨era⟩ Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "aggiunse"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una moglie"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e il suo nome"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:34.572175409Z",
+  "model": "glm-5.3"
+}

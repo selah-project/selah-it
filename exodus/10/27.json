@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E YHWH rafforzò ⟨את⟩ il cuore di Faraone, ed ⟨egli⟩ non acconsentì a lasciarli andare.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "rafforzò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cuore di Faraone"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "acconsentì"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "a lasciarli andare"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:11.094564327Z",
+  "model": "glm-5.3"
+}

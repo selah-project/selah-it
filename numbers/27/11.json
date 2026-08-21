@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 27:11",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E se non ci sono fratelli a suo padre, darete ⟨את⟩ la sua eredità al suo parente ⟨il più⟩ vicino a lui della sua famiglia, ed egli la erediterà ⟨את⟩; e questo sarà per i figli d'Israele statuto di diritto, come YHWH ha comandato ⟨את⟩ Mosè.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ci sono"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "fratelli"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "a suo padre"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "darete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua eredità"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "la sua eredità"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "al suo parente"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "il più vicino"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "ממשפחתו",
+      "gloss": "della sua famiglia"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "ed egli erediterà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "la (l'eredità)"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "statuto di"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "diritto"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:35:28.058437529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E videro ⟨את⟩ Elohim di Israele; e sotto i suoi piedi ⟨c'era⟩ come un'opera di lastre di zaffiro, e come l'essenza dei cieli in purezza.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "E videro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim di Israele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "e sotto"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "i suoi piedi"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "come un'opera di"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "lastre di"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "zaffiro"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "e come l'essenza di"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "in purezza"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:09.215302215Z",
+  "model": "glm-5.3"
+}

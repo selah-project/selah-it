@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E presero ⟨את⟩ il re, e lo condussero su ⟨את⟩ dal re di Babilonia, a Rivlà; e gli parlarono ⟨את⟩ il giudizio.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "e presero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e condussero su"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (il re)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Babilonia"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "a Rivlà"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "e parlarono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gli (con lui)"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:46.676957357Z",
+  "model": "glm-5.3"
+}

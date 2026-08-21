@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 123,
+  "translation": "Sii grazioso a noi, YHWH, sii grazioso a noi, perché troppo siamo saziati di disprezzo.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Sii grazioso a noi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "sii grazioso a noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רב",
+      "gloss": "troppo"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "siamo saziati"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "di disprezzo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:23.554593676Z",
+  "model": "glm-5.3"
+}

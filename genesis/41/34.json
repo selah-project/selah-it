@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Faccia Faraone ⟨così⟩ e nomini sovrintendenti sopra ⟨la⟩ terra, e prenda la quinta parte ⟨della⟩ terra d'Egitto nei sette anni dell'abbondanza.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "faccia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "e nomini"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "sovrintendenti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terra"
+    },
+    {
+      "surface": "ויחמש",
+      "gloss": "e prenda la quinta parte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra d'Egitto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "nei sette"
+    },
+    {
+      "surface": "שני",
+      "gloss": "anni"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "dell'abbondanza"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:35.331370934Z",
+  "model": "glm-5.3"
+}

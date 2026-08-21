@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "Lodate ⟨את⟩ YHWH dalla terra, mostri marini e tutti gli abissi:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "mostri marini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "gli abissi"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:43.752493279Z",
+  "model": "glm-5.3"
+}

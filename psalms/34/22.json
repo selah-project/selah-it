@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Uccide il malvagio ⟨la⟩ sua malvagità, e quelli che odiano il giusto saranno ritenuti colpevoli.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "uccide"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨la⟩ sua malvagità"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "e quelli che odiano"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "saranno ritenuti colpevoli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:30.792909533Z",
+  "model": "glm-5.3"
+}

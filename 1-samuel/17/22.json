@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E Davide lasciò ⟨את⟩ le masserizie che portava in mano al custode delle masserizie, e corse alla schiera, e venne, e chiese ai suoi fratelli del loro shalom.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "lasciò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le masserizie"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "le masserizie"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "che portava"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mano"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "al custode"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "delle masserizie"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "e corse"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "alla schiera"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "e chiese"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ai suoi fratelli"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "del loro shalom"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:48.424096279Z",
+  "model": "glm-5.3"
+}

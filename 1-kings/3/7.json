@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ora, YHWH, Elohim mio, tu hai fatto regnare ⟨את⟩ il tuo servo al posto di Davide, mio padre; e io ⟨sono⟩ un ragazzo piccolo — non so uscire né entrare.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E ora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "hai fatto regnare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo servo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un ragazzo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "piccolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "so"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "uscire"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "né entrare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:33.859280719Z",
+  "model": "glm-5.3"
+}

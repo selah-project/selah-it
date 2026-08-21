@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Guardate fra le nazioni e osservate, e restate stupefatti, meravigliati: poiché un'opera ⟨Egli⟩ sta operando nei vostri giorni — non crederete quando verrà raccontata.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Guardate"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra le nazioni"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "e osservate"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "e restate stupefatti"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "meravigliati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "un'opera"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "sta operando"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "nei vostri giorni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "crederete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "verrà raccontata"
+    }
+  ],
+  "timestamp": "2026-08-21T08:39:22.442244223Z",
+  "model": "glm-5.3"
+}

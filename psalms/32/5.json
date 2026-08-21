@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Il mio peccato ti ho fatto conoscere, e la mia colpa non ho coperto. Ho detto: confesserò le mie ribellioni a YHWH — e tu hai portato la colpa del mio peccato. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "il mio peccato"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ti ho fatto conoscere"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "e la mia colpa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ho coperto"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "confesserò"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "riguardo a"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "le mie ribellioni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "hai portato"
+    },
+    {
+      "surface": "עון",
+      "gloss": "la colpa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "del mio peccato"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:09.920848003Z",
+  "model": "glm-5.3"
+}

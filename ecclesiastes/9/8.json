@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "In ogni tempo siano bianche le tue vesti, e l'olio sul tuo capo non manchi.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "in ogni"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "siano"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "le tue vesti"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "bianche"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "e l'olio"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "il tuo capo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "manchi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:41.872605818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Cantate a YHWH con ringraziamento, salmodiate al nostro Elohim sul kinnoor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Cantate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "con ringraziamento"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "salmodiate"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "al nostro Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sul kinnoor"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.267976455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Venite, mangiate del mio pane e bevete del vino che ho mescolato.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mangiate"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "del mio pane"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "e bevete"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "del vino"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "che ho mescolato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:13.030219498Z",
+  "model": "glm-5.3"
+}

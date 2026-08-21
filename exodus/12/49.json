@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Una sola Torah vi sia per il nativo ⟨l'ezrach⟩ e per il forestiero che dimora in mezzo a voi.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una sola"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vi sia"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "per il nativo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "e per il forestiero"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "che dimora"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in mezzo a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:04.230957101Z",
+  "model": "glm-5.3"
+}

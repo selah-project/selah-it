@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Così disse YHWH, il mio Elohim: pasci ⟨את⟩ il gregge destinato alla strage.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "il mio Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pasci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "destinato alla strage"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:43.465598319Z",
+  "model": "glm-5.3"
+}

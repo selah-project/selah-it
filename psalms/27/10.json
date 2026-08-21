@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Poiché mio padre e mia madre mi hanno abbandonato, e YHWH mi raccoglierà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "e mia madre"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "mi hanno abbandonato"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "mi raccoglierà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:52.537233175Z",
+  "model": "glm-5.3"
+}

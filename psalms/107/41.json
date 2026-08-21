@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "E innalza il povero dall'afflizione e pone le famiglie come un gregge.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "e innalza"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "dall'afflizione"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e pone"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "come un gregge"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "le famiglie"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:31.760107769Z",
+  "model": "glm-5.3"
+}

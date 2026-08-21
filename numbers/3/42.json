@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Mosè contò, come YHWH gli aveva comandato, ⟨את⟩ ogni primogenito tra i figli d'Israele.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "e contò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "Mosè (suffisso pronominale)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni primogenito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "primogenito"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "tra i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:39.488629610Z",
+  "model": "glm-5.3"
+}

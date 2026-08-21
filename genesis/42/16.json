@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Mandate da voi uno, ed egli prenda ⟨את⟩ vostro fratello; e voi siate legati, e siano provate le vostre parole — se ⟨c'è⟩ verità ⟨את⟩ con ⟨voi⟩; e se no, vivo ⟨è⟩ Paroh: spie voi siete.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "mandate"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "da voi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vostro fratello"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vostro fratello"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e voi"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "siate legati"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "e siano provate"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "le vostre parole"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "la verità"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ con ⟨voi⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": ": (asseverativo)"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi siete"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:09.109972626Z",
+  "model": "glm-5.3"
+}

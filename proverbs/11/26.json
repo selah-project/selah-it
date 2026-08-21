@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Chi trattiene ⟨il⟩ grano — il popolo lo maledice, ma benedizione sul capo di chi vende.",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "chi trattiene"
+    },
+    {
+      "surface": "בר",
+      "gloss": "grano"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "il popolo lo maledice"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "ma benedizione"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "sul capo"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "di chi vende (grano)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:07.905131382Z",
+  "model": "glm-5.3"
+}

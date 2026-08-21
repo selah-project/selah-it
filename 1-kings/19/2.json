@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Izebel mandò un messaggero a Elia, dicendo: «Così mi facciano gli Elohim, e così aggiungano, se domani a quest'ora non farò ⟨את⟩ la tua nefesh come la nefesh di uno di loro».",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "un messaggero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "facciano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gli Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "e così"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "aggiungano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "a quest'ora"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "domani"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "farò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua nefesh"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "come la nefesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "di uno"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:45.303256772Z",
+  "model": "glm-5.3"
+}

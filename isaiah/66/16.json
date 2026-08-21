@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Poiché nel fuoco YHWH farà giudizio, e con la sua spada ⟨את⟩ ogni carne; e molti saranno i trafitti di YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "farà giudizio"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "e con la sua spada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni carne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "e molti"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "i trafitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:56.710156407Z",
+  "model": "glm-5.3"
+}

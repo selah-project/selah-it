@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "e volgerò la mia faccia contro di voi, e sarete sconfitti davanti ai vostri nemici, e domineranno su di voi quelli che vi odiano, e fuggirete e non ⟨vi sarà⟩ nessuno che insegua ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e volgerò"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la mia faccia"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contro di voi"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "e sarete sconfitti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "i vostri nemici"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "e domineranno"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "quelli che vi odiano"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "e fuggirete"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨vi sarà⟩"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "che insegua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:00.401254414Z",
+  "model": "glm-5.3"
+}

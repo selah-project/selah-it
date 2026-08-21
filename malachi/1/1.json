@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Oracolo della parola di YHWH a Israele, per mano di Malachi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano di"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malachi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:51.432222424Z",
+  "model": "glm-5.3"
+}

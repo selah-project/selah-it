@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "⟨את⟩ la tavola e ⟨את⟩ le sue stanghe e ⟨את⟩ tutti i suoi utensili e ⟨את⟩ il pane delle facce.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tavola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le sue stanghe"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "le sue stanghe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti i suoi utensili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i suoi utensili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il pane delle facce"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il pane"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "delle facce"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:27.235136341Z",
+  "model": "glm-5.3"
+}

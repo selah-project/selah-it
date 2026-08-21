@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Chi muore di Ieroboam in città lo mangeranno i cani, e chi muore nel campo lo mangeranno gli uccelli del cielo, perché YHWH ha parlato.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Chi muore"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "di Ieroboam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in città"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "lo mangeranno"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "i cani"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "e chi muore"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "lo mangeranno"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "gli uccelli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "del cielo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:28.378277831Z",
+  "model": "glm-5.3"
+}

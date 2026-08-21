@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Beato chi agisce con saggezza verso ⟨il⟩ povero; nel giorno del male YHWH lo libererà.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "beato"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "chi agisce con saggezza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨il⟩ povero"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "del male"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "lo libererà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:19.204039638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 15:3",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E usciva verso sud, alla salita degli Akrabbim, e passava verso Tzin, e saliva dal sud a Qadesh Barneà; e passava verso Chetsron, e saliva a Addar, e girava intorno al Qarqà.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e usciva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "il sud"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "alla salita"
+    },
+    {
+      "surface": "עקרבים",
+      "gloss": "degli Akrabbim"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "e passava"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "verso Tzin"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "e saliva"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "dal sud"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "a Qadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneà"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "e passava"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "verso Chetsron"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "e saliva"
+    },
+    {
+      "surface": "אדרה",
+      "gloss": "a Addar"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "e girava intorno"
+    },
+    {
+      "surface": "הקרקעה",
+      "gloss": "al Qarqà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:54:13.807495066Z",
+  "model": "glm-5.3"
+}

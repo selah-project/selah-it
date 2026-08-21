@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Poiché tu salvi il popolo povero e umili gli occhi altieri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "povero e umiliato"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "salvi"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "e gli occhi"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "altieri"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "abbassi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:12.958312210Z",
+  "model": "glm-5.3"
+}

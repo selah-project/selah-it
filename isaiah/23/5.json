@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Come al rumore ⟨di⟩ l'Egitto, ⟨essi⟩ si torceranno dal dolore, come al rumore di Tzor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "al rumore"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "di l'Egitto"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "si torceranno dal dolore"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "come al rumore"
+    },
+    {
+      "surface": "צר",
+      "gloss": "di Tzor"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:01.783240928Z",
+  "model": "glm-5.3"
+}

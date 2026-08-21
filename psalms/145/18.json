@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Vicino ⟨è⟩ YHWH a tutti quelli che lo invocano, a tutti quelli che lo invocano in verità.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Vicino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutti"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "quelli che lo invocano"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quelli che"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "lo invocano"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in verità"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:09.631695723Z",
+  "model": "glm-5.3"
+}

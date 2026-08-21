@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Nascondi il tuo volto — si sgomentano; togli il loro Ruach — spirano, e alla loro polvere tornano.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "nascondi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "si sgomentano"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "togli"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "il loro Ruach"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "spirano"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e alla"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "loro polvere"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "tornano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.541864562Z",
+  "model": "glm-5.3"
+}

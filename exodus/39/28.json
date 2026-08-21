@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "e ⟨את⟩ il turbante di lino fino, e ⟨את⟩ le tiare delle mitrie di lino fino, e ⟨את⟩ i calzoni di lino di lino fino ritorto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il turbante"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "il turbante"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di lino fino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le tiare"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "le tiare"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "delle mitrie"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di lino fino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i calzoni"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "i calzoni"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "di lino"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di lino fino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ritorto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:48.802172531Z",
+  "model": "glm-5.3"
+}

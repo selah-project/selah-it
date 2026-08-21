@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "Beato l'uomo che ha forza in te; sentieri ⟨sono⟩ nel loro cuore.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beato"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "forza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "sentieri"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "nel loro cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:29.264272249Z",
+  "model": "glm-5.3"
+}

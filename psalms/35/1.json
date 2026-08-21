@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Di Davide. Contendi, YHWH, ⟨את⟩ i miei contendenti; combatti ⟨את⟩ i miei combattenti.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "contendi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei contendenti"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "i miei contendenti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "combatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei combattenti"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "i miei combattenti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:54.107889444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 99,
+  "translation": "Esaltate YHWH, il nostro Elohim, e prostratevi al suo monte santo, perché santo ⟨è⟩ YHWH, il nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Esaltate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "e prostratevi"
+    },
+    {
+      "surface": "להר",
+      "gloss": "al monte"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suo santo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:26.222293745Z",
+  "model": "glm-5.3"
+}

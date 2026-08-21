@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E misero ⟨את⟩ l'arca di YHWH sul carro, e ⟨את⟩ lo scrigno e ⟨את⟩ i topi d'oro e ⟨את⟩ le immagini dei loro tumori.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "e misero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca di YHWH"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "il carro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lo scrigno"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "lo scrigno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i topi d'oro"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "i topi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le immagini dei loro tumori"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "le immagini"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "dei loro tumori"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:10.478951751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E un bue o un agnaggio allungato o mancante: come offerta volontaria lo potrai fare ⟨אתו⟩, ma per un voto non sarà accetto.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "e un bue"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "o un agnello"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "allungato"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "o mancante"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "come offerta volontaria"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "potrai fare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (il bue o l'agnello)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "ma per un voto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "sarà accetto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:22.210245779Z",
+  "model": "glm-5.3"
+}

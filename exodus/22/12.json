@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se sarà sbranato, porterà la carcassa come testimone; non risarcirà ciò che è stato sbranato.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "certamente sbranato"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "sarà sbranato"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "porterà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "come testimone"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "la carcassa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "risarcirà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:34.470132339Z",
+  "model": "glm-5.3"
+}

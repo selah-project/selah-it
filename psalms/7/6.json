@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "inseguisca il nemico la mia nefesh, e la raggiunga, e calchi a terra la mia vita, e la mia gloria faccia dimorare nella polvere. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "inseguisca"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "e la raggiunga"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "e calchi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "la mia vita"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "e la mia gloria"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "nella polvere"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "faccia dimorare"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:00.813441940Z",
+  "model": "glm-5.3"
+}

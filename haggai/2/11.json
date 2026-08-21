@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Così disse YHWH degli eserciti: chiedi ora ai sacerdoti ⟨את⟩ la Torah, dicendo:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "chiedi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i sacerdoti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ai sacerdoti"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:18.132032720Z",
+  "model": "glm-5.3"
+}

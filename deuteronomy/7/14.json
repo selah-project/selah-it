@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Benedetto sarai più di tutti i popoli; non sarà in te sterile né sterile-donna, né ⟨tra⟩ il tuo bestiame.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "più di tutti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "sterile ⟨uomo⟩"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "né sterile-donna"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "né ⟨tra⟩ il tuo bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:43.316250776Z",
+  "model": "glm-5.3"
+}

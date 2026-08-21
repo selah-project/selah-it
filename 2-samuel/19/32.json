@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Barzillai il Gileadita scese da Roghelìm e passò ⟨את⟩ con il re il Giordano, per accompagnarlo oltre il Giordano.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "e Barzillai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "il Gileadita"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scese"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "da Roghelìm"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "e passò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ con",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "per accompagnarlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "oltre il Giordano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:46.719883115Z",
+  "model": "glm-5.3"
+}

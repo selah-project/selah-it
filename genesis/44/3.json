@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Il mattino ⟨si fece⟩ chiaro, e gli uomini furono mandati via, loro e i loro asini.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "il mattino"
+    },
+    {
+      "surface": "אור",
+      "gloss": "si fece chiaro"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "e gli uomini"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "furono mandati"
+    },
+    {
+      "surface": "המה",
+      "gloss": "loro"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "e i loro asini"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:40.179735270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Sono affondato nel fango profondo, e non c'⟨è⟩ appoggio; sono entrato negli abissi delle acque, e la piena mi ha travolto.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "sono affondato"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "nel fango profondo"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "profondo (abisso)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "appoggio (piede)"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "sono entrato"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "negli abissi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "delle acque"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "e la piena (flutto)"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "mi ha travolto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.506795788Z",
+  "model": "glm-5.3"
+}

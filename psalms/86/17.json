@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Fammi ⟨את⟩ un segno per il bene, e vedano i miei nemici e siano svergognati, perché tu, YHWH, mi hai aiutato e mi hai consolato.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fammi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "אות",
+      "gloss": "un segno"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "per il bene"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "e vedano"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "e siano svergognati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "mi hai aiutato"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "e mi hai consolato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:34.052696166Z",
+  "model": "glm-5.3"
+}

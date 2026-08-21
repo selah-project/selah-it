@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Darà YHWH ⟨את⟩ la pioggia della tua terra come polvere e come sabbia; dai cieli scenderà su di te, finché tu sia distrutto.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la pioggia della tua terra"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "della tua terra"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "come polvere"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "e come sabbia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scenderà"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "tu sia distrutto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:33.162416794Z",
+  "model": "glm-5.3"
+}

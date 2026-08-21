@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Non per sempre ⟨Egli⟩ contende, e non per l'eternità custodisce ⟨l'ira⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "contende"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per l'eternità"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "custodisce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:15.500784851Z",
+  "model": "glm-5.3"
+}

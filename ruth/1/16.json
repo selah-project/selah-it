@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ma Rut disse: non insistere con me perché ti lasci, per tornare da dietro a te; perché dove andrai ⟨io⟩ andrò, e dove pernotta tu ⟨io⟩ pernotta: il tuo popolo ⟨è⟩ il mio popolo, e i tuoi Elohim ⟨sono⟩ i miei Elohim.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "insistere"
+    },
+    {
+      "surface": "בי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "per lasciarti"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "per tornare"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "da dietro a te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dove⟩"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "andrai"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "andrò"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "e dove"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "pernotta"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "pernotta io"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "e i tuoi Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "i miei Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:41.702912970Z",
+  "model": "glm-5.3"
+}

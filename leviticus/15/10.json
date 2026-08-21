@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E chiunque tocchi qualsiasi cosa che sia sotto di lui sarà impuro fino alla sera; e chi li porta laverà le sue vesti e si laverà nell'acqua, e sarà impuro fino alla sera.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e chiunque"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tocchi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "qualsiasi cosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sia"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sotto di lui"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "e chi li porta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "li (le cose toccate)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e si laverà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "alla sera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:05.291874680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "La luce dei giusti risplende ⟨di gioia⟩, ma la lampada dei malvagi si spegnerà.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "risplende ⟨di gioia⟩"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ma la lampada"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "si spegnerà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:32.492421390Z",
+  "model": "glm-5.3"
+}

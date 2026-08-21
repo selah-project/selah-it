@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Adonai, davanti a te ⟨è⟩ tutto il mio desiderio, e il mio sospiro da te non ⟨è⟩ nascosto.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "il mio desiderio"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "e il mio sospiro"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "nascosto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:41.846821293Z",
+  "model": "glm-5.3"
+}

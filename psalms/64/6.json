@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Si rafforzano ⟨per sé⟩ un disegno malvagio; raccontano di nascondere lacci; dicono: «Chi vedrà loro?»",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "si rafforzano"
+    },
+    {
+      "surface": "למו",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "un disegno"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malvagio"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "raccontano"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "di nascondere"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "lacci"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vedrà"
+    },
+    {
+      "surface": "למו",
+      "gloss": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:02.655112566Z",
+  "model": "glm-5.3"
+}

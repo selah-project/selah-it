@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 5:21",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E avvenne, quando Chiram udì ⟨את⟩ le parole di Shelomoh, che si rallegrò molto e disse: Benedetto sia YHWH ⟨il⟩ giorno ⟨in cui⟩ ha dato a David un figlio saggio, sopra questo popolo così numeroso.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "quando udì"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shelomoh"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "si rallegrò"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto sia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "numeroso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:26:23.805284058Z",
+  "model": "glm-5.3"
+}

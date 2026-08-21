@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché di ieri siamo noi, e non sappiamo, perché ombra ⟨sono⟩ i nostri giorni sulla terra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "di ieri"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "siamo noi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "sappiamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "צל",
+      "gloss": "ombra"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "i nostri giorni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sulla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:54.430466379Z",
+  "model": "glm-5.3"
+}

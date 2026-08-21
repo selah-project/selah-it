@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Perché ormai avrei steso ⟨את⟩ la mia mano e ⟨את⟩ ti avrei colpito, ⟨את⟩ te e ⟨את⟩ il tuo popolo, con la peste, e saresti stato cancellato dalla terra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ormai"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "avrei steso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia mano"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "e"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo popolo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "con la peste"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "e saresti stato cancellato"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:39.022026319Z",
+  "model": "glm-5.3"
+}

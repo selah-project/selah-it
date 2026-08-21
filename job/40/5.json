@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Una volta ho parlato, e non rispondo; e due volte, e non aggiungo ⟨altro⟩.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "una volta"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "rispondo"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e due volte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "aggiungo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:16.084659980Z",
+  "model": "glm-5.3"
+}

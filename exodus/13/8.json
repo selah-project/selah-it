@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E racconterai a tuo figlio in quel giorno, dicendo: a causa di questo fece YHWH per me, quando uscii dall'Egitto.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "E racconterai"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "a tuo figlio"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "quando uscii"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:45.114237188Z",
+  "model": "glm-5.3"
+}

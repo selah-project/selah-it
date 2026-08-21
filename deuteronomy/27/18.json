@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Maledetto chi fa smarrire il cieco sulla strada. E tutto il popolo dirà: amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maledetto"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "fa smarrire"
+    },
+    {
+      "surface": "עור",
+      "gloss": "il cieco"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sulla strada"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dirà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:08.950750837Z",
+  "model": "glm-5.3"
+}

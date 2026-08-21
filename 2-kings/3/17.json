@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Poiché così ha detto YHWH: non vedrete vento e non vedrete pioggia, e quel wadi si riempirà d'acqua; e berrete voi, e il vostro bestiame e le vostre bestie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vedrete"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vento"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vedrete"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "pioggia"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "e quel wadi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "si riempirà"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "e berrete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "e il vostro bestiame"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "e le vostre bestie"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:40.276933973Z",
+  "model": "glm-5.3"
+}

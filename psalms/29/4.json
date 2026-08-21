@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Voce di YHWH con forza, voce di YHWH con maestà.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "con forza"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "con maestà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:42.161652072Z",
+  "model": "glm-5.3"
+}

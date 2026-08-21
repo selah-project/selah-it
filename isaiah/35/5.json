@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Allora si apriranno gli occhi dei ciechi, e le orecchie dei sordi si apriranno.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "si apriranno"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi di"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ciechi"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "e le orecchie di"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "sordi"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "si apriranno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:43.648742923Z",
+  "model": "glm-5.3"
+}

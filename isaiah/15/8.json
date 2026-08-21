@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Poiché il grido ha fatto il giro del confine ⟨את⟩ di Moab; fino a Eglaim ⟨giunge⟩ il suo ululato, e fino a Beer-Elim il suo ululato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "ha fatto il giro"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "il grido"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "del confine di Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "il confine"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglaim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "il suo ululato"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "e a Beer"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "il suo ululato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:27.474617309Z",
+  "model": "glm-5.3"
+}

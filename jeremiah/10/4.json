@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Con argento e con oro lo abbelliscono; con chiodi e con martelli lo fissano, perché non barcolli.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "Con argento"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "e con oro"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "lo abbelliscono"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "con chiodi"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "e con martelli"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "lo fissano"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "barcolli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:01:35.529068749Z",
+  "model": "glm-5.3"
+}

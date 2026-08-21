@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "E la figlia di Tsor ⟨con⟩ un dono — il tuo volto lo imploreranno; i ricchi del popolo ⟨si presenteranno⟩ davanti a te.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "e la figlia"
+    },
+    {
+      "surface": "צר",
+      "gloss": "di Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "con un dono"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "imploreranno"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "i ricchi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "del popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:52.085842506Z",
+  "model": "glm-5.3"
+}

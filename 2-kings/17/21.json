@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Poiché Israele si era staccato dalla casa di Davide, ed essi fecero re Yerovam figlio di Nevat; e Yerovam trascinò Israele ⟨את⟩ lontano dal seguire YHWH, e li fece peccare ⟨con⟩ un peccato grande.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "si era staccato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ed essi fecero re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerovam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "di Nevat"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "e trascinò"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerovam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "dal seguire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "e li fece peccare"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "peccato"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:09.180358572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Poiché si è affacciato dall'alto del suo santuario, YHWH dai cieli ha guardato la terra,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "si è affacciato"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "dall'alto"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "del suo santuario"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dai cieli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ha guardato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:58.821411097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ed ella venne e riferì all'uomo di Elohim; ed egli disse: va', vendi ⟨את⟩ l'olio, e paga ⟨את⟩ i tuoi debiti; e tu e i tuoi figli vivrete del resto.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ed ella venne"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "all'uomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ed egli disse"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "va'"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "vendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'olio"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "e paga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi debiti"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "i tuoi debiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "i tuoi figli"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "vivrai"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "del resto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:29.797449379Z",
+  "model": "glm-5.3"
+}

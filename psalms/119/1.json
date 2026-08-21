@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Beati gli integri nella via, che camminano nella Torah di YHWH.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beati"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "gli integri"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nella via"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "che camminano"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "nella Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:17.709434344Z",
+  "model": "glm-5.3"
+}

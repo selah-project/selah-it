@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 67,
+  "translation": "La terra ha dato il suo frutto; ci benedica Elohim, il nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "il suo frutto"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ci benedica"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:10.171174272Z",
+  "model": "glm-5.3"
+}

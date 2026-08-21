@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "E colpì ogni primogenito nel loro paese, il primogenio di tutto il loro vigore.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "E colpì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primogenito"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "nel loro paese"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "il primogenio (il primo)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "di tutto"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "il loro vigore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:52.497517913Z",
+  "model": "glm-5.3"
+}

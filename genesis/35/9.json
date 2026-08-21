@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "E si mostrò Elohim a Giacobbe ancora, al suo venire da Paddan-Aram, e lo benedisse ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e si mostrò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "al suo venire"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "da Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e lo benedisse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (Giacobbe)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:40.100074724Z",
+  "model": "glm-5.3"
+}

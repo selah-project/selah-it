@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Al direttore del coro, su ⟨Yedutun⟩. Di Asaf. Un mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:02.793898811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Ma tu, YHWH, riderai di loro; ti farai beffe di tutte le nazioni.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "riderai"
+    },
+    {
+      "surface": "למו",
+      "gloss": "di loro"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ti farai beffe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "di tutte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:40.804454769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Farò ricordare il tuo nome in ogni generazione e generazione; perciò i popoli ti loderanno per sempre e in eterno.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "farò ricordare"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ogni"
+    },
+    {
+      "surface": "דר",
+      "gloss": "generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e generazione"
+    },
+    {
+      "surface": "על",
+      "gloss": "percio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(percio)"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "ti loderanno"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:16.408279368Z",
+  "model": "glm-5.3"
+}

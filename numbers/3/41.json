@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 3:41",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E prenderai ⟨את⟩ i leviti per me — io ⟨sono⟩ YHWH — al posto di ogni primogenito tra i figli d'Israele, e ⟨את⟩ il bestiame dei leviti al posto di ogni primogenito del bestiame dei figli d'Israele.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "e prenderai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i leviti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "i leviti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "primogenito"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "tra i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il bestiame dei leviti"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "il bestiame di"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "dei leviti"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primogenito"
+    },
+    {
+      "surface": "בבהמת",
+      "gloss": "del bestiame di"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:39.488343771Z",
+  "model": "glm-5.3"
+}

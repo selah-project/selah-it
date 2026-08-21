@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "« Comanda ⟨את⟩ i figli d'Israele e li mandino fuori dal campo: ogni lebbroso, e ogni che ha flusso, e ogni impuro per ⟨una⟩ nefesh.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Comanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "e li mandino"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fuori dal"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "lebbroso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "זב",
+      "gloss": "che ha flusso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impuro"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "per ⟨una⟩ nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:15.367371499Z",
+  "model": "glm-5.3"
+}

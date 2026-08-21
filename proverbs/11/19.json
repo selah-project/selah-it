@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Così la giustizia ⟨conduce⟩ alla vita, e chi insegue il male ⟨lo insegue⟩ per la propria morte.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "la giustizia"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "alla vita"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "e chi insegue"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "per la propria morte"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:08.764495800Z",
+  "model": "glm-5.3"
+}

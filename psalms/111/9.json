@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 111,
+  "translation": "Riscatto ⟨ha⟩ mandato al suo popolo; ha comandato per sempre il suo patto (berit); santo e tremendo ⟨è⟩ il suo Nome.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "riscatto"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ha mandato"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "al suo popolo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il suo patto (berit)"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "e tremendo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo Nome"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:31.032020433Z",
+  "model": "glm-5.3"
+}

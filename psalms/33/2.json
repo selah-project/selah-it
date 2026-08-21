@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Lodate YHWH con ⟨la⟩ cetra, con ⟨la⟩ lira a dieci corde; suonate per lui.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "con la cetra"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "con la lira"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "a dieci corde"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "suonate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:14.759333267Z",
+  "model": "glm-5.3"
+}

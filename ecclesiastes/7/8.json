@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Meglio la fine di una cosa del suo principio; meglio ⟨uno⟩ paziente ⟨di⟩ spirito di uno altero ⟨di⟩ spirito.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "la fine"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di una cosa"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "del suo principio"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "paziente"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "di spirito"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "di uno altero"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "di spirito"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:59.882861531Z",
+  "model": "glm-5.3"
+}

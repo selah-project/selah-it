@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Servirete YHWH, il vostro Elohim, ed ⟨egli⟩ benedirà ⟨את⟩ il tuo pane e ⟨את⟩ le tue acque; e toglierò la malattia dal tuo mezzo.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "servirete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "e benedirà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo pane"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "il tuo pane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le tue acque"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "le tue acque"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "e toglierò"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "la malattia"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dal tuo mezzo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:57.260375519Z",
+  "model": "glm-5.3"
+}

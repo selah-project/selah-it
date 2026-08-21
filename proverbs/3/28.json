@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Non dire al tuo prossimo: « Va' e torna, e domani darò », mentre c'è ⟨את⟩ con te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dire"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "al tuo prossimo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va'"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "e torna"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "e domani"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "darò"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "mentre c'è"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te",
+      "marks": "con te (preposizione את « con », non il marcatore di oggetto)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:52.888023389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E il messaggero andò, e venne, e riferì a Davide ⟨את⟩ tutto ciò che Ioab lo aveva mandato ⟨a dire⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "lo aveva mandato"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:06.675864915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Perché hai demolito le sue siepi, e la spogliano tutti i passanti della via?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "hai demolito"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "le sue siepi"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "e la spogliano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "i passanti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "della via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:17.105655859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Tuo ⟨sono⟩ io: salvami, perché i tuoi precetti ho cercato.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salvami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "i tuoi precetti"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ho cercato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:40.420330304Z",
+  "model": "glm-5.3"
+}

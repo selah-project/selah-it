@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Discorrono di me i sedenti alla ⟨portа⟩ porta, e ⟨io sono⟩ la canzone dei bevitori di shekar.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "discorrono"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di me"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "i sedenti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "alla porta"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "e ⟨sono⟩ la canzone"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "dei bevitori"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "di shekar"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:13.037531491Z",
+  "model": "glm-5.3"
+}

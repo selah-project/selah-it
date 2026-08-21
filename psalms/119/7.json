@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ti loderò con cuore retto, apprendendo i giudizi della tua giustizia.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ti loderò"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "con rettitudine"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "cuore"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "apprendendo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "i giudizi"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "della tua giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:44.661063239Z",
+  "model": "glm-5.3"
+}

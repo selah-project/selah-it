@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Nel giorno del nostro re i principi si sono ammalati per il fervore del vino; egli ha teso la mano con ⟨את⟩ i derisori.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "del nostro re"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "si sono ammalati"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "i principi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "il fervore"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "del vino"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ha teso"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i derisori"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "con i derisori"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:02.081978032Z",
+  "model": "glm-5.3"
+}

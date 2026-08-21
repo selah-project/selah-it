@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Se tu ci hai schiacciati nel luogo degli sciacalli, e ci hai coperti con l'ombra della morte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "ci hai schiacciati"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "degli sciacalli"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "e hai coperto"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "con l'ombra della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:38.613035652Z",
+  "model": "glm-5.3"
+}

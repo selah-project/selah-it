@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 44:13",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "L'artigiano del legno stende una corda, lo traccia con lo strumento, lo lavora con gli scalpelli, lo delinea con il compasso; lo fa a somiglianza di un uomo, secondo la bellezza dell'uomo, perché dimori in una casa.",
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "artigiano"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "del legno"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "stende"
+    },
+    {
+      "surface": "קו",
+      "gloss": "una corda"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "lo traccia"
+    },
+    {
+      "surface": "בשרד",
+      "gloss": "con lo strumento"
+    },
+    {
+      "surface": "יעשהו",
+      "gloss": "lo lavora"
+    },
+    {
+      "surface": "במקצעות",
+      "gloss": "con gli scalpelli"
+    },
+    {
+      "surface": "ובמחוגה",
+      "gloss": "e con il compasso"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "lo delinea"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "e lo fa"
+    },
+    {
+      "surface": "כתבנית",
+      "gloss": "a somiglianza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "כתפארת",
+      "gloss": "secondo la bellezza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "perché dimori"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in una casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:06.171991107Z",
+  "model": "glm-5.3"
+}

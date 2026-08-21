@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 23:9",
+  "book": "job",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "A sinistra, quando ⟨lui⟩ opera, e io non lo percepisco; si avvolge a destra, e io non vedo.",
+  "tokens": [
+    {
+      "surface": "שמאול",
+      "gloss": "a sinistra"
+    },
+    {
+      "surface": "בעשתו",
+      "gloss": "quando ⟨lui⟩ opera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "lo percepisco"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "si avvolge"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "a destra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "vedo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:53.740249533Z",
+  "model": "glm-5.3"
+}

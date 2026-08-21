@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Se incontri il bue del tuo nemico o il suo asino smarrito, riconducendolo riconduci ⟨esso⟩ a lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "incontri"
+    },
+    {
+      "surface": "שור",
+      "gloss": "il bue"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "del tuo nemico"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "il suo asino"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "smarrito"
+    },
+    {
+      "surface": "השב",
+      "gloss": "riconducendo"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "riconduci"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:32.502172524Z",
+  "model": "glm-5.3"
+}

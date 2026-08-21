@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "A Gat non annunciatelo, in pianto non piangete; a Bet-Leafrà nella polvere mi sono rotolato.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "A Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "annunciatelo"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "in pianto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "piangete"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leafrà"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "nella polvere"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "mi sono rotolato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:42.342773872Z",
+  "model": "glm-5.3"
+}

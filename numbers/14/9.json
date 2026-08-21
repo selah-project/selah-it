@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 14:9",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Solo, contro YHWH non ribellatevi; e voi, non temete ⟨את⟩ il popolo della terra, perché ⟨sono⟩ il nostro pane ⟨loro⟩; la loro ombra si è ritirata da sopra di loro, e YHWH ⟨את⟩-con noi: non li temete.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "contro YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמרדו",
+      "gloss": "ribellatevi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e voi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo della terra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "il nostro pane"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sono loro"
+    },
+    {
+      "surface": "סר",
+      "gloss": "si è ritirata"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "la loro ombra"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "da sopra di loro"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-con noi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראם",
+      "gloss": "li temete"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:59.884864222Z",
+  "model": "glm-5.3"
+}

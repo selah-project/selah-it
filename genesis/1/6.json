@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse Elohim: sia un firmamento in mezzo ⟨alle⟩ acque, e sia esso separazione tra acque e acque.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "un firmamento"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e sia"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "separazione"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "למים",
+      "gloss": "e acque"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:32.277134514Z",
+  "model": "glm-5.3"
+}

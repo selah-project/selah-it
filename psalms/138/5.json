@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 138,
+  "translation": "E canteranno le vie di YHWH, perché grande ⟨è⟩ la gloria di YHWH.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "e canteranno"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "le vie di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:50.525217100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E scacciò Salomone ⟨את⟩ Eviatàr dall'essere sacerdote di YHWH, per adempiere ⟨את⟩ la parola di YHWH che egli aveva parlato sulla casa di Eli a Shilo.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "e scacciò"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eviatàr"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Eviatàr"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "dall'essere"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sacerdote"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "per adempiere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parola"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di Eli"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "a Shilo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:56.406973278Z",
+  "model": "glm-5.3"
+}

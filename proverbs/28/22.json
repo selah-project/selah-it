@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Tremante per ⟨la⟩ ricchezza ⟨è⟩ l'uomo dall'occhio cattivo, e non conosce che la mancanza verrà su di lui.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "tremante"
+    },
+    {
+      "surface": "להון",
+      "gloss": "per ricchezza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cattivo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "la mancanza"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "verrà su di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:09.037928423Z",
+  "model": "glm-5.3"
+}

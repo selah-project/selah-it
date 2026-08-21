@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Scrutami, El, e conosci il mio cuore; provami e conosci i miei pensieri.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "scrutami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "e conosci"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "provami"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "e conosci"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "i miei pensieri"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.059157535Z",
+  "model": "glm-5.3"
+}

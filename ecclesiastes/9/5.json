@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Poiché i vivi sanno che moriranno, ma i morti non sanno più nulla, e non hanno più compenso, perché il loro ricordo ⟨è⟩ dimenticato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "i vivi"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "che moriranno"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "ma i morti"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "non"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nulla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non hanno"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "compenso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "dimenticato"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "il loro ricordo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:41.872131317Z",
+  "model": "glm-5.3"
+}

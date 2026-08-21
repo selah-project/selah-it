@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Come il fuoco incendia ⟨la⟩ foresta, e come la fiamma divampa ⟨su⟩ i monti —",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "come il fuoco"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "incendia"
+    },
+    {
+      "surface": "יער",
+      "gloss": "foresta"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "e come la fiamma"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "divampa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:27.779884818Z",
+  "model": "glm-5.3"
+}

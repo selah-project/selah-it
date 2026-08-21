@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Fuori non passò la notte lo straniero; la mia porta aprivo al viandante.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "passò la notte"
+    },
+    {
+      "surface": "גר",
+      "gloss": "lo straniero"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "la mia porta"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "al viandante"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "aprivo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:05.717975391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Poiché YHWH ha riportato indietro ⟨את⟩ l'orgoglio di Yaakov, come l'orgoglio di Israele; poiché i devastatori li hanno devastati e hanno rovinato i loro tralci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ha riportato indietro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'orgoglio di Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "l'orgoglio"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "come l'orgoglio"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "li hanno devastati"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "i devastatori"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "e i loro tralci"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "hanno rovinato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:52.619191315Z",
+  "model": "glm-5.3"
+}

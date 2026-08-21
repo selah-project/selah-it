@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "Luminoso ⟨sei⟩ tu, maestoso, più dei monti di preda.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Luminoso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "maestoso"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "più dei monti"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "di preda"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:38.288746627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Sii grazioso verso di me, YHWH, perché io sono sfinito; guariscimi, YHWH, perché le mie ossa sono sconvolte.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "sii grazioso verso di me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "sfinito"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "guariscimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sono sconvolte"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "le mie ossa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:44.518692539Z",
+  "model": "glm-5.3"
+}

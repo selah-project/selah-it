@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E ⟨lo⟩ sgozzò, e Mosè asperse ⟨את⟩ il sangue sull'altore, tutt'intorno.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "sgozzò"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "aspersе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sangue"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "על",
+      "gloss": "sull'"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutt'intorno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:19.694975926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E rispose Nabal ⟨את⟩ i servi di David e disse: chi è David e chi è il figlio di Yishai? Oggi si sono moltiplicati i servi che fuggono, ciascuno davanti al suo padrone.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i servi di David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "è David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "di Yishai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "si sono moltiplicati"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "che fuggono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "al suo padrone"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:43.526048670Z",
+  "model": "glm-5.3"
+}

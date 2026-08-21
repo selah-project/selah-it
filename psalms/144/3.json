@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "YHWH, che cosa ⟨è⟩ l'umano, che tu lo conosci? Il figlio del mortale, che tu lo consideri?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "che tu lo conosci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Il figlio"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "del mortale"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "che tu lo consideri"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:14.549490388Z",
+  "model": "glm-5.3"
+}

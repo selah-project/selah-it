@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Il ricordo della tua bontà grande effonderanno, e la tua giustizia canteranno.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "il ricordo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "della tua bontà"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "effonderanno"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "e la tua giustizia"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "canteranno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:48.543967481Z",
+  "model": "glm-5.3"
+}

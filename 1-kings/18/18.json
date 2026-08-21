@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E disse: «Non io ho turbato ⟨את⟩ Israele, ma tu e la casa di tuo padre, poiché avete abbandonato ⟨את⟩ i comandamenti di YHWH e sei andato dietro i Baal».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "io ho turbato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e la casa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "di tuo padre"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "avete abbandonato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i comandamenti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "i comandamenti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "e sei andato"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "i Baal"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:16.543798019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E disse Elohim a Bilam: non andare con loro e non maledire ⟨את⟩ il popolo, perché ⟨esso⟩ è benedetto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "andare"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "con loro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "maledire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "è benedetto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:15.472039238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Nel bene dei giusti esulta la città, e nella rovina dei malvagi ⟨c'è⟩ giubilo.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "nel bene"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "esulta"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "la città"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "e nella rovina"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "giubilo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:54.394251729Z",
+  "model": "glm-5.3"
+}

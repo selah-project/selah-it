@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ora: non è Boaz un nostro conoscente, con ⟨את⟩ le cui giovani sei stata? Ecco, egli stanotte vaglia ⟨את⟩ l'aia dell'orzo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E ora"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "un nostro conoscente"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "היית",
+      "gloss": "sei stata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue giovani"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "le sue giovani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "vaglia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'aia"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "l'aia"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "dell'orzo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "stanotte"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:59.538300096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Come un pastore pascerà il suo gregge; con il suo braccio raccoglierà gli agnelli e nel suo seno li porterà; condurrà piano le madri.",
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "come un pastore"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "il suo gregge"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "pascerà"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "con il suo braccio"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "raccoglierà"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "gli agnelli"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "e nel suo seno"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "porterà"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "le madri"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "condurrà piano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:13.844756090Z",
+  "model": "glm-5.3"
+}

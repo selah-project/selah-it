@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 141,
+  "translation": "Cadano i malvagi nelle loro stesse reti — io intanto passo oltre.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Cadano"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "nelle loro reti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme (intanto)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "passo oltre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:33.615106980Z",
+  "model": "glm-5.3"
+}

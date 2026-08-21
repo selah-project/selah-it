@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 5:4",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "YHWH, quando uscisti da Seir, quando passasti dal campo di Edom, la terra tremò, anche i cieli gocciarono, anche le nubi gocciarono acqua.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "quando uscisti"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "da Seir"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "quando passasti"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "dal campo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "di Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "tremò"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "gocciarono"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "le nubi"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "gocciarono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:33.600365154Z",
+  "model": "glm-5.3"
+}

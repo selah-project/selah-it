@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "Tutti noi come gregge siamo errati, ciascuno alla propria via ci siamo voltati; e YHWH ha fatto ricadere su di lui ⟨את⟩ l'iniquità di noi tutti.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "tutti noi"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "come gregge"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "siamo errati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "alla propria via"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "ci siamo voltati"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "ha fatto ricadere"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'iniquità di noi tutti"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "di noi tutti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:39.494927179Z",
+  "model": "glm-5.3"
+}

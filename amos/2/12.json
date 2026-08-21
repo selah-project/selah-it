@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E faceste bere ⟨את⟩ i nazirei di vino, e ai profeti comandaste, dicendo: non profetizzate.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "faceste bere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i nazirei"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "i nazirei"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "i profeti"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "comandaste"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "profetizzate"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:33.591905441Z",
+  "model": "glm-5.3"
+}

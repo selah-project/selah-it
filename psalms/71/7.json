@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Come un portento sono stato per molti, ma tu ⟨sei⟩ il mio rifugio, la mia forza.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "come un portento"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono stato"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "per molti"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "il mio rifugio"
+    },
+    {
+      "surface": "עז",
+      "gloss": "la mia forza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:36.942989559Z",
+  "model": "glm-5.3"
+}

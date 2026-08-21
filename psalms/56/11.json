@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "In Elohim loderò la parola, in YHWH loderò la parola.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "loderò"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "loderò"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:00.883175354Z",
+  "model": "glm-5.3"
+}

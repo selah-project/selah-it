@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E fece due keruvim d'oro, lavoro battuto li fece ⟨את⟩, alle due estremità del kaporet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fece"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "lavoro battuto"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (i keruvim)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "alle due"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "estremità"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "del kaporet"
+    }
+  ],
+  "timestamp": "2026-08-21T06:08:40.629783861Z",
+  "model": "glm-5.3"
+}

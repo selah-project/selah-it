@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Il dente, l'uno, ⟨era⟩ una sporgenza a settentrione di fronte a Mikmas, e l'altro a mezzogiorno di fronte a Ghevà.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "il dente"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "una sporgenza"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "a settentrione"
+    },
+    {
+      "surface": "מול",
+      "gloss": "di fronte a"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "e l'altro"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "a mezzogiorno"
+    },
+    {
+      "surface": "מול",
+      "gloss": "di fronte a"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Ghevà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:32.668633564Z",
+  "model": "glm-5.3"
+}

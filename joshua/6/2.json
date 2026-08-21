@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E disse YHWH a Yehoshua: Vedi, io ho dato in tua mano ⟨את⟩ Ierico e ⟨את⟩ il suo re, i prodi del valore.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Vedi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "io ho dato"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in tua mano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ierico"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Ierico"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo re"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "il suo re"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "i prodi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "del valore"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:44.419329452Z",
+  "model": "glm-5.3"
+}

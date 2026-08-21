@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Confida in YHWH con tutto il tuo cuore e sulla tua intelligenza non appoggiarti.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "confida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "la tua intelligenza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "appoggiarti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:36.005803846Z",
+  "model": "glm-5.3"
+}

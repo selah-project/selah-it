@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Perché tu hai formato i miei reni, mi hai intessuto nel grembo di mia madre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "hai formato"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "i miei reni"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "mi hai intessuto"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "nel grembo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "di mia madre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:01.699885773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E rispose YHWH ⟨את⟩ Giobbe dalla tempesta, e disse:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giobbe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Giobbe"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "tempesta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:16.084843529Z",
+  "model": "glm-5.3"
+}

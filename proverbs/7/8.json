@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "passando per la piazza, presso ⟨la⟩ sua cantonata, e lungo la strada verso la casa di lei si avviava a passi.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "passando"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "per la piazza"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "presso"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "sua cantonata"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "e lungo la strada"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "verso la casa di lei"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "si avviava a passi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:57.223575269Z",
+  "model": "glm-5.3"
+}

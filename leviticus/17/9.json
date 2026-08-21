@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "e all'ingresso della tenda del convegno non lo porterà per farlo ⟨את⟩ a YHWH — quell'uomo sarà reciso dal suo popolo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e all'ingresso"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "lo porterà"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "per farlo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a YHWH"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "sarà reciso"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "dal suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:40.394920904Z",
+  "model": "glm-5.3"
+}

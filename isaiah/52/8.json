@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Voce dei tuoi vedette! Alzeranno la voce, insieme giubileranno, perché occhio a occhio vedranno, al tornare di YHWH a Sion.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "dei tuoi vedette"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "alzeranno"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "giubileranno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perche"
+    },
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "a occhio"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vedranno"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "al tornare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "a Sion"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:17.166730385Z",
+  "model": "glm-5.3"
+}

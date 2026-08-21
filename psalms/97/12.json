@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 97,
+  "translation": "Rallegatevi, giusti, in YHWH, e rendete grazie al ricordo ⟨della⟩ sua santità",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "rallegatevi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "giusti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "e rendete grazie"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "al ricordo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sua santità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:42.377126998Z",
+  "model": "glm-5.3"
+}

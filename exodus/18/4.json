@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E il nome dell'altro ⟨era⟩ Elièzer, perché « l'Elohim di mio padre ⟨fu⟩ nel mio aiuto, e mi salvò dalla spada di Parò ».",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "e il nome"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "dell'altro"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Elièzer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "di mio padre"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "nel mio aiuto"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "e mi salvò"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dalla spada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Parò"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:59.194525267Z",
+  "model": "glm-5.3"
+}

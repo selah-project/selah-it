@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Poco a poco lo scaccerò da davanti a te, finché tu sia fecondo e possieda ⟨את⟩ la terra.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "poco"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "a poco"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "lo scaccerò"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "da davanti a te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "tu sia fecondo"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "e possieda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:47.991010351Z",
+  "model": "glm-5.3"
+}

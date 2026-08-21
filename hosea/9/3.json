@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Non abiteranno nella terra di YHWH, e Efraim tornerà in Egitto, e in Assiria mangeranno cibo impuro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "abiteranno"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "e tornerà"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "e in Assiria"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impuro"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:10.375322885Z",
+  "model": "glm-5.3"
+}

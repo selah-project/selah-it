@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E sgozzerà ⟨את⟩ l'uccello unico in un recipiente di terracotta, sopra acque vive.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "e sgozzerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uccello unico"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "l'uccello"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "unico"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "un recipiente"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "di terracotta"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vive"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:48.897045769Z",
+  "model": "glm-5.3"
+}

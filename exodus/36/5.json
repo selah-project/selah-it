@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E dissero a Mosè, dicendo: «Il porta più del necessario ⟨il popolo⟩ per il servizio dell'opera che YHWH ha comandato di fare ⟨את⟩».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "porta oltre misura"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "per portare"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "il necessario per il servizio"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "per l'opera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "essa (l'opera)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:05.567900168Z",
+  "model": "glm-5.3"
+}

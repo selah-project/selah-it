@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Se il Ruach del sovrano sale contro di te, non lasciare il tuo posto, perché la calma fa cessare peccati grandi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il Ruach"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "del sovrano"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "sale"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "il tuo posto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lasciare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "la calma"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "fa cessare"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "peccati"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "grandi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:41.388678010Z",
+  "model": "glm-5.3"
+}

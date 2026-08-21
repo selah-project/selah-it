@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "e dalle terre li ha radunati, dall'est e dall'ovest, dal nord e dal mare.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "e dalle terre"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "li ha radunati"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "dall'est"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "e dall'ovest"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "dal nord"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e dal mare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:34.837612379Z",
+  "model": "glm-5.3"
+}

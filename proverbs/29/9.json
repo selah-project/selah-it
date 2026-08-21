@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Un uomo saggio contende con ⟨את⟩ l'uomo stolto — s'infuria o ride, e non ⟨c'è⟩ riposo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "contende (si giudica)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo stolto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "stolto"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "s'infuria"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "o ride"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "riposo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:53.896346522Z",
+  "model": "glm-5.3"
+}

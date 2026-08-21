@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E le piazze della città si riempiranno di bambini e bambine che giocano nelle sue piazze.",
+  "tokens": [
+    {
+      "surface": "ורחובות",
+      "gloss": "e le piazze"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "si riempiranno"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "di bambini"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "e bambine"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "che giocano"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "nelle sue piazze"
+    }
+  ],
+  "timestamp": "2026-08-21T08:41:44.424817519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Afflitto ⟨sono⟩ io e morente dalla giovinezza: ho portato i tuoi terrori, ⟨e⟩ vengo meno.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "afflitto"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "e morente"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "dalla giovinezza"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ho portato"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "i tuoi terrori"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "vengo meno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:22.560610674Z",
+  "model": "glm-5.3"
+}

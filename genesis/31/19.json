@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E Lavan era andato a tosare ⟨את⟩ il suo gregge, e Rachele rubò ⟨את⟩ i terafim che ⟨erano⟩ di suo padre.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "E Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "era andato"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "a tosare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo gregge"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "il suo gregge"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "e rubò"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "i terafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "di suo padre"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:26.419862568Z",
+  "model": "glm-5.3"
+}

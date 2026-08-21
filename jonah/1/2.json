@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Àlzati, vai a Ninive, ⟨la⟩ città grande, e proclama contro di lei, perché la loro malvagità è salita davanti a me.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "וקקרא",
+      "gloss": "e proclama",
+      "note": "surface corretta וקרא"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contro di lei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "è salita"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "la loro malvagità"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:35.732014694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Uno straniero sono diventato per i miei fratelli, e un forestiero per i figli di mia madre.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "uno straniero"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono diventato"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "per i miei fratelli"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "e un forestiero"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "di mia madre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:24.341703947Z",
+  "model": "glm-5.3"
+}

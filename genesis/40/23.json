@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E non si ricordò il capo dei coppieri ⟨את⟩ Yosef, e lo dimenticò.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "si ricordò"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "dei coppieri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "e lo dimenticò"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:42.669217883Z",
+  "model": "glm-5.3"
+}

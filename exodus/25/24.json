@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E la rivestirai ⟨אתו⟩ d'oro puro, e le farai una corona d'oro tutt'intorno.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "e rivestirai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ la",
+      "marks": "la tavola"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a essa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "una corona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutt'intorno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:01.896576801Z",
+  "model": "glm-5.3"
+}

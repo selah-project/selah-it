@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse YHWH: «Tu hai avuto pietà del qiqajon, per il quale non hai faticato e che non hai fatto crescere; figlio di una notte ⟨fu⟩, e figlio di una notte perì».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "hai avuto pietà"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "il qiqajon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "per il quale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "hai faticato"
+    },
+    {
+      "surface": "בו",
+      "gloss": "per esso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "hai fatto crescere"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "una notte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e figlio di"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "una notte"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "perì"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:46.990128758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Siano desolati a causa della loro vergogna, quelli che dicono di me: « Aha, aha! »",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "siano desolati"
+    },
+    {
+      "surface": "על",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "in ragione di"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "della loro vergogna"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "quelli che dicono"
+    },
+    {
+      "surface": "לי",
+      "gloss": "di me"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:57.168016954Z",
+  "model": "glm-5.3"
+}

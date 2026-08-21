@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "E i miei nemici ⟨sono⟩ vivi e forti, e si sono moltiplicati quelli che mi odiano ⟨senza causa⟩.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "e i miei nemici"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "forti"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "e si sono moltiplicati"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "quelli che mi odiano"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "senza causa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:27.456529532Z",
+  "model": "glm-5.3"
+}

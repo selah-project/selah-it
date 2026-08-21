@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Vengano meno i peccatori dalla terra, e i malvagi più non siano. Benedici, anima mia, ⟨את⟩ YHWH. Lodate Yah.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "Vengano meno"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "i peccatori"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "e i malvagi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "non siano"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Benedici"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "anima mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:09.724556414Z",
+  "model": "glm-5.3"
+}

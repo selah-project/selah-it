@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Ma stendi ora la tua mano e tocca il suo osso e la sua carne: se non ti benedirà in faccia a te!",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stendi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "e tocca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "il suo osso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in faccia a"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "te"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ti benedirà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:18.489198363Z",
+  "model": "glm-5.3"
+}

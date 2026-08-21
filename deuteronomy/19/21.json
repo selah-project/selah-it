@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E il tuo occhio non abbia pietà: nefesh per nefesh, occhio per occhio, dente per dente, mano per mano, piede per piede.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "abbia pietà"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "il tuo occhio"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "per nefesh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "per occhio"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dente"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "per dente"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mano"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "piede"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "per piede"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:06.334921458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E come volgeresti ⟨את⟩ il volto di un solo prefatto dei servi minori del mio signore, e ti affidi per te sull'Egitto, per carri e per cavalieri?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "e come"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "volgeresti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il volto"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "prefatto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "di un solo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dei servi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "del mio signore"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "minori"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "e ti affidi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "per carri"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "e per cavalieri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:59.457007194Z",
+  "model": "glm-5.3"
+}

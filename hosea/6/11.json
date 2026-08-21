@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Anche per te, Yehudah, ⟨è⟩ posto un raccolto, quando io farò tornare la schiavitù ⟨את⟩ del mio popolo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שת",
+      "gloss": "posto"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "un raccolto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "quando io farò tornare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la schiavitù del mio popolo"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "la schiavitù"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "del mio popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:46.688238563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E venne Zimri e lo percosse e lo mise a morte, nell'anno ventisettesimo di Asa, re di Giuda, e regnò al suo posto.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "e lo percosse"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "e lo mise a morte"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e sette"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "di Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e regnò"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "al suo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:19.036035281Z",
+  "model": "glm-5.3"
+}

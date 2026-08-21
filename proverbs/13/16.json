@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Ogni accorto agisce con conoscenza, ma lo stolto distende la stoltezza.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "accorto"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "agisce"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "con conoscenza"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ma lo stolto"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "distende"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "la stoltezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:02.675868632Z",
+  "model": "glm-5.3"
+}

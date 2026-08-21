@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Allora squarcerà come l'aurora la tua luce, e la tua ferita presto germoglierà; e camminerà davanti a te la tua giustizia, la gloria di YHWH ti raccoglierà.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "squarcerà"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "come l'aurora"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "la tua luce"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "e la tua ferita"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "presto"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "germoglierà"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "e camminerà"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "ti raccoglierà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:51.584000855Z",
+  "model": "glm-5.3"
+}

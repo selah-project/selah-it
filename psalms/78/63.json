@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Il fuoco divorò i suoi giovani, e le sue vergini non furono lodate ⟨con canto nuziale⟩.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "i suoi giovani"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "divorò"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "e le sue vergini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "furono lodate ⟨con canto nuziale⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:53.397698650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Con la bocca l'ipocrita rovina il suo prossimo, ma con la conoscenza i giusti saranno liberati.",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "con la bocca"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "l'ipocrita"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "rovina"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ma con la conoscenza"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "saranno liberati"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:54.394031870Z",
+  "model": "glm-5.3"
+}

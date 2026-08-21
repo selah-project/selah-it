@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E il re disse alla donna: «Va' a casa tua, e io darò ordine per te».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "alla donna"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "va'"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "a casa tua"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "darò ordine"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "per te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:38.738695826Z",
+  "model": "glm-5.3"
+}

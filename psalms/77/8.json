@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Per sempre Adonai respingerà? E non aggiungerà più a favore?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "per sempre?"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "respingerà"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "aggiungerà"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "a favore"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:19.705188297Z",
+  "model": "glm-5.3"
+}

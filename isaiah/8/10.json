@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Tramate un piano e sarà annientato; pronunziate una parola e non starà in piedi, perché con noi ⟨è⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "tramate"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "un piano"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "e sarà annientato"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pronunziate"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "starà in piedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "con noi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:14.862184379Z",
+  "model": "glm-5.3"
+}

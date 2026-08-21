@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Ha volto ⟨lo sguardo⟩ alla preghiera dell'abbandonato, e non ha disprezzato ⟨את⟩ la loro preghiera.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ha volto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "alla preghiera"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "dell'abbandonato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ha disprezzato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro preghiera"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "la loro preghiera"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:58.821135168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Insieme contro di me sussurrano tutti i miei nemici; contro di me tramano il male per me.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "sussurrano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "tramano"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:44.241151205Z",
+  "model": "glm-5.3"
+}

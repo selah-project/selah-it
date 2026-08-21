@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Occhi io ero per ⟨il⟩ cieco, e piedi per ⟨lo⟩ zoppo io ⟨sono⟩.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "occhi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "io ero"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "per ⟨il⟩ cieco"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "e piedi"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "per ⟨lo⟩ zoppo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io ⟨sono⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:23.574922625Z",
+  "model": "glm-5.3"
+}

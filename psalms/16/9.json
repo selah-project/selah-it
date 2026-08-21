@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Perciò si rallegra il mio cuore e giubila la mia gloria; anche la mia carne dimora al sicuro.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "percioò"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "si rallegra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "e giubila"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "la mia gloria"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "la mia carne"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "dimora"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "al sicuro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:30.796042101Z",
+  "model": "glm-5.3"
+}

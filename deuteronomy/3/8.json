@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E prendemmo in quel tempo ⟨את⟩ la terra dalla mano dei due re degli Emorei, che ⟨erano⟩ oltre il Giordano, dal torrente Arnon fino al monte Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "e prendemmo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in quel tempo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dei due"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "re"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "degli Emorei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "dal torrente"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "al monte"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:29.836105423Z",
+  "model": "glm-5.3"
+}

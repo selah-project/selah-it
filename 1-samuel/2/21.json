@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Poiché YHWH visitò ⟨את⟩ Channah, ed ella concepì e partorì tre figli e due figlie; e il ragazzo Shemuel crebbe con YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "visitò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ed ella concepì"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "e due"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "figlie"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "e crebbe"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il ragazzo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:21.792434765Z",
+  "model": "glm-5.3"
+}

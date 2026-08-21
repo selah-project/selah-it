@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "⟨את⟩ il kokès, e ⟨את⟩ lo yanshùf, e il tinshemèt",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il kokès"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "il kokès"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lo yanshùf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "lo yanshùf"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "e il tinshemèt"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:48.860171686Z",
+  "model": "glm-5.3"
+}

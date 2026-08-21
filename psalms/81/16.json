@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Quelli che odiano YHWH lo lusingherebbero, e la loro durata sarebbe per sempre.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "quelli che odiano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "lo lusingherebbero"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e sarebbe"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "la loro durata"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:40.075989756Z",
+  "model": "glm-5.3"
+}

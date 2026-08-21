@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E comandai ⟨את⟩ ai vostri giudici in quel tempo, dicendo: ascoltate tra i vostri fratelli e giudicate con giustizia, tra un uomo e tra suo fratello e tra il suo straniero.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "e comandai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ai vostri giudici"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "ai vostri giudici"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel tempo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "i vostri fratelli"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "e giudicate"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "con giustizia"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "il suo straniero"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:28.389442449Z",
+  "model": "glm-5.3"
+}

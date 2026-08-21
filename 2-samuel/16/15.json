@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E Avshalom e tutto il popolo, gli uomini di Israele, entrarono a Gerusalemme, e Achitofel ⟨era⟩ con lui ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "e Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "באו",
+      "gloss": "entrarono"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "e Achitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "con lui ⟨את⟩",
+      "marks": "Achitofel"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:38.179016301Z",
+  "model": "glm-5.3"
+}

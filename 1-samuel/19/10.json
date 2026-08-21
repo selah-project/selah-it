@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Shaùl cercò di colpire con la lancia David ⟨e⟩ ⟨il⟩ muro; ma David si scansò dal cospetto di Shaùl, ed egli conficcò ⟨את⟩ la lancia nel muro. E David fuggì e si salvò quella notte.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "e cercò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaùl"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "di colpire"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "con la lancia"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "e ⟨il⟩ muro"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "si scansò"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dal cospetto di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaùl"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ed egli conficcò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la lancia"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "la lancia"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "nel muro"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e David"
+    },
+    {
+      "surface": "נס",
+      "gloss": "fuggì"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "e si salvò"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "quella notte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "stessa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:53.392504636Z",
+  "model": "glm-5.3"
+}

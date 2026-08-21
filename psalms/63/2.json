@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Elohim, ⟨il⟩ mio El, tu ⟨sei⟩; ti cerco all'alba, ha sete di te la mia nefesh, anela a te la mia carne, in terra arida e affaticata, senza acqua.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "il mio El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ⟨sei⟩"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ti cerco all'alba"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ha sete"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di te"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "anela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "la mia carne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in terra"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "arida"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "e affaticata"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:03.492770032Z",
+  "model": "glm-5.3"
+}

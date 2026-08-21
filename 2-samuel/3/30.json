@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Ioab e Avishai suo fratello uccisero Avner, perché egli aveva ucciso ⟨את⟩ Asael loro fratello a Givon, in battaglia.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "e Ioab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "e Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "uccisero"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "המית",
+      "gloss": "aveva ucciso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asael"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "loro fratello"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "a Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in battaglia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:43.240203568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Morte e vita ⟨sono⟩ in mano alla lingua, e chi la ama ne mangerà il frutto.",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "e vita"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "alla lingua"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "e chi la ama"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "il suo frutto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:28.173541312Z",
+  "model": "glm-5.3"
+}

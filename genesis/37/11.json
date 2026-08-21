@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E i suoi fratelli lo invidiarono; ma suo padre custodì ⟨את⟩ la parola.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "e lo invidiarono"
+    },
+    {
+      "surface": "בו",
+      "gloss": "verso di lui"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ma suo padre"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "custodì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parola"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parola"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:52.560248298Z",
+  "model": "glm-5.3"
+}

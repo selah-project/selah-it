@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Fuori resterai in piedi, e l'uomo verso cui hai un credito porterà fuori a te ⟨את⟩ il pegno, all'aperto.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Fuori"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "resteraі in piedi"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "verso cui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "hai un credito"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "porterà fuori"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il pegno"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "il pegno"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "all'aperto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:16.186689601Z",
+  "model": "glm-5.3"
+}

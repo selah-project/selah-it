@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "il re di Afek, uno; il re di Lasharon, uno.",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אֲפֵק֙",
+      "gloss": "di Afek"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "il re"
+    },
+    {
+      "surface": "לַשָּׁר֖וֹן",
+      "gloss": "di Lasharon"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:15.570405116Z",
+  "model": "glm-5.3"
+}

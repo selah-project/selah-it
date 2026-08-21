@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Perché avete detto: « YHWH ha suscitato per noi profeti a Babilonia ».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "avete detto"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ha suscitato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "a Babilonia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:07:23.446956183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Mosè fece uscire ⟨את⟩ il popolo dall'incontro con ⟨il⟩ Dio dal campo, e si fermarono ai piedi del monte.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "fece uscire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "dall'incontro con"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "e si fermarono"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "ai piedi di"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:35.611539587Z",
+  "model": "glm-5.3"
+}

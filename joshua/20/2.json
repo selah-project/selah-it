@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Parla ai figli d'Israele, dicendo: assegnatevi ⟨את⟩ le città di rifugio delle quali vi ho parlato per mano di Mosè,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "assegnate"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le città di rifugio"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "di rifugio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "delle quali"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "משה",
+      "gloss": "di Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:56:13.618422250Z",
+  "model": "glm-5.3"
+}

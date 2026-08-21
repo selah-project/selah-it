@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 126,
+  "translation": "Torna, YHWH, ⟨את⟩ la nostra sorte, come i torrenti nel Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Torna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nostra sorte"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "la nostra sorte"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "come i torrenti"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "nel Negev"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:11.325159042Z",
+  "model": "glm-5.3"
+}

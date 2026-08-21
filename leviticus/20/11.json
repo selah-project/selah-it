@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E l'uomo che giace ⟨את⟩ con la moglie di suo padre — la nudità di suo padre egli ha scoperto — saranno messi a morte tutti e due: il loro sangue ⟨è⟩ su di loro.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "giace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la moglie di suo padre"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la moglie"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudità"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ha scoperto"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "saranno messi a morte"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tutti e due"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "il loro sangue"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:21.725666188Z",
+  "model": "glm-5.3"
+}

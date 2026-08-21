@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E aizzerò egiziani contro egiziani, e si faranno guerra l'uno con suo fratello e l'uno con il suo prossimo, città con città, regno con regno.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "E aizzerò"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egiziani"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "contro egiziani"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "e si faranno guerra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "con suo fratello"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e l'uno"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "con il suo prossimo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "città"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "con città"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "regno"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "con regno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:15.715004005Z",
+  "model": "glm-5.3"
+}

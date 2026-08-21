@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Si moltiplichino i loro idoli-dolori ⟨ coloro che ⟩ corrono dietro a un altro: io non offrirò le loro libazioni di sangue, e non porterò ⟨את⟩ i loro nomi sulle mie labbra.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Si moltiplichino"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "i loro idoli-dolori"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "a un altro"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "corrono"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "offrirò"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "le loro libazioni"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "di sangue"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "porterò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro nomi"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "i loro nomi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "le mie labbra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:40.437896760Z",
+  "model": "glm-5.3"
+}

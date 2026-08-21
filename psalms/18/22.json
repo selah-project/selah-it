@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Poiché ho custodito le vie di YHWH e non ho agito da malvagio ⟨lontano⟩ dal mio Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ho custodito"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "le vie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ho agito da malvagio"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "dal mio Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:48.072228841Z",
+  "model": "glm-5.3"
+}

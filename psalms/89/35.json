@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Non profanerò il mio patto, e ciò che esce dalle mie labbra non cambierò.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "profanerò"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "e ciò che esce"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dalle mie labbra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "cambierò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:33.832126891Z",
+  "model": "glm-5.3"
+}

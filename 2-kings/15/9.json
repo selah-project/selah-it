@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 15:9",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E fece il male agli occhi di YHWH, come avevano fatto i suoi padri; non si allontanò dai peccati di Ieroboam figlio di Nebat, con cui aveva fatto peccare ⟨את⟩ Israele.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "avevano fatto"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "סר",
+      "gloss": "si allontanò"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "dai peccati"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "di Ieroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "di Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "aveva fatto peccare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:09.369776089Z",
+  "model": "glm-5.3"
+}

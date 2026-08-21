@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Il grano del pane si macina ⟨perché⟩ non per sempre lo trebbia trebbiando, né lo faccia rotolare la ruota del suo carro, e i suoi cavalli non lo stritoleranno.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "il grano del pane"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "si macina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨perché⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "trebbia"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "trebbiando"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "lo faccia rotolare"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "la ruota"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "del suo carro"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "e i suoi cavalli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "lo stritoleranno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:04.969951622Z",
+  "model": "glm-5.3"
+}

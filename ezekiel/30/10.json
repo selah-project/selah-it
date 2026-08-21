@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Così dice Adonai YHWH: farò cessare ⟨את⟩ la moltitudine dell'Egitto per mano di Nebukadretsar, re di Babilonia.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "farò cessare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la moltitudine dell'Egitto"
+    },
+    {
+      "surface": "המון",
+      "gloss": "la moltitudine"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dell'Egitto"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano di"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonia"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:15.561434942Z",
+  "model": "glm-5.3"
+}

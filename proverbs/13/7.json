@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "C'è chi si fa ricco e non ha nulla, chi si fa povero e ⟨ha⟩ ricchezza grande.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "c'è chi"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "si fa ricco"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nulla"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "si fa povero"
+    },
+    {
+      "surface": "והון",
+      "gloss": "e ricchezza"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:38.403706851Z",
+  "model": "glm-5.3"
+}

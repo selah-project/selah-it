@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E YHWH ti mandò per via e disse: «Va' e vota allo sterminio ⟨את⟩ i peccatori, ⟨את⟩ Amaleq, e combatti contro di loro finché li avrai consumati.»",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "e ti mandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per via"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "e voterai allo sterminio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i peccatori"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "i peccatori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "e combatterai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "contro di lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "li avrai consumati"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:38.108077040Z",
+  "model": "glm-5.3"
+}

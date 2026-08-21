@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E questo è come la farai ⟨את⟩: trecento cubiti la lunghezza dell'arca, cinquanta cubiti la sua larghezza e trenta cubiti la sua altezza.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "e questo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "la farai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "trecento cubiti (l'arca)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubiti"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "la lunghezza"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "dell'arca"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquanta"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubiti"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "la sua larghezza"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e trenta"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubiti"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "la sua altezza"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:25.743093327Z",
+  "model": "glm-5.3"
+}

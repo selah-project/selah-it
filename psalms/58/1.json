@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Al direttore del coro. ⟨Al-tashchet⟩ (« Non distruggere »). Di Davide. Miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "distruggere (Al-tashchet)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam (iscrizione\/poema)"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:02.836355830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 140,
+  "translation": "Non dare, YHWH, i desideri del malvagio; il suo piano non far riuscire — ⟨che⟩ non si innalzino. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "i desideri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "il suo piano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "far riuscire"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "si innalzino"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:38.659082462Z",
+  "model": "glm-5.3"
+}

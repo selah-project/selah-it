@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Il tuo regno ⟨è⟩ regno di tutti i secoli, e il tuo dominio in ogni generazione e generazione.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "il tuo regno"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "regno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti i"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "secoli"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "e il tuo dominio"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ogni"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generazione"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "e generazione"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:01.309435736Z",
+  "model": "glm-5.3"
+}

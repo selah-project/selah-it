@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Tutto ciò che YHWH volle, egli lo fece: nei cieli e nella terra, nei mari e in tutti gli abissi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "volle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "e nella terra"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nei mari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e in tutti"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "gli abissi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:16.572099300Z",
+  "model": "glm-5.3"
+}

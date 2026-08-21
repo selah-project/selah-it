@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 138,
+  "translation": "Perché alto ⟨è⟩ YHWH, e vede l'umile; ma l'altero lo conosce da lontano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רם",
+      "gloss": "alto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "e l'umile"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ma l'altero"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "da lontano"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "lo conosce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:50.525439915Z",
+  "model": "glm-5.3"
+}

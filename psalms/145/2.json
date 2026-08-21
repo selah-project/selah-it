@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Ogni giorno ti benedirò, e loderò il tuo nome per sempre e in eterno.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Ogni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ti benedirò"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "e loderò"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:12.077034080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Di imprecazioni ⟨è⟩ piena la sua bocca, e d'inganno e di frode; sotto la sua lingua ⟨sono⟩ fatica e iniquità.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "imprecazioni"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "la sua bocca"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "piena"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "e d'inganno"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "e di frode"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "la sua lingua"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fatica"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "e iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:21.866889035Z",
+  "model": "glm-5.3"
+}

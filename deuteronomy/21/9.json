@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Così tu estinguerai il sangue ⟨il⟩ innocente dal tuo mezzo, perché fai ciò che è retto agli occhi di YHWH.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "così tu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "estinguerai"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "innocente"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dal tuo mezzo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fai"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ciò che è retto"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:48.201528344Z",
+  "model": "glm-5.3"
+}

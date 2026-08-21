@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E in una casa di banchetto non entrerai, per sederti ⟨con loro⟩, per mangiare e per bere.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "e in una casa"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "di banchetto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "entrerai"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "per sederti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "per mangiare"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "e per bere"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:10.316952097Z",
+  "model": "glm-5.3"
+}

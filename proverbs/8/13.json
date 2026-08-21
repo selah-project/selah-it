@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 8:13",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Il timore di YHWH ⟨è⟩ odiare il male: l'arroganza e la superbia, la via del male e la bocca perversa, io le odio.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "il timore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "odiare"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "l'arroganza"
+    },
+    {
+      "surface": "וגאון",
+      "gloss": "e la superbia"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "רע",
+      "gloss": "del male"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "e la bocca"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "perversa"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "io le odio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:54.899775137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Figli dell'uomo, fino a quando la mia gloria ⟨sarà⟩ per vergogna? Amate il vuoto, cercate la menzogna. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Figli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quando"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "la mia gloria"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "per vergogna"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Amate"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "il vuoto"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "cercate"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "la menzogna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:27.223110916Z",
+  "model": "glm-5.3"
+}

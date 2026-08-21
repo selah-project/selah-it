@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Elohim mio, strappami in salvo dalla mano del malvagio, dal palmo del perverso e del violento.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "strappami in salvo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dal palmo"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "del perverso"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "e del violento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:19.851983924Z",
+  "model": "glm-5.3"
+}

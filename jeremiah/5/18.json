@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E anche in quei giorni, oracolo di YHWH, non farò ⟨את⟩ voi uno sterminio completo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in giorni"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "quei"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "farò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "uno sterminio completo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:00:27.027619560Z",
+  "model": "glm-5.3"
+}

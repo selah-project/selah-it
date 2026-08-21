@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 21:21",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Ecco, io porto su di te la sventura, e ti sterminerò, e sterminerò ad Achab chi orina contro il muro, il rinchiuso e il lasciato, in Israele.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "מבי",
+      "gloss": "io porto"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "la sventura"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "e ti sterminerò"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dopo di te"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e sterminerò"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ad Achav"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "chi orina"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "contro il muro"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "il rinchiuso"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "e il lasciato"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:55.308554791Z",
+  "model": "glm-5.3"
+}

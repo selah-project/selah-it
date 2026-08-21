@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Le tue vie, YHWH, fammi conoscere; i tuoi sentieri insegnami.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "le tue vie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fammi conoscere"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "i tuoi sentieri"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "insegnami"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:32.979943574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Quanto sono numerose le tue opere, YHWH! Tutte le hai fatte con sapienza; ⟨la⟩ terra è piena delle tue creature.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "sono numerose"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "le tue opere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "con sapienza"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "le hai fatte"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "è piena"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terra"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "delle tue creature"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:14.249078726Z",
+  "model": "glm-5.3"
+}

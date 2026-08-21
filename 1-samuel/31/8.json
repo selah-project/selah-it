@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E avvenne il giorno dopo che i Filistei vennero a spogliare ⟨את⟩ i cadaveri, e trovarono ⟨את⟩ Saulo e ⟨את⟩ i suoi tre figli caduti sul monte Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "il giorno dopo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "che vennero"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "a spogliare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cadaveri"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "i cadaveri"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "e trovarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saulo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi tre figli"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "e i tre"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "suoi figli"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "caduti"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:44.682195400Z",
+  "model": "glm-5.3"
+}

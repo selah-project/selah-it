@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Perché con perfidia hanno agito perfidamente verso di me la casa d'Israele e la casa di Giuda, oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "con perfidia"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hanno agito perfidamente"
+    },
+    {
+      "surface": "בי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e la casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:59:34.887178571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E avvenne, al venire di Avram in Egitto, che gli Egizi videro ⟨את⟩ la donna, che molto bella ⟨era⟩ lei.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "al venire"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "che videro"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "gli Egizi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la donna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bella"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:02.287189224Z",
+  "model": "glm-5.3"
+}

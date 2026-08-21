@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Se il serpente morde perché non ⟨c'è⟩ incantesimo, non c'è vantaggio per il padrone della lingua.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "morde"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "il serpente"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "incantesimo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "vantaggio"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "per il padrone"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "della lingua"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:01.873954774Z",
+  "model": "glm-5.3"
+}

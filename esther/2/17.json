@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 2:17",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E il re amò ⟨את⟩ Ester più di tutte le donne, ed ella trovò grazia e chesed davanti a lui più di tutte le vergini; ed egli pose la corona del regno sul suo capo e la fece regnare al posto di Vashti.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "e amò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "più di tutte"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ed ella trovò"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grazia"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "e chesed"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "più di tutte"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "le vergini"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ed egli pose"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "la corona"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "del regno"
+    },
+    {
+      "surface": "בראשה",
+      "gloss": "sul suo capo"
+    },
+    {
+      "surface": "וימליכה",
+      "gloss": "e la fece regnare"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:35.016240662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "E se con uno strumento di ferro lo colpisce ed egli muore: omicida ⟨è⟩ lui, morendo morirà l'omicida.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "con uno strumento"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "di ferro"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "lo colpisce"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ed egli muore"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "omicida"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morendo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "morirà"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "l'omicida"
+    }
+  ],
+  "timestamp": "2026-08-21T06:38:47.272703666Z",
+  "model": "glm-5.3"
+}

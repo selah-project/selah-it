@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Perché il mio messaggero camminerà davanti a te e ti condurrà dall'Emoreo, dall'Hittita, dal Perizzita, dal Kenaaneo, dal Hivveo e dal Yebuseo, e io li sterminerò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "camminerà"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "il mio messaggero"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "e ti condurrà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dall'"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoreo"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e dall'Hittita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e dal Perizzita"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "e dal Kenaaneo"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "dal Hivveo"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e dal Yebuseo"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "e io li sterminerò"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:59.179573597Z",
+  "model": "glm-5.3"
+}

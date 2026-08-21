@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Un uomo oppresso ⟨per⟩ il sangue di una ⟨nefesh⟩ fino alla fossa fuggirà; non lo sostengano.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "oppresso"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "⟨per⟩ il sangue"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בור",
+      "gloss": "alla fossa"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "fuggirà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "lo sostengano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:11.804071414Z",
+  "model": "glm-5.3"
+}

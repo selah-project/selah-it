@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse l'uomo: «La donna che tu hai posto con me — lei mi ha dato dell'albero, e io ho mangiato».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tu hai posto"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "l'albero"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "e ho mangiato"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:02.321387353Z",
+  "model": "glm-5.3"
+}

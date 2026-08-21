@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "La terra tremò, anche i cieli stillarono davanti a Elohim — questo ⟨è⟩ Sinai — davanti a Elohim, l'Elohim di Israele.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "tremò"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "stillarono"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.492606617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "che dicono di te con malizia, ⟨che⟩ sollevano per vanità ⟨il tuo nome⟩, i tuoi nemici.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "dicono di te"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "con malizia"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "sollevano"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "per vanità"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "i tuoi nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:52.158502826Z",
+  "model": "glm-5.3"
+}

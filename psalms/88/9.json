@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Hai allontanato da me i miei conoscenti, mi hai reso per loro ⟨un⟩ aborrito: ⟨sono⟩ rinchiuso, e non uscirò.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "hai allontanato"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "i miei conoscenti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "mi hai posto"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "un aborrito"
+    },
+    {
+      "surface": "למו",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "rinchiuso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "uscirò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:17.872039689Z",
+  "model": "glm-5.3"
+}

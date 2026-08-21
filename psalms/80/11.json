@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "I monti furono coperti dalla sua ombra, e i suoi rami ⟨furono come⟩ cedri di El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "furono coperti"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "dalla sua ombra"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "e i suoi rami"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedri di"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:28.311344927Z",
+  "model": "glm-5.3"
+}

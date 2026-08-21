@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "e invocami nel giorno della angustia: io ti libererò, e tu mi glorificherai.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "e invocami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "della angustia"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "io ti libererò"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "e tu mi glorificherai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:10.383388623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Solo, nessuno contenda né rampogni un altro; e il tuo popolo ⟨è⟩ come chi contende con il sacerdote.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nessuno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "contenda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "né"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "rampogni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un altro"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "e il tuo popolo"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "come chi contende"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "con il sacerdote"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:40.528459944Z",
+  "model": "glm-5.3"
+}

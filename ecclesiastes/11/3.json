@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Se le nubi si riempiono di pioggia, sulla terra la rovesciano; e se un albero cade a sud o a nord, nel luogo dove l'albero cade, là ⟨esso⟩ sarà.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "יִמָּלְא֨וּ",
+      "gloss": "si riempiono"
+    },
+    {
+      "surface": "הֶעָבִ֥ים",
+      "gloss": "le nubi"
+    },
+    {
+      "surface": "גֶּ֨שֶׁם֙",
+      "gloss": "di pioggia"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "su"
+    },
+    {
+      "surface": "הָאָ֣רֶץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "יָרִ֔יקוּ",
+      "gloss": "la rovesciano"
+    },
+    {
+      "surface": "וְאִם֩",
+      "gloss": "e se"
+    },
+    {
+      "surface": "יִפּ֥וֹל",
+      "gloss": "cade"
+    },
+    {
+      "surface": "עֵ֛ץ",
+      "gloss": "un albero"
+    },
+    {
+      "surface": "בַּדָּר֖וֹם",
+      "gloss": "a sud"
+    },
+    {
+      "surface": "וְאִם֣",
+      "gloss": "o"
+    },
+    {
+      "surface": "בַּצָּפ֑וֹן",
+      "gloss": "a nord"
+    },
+    {
+      "surface": "מָק֛וֹם",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "שֶׁיִּפּ֥וֹל",
+      "gloss": "dove cade"
+    },
+    {
+      "surface": "הָעֵ֖ץ",
+      "gloss": "l'albero"
+    },
+    {
+      "surface": "שָׁ֥ם",
+      "gloss": "là"
+    },
+    {
+      "surface": "יְהֽוּא",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:50.904573535Z",
+  "model": "glm-5.3"
+}

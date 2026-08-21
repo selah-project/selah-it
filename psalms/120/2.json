@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 120,
+  "translation": "YHWH, libera la mia nefesh da labbra di menzogna, da lingua ingannevole.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "libera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "da labbra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "di menzogna"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "da lingua"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ingannevole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:25.361852067Z",
+  "model": "glm-5.3"
+}

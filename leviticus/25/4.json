@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Ma nell'anno settimo sarà per la terra uno shabbat di riposo completo, uno shabbat per YHWH: il tuo campo non seminerai, e la tua vigna non potterai.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ma nell'anno"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "di riposo completo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "per la terra"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "uno shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "il tuo campo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "seminerai"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "e la tua vigna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "potterai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:40.746870492Z",
+  "model": "glm-5.3"
+}

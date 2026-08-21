@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 7:15",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "e YHWH mi prese dietro al gregge, e YHWH mi disse: va', profetizza al mio popolo Israele.",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "e mi prese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "al gregge"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "profetizza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "al mio popolo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:45.541722042Z",
+  "model": "glm-5.3"
+}

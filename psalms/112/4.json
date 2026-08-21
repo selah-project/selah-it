@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "È spuntata nelle tenebre una luce per i retti: egli ⟨è⟩ grazioso, misericordioso e giusto.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "È spuntata"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "nelle tenebre"
+    },
+    {
+      "surface": "אור",
+      "gloss": "una luce"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "per i retti"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "grazioso"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "e misericordioso"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "e giusto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:54.521185356Z",
+  "model": "glm-5.3"
+}

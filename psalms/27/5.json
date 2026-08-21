@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Poiché mi nasconderà nella sua sukka, nel giorno del male mi celerà nel nascondiglio della sua tenda, sulla roccia mi innalzerà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "mi nasconderà"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "nella sua sukka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "del male"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "mi celerà"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nel nascondiglio"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "della sua tenda"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sulla roccia"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "mi innalzerà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:03.673801347Z",
+  "model": "glm-5.3"
+}

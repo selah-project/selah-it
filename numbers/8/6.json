@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Prendi ⟨את⟩ i leviti di mezzo ai figli d'Israele, e ⟨את⟩ li purificherai.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i leviti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "i leviti"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "di mezzo a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "e li purificherai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li"
+    }
+  ],
+  "timestamp": "2026-08-21T06:26:29.840980137Z",
+  "model": "glm-5.3"
+}

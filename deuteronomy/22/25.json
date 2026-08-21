@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Ma se in campo aperto l'uomo trova ⟨את⟩ la giovane promessa e l'uomo la afferra e giace con lei, allora morirà soltanto l'uomo che è giaciuto con lei, lui da solo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in campo aperto"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "trova"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la giovane promessa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "la giovane"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "promessa"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "e afferra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "lei"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "e giace"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "con lei"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "allora morirà"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "è giaciuto"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "con lei"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "da solo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:43.284451840Z",
+  "model": "glm-5.3"
+}

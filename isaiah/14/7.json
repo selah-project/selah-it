@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Si è riposata, quieta, tutta ⟨la⟩ terra; sono scoppiate in un grido di giubilo.",
+  "tokens": [
+    {
+      "surface": "נָ֥חָה",
+      "gloss": "si è riposata"
+    },
+    {
+      "surface": "שָׁקְטָ֖ה",
+      "gloss": "quieta"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "⟨la⟩ terra"
+    },
+    {
+      "surface": "פָּצְח֖וּ",
+      "gloss": "sono scoppiate"
+    },
+    {
+      "surface": "רִנָּֽה",
+      "gloss": "in un grido di giubilo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:06.568105223Z",
+  "model": "glm-5.3"
+}

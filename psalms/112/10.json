@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Il malvagio vedrà e si irriterà, i suoi denti digrignerà e si scioglierà; il desiderio dei malvagi perirà.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Il malvagio"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vedrà"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "e si irriterà"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "i suoi denti"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "digrignerà"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "e si scioglierà"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "il desiderio"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "perirà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:24.064932674Z",
+  "model": "glm-5.3"
+}

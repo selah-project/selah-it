@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Poiché ci sono molte parole che moltiplicano hevel: che vantaggio ⟨c'è⟩ per l'adam?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ci sono"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "parole"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "molte"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "moltiplicano"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "vantaggio"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "per l'adam"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:44.316578718Z",
+  "model": "glm-5.3"
+}

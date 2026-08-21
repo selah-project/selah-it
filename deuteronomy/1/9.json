@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E dissi a voi in quel tempo, dicendo: io non posso, io solo, portare ⟨את⟩ voi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel tempo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "posso"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "io solo"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "portare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:53.169817937Z",
+  "model": "glm-5.3"
+}

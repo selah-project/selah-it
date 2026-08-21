@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Ogni ⟨bestia⟩ che fende lo zoccolo e ha la fessura dello zoccolo, e che rimonta il bolo, fra il bestiame — quella ⟨את⟩ potete mangiare.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "che fende lo zoccolo"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "lo zoccolo"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "e ha la fessura"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "la fessura"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "dello zoccolo"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "e rimonta"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "il bolo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "fra il bestiame"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "quella (la bestia permessa) — oggetto di « potete mangiare »"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "potete mangiare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:18.133325231Z",
+  "model": "glm-5.3"
+}

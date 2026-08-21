@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Bella sei tu, ⟨את⟩, mia amata, come Tirtsà, leggiadra come Gerusalemme, tremenda come schiere a bandiere.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "bella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mia amata (tu)"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mia amata"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "come Tirtsà"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "leggiadra"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "come Gerusalemme"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "tremenda"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "come schiere a bandiere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:22.534542473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Trasformò ⟨את⟩ le loro acque in sangue, e fece morire ⟨את⟩ i loro pesci.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "trasformò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro acque"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "le loro acque"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "in sangue"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e fece morire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro pesci"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "i loro pesci"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:37.384690843Z",
+  "model": "glm-5.3"
+}

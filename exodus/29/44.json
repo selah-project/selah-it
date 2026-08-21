@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E consacrerò ⟨את⟩ la tenda del convegno e ⟨את⟩ l'altare; e ⟨את⟩ Aharon e ⟨את⟩ i suoi figli consacrerò, perché mi servano come sacerdoti.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "e consacrerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tenda del convegno"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "consacrerò"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "come sacerdoti (kohanìm)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:43.984610327Z",
+  "model": "glm-5.3"
+}

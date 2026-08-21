@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "« Non toccate i miei Mashiach, e ai miei profeti non fate del male ».",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "toccate"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "i miei Mashiach"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "e ai miei profeti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "fate del male"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:04.318139403Z",
+  "model": "glm-5.3"
+}

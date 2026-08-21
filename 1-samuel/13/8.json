@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Ed ⟨egli⟩ attese sette giorni, secondo l'appuntamento ⟨fissato⟩ con Shemuèl; ma Shemuèl non venne a Ghilgal, e il popolo si disperse da lui.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Ed ⟨egli⟩ attese"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "secondo l'appuntamento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "con Shemuèl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venne"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuèl"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "a Ghilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "e si disperse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "da lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:13.072341556Z",
+  "model": "glm-5.3"
+}

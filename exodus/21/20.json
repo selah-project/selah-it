@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E se un uomo colpisce ⟨את⟩ il suo schiavo o ⟨את⟩ la sua schiava con il bastone, e ⟨quello⟩ muore sotto la sua mano, vendetta sarà fatta: certo sarà vendicato.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "colpisce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo schiavo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "il suo schiavo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua schiava"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "la sua schiava"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "con il bastone"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e muore"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "vendetta"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "sarà vendicato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:06.906749481Z",
+  "model": "glm-5.3"
+}

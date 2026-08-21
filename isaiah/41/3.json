@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Li insegue, passa in salvo — un sentiero coi suoi piedi non calpesta.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "li insegue"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "passa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "in salvo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "un sentiero"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "coi suoi piedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "calpesta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:05.254653902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "L'umano ⟨è⟩ in onore e non comprende: ⟨è⟩ reso simile alle bestie, sono ammutoliti ⟨e periti⟩.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "in onore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "comprende"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "reso simile"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "alle bestie"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "sono ammutoliti ⟨e peristi⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:40.810030166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E unì ⟨את⟩ le cinque tende l'una all'altra, e cinque tende unì l'una all'altra.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "e unì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cinque tende"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tende"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "l'una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "l'altra"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e cinque"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tende"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "unì"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "l'una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "l'altra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:08:36.643012157Z",
+  "model": "glm-5.3"
+}

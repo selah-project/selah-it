@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E gli dirai: YHWH, Elohim degli ebrei, mi ha mandato da te per dire: manda via ⟨את⟩ il mio popolo, perché mi serva nel deserto; ed ecco, finora non hai ascoltato.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "e gli dirai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "degli ebrei"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mi ha mandato"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "per dire"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "manda via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "perché mi serva"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hai ascoltato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finora"
+    },
+    {
+      "surface": "כה",
+      "gloss": "fino a questo punto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:26.917096286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "È in lutto, appassisce la terra; langue, appassisce ⟨la⟩ terra abitata; languiscono le altezze del popolo della terra.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "È in lutto"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "appassisce"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "lange"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "appassisce"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨la⟩ terra abitata"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "languiscono"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "le altezze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:16.780100760Z",
+  "model": "glm-5.3"
+}

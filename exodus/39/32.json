@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Così fu compiuta tutta ⟨il lavoro⟩ del mishkan, la tenda del convegno; e i figli d'Israele fecero secondo tutto ciò che YHWH aveva comandato ⟨את⟩ Mosè — così fecero.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "e fu compiuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "del mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:46.507250490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Esulti il campo e tutto ciò che vi ⟨è⟩; allora giubileranno tutti gli alberi della foresta.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "esulti"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vi ⟨è⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "giubileranno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gli alberi"
+    },
+    {
+      "surface": "יער",
+      "gloss": "della foresta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:34.916717855Z",
+  "model": "glm-5.3"
+}

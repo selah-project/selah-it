@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E trovarono un uomo egizio nel campo, e lo presero ⟨את⟩ verso Dawid, e gli diedero pane ed egli mangiò, e gli diedero da bere acqua.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "E trovarono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "egizio"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e lo presero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "verso Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "e diedero"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "e mangiò"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "e lo fecero bere"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:17.470829651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 114,
+  "translation": "Giuda divenne ⟨il⟩ suo santuario, Israele il suo dominio.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "divenne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "il suo santuario"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "il suo dominio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:35.611832284Z",
+  "model": "glm-5.3"
+}

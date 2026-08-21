@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Non essere saggio ai tuoi occhi: temi ⟨את⟩ YHWH e allontanati dal male.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "essere"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ai tuoi occhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨את⟩ YHWH"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "e allontanati"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dal male"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:36.006222033Z",
+  "model": "glm-5.3"
+}

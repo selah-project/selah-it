@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E Yishmael, suo figlio, era figlio di tredici anni quando fu circonciso ⟨את⟩ la carne del suo prepuzio.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "e Yishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "quando fu circonciso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la carne"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "del suo prepuzio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:04.432537722Z",
+  "model": "glm-5.3"
+}

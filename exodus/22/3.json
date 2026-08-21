@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se il furto è trovato — davvero trovato — nella sua mano, dal bue all'asino alla pecora, vivo, il doppio restituirà.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "è trovato"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "davvero trovato"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nella sua mano"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "il furto"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dal bue"
+    },
+    {
+      "surface": "עד",
+      "gloss": "all'"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asino"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שה",
+      "gloss": "pecora"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "il doppio"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "restituirà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:24.227884231Z",
+  "model": "glm-5.3"
+}

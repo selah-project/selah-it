@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 16:4",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E pose davanti all'arca di YHWH, dei leviti, ministri, per ricordare e per ringraziare e per lodare YHWH, Elohim d'Israele.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "all'arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dei"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviti"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "ministri"
+    },
+    {
+      "surface": "ולהזכיר",
+      "gloss": "per ricordare"
+    },
+    {
+      "surface": "ולהודות",
+      "gloss": "per ringraziare"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "per lodare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:10.286762503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 82,
+  "translation": "Lévati, Elohim, giudica ⟨את⟩ la terra, perché tu erediterai tutte le nazioni.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Lévati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "giudica"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "erediterai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:25.188288299Z",
+  "model": "glm-5.3"
+}

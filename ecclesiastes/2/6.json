@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Mi feci piscine d'acqua, per irrigarne la foresta che germoglia alberi.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "feci"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "piscine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "per irrigare"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יער",
+      "gloss": "la foresta"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "che germoglia"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "alberi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:04.877306291Z",
+  "model": "glm-5.3"
+}

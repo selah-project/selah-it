@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 75,
+  "translation": "Ti ringraziamo, Elohim, ti ringraziamo; vicino ⟨è⟩ il tuo nome: raccontano le tue meraviglie.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Ti ringraziamo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "ti ringraziamo"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "e vicino"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "raccontano"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "le tue meraviglie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:04.879325892Z",
+  "model": "glm-5.3"
+}

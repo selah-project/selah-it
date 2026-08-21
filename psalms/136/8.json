@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "⟨את⟩ il sole, a dominare ⟨di⟩ giorno, perché per sempre ⟨dura⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sole"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "a dominare"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨di⟩ giorno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:39.348778465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E lo prese e lo portò da sua madre, e stette sulle sue ginocchia fino a mezzogiorno, e morì.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "e lo prese"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "e lo portò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e stette"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "le sue ginocchia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "mezzogiorno"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:01.417076771Z",
+  "model": "glm-5.3"
+}

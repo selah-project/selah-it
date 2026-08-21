@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E udii ⟨את⟩ la voce delle sue parole; e mentre udivo ⟨את⟩ la voce delle sue parole, io caddi in un sonno profondo sul mio volto, con il mio volto a terra.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "e udii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "delle sue parole"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "e mentre udivo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "delle sue parole"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "io"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "fui"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "in un sonno profondo"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il mio volto"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "e il mio volto"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:35:49.613611949Z",
+  "model": "glm-5.3"
+}

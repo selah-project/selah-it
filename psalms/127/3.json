@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 127,
+  "translation": "Ecco, eredità di YHWH sono i figli; ricompensa è il frutto del grembo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "eredità"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ricompensa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "il frutto"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "del grembo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:22.977418874Z",
+  "model": "glm-5.3"
+}

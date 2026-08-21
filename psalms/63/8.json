@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Perché sei stato un aiuto per me, e all'ombra delle tue ali manderò grida di gioia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "היית",
+      "gloss": "sei stato"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "un aiuto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "e all'ombra"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "delle tue ali"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "manderò grida di gioia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:06.305763165Z",
+  "model": "glm-5.3"
+}

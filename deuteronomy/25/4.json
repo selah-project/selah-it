@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Non metterai la museruola al bue mentre trebbia ⟨il suo grano⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "metterai la museruola"
+    },
+    {
+      "surface": "שור",
+      "gloss": "al bue"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "mentre trebbia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:02.226912176Z",
+  "model": "glm-5.3"
+}

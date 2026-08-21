@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "Tutti quanti si sono ritratti, insieme si sono corrotti; non ⟨c'è⟩ chi faccia il bene, non ⟨c'è⟩ neppure uno.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tutti quanti"
+    },
+    {
+      "surface": "סג",
+      "gloss": "si sono ritratti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "si sono corrotti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chi faccia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "neppure"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:42.895850663Z",
+  "model": "glm-5.3"
+}

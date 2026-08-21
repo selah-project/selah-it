@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E disse: ⟨את⟩ i miei fratelli io sto cercando. Indicami ora, ti prego, dove stanno pascolando.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei fratelli"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "i miei fratelli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "sto cercando"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "indicami"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "dove"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "stanno pascolando"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:51.730692349Z",
+  "model": "glm-5.3"
+}

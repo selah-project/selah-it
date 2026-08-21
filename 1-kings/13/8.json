@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E l'uomo di Elohim disse al re: «Anche se mi dessi ⟨את⟩ la metà della tua casa, non verrei con te, e non mangerei pane né berei acqua in questo luogo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tu dessi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la metà della tua casa"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "la metà"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "della tua casa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "verrei"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangerei"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "berei"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:51.962369477Z",
+  "model": "glm-5.3"
+}

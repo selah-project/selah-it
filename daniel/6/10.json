@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Per tutto questo il re Dario firmò lo scritto e l'interdetto.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "per tutto"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "il re"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Dario"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "firmò"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "lo scritto"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "e l'interdetto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:35:17.822474707Z",
+  "model": "glm-5.3"
+}

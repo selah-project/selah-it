@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Una volta ho giurato nella mia santità: se mai mentirò a Davide —",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "una volta"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ho giurato"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "nella mia santità"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se mai"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "mentirò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:33.832272265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Seme di Abramo, suo servo, figli di Giacobbe, i suoi eletti",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Seme"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "di Abramo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "suo servo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "i suoi eletti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:45.535348546Z",
+  "model": "glm-5.3"
+}

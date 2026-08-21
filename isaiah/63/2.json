@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Perché ⟨i tuoi vestiti sono⟩ rossi, e le tue vesti come di chi pigia nel tino?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "rossi"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "i tuoi vestiti"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "e le tue vesti"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "come di chi pigia"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "nel tino"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:02.446924221Z",
+  "model": "glm-5.3"
+}

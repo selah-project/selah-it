@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E disse YHWH a Mosè: ho visto ⟨את⟩ questo popolo, ed ecco, popolo di dura cervice ⟨è⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popolo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "di dura"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "cervice"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:44.309548671Z",
+  "model": "glm-5.3"
+}

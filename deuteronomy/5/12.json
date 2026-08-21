@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Osserva ⟨את⟩ il giorno dello shabbat per santificarlo, come ti ha comandato YHWH, il tuo Elohim.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "osserva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giorno dello shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dello shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "per santificarlo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ti ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:56.250255506Z",
+  "model": "glm-5.3"
+}

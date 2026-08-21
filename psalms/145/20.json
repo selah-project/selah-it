@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Custodisce YHWH ⟨את⟩ tutti quelli che lo amano, e ⟨את⟩ tutti gli empi li distruggerà.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Custodisce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti quelli che lo amano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "quelli che lo amano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti gli empi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "gli empi"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "li distruggerà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:09.631956162Z",
+  "model": "glm-5.3"
+}

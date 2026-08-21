@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ⟨את⟩ la casa grande la rivestì di legno di cipressi, e la rivestì d'oro buono, e vi fece salire palme e catenelle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la casa grande"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "rivestì"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "legno"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "di cipressi"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "e la rivestì"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e vi fece salire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palme"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "e catenelle"
+    }
+  ],
+  "timestamp": "2026-08-21T09:54:38.272600507Z",
+  "model": "glm-5.3"
+}

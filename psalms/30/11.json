@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Ascolta, YHWH, e abbi grazia di me; YHWH, sii tu aiutante per me.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e abbi grazia di me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "aiutante"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:37.400510849Z",
+  "model": "glm-5.3"
+}

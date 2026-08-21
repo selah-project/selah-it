@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "e ⟨את⟩ il Hivvita e ⟨את⟩ l'Arkita e ⟨את⟩ il Sinita",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il Hivvita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "il Hivvita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'Arkita"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "l'Arkita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il Sinita"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "il Sinita"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:46.747908884Z",
+  "model": "glm-5.3"
+}

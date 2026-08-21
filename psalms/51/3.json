@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Fammi grazia, Elohim, secondo il tuo chesed, secondo la moltitudine delle tue compassioni cancella i miei ribellioni.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fammi grazia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "secondo il tuo chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "secondo la moltitudine"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "delle tue compassioni"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "cancella"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "i miei ribellioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:37.783558981Z",
+  "model": "glm-5.3"
+}

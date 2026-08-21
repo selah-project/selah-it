@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Iftah giudicò ⟨את⟩ Israele sei anni; poi morì Iftah il Gileadita e fu sepolto nelle città di Gilead.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "giudicò"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Iftah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Iftah"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "il Gileadita"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e fu sepolto"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nelle città"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "di Gilead"
+    }
+  ],
+  "timestamp": "2026-08-21T07:02:44.835763909Z",
+  "model": "glm-5.3"
+}

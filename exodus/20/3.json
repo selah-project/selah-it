@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Non ci saranno per te altri elohim sul mio volto.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ci saranno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "altri elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altri"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mio volto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:18.513234246Z",
+  "model": "glm-5.3"
+}

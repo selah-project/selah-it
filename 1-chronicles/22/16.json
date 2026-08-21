@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Per l'oro, per l'argento, per il rame e per il ferro non c'è numero: àlzati e agisci, e sia YHWH con te.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "per l'oro"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "per l'argento"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "e per il rame"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "e per il ferro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numero"
+    },
+    {
+      "surface": "קום",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e agisci"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e sia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:52:28.121860738Z",
+  "model": "glm-5.3"
+}

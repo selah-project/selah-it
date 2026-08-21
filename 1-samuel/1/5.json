@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E a Channah dava una porzione unica, ⟨doppia⟩, perché ⟨את⟩ Channah egli amava, e YHWH aveva chiuso il suo grembo.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "e a Channah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dava"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "una porzione"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "unica"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨doppia⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "egli amava"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "aveva chiuso"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "il suo grembo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:05:57.981634026Z",
+  "model": "glm-5.3"
+}

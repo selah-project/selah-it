@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Ci hai posti come proverbio fra le nazioni, scuotimento di testa fra i popoli.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ci hai posti"
+    },
+    {
+      "surface": "משל",
+      "gloss": "proverbio"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra le nazioni"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "scuotimento"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "di testa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "fra i popoli"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "i popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:31.903900350Z",
+  "model": "glm-5.3"
+}

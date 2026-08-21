@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E disse YHWH a Mosè: stendi la tua mano sulla terra d'Egitto per la locusta, perché salga sulla terra d'Egitto e mangi ⟨את⟩ tutta l'erba della terra, ⟨את⟩ tutto ciò che ha lasciato la grandine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "stendi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "per la locusta"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "perché salga"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "e mangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta l'erba della terra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "l'erba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che ha lasciato la grandine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ha lasciato"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "la grandine"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:56.744664994Z",
+  "model": "glm-5.3"
+}

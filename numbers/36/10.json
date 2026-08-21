@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Come comandò YHWH ⟨את⟩ Mosè, così fecero le figlie di Tselofechad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "comandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "le figlie"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "di Tselofechad"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:32.677484167Z",
+  "model": "glm-5.3"
+}

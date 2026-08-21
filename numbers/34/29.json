@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Questi sono coloro ai quali YHWH comandò di assegnare ⟨את⟩ i figli d'Israele come eredità nella terra di Kenaan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Questi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "comandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "di assegnare come eredità"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:38:15.584760454Z",
+  "model": "glm-5.3"
+}

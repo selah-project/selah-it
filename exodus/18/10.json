@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E disse Ithro: « Benedetto sia YHWH, che ⟨את⟩ vi ha liberati dalla mano d'Egitto e dalla mano di Parò; che ⟨ha⟩ liberato ⟨il⟩ popolo da sotto la mano d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Ithro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Benedetto sia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ha liberato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi",
+      "marks": "vi (dalla mano d'Egitto)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "מידמצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "e dalla mano"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Parò"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ha liberato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "da sotto"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:38.950997067Z",
+  "model": "glm-5.3"
+}

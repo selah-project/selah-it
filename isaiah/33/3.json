@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Al rumore del tumulto fuggono i popoli; quando ti esalti, si disperdono le nazioni.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "al rumore di"
+    },
+    {
+      "surface": "המון",
+      "gloss": "il tumulto"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "fuggono"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "quando ti esalti"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "si disperdono"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:21.281452774Z",
+  "model": "glm-5.3"
+}

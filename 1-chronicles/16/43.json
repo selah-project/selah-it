@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E andò via tutto il popolo, ciascuno alla sua casa; e Davide tornò per benedire ⟨את⟩ la sua casa.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "e andò via"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "alla sua casa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "per benedire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua casa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:27.151060533Z",
+  "model": "glm-5.3"
+}

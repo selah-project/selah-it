@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "la ⟨nefesh⟩ che tocchi ⟨ciò⟩ sarà impura fino alla sera, e non mangerà ⟨nulla⟩ delle cose sante, a meno che non lavi la sua carne nell'acqua.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "tocchi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "e sarà impura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "la sera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "le cose sante"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a meno che"
+    },
+    {
+      "surface": "אם",
+      "gloss": "non"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "lavi"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:40.743032689Z",
+  "model": "glm-5.3"
+}

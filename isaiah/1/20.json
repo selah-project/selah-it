@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ma se rifiutate e ribellate, la spada vi mangerà; perché la bocca di YHWH ha parlato.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "rifiutate"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "e ribellate"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vi mangerà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:45.028046883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Non come straniere siamo state contate da lui? Poiché ci ha vendute, e ha anche divorato ⟨את⟩ il nostro denaro.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Non …?"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "come straniere"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "siamo state contate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ci ha vendute"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "e ha divorato"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "divorare del tutto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il nostro denaro"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "il nostro denaro"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:44.066213389Z",
+  "model": "glm-5.3"
+}

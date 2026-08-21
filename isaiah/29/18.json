@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 29:18",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E in quel giorno udranno i sordi le parole del libro, e dall'oscurità e dal buio gli occhi dei ciechi vedranno.",
+  "tokens": [
+    {
+      "surface": "ושמעו",
+      "gloss": "udranno"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "i sordi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "del libro"
+    },
+    {
+      "surface": "ומאפל",
+      "gloss": "e dall'oscurità"
+    },
+    {
+      "surface": "ומחשך",
+      "gloss": "e dal buio"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "dei ciechi"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "vedranno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:29.525601301Z",
+  "model": "glm-5.3"
+}

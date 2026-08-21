@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "YHWH aumenti ⟨su di⟩ voi, ⟨su di⟩ voi e sui vostri figli.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "aumenti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨su di⟩ voi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨su di⟩ voi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "i vostri figli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:34.402242834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "e hanno dato ⟨את⟩ i loro eloah nel fuoco, perché non ⟨sono⟩ eloah quelli, ma opera di mani d'uomo, legno e pietra; e li hanno distrutti.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "e hanno dato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro eloah"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "i loro eloah"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "quelli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bensì"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "di mani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "legno"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "e pietra"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "e li hanno distrutti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:25.762106716Z",
+  "model": "glm-5.3"
+}

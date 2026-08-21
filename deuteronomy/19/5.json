@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E colui che va con ⟨את⟩ il suo prossimo nella foresta a tagliare legna, e la sua mano si slancia con la scure per abbattere l'albero, e il ferro scivola via dal legno e colpisce ⟨את⟩ il suo prossimo, ed egli muore — egli fuggirà verso una di queste città e vivrà.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "e colui che"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "va"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "nella foresta"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "a tagliare"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "legna"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "e si slancia"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "con la scure"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "per abbattere"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "l'albero"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "e scivola via"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "il ferro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dal legno"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "e colpisce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ed egli muore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "fuggirà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "di queste città"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "e vivrà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:33.168523154Z",
+  "model": "glm-5.3"
+}

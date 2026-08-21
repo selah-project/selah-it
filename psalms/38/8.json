@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Poiché i miei fianchi sono colmi di arsura, e non c'è sanità nella mia carne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "i miei fianchi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sono colmi"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "di arsura"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sanità"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "nella mia carne"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:31.114087304Z",
+  "model": "glm-5.3"
+}

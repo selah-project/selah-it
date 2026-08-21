@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E il re d'Israele disse a Giosafat: non ti ho forse detto: egli non profetizza su di me il bene, ma il male?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Giosafat"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "profetizza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:06.905044214Z",
+  "model": "glm-5.3"
+}

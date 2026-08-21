@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E disse: « Ecco, ormai sono vecchio; non conosco il giorno della mia morte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ormai"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "sono vecchio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "conosco"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "della mia morte"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:02.577805285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Come la mia mano ha trovato i regni dell'elil, e i loro idoli ⟨erano⟩ più ⟨numerosi⟩ di Gerusalemme e di Shomeron,",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Come"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ha trovato"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "i regni dell'"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "elil (idolo)"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "e i loro idoli"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "e di Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:55.767876664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Dal tuo tempio ⟨che sorge⟩ su Gerusalemme a te porteranno i re doni.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "dal tuo tempio"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "porteranno"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "i re"
+    },
+    {
+      "surface": "שי",
+      "gloss": "doni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:54.976878312Z",
+  "model": "glm-5.3"
+}

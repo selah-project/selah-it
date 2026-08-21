@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E prese il capo dei carnefici ⟨את⟩ Seraiah il sacerdote capo, e ⟨את⟩ Tsefanyah il sacerdote secondo, e ⟨את⟩ i tre guardiani della soglia;",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "רב",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "dei carnefici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraiah il sacerdote capo"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraiah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "capo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tsefanyah il sacerdote secondo"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i tre guardiani della soglia"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "i tre"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "guardiani"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "della soglia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:55.197724289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Lode di Davide. Ti esalterò, Eloah mio, ⟨il⟩ re, e benedirò il tuo nome per sempre e in eterno.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Lode"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Ti esalterò"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah mio"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨il⟩ re"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "e benedirò"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:12.076822416Z",
+  "model": "glm-5.3"
+}

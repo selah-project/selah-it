@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E la toccò sulla mia bocca e disse: ecco, questa ha toccato le tue labbra, e ⟨è⟩ tolta la tua colpa, e il tuo peccato ⟨è⟩ espiato.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "E la toccò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ha toccato"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "tue labbra"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "e ⟨è⟩ tolta"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "la tua colpa"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "e il tuo peccato"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "⟨è⟩ espiato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:53.511392381Z",
+  "model": "glm-5.3"
+}

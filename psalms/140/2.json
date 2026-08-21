@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 140,
+  "translation": "Strappami via, YHWH, dall'uomo malvagio; da un uomo di violenze custodiscimi.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "strappami via"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dall'uomo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malvagio"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "da un uomo"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "di violenze"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "custodiscimi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:59.947908097Z",
+  "model": "glm-5.3"
+}

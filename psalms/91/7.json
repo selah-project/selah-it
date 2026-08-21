@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Mille cadranno al tuo fianco, e diecimila alla tua destra; a te non si avvicinerà.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "cadranno"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "al tuo fianco"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "e diecimila"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "alla tua destra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "si avvicinerà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:47.051430134Z",
+  "model": "glm-5.3"
+}

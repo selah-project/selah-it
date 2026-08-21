@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E suonò Ioab nel shofar, e il popolo tornò dall'inseguire Israele, perché Ioab trattenne ⟨את⟩ il popolo.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "E suonò"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "nel shofar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "dall'inseguire"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "trattenne"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:46.706515591Z",
+  "model": "glm-5.3"
+}

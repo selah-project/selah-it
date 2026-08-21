@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E se ⟨את⟩ il campo del suo acquisto, che non ⟨è⟩ dei campi della sua proprietà, uno consacra a YHWH,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il campo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "del suo acquisto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "dei campi"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "della sua proprietà"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "consacra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:45.214093610Z",
+  "model": "glm-5.3"
+}

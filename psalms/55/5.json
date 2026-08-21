@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Il mio cuore si torce dentro di me, e i terrori della morte sono caduti su di me.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "si torce"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "dentro di me"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "e i terrori"
+    },
+    {
+      "surface": "מות",
+      "gloss": "della morte"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sono caduti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:55.790344237Z",
+  "model": "glm-5.3"
+}

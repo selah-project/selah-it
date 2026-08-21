@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E fece YHWH Elohim per l'uomo e per sua moglie tuniche di pelle, e li vestì.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "per l'uomo"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "e per sua moglie"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "tuniche"
+    },
+    {
+      "surface": "עור",
+      "gloss": "di pelle"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "e li vestì"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:58.802331468Z",
+  "model": "glm-5.3"
+}

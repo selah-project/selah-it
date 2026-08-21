@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Che fai tacere il fragore dei mari, il fragore delle loro onde e il tumulto dei popoli.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "fai tacere"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "il fragore"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dei mari"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "il fragore"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "delle loro onde"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "e il tumulto"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dei popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:16.048863618Z",
+  "model": "glm-5.3"
+}

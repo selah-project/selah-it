@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non consegnerai uno schiavo al suo signore, che si sia salvato rifugiandosi presso di te, dal suo signore.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "consegnerai"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "uno schiavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "il suo signore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "si sia salvato"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "presso di te"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "da"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "il suo signore"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:00.934941668Z",
+  "model": "glm-5.3"
+}

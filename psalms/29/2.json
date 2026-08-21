@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Date a YHWH la gloria del suo nome, prostratevi davanti a YHWH nello splendore della santità.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "date"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloria"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "del suo nome"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "prostratevi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "davanti a YHWH"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "nello splendore"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "della santità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:42.161413668Z",
+  "model": "glm-5.3"
+}

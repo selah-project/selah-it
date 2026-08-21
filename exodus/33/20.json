@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E disse: non puoi vedere ⟨את⟩ il mio volto, perché non mi vedrà l'uomo e vivrà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "puoi"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio volto"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il mio volto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "mi vedrà"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "e vivrà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:26.458822022Z",
+  "model": "glm-5.3"
+}

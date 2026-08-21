@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "io darò la pioggia alla vostra terra al suo tempo, pioggia d'autunno e pioggia di primavera, e raccoglierete il vostro grano, il vostro mosto e il vostro olio.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e darò"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "alla vostra terra"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "al suo tempo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "pioggia d'autunno"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "e pioggia di primavera"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "e raccoglierete"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "il tuo grano"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "il tuo mosto"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "il tuo olio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:01.190941948Z",
+  "model": "glm-5.3"
+}

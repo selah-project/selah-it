@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E saranno sgomenti e confusi per Kush, ⟨la loro⟩ speranza, e per l'Egitto, ⟨la loro⟩ gloria.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "e saranno sgomenti"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "e confusi"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "per Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "la loro speranza"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e per"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "la loro gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:57.502154271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "allora camminerò anch'io con voi in kerì, e ⟨את⟩ vi colpirò, anch'io, sette volte per i vostri peccati.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "allora camminerò"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anch'"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con voi"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "in kerì"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "e vi colpirò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi",
+      "marks": "voi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anch'"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sette volte"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "i vostri peccati"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:11.635034830Z",
+  "model": "glm-5.3"
+}

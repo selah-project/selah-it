@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Non odio forse quelli che ti odiano, YHWH? E con quelli che si levano contro di te non mi contendo?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "non… forse?"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "quelli che ti odiano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "odio"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "e con quelli che si levano contro di te"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "mi contendo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.058768545Z",
+  "model": "glm-5.3"
+}

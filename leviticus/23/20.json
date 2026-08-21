@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E il sacerdote eleverà ⟨את⟩ esse insieme al pane delle primizie, elevazione davanti a YHWH, insieme ai due agnelli; sante saranno per YHWH, per il sacerdote.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "e eleverà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "esse (i due agnelli) e il pane delle primizie"
+    },
+    {
+      "surface": "על",
+      "gloss": "insieme a"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "al pane"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "delle primizie"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "elevazione"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "insieme a"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ai due"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "agnelli"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sante"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saranno"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "per il sacerdote"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:55.645824833Z",
+  "model": "glm-5.3"
+}

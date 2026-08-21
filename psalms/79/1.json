@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Mizmor di Asaf. O Elohim, le nazioni sono entrate nella tua eredità, hanno contaminato ⟨את⟩ il tempio della tua santità, hanno posto ⟨את⟩ Gerusalemme a cumuli di rovine.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sono entrate"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "nella tua eredità"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "hanno contaminato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tempio della tua santità"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "il tempio"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "della tua santità"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hanno posto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "a cumuli di rovine"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:12.485855941Z",
+  "model": "glm-5.3"
+}

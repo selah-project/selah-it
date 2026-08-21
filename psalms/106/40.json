@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E si accese il naso (l'ira) di YHWH contro il suo popolo, e abominò ⟨את⟩ la sua eredità.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "e si accese"
+    },
+    {
+      "surface": "אף",
+      "gloss": "il naso (l'ira)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "contro il suo popolo"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "e abominò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua eredità"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "la sua eredità"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:22.414233418Z",
+  "model": "glm-5.3"
+}

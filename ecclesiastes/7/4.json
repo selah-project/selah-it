@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Il cuore dei saggi ⟨sta⟩ nella casa del lutto, e il cuore degli stolti nella casa della gioia.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dei saggi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "del lutto"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "e il cuore"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "degli stolti"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "della gioia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:16.750647573Z",
+  "model": "glm-5.3"
+}

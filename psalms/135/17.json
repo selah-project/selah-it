@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Orecchie hanno, ma non ascoltano; anche: non c'è ⟨⟨alcun⟩⟩ soffio nella loro bocca.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "orecchie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hanno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ascoltano"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "soffio"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nella loro bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:16.520697799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Ma se li annulla del tutto ⟨את⟩ dopo averli sentiti, egli porterà ⟨את⟩ la sua iniquità.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma se"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "annulla"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "del tutto"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (voti e vincoli)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "averli sentiti"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "egli porterà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua iniquità"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "la sua iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T06:37:11.787977851Z",
+  "model": "glm-5.3"
+}

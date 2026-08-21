@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "YHWH non lascia affamare la nefesh del giusto, ma il desiderio dei malvagi ⟨lo⟩ respinge.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "lascia affamare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "del giusto"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ma il desiderio"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "respinge"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:24.224158188Z",
+  "model": "glm-5.3"
+}

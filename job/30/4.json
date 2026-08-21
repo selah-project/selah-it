@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Che colgono malva presso ⟨il⟩ cespuglio, e radice di ginestra ⟨è⟩ il loro pane.",
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "che colgono"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "malva"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "presso"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "⟨il⟩ cespuglio"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "e radice"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "di ginestra"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "il loro pane"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:47.669341907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E un uomo, se esce da lui un'emissione di seme, laverà nell'acqua ⟨את⟩ tutta la sua carne, e sarà impuro fino alla sera.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "E un uomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "esce"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "un'emissione"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "di seme"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e laverà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la sua carne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "la sera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:05.185949339Z",
+  "model": "glm-5.3"
+}

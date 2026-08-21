@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E lui disse: « ⟨Ho⟩ una parola per te ». E lei disse: « Parla ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e lui disse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "verso di te"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e lei disse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:38.236553507Z",
+  "model": "glm-5.3"
+}

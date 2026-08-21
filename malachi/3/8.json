@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Può un uomo frodare ⟨את⟩ Elohim? Eppure voi frodate ⟨את⟩ me. E voi dite: «In che cosa ti abbiamo frodato?» ⟨Nella⟩ decima e ⟨nell'⟩offerta.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "può frodare"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eppure"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "frodate"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me — il marcatore con suffisso di prima persona: « ⟨את⟩-me »"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "e voi dite"
+    },
+    {
+      "surface": "במה",
+      "gloss": "in che cosa"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "ti abbiamo frodato"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "la decima"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "e l'offerta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:48.942832801Z",
+  "model": "glm-5.3"
+}

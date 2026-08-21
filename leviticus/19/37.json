@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E osserverete ⟨את⟩ tutte le mie chukkot e ⟨את⟩ tutti i miei mishpatim, e ⟨את⟩ li farete: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "e osserverete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le mie chukkot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "le mie chukkot (statuti)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i miei mishpatim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "i miei mishpatim (diritti)"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "e farete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:00.406377885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "Perché El grande ⟨è⟩ YHWH, e re grande sopra ogni ⟨potere⟩ divino.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e re"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨potere⟩ divino"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:16.376619679Z",
+  "model": "glm-5.3"
+}

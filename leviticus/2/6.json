@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Spezzala ⟨את⟩ in pezzi e versa su di essa olio: una minchah ⟨è⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "spezza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "i pezzi (l'offerta spezzata)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "in pezzi"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "e versa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa è"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:00.277684082Z",
+  "model": "glm-5.3"
+}

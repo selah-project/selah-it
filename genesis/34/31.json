@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E dissero: come una prostituta doveva egli trattare ⟨את⟩ nostra sorella?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E dissero"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "come una prostituta"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "doveva trattare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nostra sorella"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "nostra sorella"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:53.993438720Z",
+  "model": "glm-5.3"
+}

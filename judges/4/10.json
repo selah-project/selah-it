@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Baraq convocò ⟨את⟩ Zevulun e ⟨את⟩ Naftali a Kedesh, e salì ai suoi piedi diecimila uomini; e salì con lui Debora.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "e convocò"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "a Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ai suoi piedi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:34.678402542Z",
+  "model": "glm-5.3"
+}

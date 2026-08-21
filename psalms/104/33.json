@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Canterò a YHWH nella mia vita, suonerò per il mio Elohim finché io sarò.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "Canterò"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "nella mia vita"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "suonerò"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "per il mio Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "finché io sarò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:09.724212903Z",
+  "model": "glm-5.3"
+}

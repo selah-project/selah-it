@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Mi sono lasciato consultare da chi non chiedeva, mi sono lasciato trovare da chi non mi cercava; ho detto: eccomi, eccomi, a una nazione che non invocava il mio nome.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "mi sono lasciato consultare"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "da chi non"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "chiedeva"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "mi sono lasciato trovare"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "da chi non"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "mi cercava"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "eccomi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "eccomi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "una nazione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "invocava"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "il mio nome"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:47.290789569Z",
+  "model": "glm-5.3"
+}

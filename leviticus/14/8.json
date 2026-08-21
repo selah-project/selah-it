@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E laverà colui che dev'essere purificato ⟨את⟩ le sue vesti, e rasera ⟨את⟩ tutti i suoi peli, e si laverà nell'acqua, e sarà puro; e dopo entrerà nell'accampamento, e dimorerà fuori della sua tenda sette giorni.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "e laverà"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "colui che dev'essere purificato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "e rasera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi peli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "i suoi peli"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e si laverà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "e sarà puro"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entrerà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "l'accampamento"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e dimorerà"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "della sua tenda"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:59.776194690Z",
+  "model": "glm-5.3"
+}

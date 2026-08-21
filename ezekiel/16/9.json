@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E ti lavai con ⟨i⟩ acqua, e ti lavai via il tuo sangue da addosso ⟨a te⟩, e ti unsi con ⟨l'⟩ olio.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "e ti lavai"
+    },
+    {
+      "surface": "במים",
+      "gloss": "con ⟨i⟩ acqua"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "e ti lavai via"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "il tuo sangue"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "da addosso ⟨a te⟩"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "e ti unsi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "con ⟨l'⟩ olio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:20:08.108025684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Saul mandò ⟨את⟩ i messaggeri a vedere ⟨את⟩ Davide, dicendo: portatelo su ⟨את⟩ lui nel letto da me, per farlo morire.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i messaggeri"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "i messaggeri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "portate su"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "nel letto"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "nel letto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "per farlo morire"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:13.905091731Z",
+  "model": "glm-5.3"
+}

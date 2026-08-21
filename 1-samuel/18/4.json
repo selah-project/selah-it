@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Yehonatàn si spogliò del mantello che ⟨era⟩ su di lui e lo diede a Davide, e le sue vesti, e la sua spada, e il suo arco, e la sua cintura.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "e si spogliò"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "del mantello"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "il mantello"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "e lo diede"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "e le sue vesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "la sua spada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "il suo arco"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "la sua cintura"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:42.991917143Z",
+  "model": "glm-5.3"
+}

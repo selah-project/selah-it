@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Egli costruì ⟨את⟩ la porta superiore della casa di YHWH, e sulla collina dell'Ofel costruì molto.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la porta superiore della casa di YHWH"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la porta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "superiore"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "e sulla collina"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "dell'Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "costruì"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:59:55.171071211Z",
+  "model": "glm-5.3"
+}

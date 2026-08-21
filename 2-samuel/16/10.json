@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E disse il re: «Che ⟨c'entra⟩ io con voi, figli di Tserujah? Lasciate che maledica, poiché YHWH gli ha detto: maledici ⟨את⟩ Davide; e chi potrà dire: perché hai fatto così?».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "e a voi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "maledica"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e poiché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "maledici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "potrà dire"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:07.809556784Z",
+  "model": "glm-5.3"
+}

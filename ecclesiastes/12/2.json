@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "prima che si oscurino il sole e la luce e la luna e le stelle, e le nubi ritornino dopo la pioggia",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "si oscurino"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "e la luce"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "e la luna"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "e le stelle"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "e ritornino"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "le nubi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "la pioggia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:26.548777400Z",
+  "model": "glm-5.3"
+}

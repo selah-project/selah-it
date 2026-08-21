@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E salì Baasha, re di Israele, contro Giuda, e riedificò ⟨את⟩ Rama, per non lasciare uscire né entrare nessuno ad Asa, re di Giuda.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e riedificò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "per non"
+    },
+    {
+      "surface": "תת",
+      "gloss": "lasciare"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uscire"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "né entrare"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ad Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:23.606910903Z",
+  "model": "glm-5.3"
+}

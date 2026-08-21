@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Giardino chiuso ⟨sei⟩, sorella mia, sposa; sorgente chiusa, fontana sigillata.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "giardino"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "chiuso"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sorella mia"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sposa"
+    },
+    {
+      "surface": "גל",
+      "gloss": "sorgente"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "chiusa"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "fontana"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "sigillata"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:55.468660182Z",
+  "model": "glm-5.3"
+}

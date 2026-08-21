@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E disse YHWH: chi sedurrà ⟨את⟩ Achab, perché salga e cada a Ramot di Gilead? E uno disse così, e un altro disse così.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "sedurrà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e salga"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e cada"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "a Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "di Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "così"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "e un altro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "così"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:06.905339292Z",
+  "model": "glm-5.3"
+}

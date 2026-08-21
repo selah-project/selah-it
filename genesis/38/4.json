@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Ed ella concepì ancora e partorì un figlio, ed ella chiamò ⟨את⟩ il suo nome Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ed ella concepì"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ed ella chiamò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo nome"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:58.169661548Z",
+  "model": "glm-5.3"
+}

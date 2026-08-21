@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Contro il tuo popolo tramano un complotto, e si consultano contro i tuoi nascosti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Contro"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "tramano"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "un complotto"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "e si consultano"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "i tuoi nascosti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:30.660522827Z",
+  "model": "glm-5.3"
+}

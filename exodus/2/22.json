@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E ⟨lei⟩ partorì un figlio, ed ⟨egli⟩ chiamò ⟨את⟩ il suo nome Gershom, perché disse: forestiero sono stato in terra straniera.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "chiamò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo nome"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "גר",
+      "gloss": "forestiero"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono stato"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in terra"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "straniera"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:01.422104482Z",
+  "model": "glm-5.3"
+}

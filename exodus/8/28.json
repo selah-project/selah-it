@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E Parò appesantì ⟨את⟩ il suo cuore anche questa volta, e non mandò ⟨את⟩ il popolo.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "e appesantì"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo cuore"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "il suo cuore"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "volta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:09.878711095Z",
+  "model": "glm-5.3"
+}

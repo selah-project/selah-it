@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E gli uomini di Giuda levarono il grido di guerra; e avvenne, mentre gli uomini di Giuda levavano il grido, che Elohim colpì ⟨את⟩ Geroboamo e tutto Israele davanti ad Abia e a Giuda.",
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "E levarono il grido di guerra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "mentre levavano il grido"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "che Elohim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geroboamo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Geroboamo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abia"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e a Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T09:57:30.018198643Z",
+  "model": "glm-5.3"
+}

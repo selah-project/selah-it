@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Tutti i tuoi capi sono fuggiti insieme, senza l'arco furono legati; tutti i tuoi trovati furono legati insieme, da lontano fuggirono.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "i tuoi capi"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "sono fuggiti"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "senza l'arco"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "furono legati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "i tuoi trovati"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "furono legati"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "da lontano"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "fuggirono"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:36.370934011Z",
+  "model": "glm-5.3"
+}

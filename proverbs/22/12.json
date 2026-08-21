@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Gli occhi di YHWH custodiscono ⟨la⟩ conoscenza, ed ⟨Egli⟩ sovverte le parole del traditore.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "custodiscono"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "conoscenza"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "e sovverte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole di"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "il traditore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:36.606539349Z",
+  "model": "glm-5.3"
+}

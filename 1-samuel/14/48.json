@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E operò con valore, e colpì ⟨את⟩ Amalek, e liberò ⟨את⟩ Israele dalla mano di chi lo saccheggiava.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E operò"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "con valore"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "e liberò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano di"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "chi lo saccheggiava"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:46.881490884Z",
+  "model": "glm-5.3"
+}

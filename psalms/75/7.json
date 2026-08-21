@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 75,
+  "translation": "Poiché non dall'esercazione ⟨delle ricchezze⟩ né dall'ovest, né dal deserto dei monti ⟨viene l'esaltazione⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "dall'esercazione"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "né dall'ovest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dal deserto"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dei monti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:46.761314977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "La sua sinistra ⟨sarebbe⟩ sotto la mia testa, e la sua destra mi abbraccerebbe.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "la sua sinistra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "la mia testa"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "e la sua destra"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "mi abbraccerebbe"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:15.979986323Z",
+  "model": "glm-5.3"
+}

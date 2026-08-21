@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "Passando per la valle del Baca vi fanno una fonte; anche benedizioni copre la pioggia autunnale.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Passando"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "per la valle"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "del Baca"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "una fonte"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "vi fanno"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "benedizioni"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "copre"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "la pioggia autunnale"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:29.264418335Z",
+  "model": "glm-5.3"
+}

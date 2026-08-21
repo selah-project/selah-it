@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E se un bue incorna ⟨את⟩ un uomo o ⟨את⟩ una donna, e muore: il bue sarà certamente lapidato e la sua carne non si mangerà ⟨את⟩, ma il padrone del bue sarà innocente.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "incorna"
+    },
+    {
+      "surface": "שור",
+      "gloss": "un bue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un uomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una donna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e muore"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "sarà lapidato"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "certamente lapidato"
+    },
+    {
+      "surface": "השור",
+      "gloss": "il bue"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "si mangerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua carne"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ma il padrone"
+    },
+    {
+      "surface": "השור",
+      "gloss": "del bue"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocente"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:02.948397920Z",
+  "model": "glm-5.3"
+}

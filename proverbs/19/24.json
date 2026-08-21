@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Il pigro nasconde la sua mano nella scodella, anche alla sua bocca non la riporterà.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "nasconde"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "il pigro"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "nella scodella"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "la sua bocca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "la riporterà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:33.092552645Z",
+  "model": "glm-5.3"
+}

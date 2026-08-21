@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E manderò davanti a te un messaggero, e caccerò ⟨את⟩ il Cananeo, l'Emoreo, il Chittita, il Perizzita, il Chivvita e il Yevuseo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "e manderò"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "un messaggero"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "e caccerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Cananeo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il Cananeo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'Emoreo"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "il Chittita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "il Perizzita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "il Chivvita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e il Yevuseo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:22.360522114Z",
+  "model": "glm-5.3"
+}

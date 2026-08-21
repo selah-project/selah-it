@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E Moshè costruì un altare e ne chiamò il nome: YHWH Nissì.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altare"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissì"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:41.707336005Z",
+  "model": "glm-5.3"
+}

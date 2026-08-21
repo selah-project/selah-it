@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Da quel paese uscì Ashur e costruì ⟨את⟩ Ninive, e ⟨את⟩ Rechovot-Ir, e ⟨את⟩ Kalach",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "quel paese"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uscì"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (della città)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:46.777155874Z",
+  "model": "glm-5.3"
+}

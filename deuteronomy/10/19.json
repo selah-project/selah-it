@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Amate ⟨את⟩ il ger, perché gerim foste voi nella terra di Mitzrajim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "amerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il ger"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "il ger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "gerim"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "foste"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrajim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:42.094927844Z",
+  "model": "glm-5.3"
+}

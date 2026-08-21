@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 126,
+  "translation": "Quelli che seminano nel pianto, con grida di gioia mieteranno.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "quelli che seminano"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "nel pianto"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "con grida di gioia"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "mieteranno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:41.161798254Z",
+  "model": "glm-5.3"
+}

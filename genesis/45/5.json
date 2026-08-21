@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 45:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "E ora non vi rattristate, e non sia ⟨ardente⟩ nei vostri occhi che mi avete venduto ⟨את⟩ qui, perché per preservare ⟨la⟩ vita mi ha mandato Elohim davanti a voi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "vi rattristate"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "sia ⟨ardente⟩"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "nei vostri occhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "avete venduto"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi (Giuseppe)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "למחיה",
+      "gloss": "per preservare ⟨la⟩ vita"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mi ha mandato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:18.880518233Z",
+  "model": "glm-5.3"
+}

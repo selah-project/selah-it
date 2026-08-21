@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Le mie parole ascolta, YHWH, comprendi il mio mormorio.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "comprendi"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "il mio mormorio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:58.463198640Z",
+  "model": "glm-5.3"
+}

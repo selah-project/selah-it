@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E ⟨את⟩ il secondo farà come olà (offerta di elevazione) secondo la norma, e il sacerdote farà espiazione per lui riguardo al suo peccato che ha commesso, e gli sarà perdonato.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il secondo (uccello)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "il secondo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "come olà"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "secondo la norma"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "e farà espiazione"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "riguardo al suo peccato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ha commesso"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "e sarà perdonato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:30.774294042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "e la condurrai dentro la tua casa, ed essa raderà ⟨את⟩ la sua testa e farà ⟨את⟩ le sue unghie,",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "e la condurrai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dentro"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "il mezzo di"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "la tua casa"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "e raderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua testa"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "la sua testa"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "e farà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue unghie"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "le sue unghie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:48.202209897Z",
+  "model": "glm-5.3"
+}

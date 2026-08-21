@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Perché hai liberato la mia vita dalla morte, ⟨את⟩ i miei occhi dal pianto, ⟨את⟩ i miei piedi dallo scivolone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "hai liberato"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia vita"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dalla morte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei occhi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "pianto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei piedi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i miei piedi"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "dallo scivolone"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:22.227685057Z",
+  "model": "glm-5.3"
+}

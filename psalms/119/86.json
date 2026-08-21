@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Tutti i tuoi comandamenti ⟨sono⟩ fedeltà; con menzogna mi perseguitano — aiutami!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "i tuoi comandamenti"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "fedeltà"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "con menzogna"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "mi perseguitano"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "aiutami!"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:36.665149979Z",
+  "model": "glm-5.3"
+}

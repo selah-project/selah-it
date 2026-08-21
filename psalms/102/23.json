@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "quando i popoli si saranno radunati insieme, e i regni, per servire ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "quando si saranno radunati"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "e i regni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "per servire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:13.530641222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Mi hanno scavato ⟨dei⟩ pozzi ⟨i⟩ superbi — cose che non ⟨sono⟩ secondo la tua Torah.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "hanno scavato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "superbi"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "pozzi (trappole)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "secondo la tua Torah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:36.664933977Z",
+  "model": "glm-5.3"
+}

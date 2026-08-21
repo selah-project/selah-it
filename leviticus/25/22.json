@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E seminerete ⟨את⟩ l'ottavo anno, e mangerete del raccolto vecchio fino all'anno nono; finché venga il suo raccolto, mangerete il vecchio.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "E seminerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'ottavo anno"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "l'anno"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "ottavo"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "e mangerete"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "il raccolto"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "vecchio"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "l'anno"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "nono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "venga"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "il suo raccolto"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "il vecchio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:38.222566462Z",
+  "model": "glm-5.3"
+}

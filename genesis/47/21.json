@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E ⟨את⟩ il popolo lo fece passare ⟨את⟩ alle città, da un estremo del confine d'Egitto fino al suo estremo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "lo fece passare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "alle città"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "alle città"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "da un estremo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "del confine"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "al suo estremo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:42.179927984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ il Hivveo, e ⟨את⟩ l'Archeo, e ⟨את⟩ il Sineo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il Hivveo"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "il Hivveo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'Archeo"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "l'Archeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il Sineo"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "il Sineo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:48.622061691Z",
+  "model": "glm-5.3"
+}

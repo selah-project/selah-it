@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "La mia parte ⟨è⟩ YHWH; ho detto ⟨di⟩ custodire le tue parole.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "la mia parte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "custodire"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "le tue parole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:52.055652072Z",
+  "model": "glm-5.3"
+}

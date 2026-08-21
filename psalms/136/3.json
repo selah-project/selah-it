@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "Rendete grazie all'Adonai degli adonim, perché per sempre ⟨dura⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Rendete grazie"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "all'Adonai"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "degli adonim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:57.038535138Z",
+  "model": "glm-5.3"
+}

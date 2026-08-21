@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Ecco, giorni vengono, oracolo di YHWH, e seminerò la casa d'Israele e ⟨את⟩ la casa di Giuda, seme d'uomo e seme di bestiame.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vengono"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "e seminerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa d'Israele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di Giuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seme"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "e seme"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "di bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T08:08:18.569596830Z",
+  "model": "glm-5.3"
+}

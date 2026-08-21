@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E si alzò Giacobbe, e caricò ⟨את⟩ i suoi figli e ⟨את⟩ le sue mogli sui cammelli.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "si alzò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "caricò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le sue mogli"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "le sue mogli"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "i cammelli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:26.409977622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "« Esci dall'arca, tu e tua moglie e i tuoi figli e le mogli dei tuoi figli con te.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "esci"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "e tua moglie"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "e i tuoi figli"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "e le mogli"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dei tuoi figli"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:33.586547283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Porzione come porzione mangeranno, a parte ciò che viene dalle sue vendite sugli ⟨i⟩ patrimoni dei padri.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "porzione"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "come porzione"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeranno"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a parte"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "dalle sue vendite"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "i padri"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:50.917259998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Scaccia ⟨il⟩ beffardo e se ne va ⟨il⟩ contendere, e cesseranno lite e ignominia.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Scaccia"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "il beffardo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e se ne va"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "il contendere"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "e cesseranno"
+    },
+    {
+      "surface": "דין",
+      "gloss": "lite"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "e ignominia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:36.606284551Z",
+  "model": "glm-5.3"
+}

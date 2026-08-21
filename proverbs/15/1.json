@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Una risposta morbida riporta indietro lo sdegno, ma una parola dolorosa fa salire ⟨la⟩ rabbia.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "Una risposta"
+    },
+    {
+      "surface": "רך",
+      "gloss": "morbida"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "riporta indietro"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "lo sdegno"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ma una parola"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "dolorosa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "fa salire"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨la⟩ rabbia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:48.710163240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Le colpe hanno prevalso ⟨su di me⟩; quanto alle nostre ribellioni — tu le coprirai.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "le colpe"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "di colpe"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "hanno prevalso"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨su di me⟩"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "le nostre ribbellioni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "le coprirai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:57.375990476Z",
+  "model": "glm-5.3"
+}

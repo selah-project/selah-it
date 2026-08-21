@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "E io sono divenuto un oltraggio per loro: mi vedono, scotono ⟨la⟩ ⟨loro⟩ testa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono divenuto"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "un oltraggio"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "mi vedono"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "scotono"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "la loro testa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:04.867681720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 140,
+  "translation": "Il capo di quelli che mi circondano — la fatica delle loro labbra li copra.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "di quelli che mi circondano"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "la fatica"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "delle loro labbra"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "li copra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:38.659274107Z",
+  "model": "glm-5.3"
+}

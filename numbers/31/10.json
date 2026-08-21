@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E ⟨את⟩ tutte le loro città nelle loro dimore e ⟨את⟩ tutti i loro accampamenti diedero al fuoco.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutte le loro città"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "le loro città"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "nelle loro dimore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti i loro accampamenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "i loro accampamenti"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "diedero al fuoco"
+    },
+    {
+      "surface": "באש",
+      "gloss": "col fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:28.276502366Z",
+  "model": "glm-5.3"
+}

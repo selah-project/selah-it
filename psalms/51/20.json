@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Fa' del bene secondo il tuo favore a ⟨את⟩ Tzion; costruisci le mura di Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "fa' del bene"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "secondo il tuo favore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "costruisci"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "le mura"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:51.465804699Z",
+  "model": "glm-5.3"
+}

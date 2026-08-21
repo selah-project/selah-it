@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E disse Saul: «Traete ⟨la sorte⟩ fra me e Jonathan mio figlio». E Jonathan fu preso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "traete"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "fra me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e fra"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e fu preso"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonathan"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:24.324315445Z",
+  "model": "glm-5.3"
+}

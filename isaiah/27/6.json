@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 27:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Chi viene mette radici: Giacobbe radicherà, Israele fiorirà e germoglierà, e riempiranno la faccia della terra di prodotti.",
+  "tokens": [
+    {
+      "surface": "הבאים",
+      "gloss": "chi viene"
+    },
+    {
+      "surface": "ישרש",
+      "gloss": "mette radici"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "fiorirà"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "e germoglierà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e riempiranno"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "תנובה",
+      "gloss": "di prodotti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:34.414102603Z",
+  "model": "glm-5.3"
+}

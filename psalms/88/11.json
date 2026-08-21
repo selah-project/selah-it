@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Ai morti farai ⟨il⟩ prodigio? ⟨Forse⟩ i refaim si leveranno, ti loderanno? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ai morti"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "il prodigio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨forse⟩"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "i refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "si leveranno"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ti loderanno"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:17.872356958Z",
+  "model": "glm-5.3"
+}

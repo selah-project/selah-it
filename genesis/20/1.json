@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E partì di là Avraham verso ⟨la⟩ terra del Neghev, e abitò tra Kadesh e tra Shur, e soggiornò come straniero in Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "e partì"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "verso ⟨la⟩ terra"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "del Neghev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e abitò"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "e soggiornò come straniero"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "in Gerar"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:19.577722797Z",
+  "model": "glm-5.3"
+}

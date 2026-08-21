@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Shabbat di solenne riposo esso ⟨è⟩ per voi, e umilierete ⟨את⟩ le vostre nefashot: statuto perpetuo.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "di solenne riposo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "esso ⟨è⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "e umilierete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vostre nefashot"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "le vostre nefashot"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "statuto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpetuo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:59.174162131Z",
+  "model": "glm-5.3"
+}

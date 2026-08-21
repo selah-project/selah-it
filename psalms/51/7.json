@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Ecco, nell'iniquità sono stato formato, e nel peccato mi ha concepito mia madre.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "nell'iniquità"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "sono stato formato"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "e nel peccato"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "mi ha concepito"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mia madre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:33.007234600Z",
+  "model": "glm-5.3"
+}

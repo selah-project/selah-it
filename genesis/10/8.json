@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E Cush generò ⟨את⟩ Nimrod; lui cominciò a essere potente sulla terra.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "e Cush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "החל",
+      "gloss": "cominciò"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "a essere"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "potente"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:14.805781566Z",
+  "model": "glm-5.3"
+}

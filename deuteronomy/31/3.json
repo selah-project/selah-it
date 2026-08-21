@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "YHWH, il tuo Elohim, ⟨lui⟩ passa davanti a te; ⟨lui⟩ distruggerà ⟨את⟩ le nazioni queste davanti a te, e tu le possiederai; Yehoshua, ⟨lui⟩ passa davanti a te, come ha parlato YHWH.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "distruggerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nazioni"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "e le possiederai"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:20.201071063Z",
+  "model": "glm-5.3"
+}

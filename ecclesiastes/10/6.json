@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "⟨La⟩ stoltezza ⟨è⟩ posta in altezze numerose, e i ricchi nel basso siedono.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "⟨è⟩ posta"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "la stoltezza"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "in altezze"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "numeroso"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "e i ricchi"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "nel basso"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "siedono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:54.124789816Z",
+  "model": "glm-5.3"
+}

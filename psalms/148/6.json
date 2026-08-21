@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "e li fissò per sempre, per l'eternità: un decreto pose, e non sarà oltrepassato.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "e li fissò"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per l'eternità"
+    },
+    {
+      "surface": "חק",
+      "gloss": "un decreto"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pose"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "sarà oltrepassato"
+    }
+  ],
+  "timestamp": "2026-08-21T10:16:06.837337996Z",
+  "model": "glm-5.3"
+}

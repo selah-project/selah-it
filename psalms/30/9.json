@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "A te, YHWH, grido, e ad Adonai imploro favore.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "grido"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ad"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "imploro favore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:37.400217999Z",
+  "model": "glm-5.3"
+}

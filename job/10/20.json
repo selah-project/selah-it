@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Non ⟨sono⟩ forse pochi i miei giorni? Desisti, deponi ⟨il tuo assalto⟩ da me, e io mi rallegrerò un poco.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pochi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i miei giorni"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "desisti"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "deponi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "e io mi rallegrerò"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un poco"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:39.640025621Z",
+  "model": "glm-5.3"
+}

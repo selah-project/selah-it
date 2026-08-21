@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E se un uomo chiede in prestito dal suo prossimo, e ⟨la bestia⟩ si rompe o muore — il suo padrone non essendo con lui — ripagherà senz'altro.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "chiede in prestito"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dal"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "suo prossimo"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "e si rompe"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מת",
+      "gloss": "muore"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "il suo padrone"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non essendo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ripagherà"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "senz'altro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:32.116966067Z",
+  "model": "glm-5.3"
+}

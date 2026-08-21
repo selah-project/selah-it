@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Un affanno per suo padre ⟨è⟩ il figlio stolto, e un'amarezza per colei che lo ha partorito.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "un affanno"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "per suo padre"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "stolto"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "e un'amarezza"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "per colei che lo ha partorito"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:18.987956494Z",
+  "model": "glm-5.3"
+}

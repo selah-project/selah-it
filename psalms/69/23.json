@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Sia la loro tavola davanti a loro ⟨una⟩ trappola, e per i loro ⟨amici di⟩ pace un laccio.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "la loro tavola"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "davanti a loro"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "⟨una⟩ trappola"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "e per i loro ⟨amici di⟩ pace"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "un laccio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:28.214435914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E disse YHWH a Mosè: di' ad Aharon: stendi ⟨את⟩ il tuo bastone e percuoti ⟨את⟩ la polvere della terra, e sia in moscerini su tutta la terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "stendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo bastone"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "il tuo bastone"
+    },
+    {
+      "surface": "והך",
+      "gloss": "e percuoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la polvere della terra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la polvere"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sia"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "in moscerini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "su tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:54.892255376Z",
+  "model": "glm-5.3"
+}

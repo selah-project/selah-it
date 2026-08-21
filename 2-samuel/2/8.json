@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E Avner figlio di Ner, capo dell'esercito che era di Saul, prese ⟨את⟩ Ish-Boshet figlio di Saul e lo fece passare a Machanaim.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "e Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נר",
+      "gloss": "di Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "dell'esercito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "era di Saul"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boshet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Saul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "e lo fece passare"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "a Machanaim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:01.009023260Z",
+  "model": "glm-5.3"
+}

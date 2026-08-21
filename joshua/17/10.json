@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "A sud ⟨il territorio era⟩ di Efraim e a nord di Menashe, e il mare fu il suo confine; e toccavano ⟨il territorio⟩ in Asher a nord e in Issachar a est.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "a sud"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "a Efraim"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "e a nord"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "a Menashe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "il suo confine"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "e in Asher"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "toccavano"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "a nord"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "e in Issachar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "a est"
+    }
+  ],
+  "timestamp": "2026-08-21T06:55:21.060250826Z",
+  "model": "glm-5.3"
+}

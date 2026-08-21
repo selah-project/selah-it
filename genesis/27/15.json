@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E Rivka prese ⟨את⟩ le vesti di Esav, suo figlio maggiore, le vesti pregevoli che erano con lei in casa, e vestì ⟨את⟩ Giacobbe, suo figlio minore.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vesti di Esav"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le vesti"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "maggiore"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "pregevoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ con lei"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in casa"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "e vestì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giacobbe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "minore"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:02.887819179Z",
+  "model": "glm-5.3"
+}

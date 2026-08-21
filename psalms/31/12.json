@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Per tutti i miei avversari ⟨sono⟩ divenuto un obbrobrio, e per i miei vicini ⟨ben⟩ più, e un terrore per i miei conoscenti; quelli che mi vedono fuori fuggono da me.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "i miei avversari"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono divenuto"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "un obbrobrio"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "e per i miei vicini"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨ben⟩ più"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "e un terrore"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "per i miei conoscenti"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "quelli che mi vedono"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "fuggono"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:59.079862703Z",
+  "model": "glm-5.3"
+}

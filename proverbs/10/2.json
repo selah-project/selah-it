@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Non giovano i tesori dell'ingiustizia, ma la giustizia libera dalla morte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "giovano"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "i tesori"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dell'ingiustizia"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ma la giustizia"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "libera"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dalla morte"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:24.223970722Z",
+  "model": "glm-5.3"
+}

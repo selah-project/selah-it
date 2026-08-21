@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Poiché le mie iniquità sono passate sopra il mio capo; come fardello pesante gravano sopra di me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "le mie iniquità"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "sono passate"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sopra il mio capo"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "come fardello"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "pesante"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "gravano"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sopra di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:31.113612620Z",
+  "model": "glm-5.3"
+}

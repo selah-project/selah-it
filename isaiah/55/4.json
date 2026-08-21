@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Ecco, ⟨come⟩ testimone per le genti l'ho dato, principe e comandante per i popoli.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨come⟩ testimone"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "per le genti"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "l'ho dato"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "principe"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "e comandante"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "per i popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:22.392755566Z",
+  "model": "glm-5.3"
+}

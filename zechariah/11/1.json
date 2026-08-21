@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Apra il Libano le tue porte, e divori il fuoco i tuoi cedri.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "apra"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "il Libano"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "le tue porte"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "e divori"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "i tuoi cedri"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:43.465036038Z",
+  "model": "glm-5.3"
+}

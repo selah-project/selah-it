@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "finché YHWH si sporga e veda dai cieli.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "si sporga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e veda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dai cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:14.715436815Z",
+  "model": "glm-5.3"
+}

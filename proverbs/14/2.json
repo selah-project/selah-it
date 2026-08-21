@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Chi cammina nella sua rettitudine teme YHWH, ma chi è perverso nelle sue vie lo disprezza.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "chi cammina"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "nella sua rettitudine"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "teme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "ma chi è perverso"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "nelle sue vie"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "lo disprezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:22.265009478Z",
+  "model": "glm-5.3"
+}

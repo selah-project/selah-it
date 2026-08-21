@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Giustizia e diritto ⟨sono⟩ la base del tuo trono; chesed e verità precedono il tuo volto.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e diritto"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "la base"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "del tuo trono"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "e verità"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "precedono"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:08.058912932Z",
+  "model": "glm-5.3"
+}

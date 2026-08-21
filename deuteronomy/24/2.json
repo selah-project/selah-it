@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Ella esce dalla sua casa, se ne va e diventa ⟨la donna⟩ di un altro uomo.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ed ella esce"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "dalla sua casa"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "e se ne va"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e diventa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:28.441707123Z",
+  "model": "glm-5.3"
+}

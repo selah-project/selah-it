@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 21:10",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E si ribellò Edom da sotto la mano di Giuda fino a questo giorno; allora si ribellò Libna in quel tempo da sotto la sua mano, perché egli aveva abbandonato ⟨את⟩ YHWH, Elohim dei suoi padri.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "E si ribellò"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "da sotto"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "תפשע",
+      "gloss": "si ribellò"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "quel tempo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "da sotto"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "aveva abbandonato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dei suoi padri"
+    }
+  ],
+  "timestamp": "2026-08-21T09:58:38.543701007Z",
+  "model": "glm-5.3"
+}

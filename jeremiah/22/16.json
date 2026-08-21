@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Giudicava la causa del povero e del bisognoso — allora ⟨era⟩ bene. Non ⟨è⟩ forse questo il conoscere ⟨את⟩ me? Oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Giudicava"
+    },
+    {
+      "surface": "דין",
+      "gloss": "la causa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "del povero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e del bisognoso"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bene"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Non forse"
+    },
+    {
+      "surface": "היא",
+      "gloss": "questo ⟨è⟩"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "il conoscere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:12.203507434Z",
+  "model": "glm-5.3"
+}

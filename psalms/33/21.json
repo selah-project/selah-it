@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "poiché in lui gioisce il nostro cuore, poiché nel suo santo Nome abbiamo confidato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gioisce"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "il nostro cuore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel Nome"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suo santo"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "abbiamo confidato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:03.818346565Z",
+  "model": "glm-5.3"
+}

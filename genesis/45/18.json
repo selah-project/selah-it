@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "e prendete ⟨את⟩ vostro padre e ⟨את⟩ le vostre case e venite a me, e io darò a voi ⟨את⟩ il meglio del paese di Mitzrajim, e mangerete ⟨את⟩ il grasso della terra.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "e prendete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vostro padre"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "vostro padre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le vostre case"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "le vostre case"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "e venite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e io darò"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il meglio"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il meglio"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrajim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "e mangerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il grasso"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:01.660090809Z",
+  "model": "glm-5.3"
+}

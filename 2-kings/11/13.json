@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Atalia udì ⟨את⟩ la voce dei corridori, il popolo, ed entrò verso il popolo, nella casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "dei corridori"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ed entrò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:18.955570918Z",
+  "model": "glm-5.3"
+}

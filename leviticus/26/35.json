@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Tutti i giorni della sua desolazione riposerà ⟨את⟩ ciò che non riposò nei vostri shabbat, mentre voi abitavate su di essa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "della desolazione"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "riposerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che non riposò (i shabbat non osservati)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "riposò"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "nei vostri shabbat"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "mentre abitavate"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di essa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:07.409963343Z",
+  "model": "glm-5.3"
+}

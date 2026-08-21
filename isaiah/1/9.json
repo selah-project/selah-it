@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Se non fosse per YHWH degli eserciti, ci avrebbe lasciato pochi superstiti: come Sodoma saremmo diventati, a Gomorra avremmo somigliato.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "se non fosse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "avrebbe lasciato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "superstiti"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "pochi"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "come Sodoma"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "saremmo diventati"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "a Gomorra"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "avremmo somigliato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:48.146967642Z",
+  "model": "glm-5.3"
+}

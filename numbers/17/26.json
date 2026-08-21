@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E fece Mosè come aveva comandato YHWH ⟨את⟩ lui: così fece.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fece"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (Mosè)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    }
+  ],
+  "timestamp": "2026-08-21T06:30:43.804627840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E colpì YHWH ⟨את⟩ il re, ed egli fu lebbroso fino al giorno della sua morte, e abitò in una casa separata; e Jotham figlio del re era sopra ⟨la⟩ casa, giudicando ⟨את⟩ il popolo del paese.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ed egli fu"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "lebbroso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "יום",
+      "gloss": "al giorno"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "della sua morte"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e abitò"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in una casa"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "separata"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "e Jotham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "giudicando"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo del paese"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:08.258891802Z",
+  "model": "glm-5.3"
+}

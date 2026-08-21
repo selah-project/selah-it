@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Lui costruirà una casa per il mio Nome, e io consolidarò ⟨את⟩ il trono del suo regno fino a ⟨il⟩ secolo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "costruirà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "per il mio Nome"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "e io consolidarò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il trono"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "del suo regno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "il secolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:53.477936166Z",
+  "model": "glm-5.3"
+}

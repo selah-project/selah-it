@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Non gettarmi via al tempo della vecchiaia; quando viene meno il mio vigore, non abbandonarmi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "gettarmi via"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "al tempo"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "della vecchiaia"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "quando viene meno"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "il mio vigore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "abbandonarmi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:09.275322621Z",
+  "model": "glm-5.3"
+}

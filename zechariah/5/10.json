@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E dissi all'angelo che parlava in me: dove ⟨sono⟩ loro che portano ⟨את⟩ l'efa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "l'angelo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "che parlava"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in me"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "dove"
+    },
+    {
+      "surface": "המה",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "portano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "l'efa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:03.100459115Z",
+  "model": "glm-5.3"
+}

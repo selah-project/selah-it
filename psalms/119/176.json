@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ho vagato come una pecora perduta; cerca il tuo servo, perché i tuoi comandamenti non ho dimenticato.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "ho vagato"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "come una pecora"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "perduta"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "i tuoi comandamenti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ho dimenticato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:36.598091691Z",
+  "model": "glm-5.3"
+}

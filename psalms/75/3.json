@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 75,
+  "translation": "« Quando fisso il tempo appointed, io giudico con rettitudine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "fisso"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "il tempo appointed"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "con rettitudine"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "giudico"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:04.879427811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "malachi 2:11",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Ha agito perfidamente Giuda, e un abominio è stato fatto in Israele e in Gerusalemme: perché Giuda ha profanato il santuario di YHWH, che egli amava, e ha sposato la figlia di un el straniero.",
+  "tokens": [
+    {
+      "surface": "בגדה",
+      "gloss": "ha agito perfidamente"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "ותועבה",
+      "gloss": "e un abominio"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "è stato fatto"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "e in Gerusalemme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ha profanato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "il santuario"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "amava"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "e ha sposato"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di un el"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "straniero"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:39.448687490Z",
+  "model": "glm-5.3"
+}

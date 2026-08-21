@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E questa è la Torah della minchà: la offriranno ⟨את⟩ i figli di Aharon davanti a YHWH, davanti all'altare.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "e questa"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "della minchà"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "offriranno"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "i figli di Aharon (con l'offerta)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "di Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "all'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:02.869785173Z",
+  "model": "glm-5.3"
+}

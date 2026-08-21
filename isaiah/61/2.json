@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 61,
+  "translation": "per proclamare l'anno di favore di YHWH e il giorno di vendetta del nostro Elohim, per consolare tutti quelli che fanno lutto.",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "per proclamare"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "l'anno"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "di favore"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "e il giorno"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "di vendetta"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "del nostro Elohim"
+    },
+    {
+      "surface": "לנחם",
+      "gloss": "per consolare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "quelli che fanno lutto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:11.312164742Z",
+  "model": "glm-5.3"
+}

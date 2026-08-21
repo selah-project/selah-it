@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "allora il sacerdote comanderà che lavino ciò ⟨את⟩ in cui ⟨c'è⟩ la piaga, e lo chiuderà ⟨in isolamento⟩ sette giorni, una seconda volta.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "comanderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "e laveranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò in cui c'è la piaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in esso"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la piaga"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "e lo chiuderà"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "una seconda volta"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:10.225458295Z",
+  "model": "glm-5.3"
+}

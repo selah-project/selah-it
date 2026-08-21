@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Il disprezzato è nulla ai suoi occhi, ma ⟨את⟩ i timorati di YHWH onora; giura perfino a suo danno e non cambia.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "il disprezzato"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ai suoi occhi"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "è nulla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i timorati di YHWH"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "i timorati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "onora"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "giura"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "a suo danno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "cambia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:02.620246604Z",
+  "model": "glm-5.3"
+}

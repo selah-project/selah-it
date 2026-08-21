@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E unì ⟨את⟩ le cinque tende a parte, e ⟨את⟩ le sei tende a parte.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "e unì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cinque tende"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tende"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a parte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le sei tende"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tende"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a parte"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:13.375878841Z",
+  "model": "glm-5.3"
+}

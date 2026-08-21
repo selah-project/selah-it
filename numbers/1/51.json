@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E quando il mishkan partirà, lo smonteranno i Leviti; e quando il mishkan si accamperà, lo rizzeranno i Leviti; e lo straniero che si avvicina sarà messo a morte.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "e quando… partirà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "smonteranno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "il mishkan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "i Leviti"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "e quando… si accamperà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "rizzeranno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "il mishkan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "i Leviti"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "e lo straniero"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "che si avvicina"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:59.892739525Z",
+  "model": "glm-5.3"
+}

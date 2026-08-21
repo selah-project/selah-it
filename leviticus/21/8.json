@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E lo santificherai, perché ⟨את⟩ il pane del tuo Elohim lui avvicina-offrendo; santo sarà per te, perché santo ⟨sono⟩ io, YHWH, che vi santifico.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "e lo santificherai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il pane del tuo Elohim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il pane"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "del tuo Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "avvicina-offrendo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "che vi santifico"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:19.215605751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E lui disse: perché vuoi andare da lui ⟨proprio⟩ oggi? Non ⟨è⟩ novilunio e non shabbat. E lei disse: shalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e lui disse"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "vuoi andare"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novilunio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e lei disse"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:10.016784602Z",
+  "model": "glm-5.3"
+}

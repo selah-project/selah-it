@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E Moshè fece camminare Israele dal mare di Canne⟨(mar Rosso)⟩, e uscirono verso il deserto di Shur; camminarono tre giorni nel deserto e non trovarono acqua.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "fece camminare"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dal mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "di Canne"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "e uscirono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "il deserto"
+    },
+    {
+      "surface": "שור",
+      "gloss": "di Shur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e camminarono"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "trovarono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:40.285438914Z",
+  "model": "glm-5.3"
+}

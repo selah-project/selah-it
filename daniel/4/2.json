@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Un sogno ho visto, e mi ha spaventato, e i pensieri sul mio giaciglio e le visioni della mia testa mi hanno sconvolto.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "Un sogno"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "e mi ha spaventato"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "e i pensieri"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "il mio giaciglio"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "e le visioni"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "della mia testa"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "mi hanno sconvolto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:34:10.458877010Z",
+  "model": "glm-5.3"
+}

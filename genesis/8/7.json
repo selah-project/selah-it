@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E mandò fuori ⟨את⟩ il corvo; esso uscì, uscendo e tornando, finché si asciugarono le acque da sopra la terra.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il corvo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "il corvo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ed esso uscì"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "uscendo"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "e tornando"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "si asciugarono"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da sopra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:52.115325277Z",
+  "model": "glm-5.3"
+}

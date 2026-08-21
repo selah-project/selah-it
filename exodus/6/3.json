@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E mi feci vedere ad Avraham, a Yitzchak e a Yaakov come El Shaddai; ma il mio Nome, YHWH, non mi resi noto a loro.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "e mi feci vedere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ad Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "a Yitzchak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "באל",
+      "gloss": "come El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ma il mio Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "mi resi noto"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:36.743368262Z",
+  "model": "glm-5.3"
+}

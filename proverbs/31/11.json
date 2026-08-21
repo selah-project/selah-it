@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Il cuore di suo marito confida in lei, e di guadagno non mancherà.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "confida"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in lei"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "di suo marito"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "e di guadagno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "mancherà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:47.478612210Z",
+  "model": "glm-5.3"
+}

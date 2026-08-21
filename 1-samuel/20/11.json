@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E disse Yehonatan a David: «Vieni, usciamo ⟨nel⟩ campo». E uscirono entrambi ⟨nel⟩ campo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "vieni"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "usciamo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "e uscirono"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "entrambi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "il campo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:08.690978799Z",
+  "model": "glm-5.3"
+}

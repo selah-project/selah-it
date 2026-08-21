@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Perché si agitano le nazioni e i popoli meditano ⟨un⟩ vuoto?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "si agitano"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "e i popoli"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "meditano"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "vuoto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:10.894977611Z",
+  "model": "glm-5.3"
+}

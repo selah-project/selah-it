@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "e saranno introdotte ⟨את⟩ le sue stanghe negli anelli; e le stanghe saranno sui due lati dell'altare, quando si porta ⟨את⟩ esso.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "e saranno introdotte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue stanghe"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "le sue stanghe"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "negli anelli"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e saranno"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "le stanghe"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "i due"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "lati"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dell'altare"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "quando si porta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (l'altare)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:40.665229492Z",
+  "model": "glm-5.3"
+}

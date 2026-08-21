@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "YHWH tuo Elohim farà cadere ⟨את⟩ tutte queste maledizioni sui tuoi nemici e su quelli che ti odiano, che ti hanno perseguitato.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "e farà cadere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte queste maledizioni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "queste maledizioni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "quelli che ti odiano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ti hanno perseguitato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:46.648610891Z",
+  "model": "glm-5.3"
+}

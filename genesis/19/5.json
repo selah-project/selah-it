@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E chiamarono Lot e gli dissero: «Dove sono gli uomini che sono venuti da te questa notte? Falli uscire verso di noi, e ⟨את⟩li conosceremo».",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "e chiamarono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dove"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sono venuti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "questa notte"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "falli uscire"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "verso di noi"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "e conosceremo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (gli uomini venuti da te)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:47.037473372Z",
+  "model": "glm-5.3"
+}

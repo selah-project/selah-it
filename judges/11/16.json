@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 11:16",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Perché quando salirono dall'Egitto, Israele camminò nel deserto fino al mare di Suf e arrivò a Kadesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בעלותם",
+      "gloss": "quando salirono"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e camminò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "ים",
+      "gloss": "al mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "di Suf"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e arrivò"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "a Kadesh"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:56.865021182Z",
+  "model": "glm-5.3"
+}

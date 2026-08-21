@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Cercate ⟨את⟩ YHWH e vivrete, affinché non divampi come fuoco nella casa di Giuseppe e divori, e non vi sia chi spenga, per Bet-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Cercate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "e vivrete"
+    },
+    {
+      "surface": "פן",
+      "gloss": "affinché non"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "divampi"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "come fuoco"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "di Giuseppe"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "e divori"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non vi sia"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "chi spenga"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "per Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:29.543315413Z",
+  "model": "glm-5.3"
+}

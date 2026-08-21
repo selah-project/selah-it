@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E se litigano uomini e un uomo colpisce ⟨את⟩ il suo prossimo con una pietra o con il pugno, e ⟨quello⟩ non muore ma cade a letto,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "litigano"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "e colpisce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "con una pietra"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "con il pugno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "muore"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ma cade"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "a letto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:06.906410580Z",
+  "model": "glm-5.3"
+}

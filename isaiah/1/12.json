@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Quando venite per apparire davanti alla mia faccia — chi ha chiesto questo dalle vostre mani, calpestare i miei cortili?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "per apparire"
+    },
+    {
+      "surface": "פני",
+      "gloss": "davanti alla mia faccia"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ha chiesto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "dalle vostre mani"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "calpestare"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "i miei cortili"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:48.147455779Z",
+  "model": "glm-5.3"
+}

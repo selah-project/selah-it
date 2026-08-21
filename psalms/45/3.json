@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Sei il più bello dei figli dell'uomo; la grazia ⟨è⟩ stata versata sulle tue labbra; per questo ti ha benedetto Elohim per sempre.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "sei il più bello"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo (adam)"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "⟨è⟩ stata versata"
+    },
+    {
+      "surface": "חן",
+      "gloss": "la grazia (chen)"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "sulle tue labbra"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ti ha benedetto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:28.910104529Z",
+  "model": "glm-5.3"
+}

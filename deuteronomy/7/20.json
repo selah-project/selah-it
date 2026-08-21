@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E anche ⟨את⟩ il calabrone manderà YHWH ⟨il⟩ tuo Elohim contro di loro, fino allo svanire di quelli che restano e di quelli che si nascondono davanti a te.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il calabrone"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "il calabrone"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "manderà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contro di loro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "allo svanire"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "quelli che restano"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "e quelli che si nascondono"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "davanti a te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:16.369407273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Il popolo stette da lontano, e Mosè si accostò all'oscurità densa dove stava ⟨il⟩ ⟨Dio⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "e stette"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "da lontano"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "e Mosè"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "si accostò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "l'oscurità densa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:55.586971863Z",
+  "model": "glm-5.3"
+}

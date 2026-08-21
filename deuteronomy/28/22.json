@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Ti colpirà YHWH con la tisi e con la febbre e con l'infiammazione e con l'arsura e con la spada e con la ruggine e con il marciume; e ti perseguiteranno finché tu perisca.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "ti colpirà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "con la tisi"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "e con la febbre"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "e con l'infiammazione"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "e con l'arsura"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "e con la spada"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "e con la ruggine"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "e con il marciume"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "e ti perseguiteranno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "tu perisca"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:33.162140223Z",
+  "model": "glm-5.3"
+}

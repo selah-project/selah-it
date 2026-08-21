@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Egli vi rimprovererà, certo vi rimprovererà, se in segreto alzerete il volto ⟨mostrando parzialità⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "rimprovererà"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "certo rimprovererà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in segreto"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "alzerete"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:39.885383772Z",
+  "model": "glm-5.3"
+}

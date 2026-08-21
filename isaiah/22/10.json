@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E ⟨את⟩ le case di Gerusalemme avete contate, e avete demolito le case per fortificare il muro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le case di Gerusalemme"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "le case"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "avete contate"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "e avete demolito"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "le case"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "per fortificare"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "il muro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:44.107183195Z",
+  "model": "glm-5.3"
+}

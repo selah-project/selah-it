@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "« Questa è la mia menuchà per sempre: qui io siederò, poiché l'ho desiderata ».",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "la mia menuchà"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "per"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "פה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "io siederò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "l'ho desiderata"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:47.647706888Z",
+  "model": "glm-5.3"
+}

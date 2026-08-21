@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Poiché salvavo il povero che gridava, l'orfano e chi non aveva chi lo aiutasse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "salvavo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "che gridava"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "l'orfano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "aiutasse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:22.309618287Z",
+  "model": "glm-5.3"
+}

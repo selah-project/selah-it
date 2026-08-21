@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 110,
+  "translation": "Di Davide. Mizmor. Oracolo di YHWH al mio Adonai: siedi alla mia destra, finché io ponga i tuoi nemici come sgabello ai tuoi piedi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (canto strumentale)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "al mio Adonai"
+    },
+    {
+      "surface": "שב",
+      "gloss": "siedi"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "alla mia destra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "io ponga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sgabello"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ai tuoi piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:07.188953477Z",
+  "model": "glm-5.3"
+}

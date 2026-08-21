@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Chi raccoglie nell'estate ⟨è⟩ un figlio saggio; chi dorme nella mietitura ⟨è⟩ un figlio che arrossisce di vergogna.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "chi raccoglie"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "nell'estate"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "chi dorme"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "nella mietitura"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "che arrossisce di vergogna"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:25.064023778Z",
+  "model": "glm-5.3"
+}

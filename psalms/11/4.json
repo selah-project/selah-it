@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "YHWH ⟨è⟩ nel suo santuario, YHWH — nei cieli ⟨è⟩ il suo trono; i suoi occhi contemplano, le sue palpebre esaminano i figli dell'uomo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "nel suo tempio"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "del suo santuario"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "il suo trono"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "contemplano"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "le sue palpebre"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "esaminano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:18.259010200Z",
+  "model": "glm-5.3"
+}

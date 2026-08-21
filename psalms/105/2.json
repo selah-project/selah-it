@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Cantategli, salmeggiate per lui, meditate tutte le sue meraviglie.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "salmeggiate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "meditate"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "le sue meraviglie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:59.800573461Z",
+  "model": "glm-5.3"
+}

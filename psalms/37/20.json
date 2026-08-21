@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Poiché i malvagi periranno, e i nemici di YHWH, come il grasso degli agnelli, finiranno; in fumo finiranno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "periranno"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "e i nemici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "come il grasso"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "degli agnelli"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "finiranno"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "in fumo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "finiranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:24.494617583Z",
+  "model": "glm-5.3"
+}

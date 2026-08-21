@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Inclina verso di me il tuo orecchio, presto liberami; sii per me rupe di rifugio, casa di fortezze, per salvarmi.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "inclina"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "il tuo orecchio"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "presto"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "liberami"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "rupe di rifugio"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "di rifugio"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "casa di"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "fortezze"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "per salvarmi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:00.450913114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Hai riscattato con ⟨il⟩ braccio il tuo popolo, i figli di Giacobbe e di Giuseppe. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Hai riscattato"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "con ⟨il⟩ braccio"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "e di Giuseppe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:23.248301511Z",
+  "model": "glm-5.3"
+}

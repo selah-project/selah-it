@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Negli atri della casa di YHWH, in mezzo a te, Gerusalemme. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "negli atri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "in mezzo a te"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:33.567195274Z",
+  "model": "glm-5.3"
+}

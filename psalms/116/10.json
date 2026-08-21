@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Ho creduto, ⟨perciò⟩ ho parlato: io, ⟨ero⟩ molto afflitto.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ho creduto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨perciò⟩"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ero afflitto"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:35.452018065Z",
+  "model": "glm-5.3"
+}

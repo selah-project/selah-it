@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 108,
+  "translation": "⟨È⟩ fermo il mio cuore, Elohim; canterò, sì, suonerò ⟨per Te⟩, anche la mia gloria.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "fermo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "sì, suonerò"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "la mia gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:38.398468546Z",
+  "model": "glm-5.3"
+}

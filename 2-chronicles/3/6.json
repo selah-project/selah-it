@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E rivestì ⟨את⟩ la casa di pietra preziosa per ornamento; e l'oro era oro di Parvaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "e rivestì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "pietra"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "preziosa"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "per ornamento"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "e l'oro"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "di Parvaim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:54:38.272881285Z",
+  "model": "glm-5.3"
+}

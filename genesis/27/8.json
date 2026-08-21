@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "« E ora, figlio mio, ascolta la mia voce, in ciò che io ti comando ⟨את⟩ ».",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E ora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "in ciò che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ti comando"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ti (suffisso pronominale: l'oggetto è Jaakov)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:01.643215782Z",
+  "model": "glm-5.3"
+}

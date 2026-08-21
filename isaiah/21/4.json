@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Vaga il mio cuore, l'orrore mi ha spaventato; ⟨את⟩ il crepuscolo che desideravo è stato mutato per me in tremito.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "Vaga"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "l'orrore"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mi ha spaventato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il crepuscolo che desideravo"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "il crepuscolo"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "che desideravo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "è stato mutato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "in tremito"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:43.059899950Z",
+  "model": "glm-5.3"
+}

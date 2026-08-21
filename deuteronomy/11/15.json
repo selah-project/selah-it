@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e darò erba nel tuo campo per il tuo bestiame, e mangerai e ti sazierai.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e darò"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "erba"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "nel tuo campo"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "per il tuo bestiame"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "e mangerai"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "e ti sazierai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:01.191082954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E ora porta ⟨ti prego⟩ il mio peccato — soltanto questa volta — e fate supplica a YHWH, ⟨il⟩ vostro Elohim, e toglierà da me soltanto ⟨את⟩ questa morte.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "שא",
+      "gloss": "porta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "il mio peccato"
+    },
+    {
+      "surface": "אך",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "questa volta"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "e fate supplica"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "e toglierà"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "רק",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa morte"
+    },
+    {
+      "surface": "המות",
+      "gloss": "la morte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:45.868542341Z",
+  "model": "glm-5.3"
+}

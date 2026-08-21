@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E il Rabsaqè tornò e trovò ⟨את⟩ il re di Ashsur che combatteva contro Livnà, perché aveva udito che si era levato da Lachish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "רב",
+      "gloss": "il Rabsaqè (רב)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "(shaqeh)"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "e trovò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re di Ashsur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashsur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "che combatteva"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aveva udito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "si era levato"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "da Lachish"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:46.892336561Z",
+  "model": "glm-5.3"
+}

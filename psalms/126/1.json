@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 126,
+  "translation": "Canzone delle ascensioni. Nel tornare di YHWH ⟨את⟩ la sorte di Tzion, fummo come sognatori.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canzone"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle ascensioni"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Nel tornare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sorte"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "la sorte"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "fummo"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "come sognatori"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:11.324594589Z",
+  "model": "glm-5.3"
+}

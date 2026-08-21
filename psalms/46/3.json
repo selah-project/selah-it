@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Per questo non temeremo, nel mutare ⟨la⟩ terra, nel vacillare ⟨i⟩ monti nel cuore ⟨dei⟩ mari.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "temeremo"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "nel mutare"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "e nel vacillare"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "monti"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "nel cuore"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dei mari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:45.252363927Z",
+  "model": "glm-5.3"
+}

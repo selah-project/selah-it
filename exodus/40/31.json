@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E vi lavarono da essa Mosè e Aharon e i suoi figli ⟨את⟩ le loro mani e ⟨את⟩ i loro piedi.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "e lavarono"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da essa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro mani"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "le loro mani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i loro piedi"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "i loro piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:39.319002431Z",
+  "model": "glm-5.3"
+}

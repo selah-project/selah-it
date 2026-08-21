@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Non c'è integrità nella mia carne, davanti alla tua indignazione; non c'è shalom nelle mie ossa, davanti al mio peccato.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Non c'è"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "integrità"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "nella mia carne"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "alla tua indignazione"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "nelle mie ossa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "al mio peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:25.105076314Z",
+  "model": "glm-5.3"
+}

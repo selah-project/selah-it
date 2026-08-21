@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E l'esercito armato lasciò ⟨את⟩ i prigionieri e ⟨את⟩ il bottino davanti ai capi e a tutta l'assemblea.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "e lasciò"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "l'esercito armato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i prigionieri"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "i prigionieri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il bottino"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "il bottino"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ai capi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e a tutta"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblea"
+    }
+  ],
+  "timestamp": "2026-08-21T10:00:26.983520887Z",
+  "model": "glm-5.3"
+}

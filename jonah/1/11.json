@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E gli dissero: «Che cosa faremo a te, perché il mare si quieti da sopra di noi?» — poiché il mare andava e si faceva tempestoso.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E dissero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Che cosa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "faremo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "si quieti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "da sopra di noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "andava"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "si faceva tempestoso"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:23.410536399Z",
+  "model": "glm-5.3"
+}

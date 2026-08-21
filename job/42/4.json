@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Ascolta, ti prego, e io parlerò; ti domanderò, e fammi conoscere.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascolta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "parlerò"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ti domanderò"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "fammi conoscere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:40.821454670Z",
+  "model": "glm-5.3"
+}

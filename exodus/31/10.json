@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "e ⟨את⟩ le vesti del servizio, e ⟨את⟩ le vesti del santo per Aharon il sacerdote, e ⟨את⟩ le vesti dei suoi figli per esercitare il sacerdozio.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le vesti del servizio"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le vesti"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "del servizio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le vesti del santo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le vesti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "per Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le vesti dei suoi figli"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le vesti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dei suoi figli"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "per esercitare il sacerdozio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:30.541758796Z",
+  "model": "glm-5.3"
+}

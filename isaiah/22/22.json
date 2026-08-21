@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E porrò la chiave della casa di Davide sulla sua spalla: aprirà e nessuno chiuderà, e chiuderà e nessuno aprirà.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e porrò"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "la chiave"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "la sua spalla"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "e aprirà"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e nessuno"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "chiuderà"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "e chiuderà"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e nessuno"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aprirà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:44.016354082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E dissi: dove vai? E mi disse: a misurare ⟨את⟩ Yerushalaim, per vedere quanto ⟨è⟩ larga e quanto ⟨è⟩ lunga.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "dove"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e mi disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "למד",
+      "gloss": "a misurare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "per vedere"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "larga"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "e quanto"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "lunga"
+    }
+  ],
+  "timestamp": "2026-08-21T08:40:56.136851367Z",
+  "model": "glm-5.3"
+}

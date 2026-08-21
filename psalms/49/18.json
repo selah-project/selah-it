@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "poiché nella sua morte non prenderà ⟨il⟩ nulla; non scenderà dietro di lui la sua gloria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "nella sua morte"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prenderà"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨il⟩ nulla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scenderà"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dietro di lui"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "la sua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:58.232673853Z",
+  "model": "glm-5.3"
+}

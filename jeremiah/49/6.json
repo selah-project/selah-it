@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "E dopo ciò farò tornare la sorte ⟨את⟩ dei figli di Ammon, oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "farò tornare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sorte dei figli di Ammon"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "la sorte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:13:52.445180810Z",
+  "model": "glm-5.3"
+}

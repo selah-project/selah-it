@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "E fa' ricadere su di loro ⟨את⟩ la loro malvagità, e nella loro cattiveria li stermina — li stermina YHWH, il nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e fa' ricadere"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro malvagità"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "la loro malvagità"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "e nella loro cattiveria"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "li stermina"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "li stermina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.706627495Z",
+  "model": "glm-5.3"
+}

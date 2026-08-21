@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E li raccolse in custodia per tre giorni.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "e raccolse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "custodia"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:24.241286089Z",
+  "model": "glm-5.3"
+}

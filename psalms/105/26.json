@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Mandò Mosè suo servo, e Aharon che ⟨egli⟩ aveva scelto.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "suo servo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "aveva scelto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:04.359056512Z",
+  "model": "glm-5.3"
+}

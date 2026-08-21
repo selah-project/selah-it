@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Dopo queste cose il re Achashverosh innalzò ⟨את⟩ Haman figlio di Hammedatha l'Agaghita, e lo esaltò, e pose il suo trono al di sopra di tutti i principi che ⟨erano⟩ con lui.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le cose"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "innalzò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hammedatha"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "l'Agaghita"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "e lo esaltò"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo trono"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "il suo trono"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "al di sopra di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "i principi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "con lui ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:55.733300553Z",
+  "model": "glm-5.3"
+}

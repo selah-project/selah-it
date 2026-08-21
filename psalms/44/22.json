@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Non lo scrutinerebbe Elohim, questo? Poiché ⟨egli⟩ conosce i segreti del cuore.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "non... forse?"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "scruterebbe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "i segreti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "del cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:33.681570113Z",
+  "model": "glm-5.3"
+}

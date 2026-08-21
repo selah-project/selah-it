@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Sorgi, Elohim, difendi la tua causa; ricorda l'oltraggio ⟨rivolto⟩ a te da parte dell'empio, tutto il giorno.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "sorgi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "difendi"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "la tua causa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "l'oltraggio ⟨rivolto⟩ a te"
+    },
+    {
+      "surface": "מני",
+      "gloss": "da parte di"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "l'empio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:01.512890859Z",
+  "model": "glm-5.3"
+}

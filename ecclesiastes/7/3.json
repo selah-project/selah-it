@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Buono l'irritazione più del riso, perché nella tristezza del volto il cuore diventa buono.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "l'irritazione"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "più del riso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nella tristezza"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "del volto"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "diventa buono"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:16.750466858Z",
+  "model": "glm-5.3"
+}

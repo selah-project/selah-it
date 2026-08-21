@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Rovina trama la tua lingua, come rasoio affilato, ⟨tu che⟩ operi ⟨con⟩ inganno.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "rovina"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "trama"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "la tua lingua"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "come rasoio"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "affilato"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨tu che⟩ operi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "⟨con⟩ inganno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:27.896125885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E disse YHWH a Giacobbe: «Torna alla terra dei tuoi padri e alla tua parentela, e io sarò con te».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Torna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "dei tuoi padri"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "e alla tua parentela"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "e io sarò"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:02.173900940Z",
+  "model": "glm-5.3"
+}

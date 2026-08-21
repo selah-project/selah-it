@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Canta davanti agli uomini e dice: ho peccato, e ho torto ⟨ciò che era⟩ retto, e non mi ⟨ha⟩ giovato.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "canta"
+    },
+    {
+      "surface": "על",
+      "gloss": "davanti ⟨a⟩"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "agli uomini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e dice"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ho peccato"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "⟨ciò che era⟩ retto"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "ho torto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "mi ⟨ha⟩ giovato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:32.808140965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "e riportiamo a noi ⟨את⟩ l'arca del nostro Elohim, perché non l'abbiamo cercata nei giorni di Shaùl.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "e riportiamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca del nostro Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "l'abbiamo cercata"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nei giorni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Shaùl"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:53.700932693Z",
+  "model": "glm-5.3"
+}

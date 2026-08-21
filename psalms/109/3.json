@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "E con parole di odio mi hanno circondato, e mi hanno fatto guerra ⟨senza motivo⟩.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "e con parole"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "di odio"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mi hanno circondato"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "e mi hanno fatto guerra"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "⟨senza motivo⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:45.459279332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "La mia nefesh ⟨Egli⟩ fa tornare, mi guida in sentieri di giustizia, per amore del suo nome.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "fa tornare"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "mi guida"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "in sentieri"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "di giustizia"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:06.760560146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Come un uccidere ⟨nelle⟩ mie ossa, mi hanno vituperato i miei avversari, col dirmi tutto il giorno: « Dov'è il tuo Elohim? »",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "come un uccidere"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "⟨nelle⟩ mie ossa"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mi hanno vituperato"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "i miei avversari"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "col dirmi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dov'è"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:07.756271271Z",
+  "model": "glm-5.3"
+}

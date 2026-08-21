@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E ora, se porti il loro peccato ⟨via⟩ — e se no, cancellami ti prego dal tuo libro che hai scritto.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E ora"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "porti"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "il loro peccato"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "cancellami"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "dal tuo libro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "hai scritto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:25.163751728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Àlzati, va' a Ninive, la grande città, e proclama verso di lei ⟨את⟩ il proclama che io ti dico.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Àlzati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "e proclama"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "verso di lei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il proclama"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "il proclama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dico"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:50.105845519Z",
+  "model": "glm-5.3"
+}

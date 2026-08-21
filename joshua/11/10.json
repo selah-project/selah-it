@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Yehoshua in quel tempo tornò indietro e catturò ⟨את⟩ Chatsor, e il suo re ⟨את⟩ colpì con la spada, perché Chatsor era prima il capo di tutti questi regni.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tornò indietro"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in quel tempo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e catturò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo re"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "il suo re"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "colpì"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "con la spada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "in passato"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutti"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "questi regni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:52.857487904Z",
+  "model": "glm-5.3"
+}

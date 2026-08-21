@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "La divora il cinghiale del bosco, e la pascola la bestia del campo.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "la divora"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "il cinghiale"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "del bosco"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "e la bestia"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "del campo"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "la pascola"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:17.105903733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Li vaglierai e un vento li porterà via e un turbine disperderà ⟨את⟩ loro; e tu gioirai in YHWH, nel Santo d'Israele ti glorerai.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "li vaglierai"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e un vento"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "li porterà via"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "e un turbine"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "disperderà"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "li — i monti e le colline frantumati"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "gioirai"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "nel Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ti glorerai"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:33.311885192Z",
+  "model": "glm-5.3"
+}

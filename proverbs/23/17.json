@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non invidi il tuo cuore ⟨i⟩ peccatori, ma ⟨stia⟩ nel timore di YHWH tutto il giorno.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "invidi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "⟨i⟩ peccatori"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨stia⟩"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "nel timore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:52.610828328Z",
+  "model": "glm-5.3"
+}

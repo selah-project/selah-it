@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "In vesti ricamate sarà condotta al re; le vergini dietro di lei, le compagne di lei, saranno condotte a te.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "in vesti ricamate"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "sarà condotta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "le vergini"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "dietro di lei"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "le compagne di lei"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "saranno condotte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:52.086152209Z",
+  "model": "glm-5.3"
+}

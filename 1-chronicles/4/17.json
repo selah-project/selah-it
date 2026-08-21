@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E i figli di Ezrah: Yeter, e Mered, e Efer, e Yalon; e ⟨lei⟩ concepì ⟨את⟩ Miryam e ⟨את⟩ Shammay e ⟨את⟩ Yishbach, padre di Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "e i figli di"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "e Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "e Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "e Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "e concepì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shammay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shammay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishbach"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishbach"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre di"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:46:41.867313925Z",
+  "model": "glm-5.3"
+}

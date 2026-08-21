@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Mi ha condotto nella casa del vino, e il suo vessillo su di me ⟨è⟩ amore.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "mi ha condotto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nella"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "היין",
+      "gloss": "del vino"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "e il suo vessillo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "amore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:06.634500519Z",
+  "model": "glm-5.3"
+}

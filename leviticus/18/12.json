@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "La nudità della sorella di tuo padre non scoprirai: carne di tuo padre ⟨è⟩ lei.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "la nudità"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "della sorella"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "di tuo padre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "scoprirai"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "di tuo padre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lei ⟨è⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:33.376206011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E disse il filisteo: io ho sfidato ⟨את⟩ le schiere d'Israele questo giorno; date a me un uomo, e combatteremo insieme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ho sfidato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le schiere d'Israele"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "le schiere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "date"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "e combatteremo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:34.037986161Z",
+  "model": "glm-5.3"
+}

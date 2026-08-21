@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E farai cinquanta ganci d'oro, e collegherai ⟨את⟩ le tende l'una all'altra mediante i ganci; e il mishkan sarà uno.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquanta"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ganci"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "ו חברת",
+      "gloss": "e collegherai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le tende"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "le tende"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "l'una"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "l'altra"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "mediante i ganci"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:20.941665452Z",
+  "model": "glm-5.3"
+}

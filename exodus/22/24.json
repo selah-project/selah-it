@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se denaro presterai ⟨את⟩ al mio popolo, ⟨את⟩ il povero che è con te, non sarai a lui come creditore; non imporrete su di lui interesse.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "denaro"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "presterai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al mio popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il povero"
+    },
+    {
+      "surface": "העני",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "che è con te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "come creditore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "imporrete"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interesse"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:30.376861649Z",
+  "model": "glm-5.3"
+}

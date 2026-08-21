@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 141,
+  "translation": "Saranno gettati dalle mani della rupe i loro giudici, e ascolteranno le mie parole, perché ⟨sono⟩ gradite.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "saranno gettati"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "dalle mani"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "della rupe"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "i loro giudici"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "e ascolteranno"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "gradite"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:06.860573708Z",
+  "model": "glm-5.3"
+}

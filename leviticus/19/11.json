@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non ruberete, e non mentirete, e non ingannerete ⟨il⟩ prossimo vostro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "ruberete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "mentirete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ingannerete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨il⟩ prossimo"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "vostro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:43.683097770Z",
+  "model": "glm-5.3"
+}

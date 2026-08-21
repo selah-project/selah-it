@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E vide Haman che Mordecai non piegava il ginocchio né si prostrava davanti a lui, e Haman si riempì di furore.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "piegava il ginocchio"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "né si prostrava"
+    },
+    {
+      "surface": "לו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "e si riempì"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "di furore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:31.004773711Z",
+  "model": "glm-5.3"
+}

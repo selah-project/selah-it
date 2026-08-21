@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 16:16",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Ordini ⟨ti prego⟩ il nostro signore i tuoi servi che ⟨stanno⟩ davanti a te: cerchino un uomo che sappia suonare la kinor; e avverrà, quando sarà su di te la Ruach di Elohim cattiva, che lui suonerà con la sua mano, e ti sarà bene.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "ordini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "אדננו",
+      "gloss": "il nostro signore"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i tuoi servi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "cerchino"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "che sappia"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "suonare"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "la kinor"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e avverrà"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "quando sarà"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "la Ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "cattiva"
+    },
+    {
+      "surface": "ונגן",
+      "gloss": "e lui suonerà"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "con la sua mano"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "e sarà bene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:18.105073817Z",
+  "model": "glm-5.3"
+}

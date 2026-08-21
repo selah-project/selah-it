@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E salì l'uomo Elkana e tutta la sua casa, per offrire a YHWH ⟨את⟩ il sacrificio dei giorni e ⟨את⟩ il suo voto.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "per offrire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sacrificio dei giorni"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "il sacrificio"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dei giorni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo voto"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "il suo voto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:05.039635619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Il mio signore ha chiesto ⟨את⟩ i suoi servi, dicendo: avete un padre o un fratello?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "il mio signore"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ha chiesto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi servi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "היש",
+      "gloss": "avete"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "forse a voi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "un padre"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אח",
+      "gloss": "un fratello"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:39.803626503Z",
+  "model": "glm-5.3"
+}

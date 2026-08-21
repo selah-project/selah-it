@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse Giosuè: da questo saprete che ⟨un⟩ El vivente ⟨è⟩ in mezzo a voi, e che certamente spoglierà davanti a voi ⟨את⟩ il cananeo e ⟨את⟩ l'ittita e ⟨את⟩ l'hivita e ⟨את⟩ il perizzita e ⟨את⟩ il girgashita, l'emoreo e il gebuseo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Giosuè"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "da questo"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "saprete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivente"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in mezzo a voi"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "e spoglierà"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "certamente spoglierà"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cananeo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il cananeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'ittita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "l'ittita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'hivita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "l'hivita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il perizzita"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "il perizzita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il girgashita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "il girgashita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e l'emoreo"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e il gebuseo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:51:20.758692144Z",
+  "model": "glm-5.3"
+}

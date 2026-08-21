@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E avvenne, quando Zimri vide che la città era stata presa, che egli entrò nella rocca della casa del re, e incendiò sopra di sé ⟨את⟩ la casa del re con il fuoco, e morì.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "quando vide"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "era stata presa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ed entrò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "la rocca"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "e incendiò"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sopra di sé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa del re"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "באש",
+      "gloss": "con il fuoco"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:34.474121871Z",
+  "model": "glm-5.3"
+}

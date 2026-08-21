@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Farò tornare ⟨את⟩ il ritorno della cattività di Yehudah e ⟨את⟩ il ritorno della cattività di Yisra'el, e li ricostruirò come al principio.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "e farò tornare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il ritorno della cattività di Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "il ritorno della cattività"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il ritorno della cattività di Yisra'el"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "e il ritorno della cattività"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Yisra'el"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "e li ricostruirò"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "come al principio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:08:54.127794488Z",
+  "model": "glm-5.3"
+}

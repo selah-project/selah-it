@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "e coprirà ⟨את⟩ l'occhio della terra, e non si potrà vedere ⟨את⟩ la terra; e divorerà ⟨את⟩ il residuo del salvato, ciò che vi resta dalla grandine, e divorerà ⟨את⟩ ogni albero che cresce per voi dal campo.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "e coprirà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'occhio"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'occhio"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "si potrà"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "e divorerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il residuo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "il residuo"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "del salvato"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "ciò che resta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "la grandine"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "e divorerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni albero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "albero"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "che cresce"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "il campo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:56.536711983Z",
+  "model": "glm-5.3"
+}

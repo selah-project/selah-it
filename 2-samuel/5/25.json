@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E Davide fece così, come gli aveva comandato YHWH, e colpì ⟨את⟩ i Filistei da Gheva fino al tuo venire a Ghezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gli aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Filistei"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "da Gheva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "באך",
+      "gloss": "al tuo venire"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "a Ghezer"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:50.015342053Z",
+  "model": "glm-5.3"
+}

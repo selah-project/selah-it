@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E fu ⟨in⟩ sera, e prese ⟨את⟩ Leà, sua figlia, e la condusse ⟨את⟩ da lui; ed egli entrò da lei.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in sera"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leà, sua figlia"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leà"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sua figlia"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e la condusse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "da lui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ed egli entrò"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "da lei"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:52.119873439Z",
+  "model": "glm-5.3"
+}

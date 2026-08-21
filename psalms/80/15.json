@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Elohim degli eserciti, torna ti prego, guarda dai cieli e vedi, e visita questa vigna;",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "guarda"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dai cieli"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vedi"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "e visita"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "questa vigna"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:17.106059647Z",
+  "model": "glm-5.3"
+}

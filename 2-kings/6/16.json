@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E disse: non temere, perché più numerosi sono quelli che ⟨sono⟩ con ⟨את⟩ noi di quelli che ⟨sono⟩ con ⟨את⟩ loro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "più numerosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quelli che"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "con ⟨את⟩ noi"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "di quelli che"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "loro (quelli con loro)"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:11.375258284Z",
+  "model": "glm-5.3"
+}

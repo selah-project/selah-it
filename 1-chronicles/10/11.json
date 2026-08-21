@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E udì tutta Iabesh di Gilead ⟨את⟩ tutto ciò che avevano fatto i Filistei a Saul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Iabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "di Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che avevano fatto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "avevano fatto"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Saul"
+    }
+  ],
+  "timestamp": "2026-08-21T09:48:55.637801200Z",
+  "model": "glm-5.3"
+}

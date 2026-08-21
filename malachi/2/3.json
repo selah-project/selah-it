@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Ecco, io respingo per voi ⟨את⟩ la semente, e spargerò escrementi sui vostri volti — escrementi delle vostre feste — e ⟨esso⟩ vi porterà via con sé.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ecco io"
+    },
+    {
+      "surface": "גער",
+      "gloss": "respingo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la semente"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "la semente"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "e spargerò"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "escrementi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "i vostri volti"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "escrementi"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "delle vostre feste"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e porterà via"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "con sé"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:31.140003466Z",
+  "model": "glm-5.3"
+}

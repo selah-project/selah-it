@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "⟨את⟩ l'arca della testimonianza e ⟨את⟩ le sue stanghe, e ⟨את⟩ il coperchio dell'espiazione.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca della testimonianza"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "della testimonianza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le sue stanghe"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "le sue stanghe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il coperchio dell'espiazione"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "il coperchio dell'espiazione"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:50.645886973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E disse: hai chiesto una cosa difficile ⟨da ottenere⟩. Se tu vedrai ⟨את⟩ me preso ⟨da⟩ te, così sia per te; ma se no, non sarà.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "hai chiesto una cosa difficile"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "da chiedere"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu vedrai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me preso"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "preso"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ da te"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:20.439404292Z",
+  "model": "glm-5.3"
+}

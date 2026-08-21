@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E avvenne, quando il servo di Abramo udì ⟨את⟩ le loro parole, che si prostrò a terra davanti a YHWH.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "udì"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "il servo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "di Abramo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro parole"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "le loro parole"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "si prostrò"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "davanti a YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:57.404301Z",
+  "model": "glm-5.3"
+}

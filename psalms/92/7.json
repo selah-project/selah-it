@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "Un uomo brutale non conosce, e lo stolto non comprende ⟨את⟩ questo:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Un uomo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brutale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "e lo stolto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "comprende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:54.092553248Z",
+  "model": "glm-5.3"
+}

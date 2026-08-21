@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "I sacrifici di Elohim ⟨sono⟩ uno spirito infranto; un cuore infranto e annientato, o Elohim, tu non disprezzi.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "i sacrifici di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "uno spirito"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "infranto"
+    },
+    {
+      "surface": "לב",
+      "gloss": "un cuore"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "infranto"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "e annientato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "disprezzi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:51.465641250Z",
+  "model": "glm-5.3"
+}

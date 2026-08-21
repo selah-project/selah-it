@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E Davide disse al giovane che glielo riferiva: come sai che Saul è morto e Gionatan suo figlio?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il giovane"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "che riferiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "glielo"
+    },
+    {
+      "surface": "איך",
+      "gloss": "come"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מת",
+      "gloss": "è morto"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "e Gionatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:37.867949868Z",
+  "model": "glm-5.3"
+}

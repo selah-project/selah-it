@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E comandò ⟨את⟩ il primo, dicendo: Quando ti verrà incontro Esaù, mio fratello, e ti chiederà, dicendo: Di chi sei? e dove vai? e di chi sono questi davanti a te?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e comandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il primo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "il primo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "ti verrà incontro"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaù"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mio fratello"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "e ti chiederà"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "למי",
+      "gloss": "di chi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "e dove"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "e di chi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sono questi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:17.267107100Z",
+  "model": "glm-5.3"
+}

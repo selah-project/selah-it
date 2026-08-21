@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Infatti, se cadono, l'uno rialzerà ⟨את⟩ il suo compagno; ma se l'uno cade e non c'è un secondo che lo rialzi —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "infatti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "cadono"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "rialzerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo compagno"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "il suo compagno"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "cade"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "שני",
+      "gloss": "un secondo"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "che lo rialzi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:55.446336583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Costituisci ⟨il⟩ malvagio contro di lui, e il satan stia alla sua destra.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "costituisci"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contro di lui"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "malvagio"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "e il satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stia"
+    },
+    {
+      "surface": "על",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sua destra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:55.477718640Z",
+  "model": "glm-5.3"
+}

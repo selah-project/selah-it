@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "Per quarant'anni ⟨fui⟩ stanco di quella generazione, e dissi: ⟨sono⟩ un popolo dal cuore che vaga, e non hanno conosciuto le mie vie.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "quaranta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "fui stanco"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "di quella generazione"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un popolo"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "che vaga"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "dal cuore"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sono⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "e essi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hanno conosciuto"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "le mie vie"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:56.004844916Z",
+  "model": "glm-5.3"
+}

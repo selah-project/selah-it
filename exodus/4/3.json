@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse: gettalo a terra! E lo gettò a terra, e divenne un serpente; e Mosè fuggì davanti a lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "gettalo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "e lo gettò"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e divenne"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "un serpente"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "e fuggì"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "davanti a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:02.130398265Z",
+  "model": "glm-5.3"
+}

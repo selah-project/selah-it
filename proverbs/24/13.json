@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Mangia, figlio mio, il miele, perché ⟨è⟩ buono, e il favo ⟨è⟩ dolce al tuo palato.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "mangia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "il miele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "e il favo"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "dolce"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "al tuo palato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:57.110140770Z",
+  "model": "glm-5.3"
+}

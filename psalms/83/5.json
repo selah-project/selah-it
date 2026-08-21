@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Hanno detto: venite, e sterminiamoli ⟨dall'essere⟩ una nazione, e il nome d'Israele non sia ricordato più.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Hanno detto"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "e sterminiamoli"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "⟨dall'essere⟩ una nazione"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "sia ricordato"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:29.970033167Z",
+  "model": "glm-5.3"
+}

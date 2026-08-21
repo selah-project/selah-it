@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Scelse per noi ⟨את⟩ la nostra eredità, ⟨את⟩ lo splendore di Giacobbe, che amò. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "scelse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nostra eredità"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "la nostra eredità"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo splendore di Giacobbe"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "lo splendore"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "amò"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:51.617501012Z",
+  "model": "glm-5.3"
+}

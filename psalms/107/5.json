@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Affamati e anche assetati, la loro nefesh in loro veniva meno.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "affamati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "assetati"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "la loro nefesh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in loro"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "veniva meno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:13.883698143Z",
+  "model": "glm-5.3"
+}

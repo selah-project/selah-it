@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E Geremia comandò a Baruch ⟨את⟩, dicendo: io sono trattenuto, non posso entrare nella casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "E comandò"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Geremia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruch"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "sono trattenuto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "posso"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "entrare"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:09:59.129543708Z",
+  "model": "glm-5.3"
+}

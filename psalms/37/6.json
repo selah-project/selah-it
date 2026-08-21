@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Ed egli farà uscire come luce la tua giustizia, e il tuo diritto come il mezzogiorno.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "farà uscire"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "come luce"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "il tuo diritto"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "come il mezzogiorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:47.642537820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Con il pio ti mostri pietoso, con l'integro ti mostri integro.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "il pio"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ti mostri pietoso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "l'uomo integro"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "completo\/integro"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ti mostri integro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:28.124427569Z",
+  "model": "glm-5.3"
+}

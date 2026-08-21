@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E montò ⟨sul carro⟩ Iehu e andò a Izreel, perché Ioram giaceva là; e Acazia re di Giuda era sceso a vedere ⟨את⟩ Ioram.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "montò ⟨sul carro⟩"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "a Izreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Ioram"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "giaceva"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "e Acazia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "era sceso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a vedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Ioram"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:01.940182862Z",
+  "model": "glm-5.3"
+}

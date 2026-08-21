@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Esultino i cieli e gioisca ⟨la⟩ terra, rombi il mare e la sua pienezza.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "esultino"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "e gioisca"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "rombi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e la sua pienezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:34.916552341Z",
+  "model": "glm-5.3"
+}

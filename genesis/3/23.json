@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E YHWH Elohim lo mandò fuori dal giardino di Eden, per lavorare ⟨את⟩ il suolo da cui era stato preso.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "e lo mandò fuori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "dal giardino"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "di Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "per lavorare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suolo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "il suolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "era stato preso"
+    },
+    {
+      "surface": "משם",
+      "gloss": "da lì"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:58.803276257Z",
+  "model": "glm-5.3"
+}

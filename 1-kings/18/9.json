@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E disse: che cosa ho peccato, che tu consegni ⟨את⟩ il tuo servo in mano ad Achab, per mettermi a morte?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ho peccato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "consegni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo servo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ad Achab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "per mettermi a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:46.745404834Z",
+  "model": "glm-5.3"
+}

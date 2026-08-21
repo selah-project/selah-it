@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "E nel tuo chesed estirpa i miei nemici, e distruggi tutti gli avversari della mia nefesh, perché io ⟨sono⟩ il tuo servo.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "e nel tuo chesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "estirpa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "e distruggi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "gli avversari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "della mia nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:08.547674458Z",
+  "model": "glm-5.3"
+}

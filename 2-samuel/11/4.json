@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Davide mandò messaggeri e la prese; ed ella venne da lui, ed egli giacque con lei — ed ella si stava purificando dalla sua impurità — ed ella tornò alla sua casa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E mandò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "e la prese"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "e la prese",
+      "elided_duplicate": false
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ed ella venne"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ed egli giacque"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "con lei"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ed ella"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "si stava purificando"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "dalla sua impurità"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ed ella tornò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:12.483353044Z",
+  "model": "glm-5.3"
+}

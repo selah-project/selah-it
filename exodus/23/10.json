@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E sei anni seminerai ⟨את⟩ la tua terra e raccoglierai ⟨את⟩ il suo prodotto.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "e sei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "seminerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua terra"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "la tua terra"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "e raccoglierai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prodotto"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "il suo prodotto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:08.382268375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "L'indolenza fa cadere in torpore, e la nefesh pigra soffre fame.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "l'indolenza"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "fa cadere"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "in torpore"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "e la nefesh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "pigra"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "soffre fame"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:01.095003761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 142,
+  "translation": "Fa' uscire dal carcere la mia nefesh, per lodare ⟨את⟩ il tuo nome; i giusti mi circonderanno, perché tu mi colmerai di bene.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "fa' uscire"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "dal carcere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "per lodare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo nome"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "circonderanno"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "colmerai di bene"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:27.253570592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E avverrà in quel giorno: io spezzerò ⟨את⟩ l'arco di Israel nella valle di Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e avverrà"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "io spezzerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arco"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "l'arco"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israel"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "nella valle"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "di Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:17.808196639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E si levò dopo di lui Yair il Gileadita, e giudicò ⟨את⟩ Israele ventidue anni.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "si levò"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dopo di lui"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "il Gileadita"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "giudicò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e due"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:27.275529469Z",
+  "model": "glm-5.3"
+}

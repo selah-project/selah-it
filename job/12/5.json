@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Una torcia di disprezzo per l'agio di chi ⟨si sente⟩ sicuro — ⟨essa⟩ è pronta per chi vacilla col piede.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "una torcia"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "di disprezzo"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "per l'agio"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "di chi è sicuro"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "è pronta"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "per chi vacilla"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "col piede"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:48.172829282Z",
+  "model": "glm-5.3"
+}

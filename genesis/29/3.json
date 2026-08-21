@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 29:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E si radunavano lì tutti i greggi, e rotolavano ⟨את⟩ la pietra da sopra la bocca del pozzo, e abbeveravano ⟨את⟩ il gregge, e rimettevano ⟨את⟩ la pietra sulla bocca del pozzo, al suo posto.",
+  "tokens": [
+    {
+      "surface": "ונאספו",
+      "gloss": "e si radunavano"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "i greggi"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "e rotolavano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la pietra"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "la pietra"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da sopra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "del pozzo"
+    },
+    {
+      "surface": "והשקו",
+      "gloss": "e abbeveravano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "e rimettevano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la pietra"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "la pietra"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "del pozzo"
+    },
+    {
+      "surface": "למקמה",
+      "gloss": "al suo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:35.675116116Z",
+  "model": "glm-5.3"
+}

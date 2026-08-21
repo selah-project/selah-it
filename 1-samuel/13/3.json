@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E colpì Yonatan ⟨את⟩ il presidio dei Filistei che ⟨stava⟩ a Geva'; e i Filistei udirono, e Sha'ul suonò lo shofar in tutto il paese, dicendo: « Ascoltino gli Ebrei ».",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il presidio dei Filistei"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "il presidio"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei Filistei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "a Geva'"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "e udirono"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "e Sha'ul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "suonò"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "lo shofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "il paese"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ascoltino"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "gli Ebrei"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:25.519303142Z",
+  "model": "glm-5.3"
+}

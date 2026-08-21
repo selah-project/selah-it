@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "La nostra nefesh ha aspettato YHWH; egli ⟨è⟩ il nostro aiuto e il nostro scudo.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "la nostra nefesh"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ha aspettato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "il nostro aiuto"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "e il nostro scudo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli ⟨è⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:14.241298229Z",
+  "model": "glm-5.3"
+}

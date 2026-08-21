@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Non siano svergognati per causa mia quelli che sperano in te, Adonai, YHWH degli eserciti; non siano umiliati per causa mia quelli che ti cercano, Elohim d'Israele.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "siano svergognati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "per causa mia"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "quelli che sperano in te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "siano umiliati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "per causa mia"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "quelli che ti cercano"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:10.859290545Z",
+  "model": "glm-5.3"
+}

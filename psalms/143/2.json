@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "E non entrare in giudizio con ⟨את⟩ il tuo servo, perché davanti a te non sarà giustificato nessun vivente.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "entrare"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in giudizio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo servo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "sarà giustificato"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nessun"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivente"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.858830330Z",
+  "model": "glm-5.3"
+}

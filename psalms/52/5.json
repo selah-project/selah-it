@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Ami il male più ⟨del⟩ bene, la menzogna più ⟨del⟩ parlare giustizia. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ami"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "più del bene"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "la menzogna"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "più del parlare"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:35.665272875Z",
+  "model": "glm-5.3"
+}

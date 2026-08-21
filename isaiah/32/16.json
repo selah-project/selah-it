@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E abiterà nel deserto ⟨il⟩ giudizio, e ⟨la⟩ giustizia nel frutteto siederà.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "e abiterà"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e la giustizia"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "nel frutteto"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "siederà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:33.522796701Z",
+  "model": "glm-5.3"
+}

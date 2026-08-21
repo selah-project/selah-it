@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "E vedi se vi ⟨è⟩ in me una via dolorosa, e guidami nella via eterna.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "e vedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "una via"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "dolorosa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in me"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "e guidami"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nella via"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eterna"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.059316465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Brancoliamo ⟨come⟩ i ciechi ⟨contro⟩ il muro, e come senza occhi brancoliamo; inciampiamo a mezzogiorno come al crepuscolo, ⟨abbattuti⟩ fra ⟨i⟩ robusti come morti.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "brancoliamo"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "come i ciechi"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "il muro"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "e come senza"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "occhi"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "brancoliamo"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "inciampiamo"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "a mezzogiorno"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "come al crepuscolo"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "fra i robusti"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "come morti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:27.568455457Z",
+  "model": "glm-5.3"
+}

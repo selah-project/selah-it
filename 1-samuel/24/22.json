@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E ora, giurami per YHWH: non sterminerai ⟨את⟩ la mia discendenza dopo di me, e non cancellerai ⟨את⟩ il mio nome dalla casa di mio padre.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "giurami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "non"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "sterminerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia discendenza"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "la mia discendenza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo di me"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "cancellerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio nome"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio nome"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "di mio padre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:32.992622561Z",
+  "model": "glm-5.3"
+}

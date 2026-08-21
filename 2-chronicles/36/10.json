@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 36:10",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E al volgere dell'anno il re Nebukadnetzar mandò e lo fece condurre a Babilonia con gli oggetti desiderabili della casa di YHWH; e fece regnare ⟨את⟩ Tzidqiyahu, fratello di ⟨Jehoiachin⟩, su Yehudah e su Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ולתשובת",
+      "gloss": "e al volgere"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "dell'anno"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetzar"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "e lo fece condurre"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "a Babilonia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gli oggetti"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "desiderabili"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e fece regnare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzidqiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tzidqiyahu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratello di"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e su Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T10:03:05.496189968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E li condusse davanti ⟨את⟩ alla faccia del re di Moab, e dimorarono con lui tutti i giorni che Davide fu nella fortezza.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "e li condusse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla faccia del re di Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "alla faccia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e dimorarono"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "היות",
+      "gloss": "che"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "fu nella fortezza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:42.028711024Z",
+  "model": "glm-5.3"
+}

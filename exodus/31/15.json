@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Sei giorni si faccia lavoro, ma nel settimo giorno shabbat, riposo assoluto, santo per YHWH; chiunque fa lavoro nel giorno dello shabbat, di morte morirà.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "si faccia"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lavoro"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ma nel giorno"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "riposo assoluto"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lavoro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dello shabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "di morte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "morirà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:48.370835185Z",
+  "model": "glm-5.3"
+}

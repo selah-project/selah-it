@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "La lingua del lattante si attacca al suo palato per la sete; i bambini chiedono pane, ma non c'è chi ⟨lo⟩ distribuisca loro.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "si attacca"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "la lingua"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "del lattante"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "al suo palato"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "per la sete"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "i bambini"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "chiedono"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "chi distribuisce"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:57.305718971Z",
+  "model": "glm-5.3"
+}

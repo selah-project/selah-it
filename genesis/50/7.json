@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E salì Yosef per seppellire ⟨את⟩ suo padre, e salirono con lui ⟨את⟩ tutti i servi del Faraone, gli anziani della sua casa e tutti gli anziani della terra di Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "E salì"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "per seppellire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e salirono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "con lui ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "del Faraone"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "della sua casa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:15.430903225Z",
+  "model": "glm-5.3"
+}

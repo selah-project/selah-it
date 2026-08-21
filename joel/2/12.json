@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 2:12",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "« E anche ora — oracolo di YHWH — tornate a me con tutto il vostro cuore, con digiuno, con pianto e con lamento. »",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "tornate"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "il vostro cuore"
+    },
+    {
+      "surface": "ובצום",
+      "gloss": "con digiuno"
+    },
+    {
+      "surface": "ובבכי",
+      "gloss": "con pianto"
+    },
+    {
+      "surface": "ובמספד",
+      "gloss": "con lamento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:01.133507289Z",
+  "model": "glm-5.3"
+}

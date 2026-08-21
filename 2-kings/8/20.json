@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Ai suoi giorni si ribellò Edom da sotto la mano di Giuda, e fecero regnare su di loro un re.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "ai suoi giorni"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "si ribellò"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "da sotto"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "e fecero regnare"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:20.408210562Z",
+  "model": "glm-5.3"
+}

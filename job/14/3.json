@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E perfino su costui apri il tuo occhio, e ⟨את⟩ me fai entrare in giudizio con te?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "e perfino"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "זה",
+      "gloss": "costui"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "apri"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "il tuo occhio"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "me — l'oggetto condotto in giudizio"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "fai entrare"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in giudizio"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:53.965393568Z",
+  "model": "glm-5.3"
+}

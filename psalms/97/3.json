@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 97,
+  "translation": "Fuoco va davanti a lui e divampa ⟨intorno⟩ ai suoi avversari.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "va"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "e divampa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "intorno"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ai suoi avversari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:25.968666849Z",
+  "model": "glm-5.3"
+}

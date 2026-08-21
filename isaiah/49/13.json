@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Giubilate, o cieli, ed esulta, o terra; prorompete in grida di gioia, o monti, perché YHWH ⟨ha⟩ confortato il suo popolo e dei suoi afflitti avrà compassione.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "giubilate"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "o cieli"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "ed esulta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o terra"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "prorompete"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "o monti"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "in grida di gioia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "⟨ha⟩ confortato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "e dei suoi afflitti"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "avrà compassione"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:27.747727751Z",
+  "model": "glm-5.3"
+}

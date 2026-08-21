@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 62,
+  "translation": "e non date a lui quiete, finché egli fondi, e finché ponga ⟨את⟩ Gerusalemme lode sulla terra.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "date"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "quiete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "fondi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e finché"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ponga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lode"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:42.471057044Z",
+  "model": "glm-5.3"
+}

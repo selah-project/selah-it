@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Non sterminarono ⟨את⟩ i popoli che YHWH aveva detto ⟨loro⟩ ⟨di sterminare⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "sterminarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i popoli"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aveva detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨a loro⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:53.207316657Z",
+  "model": "glm-5.3"
+}

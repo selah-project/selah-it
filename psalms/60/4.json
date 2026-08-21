@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Hai fatto tremare la terra, l'hai squarciata; guarisci le sue fratture, perché essa vacilla.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "hai fatto tremare"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "l'hai squarciata"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "guarisci"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "le sue fratture"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "essa vacilla"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:29.311703282Z",
+  "model": "glm-5.3"
+}

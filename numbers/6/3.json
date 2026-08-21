@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "dal vino e dalla bevanda inebriante si asterrà; aceto di vino e aceto di bevanda inebriante non berrà, e nessun mosto d'uva berrà; e uva fresca o secca non mangerà.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "dal vino"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "e dalla bevanda inebriante"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "si asterrà"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "aceto"
+    },
+    {
+      "surface": "יין",
+      "gloss": "di vino"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "e aceto"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "di bevanda inebriante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "berrà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e nessun"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "mosto"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "d'uva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "berrà"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "e uva"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "fresca"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "o secca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:24:32.775317939Z",
+  "model": "glm-5.3"
+}

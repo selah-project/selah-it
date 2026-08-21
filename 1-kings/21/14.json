@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E mandarono a Izebel, dicendo: « Nabot è stato lapidato ed è morto ».",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "e mandarono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "è stato lapidato"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ed è morto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:58.141681517Z",
+  "model": "glm-5.3"
+}

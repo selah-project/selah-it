@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Soltanto temete ⟨את⟩ YHWH e servitelo ⟨את⟩ in verità con tutto il vostro cuore, perché vedete ⟨את⟩ ciò che ha fatto grande con voi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Soltanto"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "e servitelo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in verità"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "il vostro cuore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vedete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che ha fatto grande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ha fatto grande"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con voi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:32.073830086Z",
+  "model": "glm-5.3"
+}

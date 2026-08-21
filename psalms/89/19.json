@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Poiché di YHWH ⟨è⟩ il nostro scudo, e del Santo d'Israele il nostro re.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "il nostro scudo"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "e del Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "il nostro re"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:16.603754767Z",
+  "model": "glm-5.3"
+}

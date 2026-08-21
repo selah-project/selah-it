@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Tutto va verso un luogo solo; tutto ⟨proviene⟩ dalla polvere, e tutto torna alla polvere.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "va"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un luogo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היה",
+      "gloss": "proviene"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "polvere"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "שב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "polvere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:45.058927047Z",
+  "model": "glm-5.3"
+}

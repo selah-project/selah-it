@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Anche le tue testimonianze ⟨sono⟩ le mie delizie, gli uomini del mio consiglio.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "le tue testimonianze"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "le mie delizie"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "del mio consiglio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:25.666606262Z",
+  "model": "glm-5.3"
+}

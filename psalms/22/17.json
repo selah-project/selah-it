@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Poiché cani mi hanno circondato; un'assemblea di malvagi mi ha accerchiato; come un leone ⟨sono alle⟩ mie mani e ai miei piedi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mi hanno circondato"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "cani"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "un'assemblea"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "di malvagi"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "mi ha accerchiato"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "come un leone"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mie mani"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "e i miei piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:57.042495556Z",
+  "model": "glm-5.3"
+}

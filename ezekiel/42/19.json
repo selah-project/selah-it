@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Volse ⟨verso⟩ il lato del mare ⟨a occidente⟩; misurò: cinquecento canne, con ⟨il⟩ canno della misura.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "volse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il lato"
+    },
+    {
+      "surface": "הים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "misurò"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "canne"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "con ⟨il⟩ canno"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "della misura"
+    }
+  ],
+  "timestamp": "2026-08-21T08:28:35.843599169Z",
+  "model": "glm-5.3"
+}

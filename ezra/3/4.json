@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E celebrarono ⟨את⟩ la festa delle Sukkot, come ⟨è⟩ scritto, e l'olà del giorno per giorno, secondo il numero, come il rito della parola di un giorno nel suo giorno.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e celebrarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la festa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "la festa"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "delle Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "come scritto"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "e l'olà"
+    },
+    {
+      "surface": "יום",
+      "gloss": "del giorno"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "per giorno"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "secondo il numero"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "come il rito"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "della parola"
+    },
+    {
+      "surface": "יום",
+      "gloss": "di un giorno"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "nel suo giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:38:45.867981322Z",
+  "model": "glm-5.3"
+}

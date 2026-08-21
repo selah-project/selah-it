@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E disse YHWH a Moshe: non vi ascolterà il Faraone, perché si moltiplichino i miei portenti nella terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolterà"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "il Faraone"
+    },
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "si moltiplichino"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "i miei portenti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:56.935199140Z",
+  "model": "glm-5.3"
+}

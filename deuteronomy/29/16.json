@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E vedeste ⟨את⟩ i loro abomini e ⟨את⟩ i loro idoli — legno e pietra, argento e oro — che ⟨stavano⟩ con loro.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "e vedeste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro abomini"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "i loro abomini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i loro idoli"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "i loro idoli"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "legno"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "e pietra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e oro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "con loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:05.232605988Z",
+  "model": "glm-5.3"
+}

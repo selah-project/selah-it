@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Dopo torneranno i figli d'Israele, cercheranno ⟨את⟩ YHWH ⟨il⟩ loro Elohim e ⟨את⟩ Davide ⟨il⟩ loro re, e tremeranno verso YHWH e verso la sua bontà, alla fine dei giorni.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Dopo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "torneranno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "cercheranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH ⟨il⟩ loro Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "⟨il⟩ loro Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Davide ⟨il⟩ loro re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "⟨il⟩ loro re"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "e tremeranno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e verso"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "la sua bontà"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "alla fine"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dei giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:30:54.958159133Z",
+  "model": "glm-5.3"
+}

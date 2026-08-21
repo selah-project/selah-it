@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Guidami nella tua verità e insegnami, perché tu ⟨sei⟩ Elohim della mia salvezza; ⟨את⟩te ho atteso tutto il giorno.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "guidami"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "nella tua verità"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "e insegnami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "della mia salvezza"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "te — oggetto di «ho atteso» (קויתי)"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ho atteso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:18.270490540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Mandi il tuo aiuto dal santuario, e da Tzion ti sostenga.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "mandi"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "il tuo aiuto"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "dal santuario"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "e da Tzion"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "ti sostenga"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:55.288016798Z",
+  "model": "glm-5.3"
+}

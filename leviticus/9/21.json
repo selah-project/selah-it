@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E ⟨את⟩ il petto e ⟨את⟩ la coscia destra Aaron sollevò come offerta di elevazione davanti a YHWH, come aveva comandato Mosè.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il petto"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "il petto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la coscia destra"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "la coscia"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "destra"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "sollevò"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "come offerta di elevazione"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:50.137136831Z",
+  "model": "glm-5.3"
+}

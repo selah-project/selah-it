@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Cantate a YHWH, benedite ⟨il⟩ suo Nome, annunciate di giorno in giorno ⟨la⟩ sua salvezza.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cantate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "benedite"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "suo Nome"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "annunciate"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "di giorno"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "in giorno"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "sua salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:21.706161505Z",
+  "model": "glm-5.3"
+}

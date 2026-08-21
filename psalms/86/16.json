@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Volgiti verso di me e abbi grazia di me; da' la tua forza al tuo servo, e salva il figlio della tua ancella.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "volgiti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e abbi grazia di me"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "da'"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "la tua forza"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "al tuo servo"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "e salva"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "della tua ancella"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:54.324226365Z",
+  "model": "glm-5.3"
+}

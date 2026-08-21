@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 133,
+  "translation": "Canto delle salite, di Davide. Ecco, quanto ⟨è⟩ buono e quanto ⟨è⟩ piacevole l'abitare dei fratelli, anche insieme.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e quanto"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "piacevole"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "l'abitare"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "dei fratelli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:03.102284602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Al direttore del coro, su « Shushan Edut »: miktam di Davide, per insegnare.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "« Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut »"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "per insegnare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:29.311138812Z",
+  "model": "glm-5.3"
+}

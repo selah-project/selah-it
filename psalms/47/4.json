@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Egli sottomette i popoli sotto di noi, e le nazioni sotto i nostri piedi.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "sottomette"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "sotto di noi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "e le nazioni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "i nostri piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:00.355969713Z",
+  "model": "glm-5.3"
+}

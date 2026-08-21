@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Poiché dieci gioghi di vigna faranno un solo bat, e il seme di un chomer farà un efà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "gioghi (di vigna)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vigna"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "faranno"
+    },
+    {
+      "surface": "בת",
+      "gloss": "un bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "un solo"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "e il seme"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "di un chomer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "un efà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:16.377863990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "La mia boca racconterà la tua giustizia, tutto il giorno la tua salvezza, perché non conosco ⟨i⟩ numeri ⟨di esse⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "La mia bocca"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "racconterà"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "la tua salvezza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "conosco"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "numeri"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:32.020900866Z",
+  "model": "glm-5.3"
+}

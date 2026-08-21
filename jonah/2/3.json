@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E disse: Ho gridato dalla mia angoscia verso YHWH, ed egli mi ha risposto; dal ventre dello Sheol ho invocato, tu hai ascoltato la mia voce.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ho gridato"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "dalla mia angoscia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ed egli mi ha risposto"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dal ventre"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "dello Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ho invocato"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu hai ascoltato"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:06.841416251Z",
+  "model": "glm-5.3"
+}

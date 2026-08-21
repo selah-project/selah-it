@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Perché si sono moltiplicate le nostre ribellioni davanti a te, e le nostre colpe hanno testimoniato contro di noi; perché le nostre ribellioni ⟨sono⟩ con ⟨את⟩ noi, e le nostre iniquità le conosciamo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "si sono moltiplicate"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "le nostre ribellioni"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "e le nostre colpe"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "hanno testimoniato"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "contro di noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "le nostre ribellioni"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ noi",
+      "marks": "le nostre ribellioni sono con noi"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "e le nostre iniquità"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "le conosciamo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:27.568735165Z",
+  "model": "glm-5.3"
+}

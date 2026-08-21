@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "In quel tempo Chizkiyàhu tagliò ⟨את⟩ le porte del palazzo di YHWH e ⟨את⟩ i montanti che Chizkiyàhu, re di Yehudah, aveva rivestito, e li diede al re di Ashur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "quel tempo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "tagliò"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyàhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le porte del palazzo di YHWH"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "le porte di"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "il palazzo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i montanti"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "i montanti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "aveva rivestito"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyàhu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "e li diede"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re di"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:53.924811138Z",
+  "model": "glm-5.3"
+}

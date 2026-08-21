@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Su di me si è appoggiata la tua furia, e con tutti i tuoi flutti mi hai afflitto. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "si è appoggiata"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "la tua furia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e con tutti"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "i tuoi flutti"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "mi hai afflitto"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:10.504204213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E le levatrici temettero ⟨את⟩ Elohim, e non fecero come aveva parlato loro il re d'Egitto, e fecero vivere ⟨את⟩ i bambini.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "e temettero"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "le levatrici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "e fecero vivere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i bambini"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "i bambini"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:44.287098017Z",
+  "model": "glm-5.3"
+}

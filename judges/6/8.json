@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "YHWH mandò un uomo, un profeta, ai figli d'Israele, e disse loro: così ha detto YHWH, Elohim d'Israele: io vi ho fatti salire ⟨את⟩ voi dall'Egitto, e vi ho fatti uscire ⟨את⟩ voi dalla casa di schiavitù.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "un profeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ho fatti salire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi (dall'Egitto)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "e ho fatti uscire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi (dalla casa di schiavitù)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "di schiavitù"
+    }
+  ],
+  "timestamp": "2026-08-21T06:59:45.927320407Z",
+  "model": "glm-5.3"
+}

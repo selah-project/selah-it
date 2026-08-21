@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Su di te fui gettato dal grembo materno, dal ventre di mia madre: tu ⟨sei⟩ il mio El.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "fui gettato"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dal grembo materno"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dal ventre"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "di mia madre"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "il mio El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:57.166894515Z",
+  "model": "glm-5.3"
+}

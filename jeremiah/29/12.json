@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E mi invocherete ⟨את⟩ e andrete e vi rivolgerete in preghiera a me, e io vi ascolterò.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "E invocherete"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi (il Pronome stesso, oggetto dell'invocazione)"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "andrete"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "vi rivolgerete in preghiera"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "e io ascolterò"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "verso di voi"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:18.330522101Z",
+  "model": "glm-5.3"
+}

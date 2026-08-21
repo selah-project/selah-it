@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Prima che fossi umiliato, io erravo; ma ora custodisco la tua parola.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "fossi umiliato"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "erravo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ma ora"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "la tua parola"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "custodisco"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:18.570940372Z",
+  "model": "glm-5.3"
+}

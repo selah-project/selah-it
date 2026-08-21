@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E comanderà il sacerdote, e sarà scannato ⟨את⟩ l'uccello ⟨il⟩uno in un vaso di coccio, sopra acque vive.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "comanderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "e sarà scannato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uccello"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "l'uccello"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "il primo (l'uno)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "un vaso"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "di coccio"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vive"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:59.775409966Z",
+  "model": "glm-5.3"
+}

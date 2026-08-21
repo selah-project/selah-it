@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "YHWH, ⟨il⟩ vostro Elohim, vi ha moltiplicati ⟨את⟩ voi; ed ecco, voi siete oggi come le stelle dei cieli per moltitudine.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ha moltiplicati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ed ecco, voi siete"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "come le stelle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "per moltitudine"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:53.170077044Z",
+  "model": "glm-5.3"
+}

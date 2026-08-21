@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Aprirò in parabola la mia bocca, farò scaturire enigmi dall'antico.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "aprirò"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "in parabola"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "farò scaturire"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "enigmi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dall'"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "antico"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:23.921118060Z",
+  "model": "glm-5.3"
+}

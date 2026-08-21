@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E ⟨את⟩ i suoi due figli, dei quali il nome dell'uno ⟨era⟩ Gershom, perché disse: « sono stato straniero in terra straniera ».",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi due figli"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dei quali"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "dell'uno"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "גר",
+      "gloss": "straniero"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono stato"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in terra"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "straniera"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:59.194272594Z",
+  "model": "glm-5.3"
+}

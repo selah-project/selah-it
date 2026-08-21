@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Salvami, Elohim, perché ⟨le⟩ acque sono entrate fin ⟨alla⟩ nefesh!",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "salvami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sono entrate"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh (gola\/vita)"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.506634543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "un giuramento di YHWH sarà tra i due, ⟨per attestare⟩ che non ha steso la mano sull'oggetto del suo prossimo; e il padrone lo accetterà, ed egli non risarcirà.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "un giuramento"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "i due"
+    },
+    {
+      "surface": "אם",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ha steso"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "sull'oggetto"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "del suo prossimo"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "e accetterà"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "il padrone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "risarcirà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:34.469895276Z",
+  "model": "glm-5.3"
+}

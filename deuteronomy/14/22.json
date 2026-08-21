@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Decimo interamente decimerai ⟨את⟩ tutto il prodotto del tuo seme, ciò che esce dal campo, anno per anno.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "decimo"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "decimerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il prodotto del tuo seme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "il prodotto"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "del tuo seme"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ciò che esce"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dal campo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anno"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "per anno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:58.568145462Z",
+  "model": "glm-5.3"
+}

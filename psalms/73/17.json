@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Finché non entrai nei santuari di El, allora compresi la loro fine.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "non entrai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nei"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "santuari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "compresi"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "la loro fine"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:19.437098238Z",
+  "model": "glm-5.3"
+}

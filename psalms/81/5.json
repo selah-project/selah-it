@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Poiché ⟨è⟩ uno statuto per Israele, un decreto dell'Elohim di Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "חק",
+      "gloss": "statuto"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "per Israele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "decreto"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:47.223580865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Poiché come erba presto saranno recisi, e come verdura d'erba appassiranno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "come erba"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "presto"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "saranno recisi"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "e come verdura"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "d'erba"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "appassiranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:24.122155992Z",
+  "model": "glm-5.3"
+}

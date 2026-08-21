@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Il loro veleno ⟨è⟩ come il veleno di un serpente, come l'aspide sordo che chiude il suo orecchio",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "il loro veleno"
+    },
+    {
+      "surface": "למו",
+      "gloss": "loro"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "come"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "il veleno"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "di un serpente"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "l'aspide"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sordo"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "che chiude"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "il suo orecchio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:02.969339442Z",
+  "model": "glm-5.3"
+}

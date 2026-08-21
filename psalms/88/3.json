@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Venga davanti a te la mia preghiera; inclina il tuo orecchio al mio grido.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Venga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "inclina"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "il tuo orecchio"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "al mio grido"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:24.374545981Z",
+  "model": "glm-5.3"
+}

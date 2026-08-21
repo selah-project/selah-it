@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 54,
+  "translation": "Restituisci il male ai miei avversari; nella tua verità sterminàli.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "restituisci"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "ai miei avversari"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "nella tua verità"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "sterminàli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:34.339442420Z",
+  "model": "glm-5.3"
+}

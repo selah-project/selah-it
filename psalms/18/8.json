@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E la terra si scosse e barcollò, e le fondamenta dei monti furono sconvolte e si agitarono, perché ardeva la sua ira.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "e si scosse"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "e barcollò"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "e le fondamenta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dei monti"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "furono sconvolte"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "e si agitarono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ardeva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "la sua ira"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:21.541177562Z",
+  "model": "glm-5.3"
+}

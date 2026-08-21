@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Maledetto l'uomo che portò la notizia a ⟨את⟩ mio padre, dicendo: «Ti è nato un figlio maschio», e lo riempì di gioia grande.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maledetto"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "portò la notizia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mio padre"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "a mio padre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "è nato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "e lo rallegrò"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "di gioia grande"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:13.728248346Z",
+  "model": "glm-5.3"
+}

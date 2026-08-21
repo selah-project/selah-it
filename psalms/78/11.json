@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "E dimenticarono le sue imprese e i suoi prodigi che aveva mostrato loro.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "e dimenticarono"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "le sue imprese"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "e i suoi prodigi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "aveva mostrato loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:44.954739940Z",
+  "model": "glm-5.3"
+}

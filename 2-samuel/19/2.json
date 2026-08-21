@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E fu riferito a Ioab: « Ecco, il re piange e fa lutto per Assalonne ».",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "e fu riferito"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "a Ioab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "piange"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "e fa lutto"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Assalonne"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:49.848547048Z",
+  "model": "glm-5.3"
+}

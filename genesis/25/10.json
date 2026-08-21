@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "il campo che acquistò Abraham da ⟨את⟩ i figli di Chet: là ⟨fu⟩ sepolto Abraham e Sarah sua moglie.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "acquistò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "da ⟨את⟩",
+      "marks": "i figli di Chet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sepolto"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "e Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:13.429419649Z",
+  "model": "glm-5.3"
+}

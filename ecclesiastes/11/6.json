@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "La mattina semina ⟨את⟩ il tuo seme, e alla sera non posi la tua mano, perché tu non sai dove riuscirà, questo o quello, o se tutti e due insieme ⟨saranno⟩ buoni.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo seme"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "il tuo seme"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "e alla sera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "posi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "tu non"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sai"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dove"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "riuscirà"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "זה",
+      "gloss": "quello"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o se"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tutti e due"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "buoni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:02.882509227Z",
+  "model": "glm-5.3"
+}

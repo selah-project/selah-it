@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 85,
+  "translation": "Riportaci, Elohim della nostra salvezza, e annulla il tuo sdegno verso di noi.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Riportaci"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "della nostra salvezza"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "e annulla"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "il tuo sdegno"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "verso di noi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:47.739509704Z",
+  "model": "glm-5.3"
+}

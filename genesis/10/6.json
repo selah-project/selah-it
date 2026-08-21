@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E i figli di Cam: Cush, Mitzraim, Put e Canaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "e i figli"
+    },
+    {
+      "surface": "חם",
+      "gloss": "di Cam"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Cush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitzraim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "Canaan"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:14.805294102Z",
+  "model": "glm-5.3"
+}

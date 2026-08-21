@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "e ⟨את⟩ l'altare dell'incenso e ⟨את⟩ le sue stanghe e ⟨את⟩ l'olio dell'unzione e ⟨את⟩ l'incenso delle spezie e ⟨את⟩ la cortina dell'ingresso, per l'ingresso del mishkan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'altare dell'incenso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "dell'incenso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le sue stanghe"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "le sue stanghe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'olio dell'unzione"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dell'unzione"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'incenso delle spezie"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "l'incenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "delle spezie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la cortina dell'ingresso"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "la cortina"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "dell'ingresso"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "per l'ingresso"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "del mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:27.235606129Z",
+  "model": "glm-5.3"
+}

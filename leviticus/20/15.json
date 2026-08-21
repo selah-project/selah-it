@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E un uomo che dà il suo giacere con una bestia: morte sarà messo a morte, e ⟨את⟩ la bestia ucciderete.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "E un uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "il suo giacere"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "con una bestia"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la bestia"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "la bestia"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "ucciderete"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:53.370729942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "Poiché l'ira dell'uomo ti loderà; il resto dell'ira ⟨tu⟩ ti cingerai.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "חֲמַ֣ת",
+      "gloss": "l'ira"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "תּוֹדֶ֑ךָּ",
+      "gloss": "ti loderà"
+    },
+    {
+      "surface": "שְׁאֵרִ֖ית",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "חֵמֹ֣ת",
+      "gloss": "dell'ira"
+    },
+    {
+      "surface": "תַּחְגֹּֽר",
+      "gloss": "ti cingerai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:20.500397911Z",
+  "model": "glm-5.3"
+}

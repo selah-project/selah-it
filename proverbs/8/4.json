@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "A voi, ⟨o⟩ uomini, io chiamo, e la mia voce ⟨è⟩ verso i figli dell'uomo.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "A voi"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "⟨o⟩ uomini"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io chiamo"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "e la mia voce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:13.484374818Z",
+  "model": "glm-5.3"
+}

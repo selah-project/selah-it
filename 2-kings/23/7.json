@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E demolì ⟨את⟩ le case dei qedishim che ⟨erano⟩ nella casa di YHWH, dove le donne vi tessevano case per l'Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "demolì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le case"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "le case dei"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qedishim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "tesservano"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "case"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "per l'Asherah"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:51.449282135Z",
+  "model": "glm-5.3"
+}

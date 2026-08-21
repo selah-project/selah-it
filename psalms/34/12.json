@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Venite, figli, ascoltatemi: il timore di YHWH io vi insegnerò.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Venite"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "il timore di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "io vi insegnerò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:19.354290083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non detesterai l'edomita, perché ⟨egli⟩ è tuo fratello; non detesterai l'egiziano, perché forestiero sei stato nella sua terra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "detesterai"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "l'edomita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "detesterai"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "l'egiziano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "גר",
+      "gloss": "forestiero"
+    },
+    {
+      "surface": "היית",
+      "gloss": "sei stato"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "nella sua terra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:55.511972439Z",
+  "model": "glm-5.3"
+}

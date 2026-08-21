@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Lo splendore della gloria della tua maestà ⟨mediterò⟩, e le parole delle tue meraviglie io parlerò.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "lo splendore"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "della gloria"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "della tua maestà"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "e le parole"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "delle tue meraviglie"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "io parlerò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:48.543681161Z",
+  "model": "glm-5.3"
+}

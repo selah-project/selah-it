@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "La tua giustizia ⟨è⟩ giustizia in eterno, e la tua Torah ⟨è⟩ verità.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "in eterno"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "e la tua Torah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verità"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:53.640052094Z",
+  "model": "glm-5.3"
+}

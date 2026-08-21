@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "La sua mano si è stesa sul mare, ha fatto tremare i regni; YHWH ha ordinato riguardo a Canaan: distruggere le sue roccaforti.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "si è stesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "ha fatto tremare"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "i regni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha ordinato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "riguardo a"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Canaan"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "distruggere"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "le sue roccaforti"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:32.643327224Z",
+  "model": "glm-5.3"
+}

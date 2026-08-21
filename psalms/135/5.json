@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Poiché io so che grande ⟨è⟩ YHWH, e il nostro Adonai ⟨è⟩ sopra tutti gli elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "so"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "e il nostro Adonai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sopra tutti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gli elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:16.571838069Z",
+  "model": "glm-5.3"
+}

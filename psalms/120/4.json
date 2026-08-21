@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 120,
+  "translation": "Frecce di un potente, appuntite, con braci di ginestra.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Frecce"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "di un potente"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "appuntite"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "braci"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "di ginestra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:25.362135500Z",
+  "model": "glm-5.3"
+}

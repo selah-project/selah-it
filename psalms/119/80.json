@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Sia il mio cuore integro nei tuoi statuti, affinché io non ⟨sia⟩ svergognato.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Sia"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "integro"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nei tuoi statuti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "io ⟨sia⟩ svergognato"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:47.322466675Z",
+  "model": "glm-5.3"
+}

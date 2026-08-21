@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Alzate, o porte, le vostre teste, e siate alzate, entrate ⟨dai⟩ secoli; ed entri il Re della Gloria.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "alzate"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "o porte"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "le vostre teste"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "e siate alzate"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "entrate"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨dai⟩ secoli"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ed entri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il Re"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "della Gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:29.087634464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Chi sa? Tornerà forse, e si lascerà placare Elohim, e tornerà dall'ardore della sua ira, e non periremo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tornerà"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "e si lascerà placare"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "e tornerà"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "dall'ardore"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "della sua ira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "periremo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:25.934858199Z",
+  "model": "glm-5.3"
+}

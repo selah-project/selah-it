@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Un giorno all'altro fa sgorgare parola, e una notte all'altra notte mostra conoscenza.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "un giorno"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "all'altro"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "fa sgorgare"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "parola"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e una notte"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "all'altra notte"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "mostra"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "conoscenza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:22.500974105Z",
+  "model": "glm-5.3"
+}

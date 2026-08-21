@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E il re di Aram aveva comandato ⟨את⟩ i capi dei carri che ⟨erano⟩ con lui, dicendo: «Non combattete ⟨contro⟩ il piccolo né ⟨contro⟩ il grande, ma solo ⟨contro⟩ il re di Israele, lui soltanto».",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i capi dei carri"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i capi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "dei carri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "combattete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il piccolo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "il piccolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il grande"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "il grande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "solo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re di Israele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lui soltanto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:58:30.210181911Z",
+  "model": "glm-5.3"
+}

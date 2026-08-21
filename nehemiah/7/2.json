@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E comandai a Chananì, mio fratello, e ⟨את⟩ a Chananjà, capo della cittadella, su Gerusalemme — perché ⟨egli⟩ era un uomo fedele e timoroso di ⟨את⟩ Elohim, più di molti.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "e comandai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chananì"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Chananì"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mio fratello"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Chananjà"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananjà"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "della cittadella"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "come un uomo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "fedele"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e timoroso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "più di molti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:41:37.733159890Z",
+  "model": "glm-5.3"
+}

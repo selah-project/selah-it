@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Si sono resi stolti i principi di Tsoan, sono stati ingannati i principi di Nof; hanno fatto errare ⟨את⟩ l'Egitto, la pietra d'angolo delle sue tribù.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "si sono resi stolti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i principi di"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "sono stati ingannati"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i principi di"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "hanno fatto errare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "la pietra d'angolo"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "delle sue tribù"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:19.559449374Z",
+  "model": "glm-5.3"
+}

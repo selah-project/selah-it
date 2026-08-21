@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Poiché retto ⟨è⟩ ⟨il⟩ detto di YHWH, e tutta ⟨la⟩ sua opera in fedeltà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "retto"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "la sua opera"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "in fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:14.759628712Z",
+  "model": "glm-5.3"
+}

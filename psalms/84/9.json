@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "YHWH, Elohim degli eserciti, ascolta la mia preghiera; porgi l'orecchio, Elohim di Giacobbe. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "porgi l'orecchio"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:06.911248270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Più dei miei nemici mi rendi saggio ⟨con⟩ i tuoi comandamenti, perché essa ⟨è⟩ mia per sempre.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "più dei miei nemici"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "mi rendi saggio"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "i tuoi comandamenti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:04.013435439Z",
+  "model": "glm-5.3"
+}

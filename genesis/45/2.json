@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "E diede ⟨את⟩ la sua voce in pianto, e l'Egitto udì, e la casa di Faraone udì.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua voce"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "la sua voce"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "in pianto"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "e udirono"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:34.739495053Z",
+  "model": "glm-5.3"
+}

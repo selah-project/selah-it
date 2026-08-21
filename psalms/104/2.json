@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Che ti avvolgi di luce come ⟨di⟩ una veste, che distendi i cieli come ⟨una⟩ tenda.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ti avvolgi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "di luce"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "come una veste"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "distendi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "come una tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:10.203768980Z",
+  "model": "glm-5.3"
+}

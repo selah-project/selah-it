@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E venne il messaggero da Davide, dicendo: «Il cuore degli uomini d'Israele ⟨si è volto⟩ dietro Assalòn».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "è stato"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "degli uomini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Assalòn"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:09.996756137Z",
+  "model": "glm-5.3"
+}

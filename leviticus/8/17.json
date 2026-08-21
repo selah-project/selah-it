@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ il toro, e ⟨את⟩ la sua pelle, e ⟨את⟩ la sua carne e ⟨את⟩ il suo letame bruciò nel fuoco, fuori dell'accampamento, come YHWH aveva comandato ⟨את⟩ Mosè.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il toro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il toro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua pelle"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "la sua pelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua carne"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo letame"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "il suo letame"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bruciò"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "dell'accampamento"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:19.694504735Z",
+  "model": "glm-5.3"
+}

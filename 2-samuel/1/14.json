@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E gli disse Davide: «Come non hai temuto a stendere la tua mano per distruggere ⟨את⟩ il Mashiach di YHWH?».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "איך",
+      "gloss": "come"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "hai temuto"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "a stendere"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "per distruggere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Mashiach"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "il Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:46.993080Z",
+  "model": "glm-5.3"
+}

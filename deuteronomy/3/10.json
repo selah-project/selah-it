@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Tutte le città della pianura, e tutto il Gilead, e tutto il Bashan fino a Salkha e a Edrei, città del regno di Og in Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tutte"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "della pianura"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "il Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "il Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "e a Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "città"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "del regno"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "di Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "in Bashan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:25.193661916Z",
+  "model": "glm-5.3"
+}

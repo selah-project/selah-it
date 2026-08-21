@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E gridarono a YHWH e dissero: abbiamo peccato, perché abbiamo abbandonato ⟨את⟩ YHWH e abbiamo servito ⟨את⟩ i Baal e ⟨את⟩ le Ashtarot; e ora liberaci dalla mano dei nostri nemici, e serviremo te.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "e gridarono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "abbiamo peccato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "abbiamo abbandonato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וונעבד",
+      "gloss": "e abbiamo servito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "i Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le Ashtarot"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "le Ashtarot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "liberaci"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "dei nostri nemici"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "e serviremo te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:18.149897257Z",
+  "model": "glm-5.3"
+}

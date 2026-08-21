@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Non trascinarmi via con i malvagi e con gli operatori di iniquità, che parlano di shalom con i loro compagni, mentre nel loro cuore ⟨è⟩ il male.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "trascinarmi via"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e con"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gli operatori"
+    },
+    {
+      "surface": "און",
+      "gloss": "di iniquità"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "che parlano"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "di shalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "i loro compagni"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mentre ⟨c'è⟩ il male"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "nel loro cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:26.415782055Z",
+  "model": "glm-5.3"
+}

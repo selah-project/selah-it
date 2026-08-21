@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "— tranne per il suo consanguineo, ⟨colui⟩ che gli è vicino: per sua madre e per suo padre, e per suo figlio e per sua figlia e per suo fratello;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tranne"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "per il suo consanguineo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "che è vicino"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "per sua madre"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "e per suo padre"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "e per suo figlio"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "e per sua figlia"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "e per suo fratello"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:16.816419247Z",
+  "model": "glm-5.3"
+}

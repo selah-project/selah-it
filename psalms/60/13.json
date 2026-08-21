@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Dacci aiuto dall'avversità, poiché vana ⟨è⟩ la salvezza dell'uomo.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "dacci"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "aiuto"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dall'avversità"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "poiché vana"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "la salvezza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:17.724394448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 97,
+  "translation": "Nuvola e caligine ⟨sono⟩ intorno a lui; giustizia e diritto ⟨sono⟩ la base del suo trono.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "nuvola"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "e caligine"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "intorno a lui"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e diritto"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "la base"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "del suo trono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:25.968522417Z",
+  "model": "glm-5.3"
+}

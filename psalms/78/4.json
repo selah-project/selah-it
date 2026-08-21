@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Non li nasconderemo ai loro figli; racconteranno alla generazione ultima le lodi di YHWH, la sua potenza e le sue meraviglie che ha fatto.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "nasconderemo"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "ai loro figli"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "alla generazione"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ultima"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "racconteranno"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "le lodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "la sua potenza"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "e le sue meraviglie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:23.921335946Z",
+  "model": "glm-5.3"
+}

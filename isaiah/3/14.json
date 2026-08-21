@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "YHWH entra in giudizio con gli anziani del suo popolo e con i suoi principi: ⟨sono⟩ voi che avete divorato la vigna — la rapina del povero ⟨è⟩ nelle vostre case.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in giudizio"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "del suo popolo"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "e con i suoi principi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "avete divorato"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "la vigna"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "la rapina"
+    },
+    {
+      "surface": "העני",
+      "gloss": "del povero"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "nelle vostre case"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:11.509827967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E il popolo si accalcherà, ⟨l'⟩uno contro ⟨l'⟩altro, e ognuno contro il suo prossimo; il giovane insulterà ⟨il⟩ vecchio, e il vile ⟨insulterà⟩ ⟨il⟩ nobile.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "si accalcherà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ognuno"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "contro ⟨l'⟩altro"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e ognuno"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "contro il suo prossimo"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "insulterà"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il giovane"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "contro ⟨il⟩ vecchio"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "e il vile"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "contro ⟨il⟩ nobile"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:41.261570479Z",
+  "model": "glm-5.3"
+}

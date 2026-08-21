@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E benedisse Elohim ⟨את⟩ Noach e ⟨את⟩ i suoi figli, e disse loro: fruttificate e moltiplicatevi e riempite ⟨את⟩ la terra.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "fruttificate"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "e moltiplicatevi"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e riempite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:38.736325074Z",
+  "model": "glm-5.3"
+}

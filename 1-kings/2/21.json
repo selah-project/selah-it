@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E lei disse: sia data ⟨את⟩ Abishag la shunammita ad Adoniahù, tuo fratello, in moglie.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e lei disse"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sia data"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "la shunammita"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ad Adoniahù"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "in moglie"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:41.746227830Z",
+  "model": "glm-5.3"
+}

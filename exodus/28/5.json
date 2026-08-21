@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E prenderanno ⟨את⟩ l'oro e ⟨את⟩ la tchelet e ⟨את⟩ l'argaman e ⟨את⟩ il cremisi di tola e ⟨את⟩ il lino fine.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "prenderanno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'oro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'oro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la tchelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "la tchelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "l'argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il cremisi di tola"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "il cremisi di tola"
+    },
+    {
+      "surface": "השני",
+      "gloss": "di tola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il lino fine"
+    },
+    {
+      "surface": "השש",
+      "gloss": "il lino fine"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:53.535266212Z",
+  "model": "glm-5.3"
+}

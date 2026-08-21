@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Quando Adonai avrà lavato ⟨את⟩ lo sporco delle figlie di Tzion e ⟨את⟩ il sangue di Gerusalemme avrà risciacquato dal suo mezzo, con ⟨un⟩ Ruach di giudizio e con ⟨un⟩ Ruach che arde.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "quando"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "avrà lavato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo sporco delle figlie di Tzion"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "lo sporco"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "delle figlie"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il sangue di Gerusalemme"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "avrà risciacquato"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "dal suo mezzo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "con ⟨un⟩ Ruach"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "di giudizio"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "e con ⟨un⟩ Ruach"
+    },
+    {
+      "surface": "בער",
+      "gloss": "che arde"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:24.373905159Z",
+  "model": "glm-5.3"
+}

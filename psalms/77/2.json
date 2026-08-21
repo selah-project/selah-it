@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "La mia voce ⟨va⟩ verso Elohim, e io grido; la mia voce ⟨va⟩ verso Elohim, e ⟨egli⟩ porge l'orecchio a me.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "e io grido"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "e ⟨egli⟩ porge l'orecchio"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:02.794123890Z",
+  "model": "glm-5.3"
+}

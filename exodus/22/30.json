@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E uomini di santità sarete per Me; e carne dilaniata nel campo, come preda, non la mangerete: al cane la getterete ⟨את⟩essa.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "e uomini"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "di santità"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "sarete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per Me"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "e carne"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "dilaniata (preda)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "al cane"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "la getterete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "essa (la carne dilaniata)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:39.254576069Z",
+  "model": "glm-5.3"
+}

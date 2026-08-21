@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "I cieli — cieli ⟨sono⟩ di YHWH, ma la terra l'ha data ai figli dell'uomo.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "I cieli"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cieli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ma la terra"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "l'ha data"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:34.402484867Z",
+  "model": "glm-5.3"
+}

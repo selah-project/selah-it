@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ah, nazione peccatrice, popolo carico di colpa, stirpe di malfattori, figli corrotti! Hanno abbandonato ⟨את⟩ YHWH, hanno disprezzato ⟨את⟩ il Santo di Israele, si sono voltati indietro.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ah"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nazione"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "peccatrice"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popolo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "carico"
+    },
+    {
+      "surface": "עון",
+      "gloss": "di colpa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "stirpe"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "di malfattori"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "corrotti"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hanno abbandonato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "hanno disprezzato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Santo di Israele"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "il Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "si sono voltati"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "indietro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:00.756606115Z",
+  "model": "glm-5.3"
+}

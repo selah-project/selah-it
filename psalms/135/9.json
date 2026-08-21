@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Mandò segni e prodigi in mezzo a te, Egitto, su Faraone e su tutti i suoi servi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "segni"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "e prodigi"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "in mezzo a te"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egitto"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "su Faraone"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e su tutti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:49.182766019Z",
+  "model": "glm-5.3"
+}

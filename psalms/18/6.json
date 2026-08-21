@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "I lacci dello Sheol mi hanno attorniato, mi sono stati davanti i lacci della morte.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "i lacci"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "dello Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mi hanno attorniato"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mi sono stati davanti"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "i lacci"
+    },
+    {
+      "surface": "מות",
+      "gloss": "della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:21.540903038Z",
+  "model": "glm-5.3"
+}

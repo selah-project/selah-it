@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Non si ritirava ⟨la⟩ colonna della nube di giorno, né ⟨la⟩ colonna del fuoco di notte, davanti al popolo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "si ritirava"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "colonna"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "della nube"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "di giorno"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "né colonna"
+    },
+    {
+      "surface": "האש",
+      "gloss": "del fuoco"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:15.718164094Z",
+  "model": "glm-5.3"
+}

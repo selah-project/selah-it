@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Ti lodo, perché con tremore sono stato formato, meravigliosamente; meravigliose sono le tue opere, e la mia ⟨nefesh⟩ lo conosce ⟨molto⟩.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ti lodo"
+    },
+    {
+      "surface": "על",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "con tremore"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "sono stato formato"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "meravigliosamente"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "le tue opere"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "e la mia nefesh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:01.700117646Z",
+  "model": "glm-5.3"
+}

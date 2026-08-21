@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E disse YHWH: ecco un luogo ⟨את⟩ presso di me, e tu starai in piedi sulla roccia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un luogo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "presso di me"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "e starai in piedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "la roccia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:37.010395871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Viva la mia nefesh e ti lodi, e i tuoi giudizi mi aiutino.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "viva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "e ti lodi"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "e i tuoi giudizi"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "mi aiutino"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:36.597970976Z",
+  "model": "glm-5.3"
+}

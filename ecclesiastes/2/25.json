@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Poiché chi mangerà, e chi godrà ⟨di ciò⟩ — chi fuori di me?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "godrà"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "di me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:53.902267333Z",
+  "model": "glm-5.3"
+}

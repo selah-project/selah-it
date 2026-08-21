@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Poiché le stelle dei cieli e le loro costellazioni non daranno la loro luce; si oscurerà il sole al suo uscire, e la luna non farà brillare la sua luce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "le stelle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "e le loro costellazioni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "daranno"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "la loro luce"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "si oscurerà"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "al suo uscire"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "e la luna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "farà brillare"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "la sua luce"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:05.090689647Z",
+  "model": "glm-5.3"
+}

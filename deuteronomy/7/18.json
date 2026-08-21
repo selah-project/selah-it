@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Non temerli; ricorda bene ⟨את⟩ ciò che fece YHWH ⟨il⟩ tuo Elohim a faraone e a tutto l'Egitto:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temerli"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "li"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ricorda bene"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che fece YHWH il tuo Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "a faraone"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e a tutto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:16.369042910Z",
+  "model": "glm-5.3"
+}

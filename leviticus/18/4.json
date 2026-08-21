@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "⟨את⟩ I miei mishpatim farete, e ⟨את⟩ le mie chukkot custodirete, per camminare in esse: io ⟨sono⟩ YHWH, Elohim vostro.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "I miei mishpatim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "I miei mishpatim"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "farete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le mie chukkot"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "le mie chukkot"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "custodirete"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "per camminare"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in esse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:51.647712493Z",
+  "model": "glm-5.3"
+}

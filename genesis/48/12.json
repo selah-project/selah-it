@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "E Yosef li fece uscire ⟨את⟩ da tra le sue ginocchia, e si prostrò con il volto a terra.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "e fece uscire"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro (i due figli) — tolti dalle ginocchia"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "da tra (da con)"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "le sue ginocchia"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "e si prostrò"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "sul suo volto"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:28.621953820Z",
+  "model": "glm-5.3"
+}

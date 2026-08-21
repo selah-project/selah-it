@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Potente nella terra sarà la sua discendenza; la generazione dei retti sarà benedetta.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Potente"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "la sua discendenza"
+    },
+    {
+      "surface": "דור",
+      "gloss": "la generazione"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dei retti"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sarà benedetta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:54.520889688Z",
+  "model": "glm-5.3"
+}

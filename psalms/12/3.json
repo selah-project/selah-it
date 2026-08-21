@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Menzogna parla ciascuno con ⟨את⟩ il suo prossimo; labbra liscie, con cuore e cuore parlano.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "menzogna"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "parla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "labbra"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "liscie"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "con cuore"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "e cuore"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "parlano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:58.772837826Z",
+  "model": "glm-5.3"
+}

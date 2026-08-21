@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E avvenne, quando Shemuël invecchiò, che pose i suoi figli ⟨את⟩ giudici per Israele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "invecchiò"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "giudici"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "per Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:10.318039053Z",
+  "model": "glm-5.3"
+}

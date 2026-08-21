@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Chi versa il sangue dell'uomo, da parte dell'uomo il suo sangue sarà versato; poiché a immagine di Elohim fece ⟨את⟩ l'uomo.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "chi versa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "da parte dell'uomo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "sarà versato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "a immagine di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:18.967861306Z",
+  "model": "glm-5.3"
+}

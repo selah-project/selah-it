@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Questi sono i figli di Israele: Ruben, Simeone, Levi e Yehudah, Issachar e Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Questi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simeone"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Issachar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "e Zevulun"
+    }
+  ],
+  "timestamp": "2026-08-21T09:45:18.355812299Z",
+  "model": "glm-5.3"
+}

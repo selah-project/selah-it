@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "la via dell'aquila nei cieli, la via del serpente sulla roccia, la via della nave in mezzo al mare, e la via dell'uomo con ⟨una⟩ giovane donna.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "dell'aquila"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "del serpente"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sulla"
+    },
+    {
+      "surface": "צור",
+      "gloss": "roccia"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "della nave"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "ים",
+      "gloss": "al mare"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "e la via"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "con ⟨una⟩ giovane donna"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:24.403126337Z",
+  "model": "glm-5.3"
+}

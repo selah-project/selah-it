@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E io dimorerò in mezzo ai figli d'Israele, e non abbandonerò ⟨את⟩ il mio popolo Israele.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "e io dimorerò"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "abbandonerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo Israele"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:46.827774349Z",
+  "model": "glm-5.3"
+}

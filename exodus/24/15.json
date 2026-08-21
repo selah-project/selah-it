@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E salì Mosè verso il monte, e la nube coprì ⟨את⟩ il monte.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "e coprì"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nube"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il monte"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:00.817677717Z",
+  "model": "glm-5.3"
+}

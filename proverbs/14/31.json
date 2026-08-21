@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 14:31",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Chi opprime il povero insulta il suo Fattore, ma chi lo onora mostra grazia al bisognoso.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "chi opprime"
+    },
+    {
+      "surface": "דל",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "insulta"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "il suo Fattore"
+    },
+    {
+      "surface": "ומכבדו",
+      "gloss": "ma chi lo onora"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "mostra grazia"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "al bisognoso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:41.206871601Z",
+  "model": "glm-5.3"
+}

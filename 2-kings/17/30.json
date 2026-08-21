@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E gli uomini di Babilonia fecero ⟨את⟩ Sukkot-Benot, e gli uomini di Kut fecero ⟨את⟩ Nergal, e gli uomini di Chamat fecero ⟨את⟩ Ashimà.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "e gli uomini di"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonia"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "-Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "e gli uomini di"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "e gli uomini di"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashimà"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashimà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:07.641123928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Parlano parole, giurano il falso nel stringere un patto (berit); e il giudizio fiorisce come veleno sui solchi del campo.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "parlano"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "parole"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "giurano il falso"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "il falso"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nel stringere"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "un patto (berit)"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "e fiorisce"
+    },
+    {
+      "surface": "כראש",
+      "gloss": "come veleno"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "i solchi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "del campo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:36.304839174Z",
+  "model": "glm-5.3"
+}

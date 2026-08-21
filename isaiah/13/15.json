@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Chiunque sarà trovato sarà trafitto, e chiunque sarà catturato cadrà sotto la spada.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "sarà trovato"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "sarà trafitto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e chiunque"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "sarà catturato"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cadrà"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sotto la spada"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:07.428302535Z",
+  "model": "glm-5.3"
+}

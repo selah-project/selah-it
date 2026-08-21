@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 4:3",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Poiché così ha detto YHWH all'uomo di Giuda e a Gerusalemme: aratevi un terreno arato, e non seminate fra ⟨את⟩ i pruni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "all'uomo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "e a Gerusalemme"
+    },
+    {
+      "surface": "נירו",
+      "gloss": "arate"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "un terreno arato"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "seminate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "i pruni"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "i pruni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:59:27.356047757Z",
+  "model": "glm-5.3"
+}

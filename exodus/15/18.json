@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "YHWH regna per sempre e in eterno.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "regna"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:43.606891633Z",
+  "model": "glm-5.3"
+}

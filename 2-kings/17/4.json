@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 17:4",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E il re di Assur trovò in Hoshèa una congiura, perché aveva mandato messaggeri a So, re d'Egitto, e non faceva più salire il tributo al re di Assur, come ⟨aveva fatto⟩ anno dopo anno; e il re di Assur lo arrestò e lo legò in prigione.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "e trovò"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Assur"
+    },
+    {
+      "surface": "בהושע",
+      "gloss": "in Hoshèa"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "una congiura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "aveva mandato"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "סוא",
+      "gloss": "So"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "faceva salire"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "il tributo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Assur"
+    },
+    {
+      "surface": "כשנה",
+      "gloss": "come anno"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "dopo anno"
+    },
+    {
+      "surface": "ויעצרהו",
+      "gloss": "e lo arrestò"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Assur"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "e lo legò"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in casa"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "di prigionia"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:35.933399499Z",
+  "model": "glm-5.3"
+}

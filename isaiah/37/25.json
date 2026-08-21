@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Io ho scavato ⟨pozzi⟩ e ho bevuto acqua, e con la pianta dei miei piedi inaridirò tutti i canali di Mazor.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "ho scavato"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "e ho bevuto"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "ואחרib",
+      "gloss": "e inaridirò"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "con la pianta"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "dei miei piedi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "i canali"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "di Mazor"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:40.345912914Z",
+  "model": "glm-5.3"
+}

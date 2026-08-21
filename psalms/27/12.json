@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Non darmi ⟨in balìa⟩ dei miei nemici, perché contro di me si sono levati testimoni falsi e chi spira violenza.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "darmi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "⟨in balìa⟩ (nefesh)"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dei miei nemici"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "si sono levati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "testimoni"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falsi"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "e chi spira"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violenza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:52.537490966Z",
+  "model": "glm-5.3"
+}

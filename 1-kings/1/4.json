@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E la ragazza era bella fino all'eccesso, e fu per il re ⟨custode⟩, e lo servì; ma il re non la conobbe.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "e la ragazza"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bella"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "all'eccesso"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "per il re"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "⟨custode⟩"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "e lo servì"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "la conobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:09.128667506Z",
+  "model": "glm-5.3"
+}

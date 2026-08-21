@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Non ⟨c'è⟩ nessuno come te fra gli Elohim, Adonai, e non ⟨ci sono⟩ opere come le tue opere.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩ nessuno"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "come te"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "fra gli Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨ci sono⟩"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "come le tue opere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:54.223644203Z",
+  "model": "glm-5.3"
+}

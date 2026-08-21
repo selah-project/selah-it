@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E il re Davide era vecchio, avanzato nei giorni, e lo coprirono con vesti, ma non ⟨si scaldava⟩ per lui.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "era vecchio"
+    },
+    {
+      "surface": "בא",
+      "gloss": "avanzato"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nei giorni"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "e lo coprirono"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "con vesti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "⟨si scaldava⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:09.127900264Z",
+  "model": "glm-5.3"
+}

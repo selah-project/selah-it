@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Non calunniare un servo presso il suo padrone, perché ti maledica e tu sia colpevole.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "calunniare"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "un servo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "presso"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "il suo padrone"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "ti maledica"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "e tu sia colpevole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:01.738509103Z",
+  "model": "glm-5.3"
+}

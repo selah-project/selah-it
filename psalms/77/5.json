@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Tu hai afferrato ⟨le⟩ palpebre dei miei occhi; sono agitato e non parlo.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "hai afferrato"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "palpebre"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dei miei occhi"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "sono agitato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "parlo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:19.704729272Z",
+  "model": "glm-5.3"
+}

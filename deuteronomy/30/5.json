@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "YHWH tuo Elohim ti riporterà nella terra che possedettero i tuoi padri, e tu la possederai; e ti farà bene e ti moltiplicherà più dei tuoi padri.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "ti riporterà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nella"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "possedettero"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "i tuoi padri"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "e tu la possederai"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "e ti farà bene"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "e ti moltiplicherà"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "più dei tuoi padri"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:46.647901473Z",
+  "model": "glm-5.3"
+}

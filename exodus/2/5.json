@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E scese la figlia di Faraone per lavarsi sul fiume, e le sue ancelle camminavano lungo ⟨la⟩ riva del fiume; e vide ⟨את⟩ la cesta in mezzo ai giunchi, e mandò ⟨את⟩ la sua ancella e la prese.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "per lavarsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "il fiume"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "e le sue ancelle"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "camminavano"
+    },
+    {
+      "surface": "על",
+      "gloss": "lungo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la riva"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "del fiume"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cesta"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "la cesta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "ai giunchi"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua ancella"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "la sua ancella"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "e la prese"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:49.426653120Z",
+  "model": "glm-5.3"
+}

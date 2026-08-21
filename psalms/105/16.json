@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "E chiamò la fame sul ⟨la⟩ paese: spezzò ogni sostegno del pane.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "la fame"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "il paese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sostegno"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "del pane"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "spezzò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:04.318252304Z",
+  "model": "glm-5.3"
+}

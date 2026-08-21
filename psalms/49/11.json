@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Poiché vede ⟨che⟩ i saggi muoiono; insieme periscono lo stolto e l'ottuso, e lasciano ad altri la loro ricchezza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "i saggi"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "muoiono"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "lo stolto"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "e l'ottuso"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "periscono"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "e lasciano"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ad altri"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "la loro ricchezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:00.277939115Z",
+  "model": "glm-5.3"
+}

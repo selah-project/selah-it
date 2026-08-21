@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "e Ieshua generò ⟨את⟩ Ioakim, e Ioakim generò ⟨את⟩ Elyashib, ed Elyashib ⟨generò⟩ ⟨את⟩ Ioiada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "e Ieshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Ioakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "e Ioakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "ed Elyashib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioiada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Ioiada"
+    }
+  ],
+  "timestamp": "2026-08-21T09:43:46.566710515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E si alzarono di buon mattino e giurarono, l'uno all'altro ⟨fratello⟩; e Isacco li congedò, e partirono da lui ⟨את⟩ in shalom.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "e si alzarono di buon mattino"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "e giurarono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "all'altro ⟨fratello⟩"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "e li congedò"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isacco"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e partirono"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "da lui ⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in shalom"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:29.545738829Z",
+  "model": "glm-5.3"
+}

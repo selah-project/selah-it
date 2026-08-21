@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Abramo pregò Elohim, ed Elohim guarì ⟨את⟩ Avimelech e ⟨את⟩ sua moglie e le sue serve, ed essi generarono.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "e pregò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "e guarì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sua moglie"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "e le sue serve"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ed essi generarono"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:15.437060266Z",
+  "model": "glm-5.3"
+}

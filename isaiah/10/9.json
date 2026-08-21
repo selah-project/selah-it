@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Non ⟨è⟩ forse Karkemish come Kalno? ⟨Non⟩ è forse Arpad come Chamat? ⟨Non⟩ è forse Damasco come Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Non ⟨è⟩ forse"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "come Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨Non⟩ è forse"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "come Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨Non⟩ è forse"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "come Damasco"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:55.767669358Z",
+  "model": "glm-5.3"
+}

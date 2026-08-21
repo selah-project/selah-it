@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Poiché resero amara ⟨את⟩ la sua Ruach, ed egli parlò avventatamente con le sue labbra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "resero amara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua Ruach"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "la sua Ruach"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "parlò avventatamente"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "con le sue labbra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:53.207104934Z",
+  "model": "glm-5.3"
+}

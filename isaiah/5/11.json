@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Guai a quelli che si alzano presto la mattina per inseguire la bevanda inebriante, che si trattengono fino al crepuscolo: il vino li infiamma!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "guai"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "a quelli che si alzano presto"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "la bevanda inebriante"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "inseguono"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "si trattengono fino a"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "al crepuscolo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "il vino"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "li infiamma"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:16.378005858Z",
+  "model": "glm-5.3"
+}

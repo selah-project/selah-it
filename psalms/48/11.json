@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Come ⟨è⟩ il tuo nome, Elohim, così ⟨è⟩ la tua lode sugli estremi della terra: la giustizia ⟨ha riempito⟩ la tua destra.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "come il tuo nome"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "la tua lode"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "gli estremi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la giustizia"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "⟨ha riempito⟩"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:17.139550848Z",
+  "model": "glm-5.3"
+}

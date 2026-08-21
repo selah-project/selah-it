@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Ah, tutti gli assetati, venite alle acque, e chi non ha argento, venite, comprate ed ⟨את⟩ mangiate; e venite, comprate senza argento e senza prezzo ⟨את⟩ vino e ⟨את⟩ latte!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "gli assetati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "למים",
+      "gloss": "alle acque"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨per sé⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "comprate"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ed ⟨את⟩ mangiate",
+      "marks": "il cibo comprato senza argento"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "e venite"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "comprate"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "senza"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "e senza"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "prezzo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "⟨את⟩ vino"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "e ⟨את⟩ latte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:22.392169698Z",
+  "model": "glm-5.3"
+}

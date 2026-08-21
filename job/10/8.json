@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Le tue mani mi plasmarono e mi fecero, tutto ⟨intorno⟩ insieme; e ora mi inghiottisci!",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "le tue mani"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "mi plasmarono"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "e mi fecero"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "intorno"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "e mi inghiottisci"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:26.025760359Z",
+  "model": "glm-5.3"
+}

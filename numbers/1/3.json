@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Da vent'anni in su, ogni uomo che esce nell'esercito in Israele: li recounts ⟨אתם⟩ secondo i loro eserciti, tu e Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "dai ⟨figli di⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e in su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "che esce"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "nell'esercito"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "li recensite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "li (i censiti)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "secondo i loro eserciti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:28.426810534Z",
+  "model": "glm-5.3"
+}

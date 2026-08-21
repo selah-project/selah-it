@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Hanno ruggito i tuoi avversari in mezzo alla tua assemblea; hanno posto i loro vessilli come vessilli.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "hanno ruggito"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "i tuoi avversari"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "alla tua assemblea"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hanno posto"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "i loro vessilli"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "come vessilli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:54.439684953Z",
+  "model": "glm-5.3"
+}

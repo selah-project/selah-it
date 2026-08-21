@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "poiché si ribellarono alle parole di El, e il consiglio dell'Altissimo sprezzarono;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "si ribellarono"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "alle parole"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "e il consiglio"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "dell'Altissimo"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "sprezzarono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.625626897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Vedova e forestiero uccidono, e orfani assassinano.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "vedova"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "e forestiero"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "uccidono"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "e orfani"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "assassinano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:16.342467769Z",
+  "model": "glm-5.3"
+}

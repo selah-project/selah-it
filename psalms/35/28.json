@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "E la mia lingua mediterà la tua giustizia, tutto il giorno la tua lode.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "E la mia lingua"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mediterà"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "la tua lode"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:46.413818410Z",
+  "model": "glm-5.3"
+}

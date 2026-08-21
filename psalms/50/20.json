@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Ti siedi, parli contro tuo fratello, contro il figlio di tua madre getti ⟨il⟩ discredito.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "ti siedi"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "contro tuo fratello"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "parli"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "contro il figlio"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "di tua madre"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "getti"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "discredito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:08.376443064Z",
+  "model": "glm-5.3"
+}

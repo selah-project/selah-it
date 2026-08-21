@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Poiché tu mi hai fatto uscire dal grembo, mi hai fatto confidare sul petto di mia madre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "mi hai fatto uscire"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dal grembo"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "mi hai fatto confidare"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "il petto"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "di mia madre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:57.166790042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Yitrò, suocero di Mosè, prese ⟨את⟩ Zippora, moglie di Mosè, dopo il suo congedo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitrò"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "suocero"
+    },
+    {
+      "surface": "משה",
+      "gloss": "di Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zippora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Zippora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moglie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "di Mosè"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "il suo congedo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:59.194001745Z",
+  "model": "glm-5.3"
+}

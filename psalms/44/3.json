@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Tu, con la tua mano, hai spodestato nazioni e li hai piantati; hai fiaccato i popoli e li hai dispersi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "con la tua mano"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nazioni"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "hai spodestato"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "e li hai piantati"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "hai fiaccato"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "e li hai dispersi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:09.899040324Z",
+  "model": "glm-5.3"
+}

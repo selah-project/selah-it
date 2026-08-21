@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Grido a te, e tu non mi rispondi; sto in piedi, e tu mi fissi.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "grido"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "mi rispondi"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "sto in piedi"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "e tu mi fissi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:54.249067434Z",
+  "model": "glm-5.3"
+}

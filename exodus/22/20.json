@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E ⟨il⟩ forestiero non maltratterai, e non lo opprimerai, perché forestieri foste ⟨voi⟩ nella terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "e ⟨il⟩ forestiero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "maltratterai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "lo opprimerai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "forestieri"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "foste ⟨voi⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:22.577251469Z",
+  "model": "glm-5.3"
+}

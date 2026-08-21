@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Anzi, ci hai respinti e coperti di vergogna, e non esci con i nostri eserciti.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "anzi"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ci hai respinti"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "e coperti di vergogna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "esci"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "con i nostri eserciti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:34.320224061Z",
+  "model": "glm-5.3"
+}

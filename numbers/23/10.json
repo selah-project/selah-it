@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Chi conta la polvere di Giacobbe, e il numero ⟨את⟩ di un quarto d'Israele? Muoia ⟨la mia⟩ nefesh la morte dei retti, e sia la mia fine come la loro!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "conta"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la polvere"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "e il numero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di un quarto d'Israele"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "di un quarto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "muoia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la morte"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dei retti"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e sia"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "la mia fine"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "come la loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:17.558737721Z",
+  "model": "glm-5.3"
+}

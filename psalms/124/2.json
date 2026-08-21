@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 124,
+  "translation": "se non fosse stato YHWH, che ⟨è⟩ stato per noi, quando si levò contro di noi l'umano,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "se non fosse stato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "che è stato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "quando si levò"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "contro di noi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'umano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:04.534489213Z",
+  "model": "glm-5.3"
+}

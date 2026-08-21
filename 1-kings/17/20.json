@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E invocò YHWH e disse: YHWH, Elohim mio, anche sulla vedova presso cui io dimoro come forestiero hai fatto del male, facendo morire ⟨את⟩ suo figlio?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "E invocò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "la vedova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "presso cui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "dimoro come forestiero"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "con lei"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "hai fatto del male"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "facendo morire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo figlio"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "suo figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:57.468031684Z",
+  "model": "glm-5.3"
+}

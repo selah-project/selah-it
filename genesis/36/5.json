@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E Oholivamà partorì ⟨את⟩ Ieush e ⟨את⟩ Iaalàm e ⟨את⟩ Korach. Questi sono i figli di Esav, che gli nacquero nella terra di Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "E Oholivamà"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ieush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Ieush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Iaalàm"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Iaalàm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Questi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "nacquero"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra di"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:30.682949290Z",
+  "model": "glm-5.3"
+}

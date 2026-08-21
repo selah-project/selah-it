@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Date a YHWH, o famiglie dei popoli, date a YHWH gloria e forza.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "date"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "o famiglie"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dei popoli"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "date"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloria"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e forza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:21.141316348Z",
+  "model": "glm-5.3"
+}

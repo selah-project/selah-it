@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "⟨את⟩ il germoglio spontaneo della tua mietitura non mieterai, e ⟨את⟩ l'uva della tua vigna consacrata non vendemmierai: anno di shabbaton sarà per ⟨la⟩ terra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il germoglio spontaneo della tua mietitura"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "il germoglio spontaneo"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "della tua mietitura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "mieterai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'uva della tua vigna consacrata"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "l'uva"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "della tua vigna consacrata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "vendemmierai"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "anno"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "di shabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "per ⟨la⟩ terra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:17.263080128Z",
+  "model": "glm-5.3"
+}

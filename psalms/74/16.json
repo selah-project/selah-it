@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Tuo ⟨è⟩ il giorno, anche tua ⟨è⟩ la notte; Tu hai stabilito ⟨il⟩ luminare e ⟨il⟩ sole.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tuo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tua"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la notte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "hai stabilito"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "luminare"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "e sole"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:36.579878214Z",
+  "model": "glm-5.3"
+}

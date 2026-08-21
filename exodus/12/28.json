@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E andarono e fecero i figli d'Israele; come aveva comandato YHWH ⟨את⟩ Mosè e Aharon, così fecero.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "e andarono"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ויהרן",
+      "gloss": "e Aharon",
+      "marks": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:29.917168803Z",
+  "model": "glm-5.3"
+}

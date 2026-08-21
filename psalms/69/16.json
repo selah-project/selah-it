@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Non mi travolga la corrente delle acque, e non mi inghiotta il profondo, e non si chiuda su di me la bocca della cisterna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "mi travolga"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "la corrente"
+    },
+    {
+      "surface": "מים",
+      "gloss": "delle acque"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "mi inghiotta"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "il profondo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "si chiuda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "באר",
+      "gloss": "della cisterna"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "la bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:13.038095221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Davide si nascose nel campo. E fu il novilunio, e il re si sedette ⟨il⟩ ⟨del⟩ pane per mangiare.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "e si nascose"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "il novilunio"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e si sedette"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "על",
+      "gloss": "presso"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "il pane"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "per mangiare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:06.725877503Z",
+  "model": "glm-5.3"
+}

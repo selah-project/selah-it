@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E comandò Mosè ⟨את⟩ i figli d'Israele secondo ⟨la⟩ bocca di YHWH, dicendo: giustamente parla la tribù dei figli di Giuseppe.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e comandò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "על",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "giustamente"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "la tribù"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "di Giuseppe"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "parla"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:53.319660230Z",
+  "model": "glm-5.3"
+}

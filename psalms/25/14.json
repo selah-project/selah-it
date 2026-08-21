@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Il segreto di YHWH ⟨è⟩ per quelli che lo temono, e il suo patto per farlo conoscere a loro.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "il segreto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "per quelli che lo temono"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "e il suo patto"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "per farlo conoscere a loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:15.663440209Z",
+  "model": "glm-5.3"
+}

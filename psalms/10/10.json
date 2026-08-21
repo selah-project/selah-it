@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Si accovaccia, si abbatte, e gli infelici cadono sotto la sua forza poderosa.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "si accovaccia"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "si abbatte"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "e cadono"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "sotto la sua forza poderosa"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "gli infelici"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:32.043905001Z",
+  "model": "glm-5.3"
+}

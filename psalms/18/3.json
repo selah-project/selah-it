@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "YHWH, mia rupe e mia fortezza e mio liberatore; El mio, rupe mia — in lui mi rifugio — scudo mio e corno della mia salvezza, mia roccaforte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mia rupe"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "e mia fortezza"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "e mio liberatore"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mio"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "rupe mia"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mi rifugio"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "scudo mio"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "e corno"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "della mia salvezza"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mia roccaforte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:56.249533225Z",
+  "model": "glm-5.3"
+}

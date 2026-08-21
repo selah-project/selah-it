@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Essi la divideranno ⟨את⟩ in sette parti: Yehudah starà sul suo confine, a mezzogiorno, e la casa di Yosef starà sul loro confine, a settentrione.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "essi la divideranno"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "in sette parti (la terra)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "in sette"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "parti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "starà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "il suo confine"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "a mezzogiorno"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e la casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "di Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "staranno"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "il loro confine"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "a settentrione"
+    }
+  ],
+  "timestamp": "2026-08-21T06:55:22.184430946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Udite, vi prego, ⟨את⟩ ciò che YHWH dice: sorgi, instradì la causa con ⟨את⟩ i monti, e ascoltino le colline la tua voce.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Udite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vi prego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sorgi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "instradì la causa"
+    },
+    {
+      "surface": "את",
+      "gloss": "con ⟨את⟩",
+      "marks": "i monti"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "e ascoltino"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "le colline"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "la tua voce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:16.670149434Z",
+  "model": "glm-5.3"
+}

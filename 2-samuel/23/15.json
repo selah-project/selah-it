@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E David desiderò, e disse: chi mi darà da bere acqua dal pozzo di Bet-Lèchem, che ⟨è⟩ alla porta?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "e desiderò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "mi darà da bere"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "dal pozzo di"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lèchem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "alla porta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:32.836167152Z",
+  "model": "glm-5.3"
+}

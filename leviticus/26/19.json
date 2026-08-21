@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "e spezzerò ⟨את⟩ l'orgoglio della vostra forza, e rendering ⟨את⟩ i vostri cieli come ferro e ⟨את⟩ la vostra terra come bronzo.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "e spezzerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'orgoglio della vostra forza"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "l'orgoglio"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "della vostra forza"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e rendering"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri cieli"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "i vostri cieli"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "come ferro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la vostra terra"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "la vostra terra"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "come bronzo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:20.548282668Z",
+  "model": "glm-5.3"
+}

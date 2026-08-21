@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E oltraggiò ⟨את⟩ Israele, e lo colpì Yehonatan figlio di Shimì, fratello di Davide.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "e oltraggiò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "e lo colpì"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimì"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratello di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:14.008955862Z",
+  "model": "glm-5.3"
+}

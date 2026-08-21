@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E si affrettò Parò a chiamare Mosè e Aharon, e disse: ho peccato contro YHWH, ⟨il⟩ vostro Elohim, e contro di voi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "e si affrettò"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parò"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "a chiamare"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ho peccato"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "contro YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "e contro di voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:01.851237032Z",
+  "model": "glm-5.3"
+}

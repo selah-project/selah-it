@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "La via dello stolto ⟨è⟩ diritta ai suoi occhi, ma chi ascolta il consiglio ⟨è⟩ saggio.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dello stolto"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨è⟩ diritta"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ai suoi occhi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ma chi ascolta"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "il consiglio"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:57.695403938Z",
+  "model": "glm-5.3"
+}

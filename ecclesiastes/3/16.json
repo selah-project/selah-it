@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ancora ho visto sotto il sole: al posto del giudizio, là ⟨sta⟩ l'empietà; e al posto della giustizia, là ⟨sta⟩ l'empietà.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "e ancora"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "al posto"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "del giudizio"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "l'empietà"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "e al posto"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "della giustizia"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "l'empietà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:14.865566965Z",
+  "model": "glm-5.3"
+}

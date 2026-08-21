@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Nell'anno ventisettesimo di Ieroboam, re di Israele, regnò Azariah figlio di Amatsiah, re di Giuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Nell'anno"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e sette"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anno"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "di Ieroboam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regnò"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azariah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsiah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:37.797201576Z",
+  "model": "glm-5.3"
+}

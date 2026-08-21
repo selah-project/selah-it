@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Perché come una giovenca ribelle si è rivoltata Israele; ora YHWH li pascerà come un agnello ⟨in⟩ un luogo aperto?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "come una giovenca"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "ribelle"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "si è rivoltata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "li pascerà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "come un agnello"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "in un luogo aperto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:09.452359078Z",
+  "model": "glm-5.3"
+}

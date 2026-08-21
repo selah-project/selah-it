@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Disse la sentinella: viene ⟨la⟩ mattina, e anche ⟨la⟩ notte. Se volete chiedere, chiedete; tornate, venite.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "la sentinella"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "viene"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mattina"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "notte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "volete chiedere"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "chiedete"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "tornate"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "venite"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:31.141608Z",
+  "model": "glm-5.3"
+}

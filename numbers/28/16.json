@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E nel mese ⟨il⟩ primo, il quattordici del mese: ⟨la⟩ Pesach per YHWH.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "e nel mese"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "il primo"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "il quattordici"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(quattor)dicì"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:35:18.466152935Z",
+  "model": "glm-5.3"
+}

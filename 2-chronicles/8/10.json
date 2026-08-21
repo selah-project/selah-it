@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E questi ⟨erano⟩ i capi dei prefetti del re Shelomoh: duecentocinquanta, che governavano il popolo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e questi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "capi"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "dei prefetti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "[relativo]"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquanta"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e duecento"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "che governavano"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:14.463178680Z",
+  "model": "glm-5.3"
+}

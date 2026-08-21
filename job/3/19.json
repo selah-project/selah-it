@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Piccolo e grande là ⟨sono⟩ ⟨uguali⟩, e lo schiavo è libero dal suo padrone.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "piccolo"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "e grande"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨sono uguali⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "e lo schiavo"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "è libero"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "dal suo padrone"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:59.267500170Z",
+  "model": "glm-5.3"
+}

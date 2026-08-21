@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Elohim degli eserciti, riportaci, e fa' risplendere il tuo volto, e saremo salvati.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "riportaci"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "e fa' risplendere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "e saremo salvati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:14.562525276Z",
+  "model": "glm-5.3"
+}

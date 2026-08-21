@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "E misero alla prova e si ribellarono a ⟨את⟩ Elohim, l'Altissimo, e le sue testimonianze non custodirono.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "E misero alla prova"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "e si ribellarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim, l'Altissimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "l'Altissimo"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "e le sue testimonianze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "custodirono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:56.024772084Z",
+  "model": "glm-5.3"
+}

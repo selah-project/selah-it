@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Poiché per molti giorni staranno i figli d'Israele senza re e senza principe, senza sacrificio e senza stele, senza efod e senza terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "staranno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "senza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e senza"
+    },
+    {
+      "surface": "שר",
+      "gloss": "principe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e senza"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrificio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e senza"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stele"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e senza"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "terafim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:16.476242774Z",
+  "model": "glm-5.3"
+}

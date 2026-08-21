@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E rafforzò ⟨את⟩ le fortezze e vi mise comandanti, e depositi di cibo, olio e vino.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "rafforzò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le fortezze"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "le fortezze"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mise"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "comandanti"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "e depositi"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "di cibo"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "e vino"
+    }
+  ],
+  "timestamp": "2026-08-21T09:55:51.448630088Z",
+  "model": "glm-5.3"
+}

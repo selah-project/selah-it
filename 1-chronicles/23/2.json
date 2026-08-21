@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E riunì ⟨את⟩ tutti i capi di Israele, e i sacerdoti e i leviti.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "e riunì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i capi di Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i capi di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "e i sacerdoti"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e i leviti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:54.810855245Z",
+  "model": "glm-5.3"
+}

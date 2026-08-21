@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E fisserai ⟨את⟩ i confini al popolo tutto intorno, dicendo: guardatevi dal salire sul monte e dal toccare il suo estremo; chiunque toccherà il monte sarà messo a morte.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "e fisserai i confini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i confini al popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutto intorno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "guardatevi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "voi stessi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dal salire"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "e dal toccare"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "il suo estremo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "toccherà"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:02.942050439Z",
+  "model": "glm-5.3"
+}

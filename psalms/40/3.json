@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Mi ha fatto salire dal pozzo del tumulto, dal fango del pantano; ha fatto stare in piedi i miei piedi sulla roccia, ha reso saldi i miei passi.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "mi ha fatto salire"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "dal pozzo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "del tumulto"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "dal fango"
+    },
+    {
+      "surface": "היון",
+      "gloss": "del pantano"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ha fatto stare in piedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "la roccia"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i miei piedi"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ha reso saldi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "i miei passi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:00.555120451Z",
+  "model": "glm-5.3"
+}

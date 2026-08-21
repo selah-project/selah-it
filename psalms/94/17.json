@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Se non ⟨fosse stata⟩ l'aiuto di YHWH per me, quasi ⟨sarebbe⟩ dimorata nel silenzio la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "se non"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "l'aiuto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "quasi"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "dimorata"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "nel silenzio"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:14.218261392Z",
+  "model": "glm-5.3"
+}

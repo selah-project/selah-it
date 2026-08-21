@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Ed ⟨egli⟩ verrà e colpirà ⟨את⟩ la terra d'Egitto: chi ⟨è destinato⟩ alla morte, alla morte; e chi alla prigionia, alla prigionia; e chi alla spada, alla spada.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "verrà"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "e colpirà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra d'Egitto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "alla morte"
+    },
+    {
+      "surface": "למות",
+      "gloss": "alla morte"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "alla prigionia"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "alla prigionia"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "alla spada"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "alla spada"
+    }
+  ],
+  "timestamp": "2026-08-21T08:12:26.068040983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Una sorgente di giardini, un pozzo di acque vive, e ruscelli che scorrono dal Libano.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "una sorgente"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "di giardini"
+    },
+    {
+      "surface": "באר",
+      "gloss": "un pozzo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "di acque"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vive"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "e ruscelli che scorrono"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "il Libano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:02.166875594Z",
+  "model": "glm-5.3"
+}

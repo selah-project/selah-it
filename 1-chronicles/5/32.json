@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "e Uzzi generò ⟨את⟩ Zerachiah, e Zerachiah generò ⟨את⟩ Merajoth.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "e Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachiah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachiah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "e Zerachiah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajoth"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajoth"
+    }
+  ],
+  "timestamp": "2026-08-21T09:46:11.673702934Z",
+  "model": "glm-5.3"
+}

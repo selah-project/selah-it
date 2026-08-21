@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "e se ⟨si tratta di⟩ una femmina, la tua stima sarà trenta sicli.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "una femmina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨si tratta di⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "la tua stima"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sicli"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:20.104650878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "YHWH, Elohim mio, in te mi sono rifugiato; salvami da tutti i miei persecutori e liberami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi sono rifugiato"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salvami"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutti"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "i miei persecutori"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "e liberami"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:15.081280323Z",
+  "model": "glm-5.3"
+}

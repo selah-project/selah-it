@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Principi mi hanno perseguitato senza motivo, ma il mio cuore trema davanti alle tue parole.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Principi"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "mi hanno perseguitato"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "senza motivo"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ma … davanti alle tue parole"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "trema"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:50.862387777Z",
+  "model": "glm-5.3"
+}

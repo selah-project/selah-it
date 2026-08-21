@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Taci davanti a YHWH e attendi lui; non accalorarti per chi riesce nella sua via, per l'uomo che mette in atto trame.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Taci"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "davanti a YHWH"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "e attendi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "accalorarti"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "per chi riesce"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nella sua via"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "per l'uomo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "che mette in atto"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "trame"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:47.642699244Z",
+  "model": "glm-5.3"
+}

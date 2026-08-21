@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E andò Rechavàm a Sichem, perché a Sichem ⟨si⟩ erano radunati tutti ⟨quelli di⟩ Israele per farlo regnare ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavàm"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "a Sichem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "a Sichem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "erano venuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "per farlo regnare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui — Rechavàm, oggetto dell'investitura"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:56.071741671Z",
+  "model": "glm-5.3"
+}

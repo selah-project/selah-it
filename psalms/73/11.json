@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "E dicono: « Come potrebbe sapere El? e c'è ⟨forse⟩ conoscenza nell'Altissimo? »",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "e dicono"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "come"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "potrebbe sapere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "e c'è"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "conoscenza"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "nell'Altissimo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:04.768258189Z",
+  "model": "glm-5.3"
+}

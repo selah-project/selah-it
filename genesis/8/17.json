@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 8:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Ogni essere vivente che ⟨את⟩ è con te, di ogni carne, fra ⟨את⟩ gli uccelli e ⟨את⟩ il bestiame e ogni essere strisciante che striscia sulla terra — fallo uscire con te, ed essi pulluleranno sulla terra e saranno fecondi e moltiplicheranno sulla terra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "essere vivente"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩con te",
+      "marks": "preposizione את, «con», non il marcatore di accusativo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "di ogni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "fra gli uccelli"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e ⟨את⟩ il bestiame"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "essere strisciante"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "che striscia"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "fallo uscire"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩con te",
+      "marks": "preposizione את, «con»"
+    },
+    {
+      "surface": "ושרצו",
+      "gloss": "ed essi pulluleranno"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "e saranno fecondi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "e moltiplicheranno"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:03.191567355Z",
+  "model": "glm-5.3"
+}

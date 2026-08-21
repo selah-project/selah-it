@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E vi condurrò ⟨את⟩ voi nella terra sulla quale ho alzato ⟨את⟩ la mia mano, per darla ad Abramo, a Isacco e a Giacobbe; e la darò a voi in possesso: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "e vi conduro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nella"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sulla quale"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ho alzato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia mano"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per dare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ad Abramo, a Isacco e a Giacobbe"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ad Abramo"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "a Isacco"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "e a Giacobbe"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e la daro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "a voi in possesso"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "in possesso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:50.807918659Z",
+  "model": "glm-5.3"
+}

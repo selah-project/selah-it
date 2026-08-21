@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E furono i giorni di Adamo, dopo che generò ⟨את⟩ Set, ottocento anni, e generò figli e figlie.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "di Adamo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "che generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Set"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "otto"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "cento"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e figlie"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:05.364972759Z",
+  "model": "glm-5.3"
+}

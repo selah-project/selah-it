@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E disse: « Partiamo e camminiamo, e io camminerò davanti a te ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "partiamo"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "e camminiamo"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "e io camminerò"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "davanti a te"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:12.796757046Z",
+  "model": "glm-5.3"
+}

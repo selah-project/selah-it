@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ il Gebuseo, e ⟨את⟩ l'Emoreo, e ⟨את⟩ il Ghirgasheo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il Gebuseo"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "il Gebuseo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'Emoreo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'Emoreo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il Ghirgasheo"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "il Ghirgasheo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:48.621934382Z",
+  "model": "glm-5.3"
+}

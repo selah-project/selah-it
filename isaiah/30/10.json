@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "che dicono ai veggenti: non vedete; e ai profeti: non profetizzate per noi cose rette, parlateci cose lusinghiere, vedete illusioni.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "ai veggenti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vedete"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "e ai profeti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "profetizzate"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "cose rette"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "parlate"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "cose lusinghiere"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "vedete"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "illusioni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:37.744741796Z",
+  "model": "glm-5.3"
+}

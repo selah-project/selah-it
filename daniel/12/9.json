@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E disse: va', Danièl, perché chiusi e sigillati sono ⟨i⟩ detti fino al tempo della fine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danièl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "chiusi"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "e sigillati"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "i detti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עת",
+      "gloss": "al tempo"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "della fine"
+    }
+  ],
+  "timestamp": "2026-08-21T09:37:12.795947061Z",
+  "model": "glm-5.3"
+}

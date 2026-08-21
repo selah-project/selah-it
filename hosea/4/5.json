@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Inciamperai ⟨il⟩ giorno, e inciamperà anche ⟨il⟩ profeta con te, ⟨la⟩ notte; e io distruggerò tua madre.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "inciamperai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "inciamperà"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profeta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la notte"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "e io distruggerò"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tua madre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:55.061829554Z",
+  "model": "glm-5.3"
+}

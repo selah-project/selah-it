@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E avvenne dopo la morte di Abraham, che Elohim benedisse ⟨את⟩ Itschak suo figlio; e abitò Itschak presso Beer-Lachai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la morte di"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itschak suo figlio"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e abitò"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itschak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "presso"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:13.429731900Z",
+  "model": "glm-5.3"
+}

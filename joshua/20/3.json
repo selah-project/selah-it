@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "perché vi fugga là l'omicida che colpisce una nefesh per sbaglio, senza saperlo; e siano per voi rifugio dal goel del sangue.",
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "perché fugga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "l'omicida"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "che colpisce"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "una nefesh"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "per sbaglio"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sapere"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e siano"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "rifugio"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "dal goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "del sangue"
+    }
+  ],
+  "timestamp": "2026-08-21T06:56:13.618618043Z",
+  "model": "glm-5.3"
+}

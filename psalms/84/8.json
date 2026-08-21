@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "Cammineranno di forza in forza; si vedrà davanti a Elohim in Tzion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Cammineranno"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "di forza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "forza"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "si vedrà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tzion"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:29.264546815Z",
+  "model": "glm-5.3"
+}

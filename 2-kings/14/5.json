@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Avvenne che, quando ⟨il⟩ regno fu saldo in ⟨la sua⟩ mano, egli colpì ⟨את⟩ i suoi servi che avevano colpito ⟨את⟩ il re suo padre.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fu saldo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in mano sua"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi servi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "che avevano colpito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:06.232842430Z",
+  "model": "glm-5.3"
+}

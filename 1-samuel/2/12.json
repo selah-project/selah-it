@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E i figli di Eli erano figli di Belial: non conoscevano ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "e i figli di"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial (empietà)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "conoscevano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:12.340744478Z",
+  "model": "glm-5.3"
+}

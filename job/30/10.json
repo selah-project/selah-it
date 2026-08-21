@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Mi detestano, si tengono lontani da me, e davanti alla mia faccia non trattengono lo sputo.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "mi detestano"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "si tengono lontani"
+    },
+    {
+      "surface": "מני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e davanti alla mia faccia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "trattengono"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lo sputo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:16.743388975Z",
+  "model": "glm-5.3"
+}

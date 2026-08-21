@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 4:22",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Poiché stolto è il mio popolo: ⟨את⟩ me non hanno conosciuto; figli insensati sono essi, e non accorti sono essi; saggi sono essi per fare il male, e per fare il bene non hanno conosciuto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "stolto"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me (YHWH, oggetto del conoscere)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hanno conosciuto"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "סכלים",
+      "gloss": "insensati"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sono essi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נבונים",
+      "gloss": "accorti"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sono essi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "saggi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sono essi"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "per fare il male"
+    },
+    {
+      "surface": "ולהיטיב",
+      "gloss": "e per fare il bene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hanno conosciuto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:00:18.778612463Z",
+  "model": "glm-5.3"
+}

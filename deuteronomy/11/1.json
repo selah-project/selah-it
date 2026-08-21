@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E amerai ⟨את⟩ YHWH, il tuo Elohim, e custodirai la sua veglia, e le sue prescriptions — le sue חקּוֹת — e le sue sentenze e i suoi comandamenti, tutti i giorni.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "e amerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "e custodirai"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "la sua veglia"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "e le sue prescrizioni"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "e le sue sentenze"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "e i suoi comandamenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "i giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:46.406398707Z",
+  "model": "glm-5.3"
+}

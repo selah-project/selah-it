@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Perciò di' ai figli d'Israele: io ⟨sono⟩ YHWH, e vi farò uscire di sotto i pesi d'Egitto, e vi libererò dalla loro servitù, e vi riscatterò con braccio teso e con giudizi grandi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "percio"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di'"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "e vi faro uscire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di sotto"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "i pesi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "e vi liberero"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "dalla loro servitu"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "e vi riscattero"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "con braccio"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "teso"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "e con giudizi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:50.807297309Z",
+  "model": "glm-5.3"
+}

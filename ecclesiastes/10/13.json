@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "L'inizio delle parole della sua bocca ⟨è⟩ stoltezza, e la fine della sua bocca ⟨è⟩ follia cattiva.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "L'inizio"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "delle parole"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "della sua bocca"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "stoltezza"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "e la fine"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "della sua bocca"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "follia"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "cattiva"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:10.111027882Z",
+  "model": "glm-5.3"
+}

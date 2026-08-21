@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 31:7",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Poiché così ha detto YHWH: cantate con gioia per Giacobbe, acclamate a capo delle nazioni; fate udire ⟨la lode⟩, lodate, e dite: «Salva, o YHWH, ⟨את⟩ il tuo popolo, ⟨את⟩ il resto d'Israele!»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רנו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "per Giacobbe"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "con gioia"
+    },
+    {
+      "surface": "וצהלו",
+      "gloss": "acclamate"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "a capo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "delle nazioni"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "fate udire"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e dite"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "salva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo popolo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il resto d'Israele"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:05.192242447Z",
+  "model": "glm-5.3"
+}

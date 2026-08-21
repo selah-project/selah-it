@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E la sua nefesh si incollò a Dinah, figlia di Jacob, ed egli amò ⟨את⟩ la giovane e parlò al cuore della giovane.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "e si incollò"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "a Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Jacob"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ed egli amò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la giovane"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "la giovane"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "לב",
+      "gloss": "al cuore"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "della giovane"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:55.846909802Z",
+  "model": "glm-5.3"
+}

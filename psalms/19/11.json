@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "⟨Sono⟩ più desiderabili dell'oro, sì, di molto oro fino, e più dolci del miele e del stillar di favi.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "più desiderabili"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "dell'oro"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "sì, di molto oro fino"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "e più dolci"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "del miele"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "e dello stillar"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "di favi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:39.845579346Z",
+  "model": "glm-5.3"
+}

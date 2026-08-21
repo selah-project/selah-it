@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E ⟨את⟩ la coscia destra darete come contributo (terumà) al sacerdote, dai sacrifici dei vostri shelamim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la coscia destra"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "la coscia"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "destra"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "darete"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "come contributo (terumà)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "al sacerdote"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "dai sacrifici"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "dei vostri shelamim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:28.658789421Z",
+  "model": "glm-5.3"
+}

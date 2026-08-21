@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Chi ⟨ho⟩ io nei cieli? E con te: nessuno ho desiderato sulla terra.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "io ⟨ho⟩ (per me)"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "e con te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ho desiderato"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:10.528580709Z",
+  "model": "glm-5.3"
+}

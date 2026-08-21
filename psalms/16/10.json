@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Poiché non abbandonerai la mia nefesh allo Sheol, non permetterai che il tuo chasid veda la fossa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "abbandonerai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "allo Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "permetterai"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "il tuo chasid"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "che veda"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "la fossa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:30.796311003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Serafim stavano in piedi sopra di lui; sei ali, sei ali ⟨aveva⟩ ciascuno: con due copriva il suo volto, con due copriva i suoi piedi e con due volava.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serafim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stavano in piedi"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "di lui"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ali"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "con due"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "copriva"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "e con due"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "copriva"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "i suoi piedi"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "e con due"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "volava"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:31.551788068Z",
+  "model": "glm-5.3"
+}

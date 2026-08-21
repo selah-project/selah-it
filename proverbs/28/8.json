@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 28:8",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Chi moltiplica il suo patrimonio con l'interesse e con l'usura — per chi favorisce i poveri lo raccoglierà.",
+  "tokens": [
+    {
+      "surface": "מרבה",
+      "gloss": "chi moltiplica"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "il suo patrimonio"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "con l'interesse"
+    },
+    {
+      "surface": "ובתרבית",
+      "gloss": "e con l'usura"
+    },
+    {
+      "surface": "לחונן",
+      "gloss": "per chi favorisce"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "i poveri"
+    },
+    {
+      "surface": "יקבצנו",
+      "gloss": "lo raccoglierà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:03.326667720Z",
+  "model": "glm-5.3"
+}

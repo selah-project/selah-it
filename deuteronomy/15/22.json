@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Dentro le tue porte lo mangerai; l'impuro e il puro ⟨lo mangeranno⟩ insieme, come la gazzella e come il cervo.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "Dentro le tue porte"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "lo mangerai"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "l'impuro"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "e il puro"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "come la gazzella"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "e come il cervo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:32.210171590Z",
+  "model": "glm-5.3"
+}

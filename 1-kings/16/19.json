@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 16:19",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Per i suoi peccati che aveva commesso, facendo il male agli occhi di YHWH, camminando sulla via di Iarav'am e nel suo peccato che aveva fatto, per far peccare Israele ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "i suoi peccati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "aveva commesso (peccato)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "facendo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "camminando"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sulla via di"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Iarav'am"
+    },
+    {
+      "surface": "ובחטאתו",
+      "gloss": "e nel suo peccato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "להחטיא",
+      "gloss": "per far peccare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:34.474307594Z",
+  "model": "glm-5.3"
+}

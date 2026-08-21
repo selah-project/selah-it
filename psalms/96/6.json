@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Splendore e maestà davanti a lui, forza e bellezza nel suo santuario.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "splendore"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "e maestà"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "עז",
+      "gloss": "forza"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "e bellezza"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "nel suo santuario"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:21.141196374Z",
+  "model": "glm-5.3"
+}

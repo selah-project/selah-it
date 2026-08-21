@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E disse: una petizione piccola, una sola, io chiedo da te; non volgere indietro la mia faccia. E le disse il re: chiedi, madre mia, poiché non volgerò indietro la tua faccia.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "una petizione"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una sola"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "piccola"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "chiedo"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "da ⟨את⟩ te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "volgere indietro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia faccia"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la mia faccia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "chiedi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "madre mia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "volgerò indietro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua faccia"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "la tua faccia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:44.676848456Z",
+  "model": "glm-5.3"
+}

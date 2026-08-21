@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Onora YHWH ⟨את⟩ con la tua sostanza e con le primizie di tutto il tuo raccolto.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "onora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "con la tua sostanza"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "e con le primizie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutto"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "il tuo raccolto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:47.909187496Z",
+  "model": "glm-5.3"
+}

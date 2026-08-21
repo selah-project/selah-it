@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Ecco, tutto questo ha visto il mio occhio, il mio orecchio ha udito e ⟨l'ha⟩ compreso.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ha visto"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ha udito"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "il mio orecchio"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "e ⟨l'ha⟩ compreso"
+    },
+    {
+      "surface": "לה",
+      "gloss": "esso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:40.810402164Z",
+  "model": "glm-5.3"
+}

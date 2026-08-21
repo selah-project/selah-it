@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Hanno teso i malvagi un laccio per me, e dai tuoi precetti non ho deviato.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "hanno teso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "un laccio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "e dai tuoi precetti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ho deviato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:06.169141608Z",
+  "model": "glm-5.3"
+}

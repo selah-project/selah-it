@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "YHWH, guidami nella tua giustizia a causa dei miei avversari; raddrizza davanti a me la tua via.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "guidami"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nella tua giustizia"
+    },
+    {
+      "surface": "למען",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "dei miei avversari"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "raddrizza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "la tua via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:40.399549131Z",
+  "model": "glm-5.3"
+}

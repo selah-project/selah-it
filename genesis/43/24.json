@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "E l'uomo condusse gli uomini ⟨את⟩ in casa di Yosef, e diede acqua, ed essi lavarono i loro piedi; e diede foraggio ai loro asini.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e condusse"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli uomini"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "in casa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "di Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "ed essi lavarono"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "i loro piedi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "foraggio"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "ai loro asini"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:02.070181763Z",
+  "model": "glm-5.3"
+}

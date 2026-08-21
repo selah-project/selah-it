@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "E Yossef rispose a ⟨את⟩ Faraone, dicendo: «Non da me; Elohim risponderà ⟨את⟩ il bene di Faraone».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraone"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "non da me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "risponderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bene di Faraone"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:48.753200399Z",
+  "model": "glm-5.3"
+}

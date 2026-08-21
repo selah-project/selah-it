@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Quando ti chiederà tuo figlio domani, dicendo: « Che ⟨sono⟩ queste testimonianze e questi statuti e queste norme che YHWH, nostro Elohim, ha comandato a voi? »",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "ti chiederà"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tuo figlio"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "domani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "queste testimonianze"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "e questi statuti"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "e queste norme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nostro Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:24.871606667Z",
+  "model": "glm-5.3"
+}

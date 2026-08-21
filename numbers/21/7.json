@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 21:7",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E venne il popolo da Mosè e dissero: «Abbiamo peccato, perché abbiamo parlato contro YHWH e contro di te; prega YHWH e tolga da noi ⟨את⟩ il serpente». E pregò Mosè per il popolo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "abbiamo peccato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "abbiamo parlato"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "contro YHWH"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "e contro di te"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "prega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "e tolga"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "da noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il serpente"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "il serpente"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "e pregò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "per"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:36.353398272Z",
+  "model": "glm-5.3"
+}

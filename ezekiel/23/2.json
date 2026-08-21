@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Figlio d'uomo, due donne, figlie di una sola madre, ⟨furono⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "due"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "donne"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "figlie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "di una madre"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una sola"
+    },
+    {
+      "surface": "היו",
+      "gloss": "furono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:22:45.013396634Z",
+  "model": "glm-5.3"
+}

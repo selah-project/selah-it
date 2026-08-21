@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Nell'anno terzo del regno di Jehoiakim, re di Yehudah, venne Nevukhadnetstsar, re di Bavel, a Yerushalaim, e la cinse d'assedio.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Nell'anno"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "terzo"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "del regno"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehoiakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venne"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "e la cinse d'assedio"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contro di essa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:33:01.475985131Z",
+  "model": "glm-5.3"
+}

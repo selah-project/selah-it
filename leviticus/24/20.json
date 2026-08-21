@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Frattura per frattura, occhio per occhio, dente per dente: come infligge un difetto a ⟨un⟩ uomo, così gli sarà inflitto.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Frattura"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "frattura"
+    },
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dente"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dente"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "infligge"
+    },
+    {
+      "surface": "מום",
+      "gloss": "un difetto"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "a uomo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "sarà inflitto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:58.242829472Z",
+  "model": "glm-5.3"
+}

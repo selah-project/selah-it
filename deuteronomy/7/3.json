@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E non ti imparenterai con loro: tua figlia non darai a suo figlio, e sua figlia non prenderai per tuo figlio.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ti imparenterai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "con loro"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tua figlia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "darai"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "a suo figlio"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "e sua figlia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prenderai"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "per tuo figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:51.284719996Z",
+  "model": "glm-5.3"
+}

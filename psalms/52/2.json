@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Quando Doeg l'edomita venne e riferì a Saul, e gli disse: « David è venuto alla casa di Achimelek ».",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "quando venne"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "l'edomita"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Saul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "בא",
+      "gloss": "è venuto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "di Achimelek"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:27.895853785Z",
+  "model": "glm-5.3"
+}

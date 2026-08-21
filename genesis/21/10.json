@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E disse ad Abramo: « Caccia questa schiava e ⟨את⟩ suo figlio, perché non erediterà il figlio di questa schiava con mio figlio, con Isacco ».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ad Abramo"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "caccia"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "questa schiava"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suo figlio"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "erediterà"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "di questa schiava"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isacco"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:00.531328786Z",
+  "model": "glm-5.3"
+}

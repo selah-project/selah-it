@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "«Patto ⟨vi sia⟩ tra me e te, tra mio padre e tuo padre: ecco, ti ho inviato un dono, argento e oro; va', rompi ⟨את⟩ il tuo patto ⟨את⟩ con Baasha, re di Israele, ed egli si ritirerà da me».",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "patto"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tra me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e te"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ho inviato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "un dono"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e oro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "rompi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo patto"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "il tuo patto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ con",
+      "marks": "Baasha, re di Israele"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "ed egli si ritirerà"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "da me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:23.607476119Z",
+  "model": "glm-5.3"
+}

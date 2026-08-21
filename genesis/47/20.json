@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E Yosef comprò ⟨את⟩ tutta la terra d'Egitto per il Faraone, perché gli egiziani vendettero ciascuno il suo campo, perché la fame era forte su di loro; e la terra divenne del Faraone.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "e comprò"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la terra d'Egitto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "la terra di"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egitto"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "per il Faraone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "vendettero"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "gli egiziani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "il suo campo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "era forte"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la fame"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e divenne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "del Faraone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:42.845321084Z",
+  "model": "glm-5.3"
+}

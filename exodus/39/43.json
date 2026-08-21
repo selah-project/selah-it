@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 39:43",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "E vide Moshe ⟨את⟩ tutta l'opera, ed ecco: l'avevano fatta come aveva comandato YHWH — così l'avevano fatta. E Moshe li benedisse.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta l'opera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "avevano fatto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "la (⟨את⟩)",
+      "marks": "l'opera"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "avevano fatto"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "li (⟨את⟩)",
+      "marks": "Moshe li — l'oggetto è 'loro'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:28.671494331Z",
+  "model": "glm-5.3"
+}

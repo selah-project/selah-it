@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E mandarono da me secondo questa parola quattro volte, e io risposi loro secondo questa parola.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "e mandarono"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa parola"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "volte"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "e io risposi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "secondo questa parola (il messaggio)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa parola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:42:22.979297781Z",
+  "model": "glm-5.3"
+}

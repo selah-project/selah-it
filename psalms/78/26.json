@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Fece viaggiare il vento d'oriente nei cieli, e con la sua forza condusse il vento del mezzogiorno.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "fece viaggiare"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "il vento d'oriente"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "e condusse"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "con la sua forza"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "il vento del mezzogiorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:17.286958114Z",
+  "model": "glm-5.3"
+}

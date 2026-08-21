@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e ciò che fece per voi nel deserto, finché arrivaste fino a questo luogo.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "e ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "arrivaste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨il⟩ luogo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:19.326396988Z",
+  "model": "glm-5.3"
+}

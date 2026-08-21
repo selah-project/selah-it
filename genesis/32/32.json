@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E gli spuntò il sole mentre passava ⟨את⟩ Penuel, ed egli zoppicava sull'anca sua.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "e spuntò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mentre"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed egli"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "zoppicava"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "la sua anca"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:16.309498608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Allontanatevi da me, voi tutti che praticate l'iniquità, perché YHWH ha udito la voce del mio pianto.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "allontanatevi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "che praticate"
+    },
+    {
+      "surface": "און",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ha udito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "del mio pianto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:22.622125851Z",
+  "model": "glm-5.3"
+}

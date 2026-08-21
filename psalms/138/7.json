@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 138,
+  "translation": "Se cammino in mezzo alla angoscia, tu mi fai vivere; contro l'ira dei miei nemici stendi la tua mano, e la tua destra mi salva.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "cammino"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "angoscia"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "tu mi fai vivere"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l'ira"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dei miei nemici"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "stendi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "e mi salva"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:50.525563998Z",
+  "model": "glm-5.3"
+}

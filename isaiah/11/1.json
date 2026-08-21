@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E uscirà un virgulto dal ceppo di Ishai, e un germoglio dalle sue radici fruttificherà.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e uscirà"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "un virgulto"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "dal ceppo"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "di Ishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "e un germoglio"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "dalle sue radici"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "fruttificherà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:16.991776482Z",
+  "model": "glm-5.3"
+}

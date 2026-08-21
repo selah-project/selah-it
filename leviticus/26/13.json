@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Io ⟨sono⟩ YHWH, Elohim vostro, che vi ho fatti uscire ⟨את⟩ dalla terra d'Egitto, perché non foste loro servi; ho spezzato le sbarre del vostro giogo e vi ho condotti ⟨את⟩ a testa alta.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ho fatti uscire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi",
+      "marks": "dalla terra d'Egitto"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "dal sendo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "servi"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "e ho spezzato"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "le sbarre"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "del vostro giogo"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "e vi ho condotti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi",
+      "marks": "a testa alta"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "a testa alta"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:37.567189172Z",
+  "model": "glm-5.3"
+}

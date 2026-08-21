@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Accampa ⟨il⟩ malakh di YHWH intorno a quelli che lo temono, e li libera.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "accampa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "il malakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "intorno"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "a quelli che lo temono"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "e li libera"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:29.612277084Z",
+  "model": "glm-5.3"
+}

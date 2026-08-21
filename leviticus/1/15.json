@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E lo presenterà il sacerdote all'altare, e gli staccherà ⟨את⟩ la testa e lo farà fumare sull'altare; e il suo sangue sarà spremuto sulla parete dell'altare.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "e lo presenterà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "e gli staccherà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la testa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "la sua testa"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "e lo farà fumare"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "e sarà spremuto"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "la parete"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dell'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:32.216202217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 5:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E visse Kenan, dopo aver generato ⟨את⟩ Mahalalel, quarant'anni e ottocento anni; e generò figli e figlie.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "visse"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "aver generato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quaranta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "e otto"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centinaia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e figlie"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:05.894082728Z",
+  "model": "glm-5.3"
+}

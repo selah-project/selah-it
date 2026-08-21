@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Tutto il giorno la mia vergogna ⟨è⟩ davanti a me, e la confusione del mio volto mi ha coperto.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "la mia vergogna"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "e la confusione"
+    },
+    {
+      "surface": "פני",
+      "gloss": "del mio volto"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "mi ha coperto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:31.904050112Z",
+  "model": "glm-5.3"
+}

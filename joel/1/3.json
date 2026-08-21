@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Raccontatene ai vostri figli, e i vostri figli ai loro figli, e i loro figli a un'altra generazione.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "ai vostri figli"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "raccontate"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "e i vostri figli"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ai loro figli"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "e i loro figli"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "a una"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "generazione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:36.614736969Z",
+  "model": "glm-5.3"
+}

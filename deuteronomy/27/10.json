@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E ascolterai la voce di YHWH, il tuo Elohim, e farai ⟨את⟩ i suoi comandamenti e ⟨את⟩ i suoi statuti che io ti comando oggi.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "E ascolterai"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi comandamenti"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "i suoi comandamenti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi statuti"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "i suoi statuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti comando"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:37.648319335Z",
+  "model": "glm-5.3"
+}

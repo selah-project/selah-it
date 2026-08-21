@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "E dicono: « non vede Yah, e non comprende l'Elohim di Yaakov ».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dicono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "comprende"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim di"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:16.342582182Z",
+  "model": "glm-5.3"
+}

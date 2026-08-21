@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E suonerete ⟨la⟩ teruà, e si muoveranno gli accampamenti che accampano a est.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "e suonerete"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teruà (segnale di rotture)"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "e si muoveranno"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "gli accampamenti"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "che accampano"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "a est"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:33.850010580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Prostituzione e vino e mosto prendono il cuore.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "prostituzione"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "e vino"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "e mosto"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prendono"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:00.132805624Z",
+  "model": "glm-5.3"
+}

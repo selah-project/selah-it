@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E il re Salomone mandò a prendere, e prese ⟨את⟩ Chiram da Tzor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E mandò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "da Tzor"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:17.598420786Z",
+  "model": "glm-5.3"
+}

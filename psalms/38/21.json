@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "E quelli che rendono il male in cambio del bene mi osteggiano, perché io inseguo il bene.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "e quelli che rendono"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "mi osteggiano"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "io inseguo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:21.642741407Z",
+  "model": "glm-5.3"
+}

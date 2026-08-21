@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Che ⟨avete⟩ voi, che schiacciate ⟨את⟩ il mio popolo e macinate le facce dei poveri? — oracolo di Adonai YHWH degli eserciti.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "che ⟨avete⟩ voi"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "schiacciate"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "e le facce"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "dei poveri"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "macinate"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "di Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:11.509961750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Poiché con te io assalgo ⟨un⟩ reparto, e con il mio Elohim io salto ⟨il⟩ muro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "io assalgo"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "⟨un⟩ reparto"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "e con il mio Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "io salto"
+    },
+    {
+      "surface": "שור",
+      "gloss": "⟨il⟩ muro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:41.181705084Z",
+  "model": "glm-5.3"
+}

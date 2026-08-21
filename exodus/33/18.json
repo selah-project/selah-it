@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E disse: mostrami ora ⟨את⟩ la tua gloria.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mostrami"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora (ti prego)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua gloria"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "la tua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:26.458447650Z",
+  "model": "glm-5.3"
+}

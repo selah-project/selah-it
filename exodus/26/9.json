@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E unirai le cinque tende a parte, e le sei tende a parte; e raddoppierai la sesta tenda di fronte all'ingresso della tenda.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "e unirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cinque tende"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "le tende"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a parte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le sei tende"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "le tende"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "a parte"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "e raddoppierai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sesta tenda"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "la sesta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מול",
+      "gloss": "di fronte a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "l'ingresso"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "della tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:52.023798007Z",
+  "model": "glm-5.3"
+}

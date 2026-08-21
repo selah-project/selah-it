@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Hai posto le nostre iniquità davanti a te, ⟨e⟩ le nostre cose nascoste alla luce del tuo volto.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Hai posto"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "le nostre iniquità"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "le nostre cose nascoste"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "alla luce"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "del tuo volto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.902720400Z",
+  "model": "glm-5.3"
+}

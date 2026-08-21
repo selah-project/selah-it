@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "E Giuseppe disse ai suoi fratelli: «Io sono Giuseppe. Vive ancora mio padre?». E i suoi fratelli non poterono rispondere ⟨את⟩ lui, perché furono turbati alla sua presenza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "poterono"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "rispondere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rispondere a lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "furono turbati"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "alla sua presenza"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:34.739923261Z",
+  "model": "glm-5.3"
+}

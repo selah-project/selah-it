@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "YHWH, Elohim della mia salvezza: giorno ho gridato, di notte davanti a te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "della mia salvezza"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ho gridato"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "davanti a te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:24.374418933Z",
+  "model": "glm-5.3"
+}

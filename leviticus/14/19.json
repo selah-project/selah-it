@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E il sacerdote farà ⟨את⟩ l'offerta per il peccato, e farà espiazione su colui che si purifica dalla sua impurità; e dopo scannerà ⟨את⟩ l'olà.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "e farà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offerta per il peccato"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "l'offerta per il peccato"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "e farà espiazione"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "colui che si purifica"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "dalla sua impurità"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "scannerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'olà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'olà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:40.498845070Z",
+  "model": "glm-5.3"
+}

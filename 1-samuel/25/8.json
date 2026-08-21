@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Chiedi ⟨את⟩ i tuoi giovani e ti riferiranno, e i giovani trovino grazia ai tuoi occhi, perché in un giorno buono siamo venuti; dai, ti prego, ⟨את⟩ ciò che la tua mano trova, ai tuoi servi e a tuo figlio Davide.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "chiedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi giovani"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "i tuoi giovani"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "e ti riferiranno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "e trovino"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "i giovani"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grazia"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ai tuoi occhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "יום",
+      "gloss": "un giorno"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "siamo venuti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "dai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che la tua mano trova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trova"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ai tuoi servi"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "e a tuo figlio"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:43.297142227Z",
+  "model": "glm-5.3"
+}

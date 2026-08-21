@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Così il popolo si riposò nel giorno settimo.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "si riposò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "giorno settimo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:07.876009633Z",
+  "model": "glm-5.3"
+}

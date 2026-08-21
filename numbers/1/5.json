@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E questi sono i nomi degli uomini che staranno ⟨את⟩ con voi: per Reuven, Elitsur figlio di Shedeur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e questi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sono i nomi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "degli uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "staranno"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ con voi",
+      "marks": "con voi"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "per Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "di Shedeur"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:06.703369389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "La tua giustizia non ho coperto dentro il mio cuore; la tua fedeltà e la tua salvezza ho detto, non ho taciuto ⟨il⟩ tuo chesed e la tua verità all'assemblea grande.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ho coperto"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dentro"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "la tua fedeltà"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "e la tua salvezza"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "ho taciuto"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "e la tua verità"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "all'assemblea"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:03.477812112Z",
+  "model": "glm-5.3"
+}

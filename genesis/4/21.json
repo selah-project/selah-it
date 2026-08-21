@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E il nome di suo fratello ⟨era⟩ Iaval: egli fu il padre di tutti i suonatori di kinnor e di ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "e il nome di"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Iaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "il padre di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "i suonatori di"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinnor (cetra)"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "e di ugav (zampogna)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:26.113393535Z",
+  "model": "glm-5.3"
+}

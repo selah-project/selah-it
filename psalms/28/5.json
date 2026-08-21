@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Poiché non comprendono le opere di YHWH né l'opera delle sue mani: ⟨li⟩ demolirà e non ⟨li⟩ ricostruirà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "comprendono"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "le opere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "né"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "delle sue mani"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "demolirà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ricostruirà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:51.200285755Z",
+  "model": "glm-5.3"
+}

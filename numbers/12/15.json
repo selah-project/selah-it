@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 12:15",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Miriam fu chiusa fuori ⟨dall'⟩accampamento sette giorni; e il popolo non si mosse finché Miriam non fu riammessa.",
+  "tokens": [
+    {
+      "surface": "ותסגר",
+      "gloss": "fu chiusa"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriam"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "dall'accampamento"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "e il popolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "si mosse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "fu riammessa"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriam"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:10.902185113Z",
+  "model": "glm-5.3"
+}

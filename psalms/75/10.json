@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 75,
+  "translation": "Quanto a me, annuncerò per sempre; canterò all'Elohim di Giacobbe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Quanto a me"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "annuncerò"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "all'Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:45.672578848Z",
+  "model": "glm-5.3"
+}

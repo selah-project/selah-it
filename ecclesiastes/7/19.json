@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "La sapienza dà forza al saggio più di dieci potenti che furono nella città.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "La sapienza"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "dà forza"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "al saggio"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "più di dieci"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "potenti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "היו",
+      "gloss": "furono"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:15.925745602Z",
+  "model": "glm-5.3"
+}

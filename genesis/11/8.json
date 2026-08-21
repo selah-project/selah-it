@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E YHWH li disperse ⟨את⟩ di laggiù sulla faccia di tutta la terra, ed essi cessarono di costruire la città.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "e disperse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "loro"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di laggiù"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ed essi cessarono"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "di costruire"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:40.220104Z",
+  "model": "glm-5.3"
+}

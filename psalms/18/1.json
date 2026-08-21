@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Al direttore del coro. ⟨Al⟩ servo di YHWH, a Davide, che parlò a YHWH ⟨את⟩ le parole di questo cantico, nel giorno in cui YHWH lo liberò dalla mano di tutti i suoi nemici e dalla mano di Shaùl.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "al servo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parlò"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "del cantico"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "liberò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutti"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "i suoi nemici"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "e dalla mano"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Shaùl"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:56.249128228Z",
+  "model": "glm-5.3"
+}

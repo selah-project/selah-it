@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Nel bisogno e nella fame ⟨sono⟩ spaesati; quelli che raspano ⟨il⟩ suolo arido — desolazione di ieri, rovina e deserto.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "nel bisogno"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "e nella fame"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "spaesati"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "quelli che raspano"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suolo arido"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "di ieri"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "rovina"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "e deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:47.669227893Z",
+  "model": "glm-5.3"
+}

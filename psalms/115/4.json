@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "I loro idoli ⟨sono⟩ argento e oro, opera delle mani dell'uomo.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "i loro idoli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e oro"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "delle mani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:26.131170234Z",
+  "model": "glm-5.3"
+}

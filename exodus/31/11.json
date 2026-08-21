@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "e ⟨את⟩ l'olio dell'unzione e ⟨את⟩ l'incenso degli aromi per il santuario: secondo tutto ciò che ti ho comandato, essi faranno.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'olio dell'unzione"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dell'unzione"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'incenso degli aromi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "l'incenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "degli aromi"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "per il santuario"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ti ho comandato"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "essi faranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:30.541907987Z",
+  "model": "glm-5.3"
+}

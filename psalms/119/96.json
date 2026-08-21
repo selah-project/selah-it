@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Di ogni perfezione ho visto ⟨il⟩ limite; ⟨ma⟩ il tuo comandamento è largo oltre misura.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "di ogni"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "perfezione"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "limite"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "è largo"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "il tuo comandamento"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "oltre misura"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:40.420741237Z",
+  "model": "glm-5.3"
+}

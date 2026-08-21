@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "e lo esaltino nell'assemblea del popolo, e nel consiglio degli anziani lo lodino.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "e lo esaltino"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nell'assemblea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "e nel consiglio"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "degli anziani"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "lo lodino"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:35.164210368Z",
+  "model": "glm-5.3"
+}

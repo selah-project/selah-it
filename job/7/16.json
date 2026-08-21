@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Disprezzo ⟨la mia vita⟩: non vivrò per sempre. Desisti da me, perché ⟨sono⟩ un soffio i miei giorni.",
+  "tokens": [
+    {
+      "surface": "מָאַסְתִּי",
+      "gloss": "disprezzo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לְעֹלָם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "אֶחְיֶה",
+      "gloss": "vivrò"
+    },
+    {
+      "surface": "חֲדַל",
+      "gloss": "desisti"
+    },
+    {
+      "surface": "מִמֶּנִּי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הֶבֶל",
+      "gloss": "un soffio"
+    },
+    {
+      "surface": "יָמַי",
+      "gloss": "i miei giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:57.425277803Z",
+  "model": "glm-5.3"
+}

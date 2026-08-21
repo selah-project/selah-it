@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E scesero dieci fratelli di Giuseppe a comprare grano dall'Egitto.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "e scesero"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratelli di"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "a comprare"
+    },
+    {
+      "surface": "בר",
+      "gloss": "grano"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:51.400752853Z",
+  "model": "glm-5.3"
+}

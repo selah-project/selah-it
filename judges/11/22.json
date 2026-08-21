@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E presero in possesso ⟨את⟩ tutto il confine dell'emoreo, dall'Arnon fino allo Iabbok, e dal deserto fino al Giordano.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "e presero in possesso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il confine dell'emoreo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "il confine"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "dell'emoreo"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "dall'Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "allo Iabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e dal"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "deserto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino al"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Giordano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:58.985304077Z",
+  "model": "glm-5.3"
+}

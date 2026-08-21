@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Queste cose ricordo, e io effondo su di me la mia nefesh, quando passavo con la folla, avanzavo piano con loro fino alla casa di Elohim, con voce di giubilo e di lode, una folla in festa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Queste cose"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ricordo"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "e io effondo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "passavo"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "con la folla"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "avanzavo piano con loro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "alla casa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "con voce"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "di giubilo"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "e di lode"
+    },
+    {
+      "surface": "המון",
+      "gloss": "una folla"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "in festa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:17.074040366Z",
+  "model": "glm-5.3"
+}

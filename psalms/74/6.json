@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "E ora ⟨את⟩ i suoi intagli tutti insieme con scuri e asce demoliscono.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "E ora ⟨את⟩",
+      "marks": "i suoi intagli"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "i suoi intagli"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tutti insieme"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "con scuri"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "e asce"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "demoliscono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:27.976748063Z",
+  "model": "glm-5.3"
+}

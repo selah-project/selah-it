@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ la figlia dello struzzo, e ⟨את⟩ il tahmas, e ⟨את⟩ lo shachaf, e ⟨את⟩ il falchetto secondo la sua specie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la figlia dello struzzo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "dello struzzo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "il tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "lo shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "lo shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il falchetto"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "il falchetto"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "secondo la sua specie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:51.360249168Z",
+  "model": "glm-5.3"
+}

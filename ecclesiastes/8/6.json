@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché per ogni desiderio c'è tempo e giudizio, perché la malvagità dell'uomo è grande su di lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per ogni"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "desiderio"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e giudizio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "la malvagità"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "è grande"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:55.231698324Z",
+  "model": "glm-5.3"
+}

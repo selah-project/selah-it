@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "Là frantumò i dardi fiammeggianti dell'arco, lo scudo, e la spada, e la battaglia. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "frantumò"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "i dardi fiammeggianti"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "dell'arco"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "lo scudo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "e la spada"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "e la battaglia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:01.145886971Z",
+  "model": "glm-5.3"
+}

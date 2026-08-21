@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E servirono ⟨את⟩ i loro idoli, che furono per loro ⟨laccio⟩: una trappola.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "servirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro idoli"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "i loro idoli"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "furono"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "una trappola"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:53.207540725Z",
+  "model": "glm-5.3"
+}

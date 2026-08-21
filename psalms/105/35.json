@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "e divorò ogni erba nel loro paese, e divorò il frutto del loro suolo.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "e divorò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "erba"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "nel loro paese"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "e divorò"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "il frutto"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "del loro suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:52.497364914Z",
+  "model": "glm-5.3"
+}

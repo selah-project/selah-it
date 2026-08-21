@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Per la voce del mio gemito le mie ossa si attaccano alla mia carne.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "per la voce"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "del mio gemito"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "si attaccano"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "le mie ossa"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "alla mia carne"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:41.208452927Z",
+  "model": "glm-5.3"
+}

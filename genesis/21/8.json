@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E il bambino crebbe e fu svezzato, e Abramo fece un grande banchetto nel giorno dello svezzamento di ⟨את⟩ Isacco.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "e crebbe"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il bambino"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "e fu svezzato"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "banchetto"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "dello svezzamento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isacco"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "di Isacco"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:59.912408813Z",
+  "model": "glm-5.3"
+}

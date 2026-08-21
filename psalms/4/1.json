@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Al maestro del coro, con strumenti a corde. Mizmor di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al maestro del coro"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "con strumenti a corde"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:27.222765256Z",
+  "model": "glm-5.3"
+}

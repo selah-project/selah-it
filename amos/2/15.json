@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E chi tende l'arco non starà ⟨in piedi⟩, e il veloce di piedi non si salverà, e chi cavalca il cavallo non salverà la sua ⟨nefesh⟩ vita.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "e chi tende"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "l'arco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "starà ⟨in piedi⟩"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "e il veloce"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "di piedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "si salverà"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "e chi cavalca"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "il cavallo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "salerà"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua vita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:59.958001371Z",
+  "model": "glm-5.3"
+}

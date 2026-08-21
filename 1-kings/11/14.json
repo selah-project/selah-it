@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E suscitò YHWH un satan a Salomone: ⟨את⟩ Hadad l'edomita, che ⟨era⟩ della stirpe del re, ⟨era⟩ in Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E suscitò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "un satan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "a Salomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad l'edomita"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "l'edomita"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "della stirpe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:40.822755170Z",
+  "model": "glm-5.3"
+}

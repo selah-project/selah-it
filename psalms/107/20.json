@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Manda la sua parola e li guarisce, e li libera dalle loro rovine.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Manda"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "la sua parola"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "e li guarisce"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "e li libera"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "dalle loro rovine"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:33.326033673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E Davide ebbe timore di YHWH in quel giorno, e disse: come verrà a me l'arca di YHWH?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ebbe timore"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "איך",
+      "gloss": "come"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "verrà"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:35.510334631Z",
+  "model": "glm-5.3"
+}

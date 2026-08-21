@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Saul scagliò ⟨את⟩ la lancia, e disse: colpirò Davide, e alla parete; e Davide si volse dalla sua presenza, due volte.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "e scagliò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la lancia"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "la lancia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "colpirò"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "e alla parete"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "e si volse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dalla sua presenza"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "due volte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:23.435651910Z",
+  "model": "glm-5.3"
+}

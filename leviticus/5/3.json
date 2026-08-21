@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "O se tocchi l'impurità di un uomo — in tutta l'impurità con cui ci si contamina — e gli sia stato nascosto, e poi egli sa, ed è colpevole.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "O"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "tocchi"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "l'impurità di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "la sua impurità"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ci si contamina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "con essa"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "e sia stato nascosto"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed egli"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ed è colpevole"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:39.070050453Z",
+  "model": "glm-5.3"
+}

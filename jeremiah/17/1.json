@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Il peccato di Yehudah ⟨è⟩ scritto con uno stilo di ferro, con punta di shamir, inciso sulla tavoletta del loro cuore e sulle corna dei vostri altari.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "il peccato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "scritto"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "con uno stilo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "di ferro"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "con punta"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "di shamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "inciso"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "la tavoletta"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "del loro cuore"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "e sulle corna"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "dei vostri altari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:03:40.783777940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Poiché dice: «I miei principi non sono forse, tutti insieme, re?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "non sono forse"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i miei principi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tutti insieme"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:38.257294994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Sì, bontà e chesed mi inseguiranno tutti i giorni della mia vita, e io abiterò nella casa di YHWH per la lunghezza dei giorni.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sì, certo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bontà"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "e chesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "mi inseguiranno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "della mia vita"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "e abiterò (tornerò)"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "per la lunghezza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dei giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:09.858330247Z",
+  "model": "glm-5.3"
+}

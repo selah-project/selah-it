@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Quando Israele era fanciullo, io lo amai, e dall'Egitto chiamai mio figlio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "נער",
+      "gloss": "era fanciullo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "io lo amai"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "e dall'Egitto"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "chiamai"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mio figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:45.725866050Z",
+  "model": "glm-5.3"
+}

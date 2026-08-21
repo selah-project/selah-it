@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e le scriverai sugli stipiti della tua casa e sulle tue porte.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "e le scriverai"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "gli stipiti"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "della tua casa"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "e sulle tue porte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:07.882838627Z",
+  "model": "glm-5.3"
+}

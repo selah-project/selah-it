@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E Yaakov sollevò i suoi piedi e andò verso la terra dei figli di Qedem.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "e sollevò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "i suoi piedi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "verso la terra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "di Qedem (l'oriente)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:35.670267277Z",
+  "model": "glm-5.3"
+}

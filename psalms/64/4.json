@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Che hanno affilato come spada la loro lingua, hanno teso il loro arco — una parola amara.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "hanno affilato"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "come spada"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "la loro lingua"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hanno teso"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "il loro arco"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "מר",
+      "gloss": "amara"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:42.500455726Z",
+  "model": "glm-5.3"
+}

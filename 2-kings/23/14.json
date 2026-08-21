@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E frantumò ⟨את⟩ le massebot e recise ⟨את⟩ le Asherim, e riempì ⟨את⟩ il loro posto di ossa d'uomo.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "e frantumò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le massebot"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "le massebot (stele)"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "e recise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "le Asherim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "e riempì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il loro posto"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "il loro posto"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ossa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:09.053863430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Al direttore del coro. «Non distruggere». Di Davide, mikhtam, quando fuggì dal cospetto di Shaúl, nella caverna.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "«non"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "distruggere»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "quando fuggì"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dal cospetto"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Shaúl"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "nella caverna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:25.618118942Z",
+  "model": "glm-5.3"
+}

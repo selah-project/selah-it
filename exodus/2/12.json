@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E si volse di qua e di là, e vide che non c'era nessun uomo, e colpì ⟨את⟩ l'egiziano e lo nascose nella sabbia.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "e si volse"
+    },
+    {
+      "surface": "כה",
+      "gloss": "di qua"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "e di là"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'era"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nessun uomo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'egiziano"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "l'egiziano"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "e lo nascose"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "nella sabbia"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:54.031825722Z",
+  "model": "glm-5.3"
+}

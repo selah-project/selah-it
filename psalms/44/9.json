@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "In Elohim ci siamo vantati tutto il giorno, e il tuo nome lodiamo per sempre. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "ci siamo vantati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "e il tuo nome"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "lodiamo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:34.320006167Z",
+  "model": "glm-5.3"
+}

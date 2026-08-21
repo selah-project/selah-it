@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ma ⟨come⟩ lo opprimevano, così esso moltiplicava e così dilagava; ed essi furono presi dall'avversione a causa dei figli di Israele.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "ma come"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "lo opprimevano"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (Israele)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "moltiplicava"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "e così"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "dilagava"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "furono presi dall'avversione"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:51.281345953Z",
+  "model": "glm-5.3"
+}

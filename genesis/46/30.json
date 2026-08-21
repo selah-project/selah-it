@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "E Israele disse a Giuseppe: muoia ⟨io⟩ ora, questa volta, dopo aver visto ⟨את⟩ il tuo volto, perché tu ⟨sei⟩ ancora vivo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "muoia ⟨io⟩ ora"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "questa volta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "aver visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo volto"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "tu ancora"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:44.905161695Z",
+  "model": "glm-5.3"
+}

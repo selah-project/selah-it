@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Che fa dei venti i suoi messaggeri, delle fiamme di fuoco i suoi ministri.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "che fa"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "i suoi messaggeri"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "dei venti"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "i suoi ministri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "di fuoco"
+    },
+    {
+      "surface": "להט",
+      "gloss": "fiamme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:10.203999551Z",
+  "model": "glm-5.3"
+}

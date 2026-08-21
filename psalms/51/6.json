@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Contro di te, solo contro di te, ho peccato, e il male davanti ai tuoi occhi ho fatto, perché tu sia giusto nella tua parola, puro quando giudichi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "solo contro di te"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ho peccato"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "e il male"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "davanti ai tuoi occhi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ho fatto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "tu sia giusto"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "nella tua parola"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "puro"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "quando giudichi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:33.007105549Z",
+  "model": "glm-5.3"
+}

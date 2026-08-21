@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E acconsentirono i sacerdoti di non prendere denaro da ⟨את⟩ il popolo, e di non rafforzare ⟨את⟩ le brecce del tempio.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "e acconsentirono"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "di non"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "prendere"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "denaro"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "e di non"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "rafforzare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le brecce del tempio"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "le brecce"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "del tempio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:56.329789173Z",
+  "model": "glm-5.3"
+}

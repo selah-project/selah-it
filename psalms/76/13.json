@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "Egli recide il soffio dei principi: ⟨è⟩ tremendo per i re della terra.",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "recide"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il soffio"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "dei principi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "tremendo"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "per i re"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:36.402891678Z",
+  "model": "glm-5.3"
+}

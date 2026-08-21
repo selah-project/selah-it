@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E l'Egitto seppelliva ⟨את⟩ quelli che YHWH aveva colpito tra loro, ogni primogenito; e sugli dèi loro YHWH eseguì giudizi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "E l'Egitto"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "seppelliva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quelli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "aveva colpito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tra loro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "primogenito"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "e sugli dèi loro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "eseguì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "giudizi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:38:07.199560561Z",
+  "model": "glm-5.3"
+}

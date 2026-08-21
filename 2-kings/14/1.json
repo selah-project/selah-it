@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Nell'anno secondo di Ioash figlio di Ioachaz, re d'Israele, regnò Amatsiah figlio di Ioash, re di Giuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "di Ioash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "di Ioachaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regnò"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "di Ioash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:14.783755969Z",
+  "model": "glm-5.3"
+}

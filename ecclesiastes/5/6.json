@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Poiché nell'abbondanza di sogni ⟨sono⟩ vanità e parole in abbondanza; ma ⟨tu⟩ temi ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nell'abbondanza"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "di sogni"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "e vanità"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "e parole"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "in abbondanza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "temi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:58.559377241Z",
+  "model": "glm-5.3"
+}

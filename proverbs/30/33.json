@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Poiché la pressione del latte fa uscire ⟨il⟩ burro, e la pressione del naso fa uscire ⟨il⟩ sangue, e la pressione delle narici fa uscire la contesa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "la pressione"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "del latte"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "fa uscire"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "⟨il⟩ burro"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "e la pressione"
+    },
+    {
+      "surface": "אף",
+      "gloss": "del naso"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "fa uscire"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨il⟩ sangue"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "e la pressione"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "delle narici"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "fa uscire"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "la contesa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:23.663458521Z",
+  "model": "glm-5.3"
+}

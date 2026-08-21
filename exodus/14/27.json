@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 14:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e stese Mosè ⟨את⟩ la sua mano sul mare, e tornò il mare al volgere del mattino alla sua forza; e l'Egitto fuggiva incontro ad esso, e YHWH scosse ⟨את⟩ l'Egitto in mezzo al mare.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "e stese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "al volgere"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "del mattino"
+    },
+    {
+      "surface": "לאיתנו",
+      "gloss": "alla sua forza"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "e l'Egitto"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "fuggiva"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "incontro ad esso"
+    },
+    {
+      "surface": "וינער",
+      "gloss": "e scosse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:09.398737192Z",
+  "model": "glm-5.3"
+}

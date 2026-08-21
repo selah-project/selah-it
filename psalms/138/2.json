@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 138,
+  "translation": "Mi prostrerò verso ⟨il⟩ tuo santo tempio, e loderò ⟨את⟩ il tuo nome, per il tuo chesed e per la tua verità; perché hai fatto grande, sopra ogni tuo nome, la tua parola.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Mi prostrerò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempio"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "⟨il⟩ tuo santo"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "e loderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo nome"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e per"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "la tua verità"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "hai fatto grande"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tuo nome"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "la tua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:07.237572726Z",
+  "model": "glm-5.3"
+}

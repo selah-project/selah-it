@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "poiché Abramo ascoltò la mia voce e custodì la mia custodia: le mie mitzvot, le mie chukkot e le mie Torah.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascoltò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "e custodì"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "la mia custodia"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "le mie mitzvot"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "le mie chukkot"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "e le mie Torah"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:48.785202802Z",
+  "model": "glm-5.3"
+}

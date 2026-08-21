@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Il timore di YHWH ⟨è⟩ l'inizio della conoscenza; la sapienza e la disciplina gli stolti ⟨le⟩ hanno disprezzate.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "il timore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "l'inizio"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "della conoscenza"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "e la disciplina"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "gli stolti"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "hanno disprezzate"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:57.950875315Z",
+  "model": "glm-5.3"
+}

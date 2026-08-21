@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Chi ⟨ha⟩ misurato ⟨את⟩ lo ⟨il⟩ Ruach di YHWH, e quale uomo ⟨gli⟩ ha fatto conoscere il suo consiglio?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ha misurato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo ⟨il⟩ Ruach di YHWH"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e quale uomo"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "il suo consiglio"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "gli ha fatto conoscere"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:06.938753206Z",
+  "model": "glm-5.3"
+}

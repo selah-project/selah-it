@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse: «Chi ti ha fatto sapere che sei nudo? Forse dall'albero di cui ti ho comandato di non mangiare, hai mangiato?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ha fatto sapere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nudo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "forse da"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "l'albero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di cui"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "ti ho comandato"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "di non"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangiare"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da esso"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "hai mangiato"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:02.320775966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "Per l'iniquità ⟨vi sarà⟩ scampo per loro? Nell'ira abbatti ⟨i⟩ popoli, o Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "און",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "scampo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "באף",
+      "gloss": "nell'ira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoli"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "abbatti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:19.085491542Z",
+  "model": "glm-5.3"
+}

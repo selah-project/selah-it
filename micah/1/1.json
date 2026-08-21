@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 1:1",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Parola di YHWH che fu a Mikha il Moreshtita, nei giorni di Iotam, Acaz, Chizkiyyà, re di Giuda, che egli vide su Shomron e su Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "המרשתי",
+      "gloss": "il Moreshtita"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nei giorni di"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Iotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Acaz"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Chizkiyyà"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "re di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "vide"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:41.636739223Z",
+  "model": "glm-5.3"
+}

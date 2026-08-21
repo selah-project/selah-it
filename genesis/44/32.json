@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "poiché il tuo servo si è fatto garante ⟨את⟩ del ragazzo presso mio padre, dicendo: se non te lo porterò, sarò in colpa verso mio padre tutti i giorni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "si è fatto garante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il ragazzo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "del ragazzo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "presso"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "lo porterò"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "e sarò in colpa"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "verso mio padre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "i giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:33.864258436Z",
+  "model": "glm-5.3"
+}

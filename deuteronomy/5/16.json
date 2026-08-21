@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Onora ⟨את⟩ tuo padre e ⟨את⟩ tua madre, come ti ha comandato YHWH ⟨il⟩ tuo Elohim, affinché si prolunghino i tuoi giorni e affinché ti vada bene sul suolo che YHWH ⟨il⟩ tuo Elohim ti dà.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Onora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuo padre"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tua madre"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tua madre"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ti ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "si prolunghino"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "i tuoi giorni"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e affinché"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ti vada bene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "suolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti dà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:37.644627363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E io scriverò sulle tavole ⟨את⟩ le parole che erano sulle prime tavole, che tu hai spezzato, e tu le porrai nell'arca.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "e io scriverò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "le tavole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "le tavole"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "le prime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "tu hai spezzato"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "e tu le porrai"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "nell'arca"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:57.953749470Z",
+  "model": "glm-5.3"
+}

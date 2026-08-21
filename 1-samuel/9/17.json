@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E Shemuël vide ⟨את⟩ Sha'ul, e YHWH gli rispose: ecco l'uomo di cui ti ho parlato: egli dominerà sul mio popolo.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "E Shemuël"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "gli rispose"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di cui"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "זה",
+      "gloss": "egli"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "dominerà"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "sul mio popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:23.878311503Z",
+  "model": "glm-5.3"
+}

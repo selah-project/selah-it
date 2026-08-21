@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Quando cade il tuo nemico, non rallegrarti, e quando incespica, non si rallegri il tuo cuore.",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "quando cade"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "il tuo nemico"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "rallegrarti"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "e quando incespica"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "si rallegri"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "il tuo cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:38.599174640Z",
+  "model": "glm-5.3"
+}

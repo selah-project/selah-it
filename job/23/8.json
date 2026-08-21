@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Ecco, vado avanti, ed egli non ⟨c'è⟩; e indietro, e non lo comprendo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "avanti"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "vado"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ed egli non ⟨c'è⟩"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "e indietro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "comprendo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:07.851679074Z",
+  "model": "glm-5.3"
+}

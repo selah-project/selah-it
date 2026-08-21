@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E disse Saul al popolo che era con lui: «Passate in rassegna, vi prego, e vedete chi è andato via da noi». E passarono in rassegna, ed ecco: Gionatan non c'era, e ⟨colui che⟩ portava le sue armi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "al popolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "con lui — preposizione את, non marcatore d'oggetto"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "passate in rassegna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vi prego"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e vedete"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "è andato"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "via da noi"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "E passarono in rassegna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'era"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Gionatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e portava"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "le sue armi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:55.896816394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Chetsron generò ⟨את⟩ Ram, e Ram generò ⟨את⟩ Amminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "e Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "e Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:24.238692901Z",
+  "model": "glm-5.3"
+}

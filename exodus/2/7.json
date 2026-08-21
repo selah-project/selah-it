@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E disse la sorella di lui alla figlia di Faraone: « Devo andare e chiamarti una donna che allatti, dalle ebree, perché allatti per te ⟨את⟩ il bambino? »",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "la sorella di lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "devo andare?"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "e chiamare"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "che allatta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dalle"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ebree"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "e allatti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bambino"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il bambino"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:49.427056696Z",
+  "model": "glm-5.3"
+}

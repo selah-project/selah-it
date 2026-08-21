@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "C'⟨è⟩ un male che ho visto sotto il sole: come un errore che esce dal cospetto di chi domina.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un male"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "come un errore"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "che esce"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dal cospetto di"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "chi domina"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:54.124543743Z",
+  "model": "glm-5.3"
+}

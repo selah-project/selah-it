@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Allora non arrossirò di vergogna, volgendo lo sguardo a tutti i tuoi mitzvot.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "arrossirò di vergogna"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "volgendo lo sguardo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "i tuoi mitzvot (comandi)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:44.660921362Z",
+  "model": "glm-5.3"
+}

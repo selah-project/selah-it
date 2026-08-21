@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 113,
+  "translation": "per farlo sedere con i nobili, con i nobili del suo popolo.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "per farlo sedere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "i nobili"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "i nobili"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "del suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:40.826121323Z",
+  "model": "glm-5.3"
+}

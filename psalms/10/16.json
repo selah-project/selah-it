@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "YHWH ⟨è⟩ re per sempre e in eterno; le nazioni sono perite dalla sua terra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "sono perite"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dalla sua terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:18.531354115Z",
+  "model": "glm-5.3"
+}

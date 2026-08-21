@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E uscirà il sacerdote ⟨fino⟩ a fuori ⟨davanti⟩ all'accampamento, e guarderà il sacerdote, ed ecco: ⟨se⟩ ⟨è⟩ guarita la piaga della tsaraat ⟨da⟩ il metsorà —",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E uscirà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨fino⟩ a"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "all'accampamento"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e guarderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "guarita"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "la piaga"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "della tsaraat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨da⟩"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "il metsorà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:06.821222447Z",
+  "model": "glm-5.3"
+}

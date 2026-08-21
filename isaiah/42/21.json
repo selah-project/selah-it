@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "YHWH si è compiaciuto, per amor della sua giustizia: renderà grande la Torah e la renderà gloriosa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "si è compiaciuto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per amor di"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "la sua giustizia"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "renderà grande"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "e gloriosa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:01.691715275Z",
+  "model": "glm-5.3"
+}

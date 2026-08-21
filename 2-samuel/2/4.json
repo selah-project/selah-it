@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E vennero gli uomini di Giuda e unsero là ⟨את⟩ Davide come re sulla casa di Giuda. E riferirono a Davide, dicendo: «Gli uomini di Iavesh-Gil'ad sono quelli che hanno seppellito ⟨את⟩ Saul».",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E vennero"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "e unsero"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "come re"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "E riferirono"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "«Gli uomini"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "di Iavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "-Gil'ad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hanno seppellito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul»"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:17.096465899Z",
+  "model": "glm-5.3"
+}

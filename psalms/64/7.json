@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Ricercano iniquità; «abbiamo compiuto una ricerca — ricerca compiuta» ⟨dicono⟩; e l'intimo dell'uomo e il cuore ⟨sono⟩ profondi.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "ricercano"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "iniquità"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "abbiamo compiuto"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "una ricerca"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "ricerca compiuta"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "e l'intimo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "e il cuore"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "profondi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:02.655237049Z",
+  "model": "glm-5.3"
+}

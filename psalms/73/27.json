@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Perché ecco, i lontani da te periranno: tu hai sterminato chiunque si prostituisce, lontano da te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "i lontani da te"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "periranno"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "tu hai sterminato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "si prostituisce"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "lontano da te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:10.528976621Z",
+  "model": "glm-5.3"
+}

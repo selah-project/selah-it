@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "Ha detto il navàl nel suo cuore: «Non ⟨c'è⟩ Elohim». Si sono corrotti e hanno reso abominevole l'iniquità; non ⟨c'è⟩ chi faccia il bene.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "il navàl (l'insensato empi)"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nel suo cuore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "si sono corrotti"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "e hanno reso abominevole"
+    },
+    {
+      "surface": "עול",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chi faccia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:42.895560227Z",
+  "model": "glm-5.3"
+}

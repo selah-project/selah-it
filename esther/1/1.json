@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E avvenne nei giorni di Achashverosh — ⟨è⟩ Achashverosh, il re che regna da Hodu fino a Kush, su centoventisette province —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nei giorni di"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩ lui"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "da Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e venti"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "e cento"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "province"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:18.312124122Z",
+  "model": "glm-5.3"
+}

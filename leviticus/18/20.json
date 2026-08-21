@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E con la donna del tuo prossimo non darai il tuo giacere come seme, per contaminarti con lei.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e con"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "del tuo prossimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "darai"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "il tuo giacere"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "come seme"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "per contaminarti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "con lei"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:18.423263232Z",
+  "model": "glm-5.3"
+}

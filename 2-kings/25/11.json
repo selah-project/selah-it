@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E ⟨את⟩ il resto del popolo rimasto nella città, e ⟨את⟩ i caduti che caddero verso il re di Bavel, e ⟨את⟩ il resto della moltitudine, deportò Nebuzaradan, capo dei carnefici.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il resto del popolo rimasto nella città"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "rimasto"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i caduti verso il re di Bavel"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "i caduti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "caddero"
+    },
+    {
+      "surface": "על",
+      "gloss": "verso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re di"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il resto della moltitudine"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "della moltitudine"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "deportò"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "capo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "dei carnefici"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:36.601847222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Poiché dalla casa dei carceri è uscito per regnare; poiché anche nel suo regno ⟨è⟩ nato povero.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "dei carceri"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "è uscito"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "per regnare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "nel suo regno"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "nato"
+    },
+    {
+      "surface": "רש",
+      "gloss": "povero"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:18.255355370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Davide disse a Uria: «Scendi a casa tua e lava i tuoi piedi». E Uria uscì dalla casa del re, e uscì dietro di lui un dono del re.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "a Uria"
+    },
+    {
+      "surface": "רד",
+      "gloss": "scendi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "a casa tua"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e lava"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "i tuoi piedi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dietro di lui"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "un dono"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:41.231344062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E mandò Itzchak ⟨את⟩ Jaakob, ed ⟨egli⟩ andò a Paddan-Aram, da Lavan figlio di Betuel l'aramèo, fratello di Rivkah, madre di Jaakob e di Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itzchak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ed andò"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "di Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "l'aramèo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratello"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "di Rivkah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "madre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Jaakob"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "e di Esav"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:31.776497133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E porrò il mio mishkan («tabernacolo») in mezzo a voi, e la mia nefesh non vi rigetterà.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e porrò"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "il mio mishkan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in mezzo a voi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "rigetterà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:58.583693695Z",
+  "model": "glm-5.3"
+}

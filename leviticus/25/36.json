@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Non prendere da lui ⟨את⟩ l'interesse né il sovrappiù, e temi il tuo Elohim, e tuo fratello vivrà con te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prendere"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "da lui ⟨את⟩",
+      "marks": "l'interesse e il sovrappiù"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "l'interesse"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "né il sovrappiù"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "e temi"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "e vivrà"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:04.024932155Z",
+  "model": "glm-5.3"
+}

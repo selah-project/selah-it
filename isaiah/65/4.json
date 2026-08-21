@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Che siedono tra le tombe e passano la notte nei luoghi nascosti; che mangiano carne di maiale, e brodo di cose abominevoli ⟨è⟩ nei loro vasi.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "che siedono"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "tra le tombe"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "e nei luoghi nascosti"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "passano la notte"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "che mangiano"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "di maiale"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "e brodo"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "di cose abominevoli"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "nei loro vasi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:47.291262886Z",
+  "model": "glm-5.3"
+}

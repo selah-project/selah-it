@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 149,
+  "translation": "per legare i loro re con catene e i loro nobili con ferri di bronzo.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "per legare"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "i loro re"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "con catene"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "e i loro nobili"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "con ferri"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "di bronzo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:10.858519352Z",
+  "model": "glm-5.3"
+}

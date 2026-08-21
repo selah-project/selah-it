@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "e il sacerdote guarderà ⟨את⟩ la piaga nel giorno settimo, ed ecco: il neteq non si è allargato e non vi ⟨è⟩ divenuto pelo giallo, e l'aspetto del neteq non ⟨è⟩ più profondo della pelle —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "e guarderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la piaga"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la piaga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "si è allargato"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "il neteq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vi è divenuto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in esso"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "giallo"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "e l'aspetto"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "del neteq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non è"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "più profondo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "העור",
+      "gloss": "la pelle"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:49.631968404Z",
+  "model": "glm-5.3"
+}

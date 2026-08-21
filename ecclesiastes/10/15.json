@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "La fatica degli stolti li affatica: ⟨egli⟩ non sa andare verso la città.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "La fatica"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "degli stolti"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "li affatica"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨perché⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "andare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la città"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:10.111423228Z",
+  "model": "glm-5.3"
+}

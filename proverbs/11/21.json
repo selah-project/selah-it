@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Mano ⟨la⟩ mano: il malvagio non resterà impunito, ma la stirpe dei giusti sarà salvata.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "mano"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "⟨la⟩ mano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "resterà impunito"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ma la stirpe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "sarà salvata"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:47.550148960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Di', ti prego: «sorella mia sei tu», affinché mi vada bene per causa tua, e viva la mia nefesh grazie a te.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "di'"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sorella mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "vada bene"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "per causa tua"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "e viva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "grazie a te"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:02.286714655Z",
+  "model": "glm-5.3"
+}

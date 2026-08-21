@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Vita e chesed hai fatto con me, e la tua provveduta cura ha custodito il mio soffio.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Vita"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "e chesed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "e la tua provveduta cura"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ha custodito"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "il mio soffio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:01.549390625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E mandai ⟨את⟩ Mosè e ⟨את⟩ Aharon, e colpii ⟨את⟩ l'Egitto, come feci in mezzo ad esso; e dopo vi feci uscire.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "e mandai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "e colpii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "feci"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in mezzo ad esso"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "feci uscire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vi ⟨את⟩",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:43.037274712Z",
+  "model": "glm-5.3"
+}

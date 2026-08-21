@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Rende povero la mano pigra, ma la mano dei diligenti arricchisce.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Rende povero"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "…"
+    },
+    {
+      "surface": "כף",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "pigra"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ma la mano"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "dei diligenti"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "arricchisce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:24.224281089Z",
+  "model": "glm-5.3"
+}

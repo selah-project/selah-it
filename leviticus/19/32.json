@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Davanti alla canizie ti alzerai, e onorerai il volto del vecchio, e temerai il tuo Elohim: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "la canizie"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ti alzerai"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "e onorerai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "del vecchio"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "e temerai"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:20.452064772Z",
+  "model": "glm-5.3"
+}

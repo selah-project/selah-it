@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 2:1",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E salì il messaggero di YHWH dal Gilgal a Bochim, e disse: vi feci salire ⟨את⟩ voi dall'Egitto e vi condussi ⟨את⟩ voi verso la terra di cui giurai ai vostri padri, e dissi: non infrangerò il mio patto ⟨את⟩ con voi per sempre.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "il Gilgal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הבכים",
+      "gloss": "Bochim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "vi feci salire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (fatti salire dall'Egitto)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "e vi condussi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (condotti verso la terra)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "giurai"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ai vostri padri"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "infrangerò"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ con voi",
+      "marks": "con voi (il patto)"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:14.397986828Z",
+  "model": "glm-5.3"
+}

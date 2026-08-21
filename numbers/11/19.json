@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Non un giorno ne mangerete, e non due giorni, e non cinque giorni, e non dieci giorni, e non venti giorni —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יום",
+      "gloss": "un giorno"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo uno"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "ne mangerete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "due giorni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:28.136052806Z",
+  "model": "glm-5.3"
+}

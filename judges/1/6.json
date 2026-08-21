@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E Adoni-Bezek fuggì, e lo inseguirono, e lo presero, e tagliarono ⟨את⟩ i pollici delle sue mani e dei suoi piedi.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "e fuggì"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "e inseguirono"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dietro di lui"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "e lo presero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "e tagliarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i pollici"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "i pollici"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "delle sue mani"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "e dei suoi piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:41.587307706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Achab riferì a Izebel ⟨את⟩ tutto ciò che aveva fatto Elia, e ⟨את⟩ tutto ciò che aveva ucciso — ⟨את⟩ tutti i profeti — con la spada.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "a Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "aveva ucciso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i profeti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "i profeti"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "con la spada"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:45.303028636Z",
+  "model": "glm-5.3"
+}

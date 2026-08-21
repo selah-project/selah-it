@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E sarà YHWH rifugio per ⟨l'⟩oppresso, rifugio nei tempi di angustia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "rifugio (altura inaccessibile)"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "per l'oppresso"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "rifugio"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "nei tempi"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "di angustia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:10.922668720Z",
+  "model": "glm-5.3"
+}

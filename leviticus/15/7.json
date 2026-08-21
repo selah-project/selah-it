@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E chi tocca la carne del zav laverà le sue vesti e si laverà nell'acqua, e sarà impuro fino alla sera.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "e chi tocca"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "del zav"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e si laverà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "alla sera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:39.455153579Z",
+  "model": "glm-5.3"
+}

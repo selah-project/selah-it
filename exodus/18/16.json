@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Quando hanno una controversia, viene da me, e io giudico tra un uomo e il suo prossimo, e faccio loro conoscere ⟨את⟩ gli statuti dell'Elohim e ⟨את⟩ le sue torot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hanno"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una controversia"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "e io giudico"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "e faccio conoscere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli statuti dell'Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "gli statuti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le sue torot"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "le sue torot"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:32.557450709Z",
+  "model": "glm-5.3"
+}

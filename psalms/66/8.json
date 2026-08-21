@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Benedite, popoli, ⟨il⟩ nostro Elohim, e fate udire la voce della sua lode.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Benedite"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoli"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "⟨il⟩ nostro Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "e fate udire"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "della sua lode"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:19.453054348Z",
+  "model": "glm-5.3"
+}

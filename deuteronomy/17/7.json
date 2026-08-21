@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "La mano dei testimoni sarà su di lui per prima, per farlo morire, e la mano di tutto il popolo dopo; così estirperai il male dal tuo mezzo.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "dei testimoni"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "per prima"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "per farlo morire"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "e la mano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "per ultima"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ed estirperai"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dal tuo mezzo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:00.902011854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "La mia nefesh ⟨è⟩ in mezzo a leoni; io giaccio tra fiamme — figli di Adam, i cui denti ⟨sono⟩ lancia e frecce, e la loro lingua una spada affilata.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "leoni"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "io giaccio"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "fiamme"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "i cui denti"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lancia"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "e frecce"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "e la loro lingua"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "una spada"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "affilata"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:53.141267653Z",
+  "model": "glm-5.3"
+}

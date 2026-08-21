@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E disse nostro padre: tornate, acquistate per noi un po' di cibo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nostro padre"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "tornate"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "acquistate"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un po'"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "cibo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:35.588386940Z",
+  "model": "glm-5.3"
+}

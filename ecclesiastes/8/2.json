@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Io: ⟨custodisci⟩ la bocca del re — e a motivo del giuramento di Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "custodisci"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e a motivo di"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "per riguardo a"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "il giuramento"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:19.604061110Z",
+  "model": "glm-5.3"
+}

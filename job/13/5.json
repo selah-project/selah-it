@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Chi darà che ⟨del tutto⟩ tacciate, e ⟨sia⟩ per voi sapienza?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "del tutto (silenzio)"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "tacciate"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e sia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "per sapienza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:23.375531333Z",
+  "model": "glm-5.3"
+}

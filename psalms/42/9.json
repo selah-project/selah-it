@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Di giorno comanderà YHWH ⟨את⟩ il suo chesed, e nella notte ⟨sarà⟩ il suo canto con me, una preghiera all'El della mia vita.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "di giorno"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "comanderà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo chesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "e nella notte"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "il suo canto"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "una preghiera"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "all'El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "della mia vita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:07.755859088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Non si appresserà a te la sventura, e il flagello non si avvicinerà alla tua tenda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "si appresserà"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "la sventura"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "e il flagello"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "si avvicinerà"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "alla tua tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.466967236Z",
+  "model": "glm-5.3"
+}

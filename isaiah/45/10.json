@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Guai a chi dice al padre: «che generi?», e alla donna: «che partorisci?»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "guai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "al padre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "generi"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "e alla donna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "partorisci"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:36.034985211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E andò con ⟨את⟩ loro, e arrivarono al Giordano, e tagliarono gli alberi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e arrivarono"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "al Giordano"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "e tagliarono"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "gli alberi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:59.014728503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse YHWH a Moshe in Midian: va', torna in Egitto, perché sono morti tutti gli uomini che cercavano ⟨את⟩ la tua nefesh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "in Midian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "שב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sono morti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "che cercavano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:32.070749550Z",
+  "model": "glm-5.3"
+}

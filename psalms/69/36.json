@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Poiché Elohim salverà Tzion, ricoedificherà le città di Yehudah, e vi abiteranno e la possederanno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "salverà"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ricoedificherà"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "e vi abiteranno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "e la possederanno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:04.411182679Z",
+  "model": "glm-5.3"
+}

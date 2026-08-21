@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "e chi ode ⟨את⟩ il suono dello shofar e non si lascia avvertire — se la spada viene e lo prende, il suo sangue sarà sul suo capo.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "e ode"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "chi ode"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suono"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il suono"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "dello shofar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "si lascia avvertire"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "e viene"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "e lo prende"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sul suo capo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:25:25.414220421Z",
+  "model": "glm-5.3"
+}

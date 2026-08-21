@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Beati coloro che custodiscono il giudizio, che fanno giustizia in ogni tempo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beati"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "coloro che custodiscono"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "che fanno"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ogni"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tempo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:32.763526284Z",
+  "model": "glm-5.3"
+}

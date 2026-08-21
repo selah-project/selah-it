@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E la donna disse al serpente: «Del frutto degli alberi del giardino mangiamo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "serpente"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Del frutto"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "degli alberi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "del giardino"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mangiamo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:09.906654401Z",
+  "model": "glm-5.3"
+}

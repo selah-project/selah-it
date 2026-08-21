@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Si sazieranno del grasso della tua casa, e dal torrente delle tue delizie li farai bere.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "si sazieranno"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "del grasso"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "della tua casa"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "e dal torrente"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "delle tue delizie"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "li farai bere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:52.119145617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Nella tua giustizia ⟨mi⟩ liberami e strappami in salvo; china verso di me il tuo orecchio e salvami.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "nella tua giustizia"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "liberami"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "e strappami in salvo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "china"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "il tuo orecchio"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "e salvami"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:19.851568313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E vide ⟨את⟩ Amalek, e alzò il suo detto e disse: primo fra i popoli ⟨è⟩ Amalek, e la sua fine ⟨va⟩ verso la perdizione.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "e alzò"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "il suo detto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "primo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "fra i popoli"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "e la sua fine"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "la perdizione"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:13.464333544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Il goel del sangue — egli stesso metterà a morte ⟨את⟩ l'assassino; quando lo incontrerà, egli lo metterà a morte.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "Il goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "del sangue"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli stesso"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "metterà a morte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'assassino"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "l'assassino"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "quando incontrerà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "lo metterà a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:38:32.257216048Z",
+  "model": "glm-5.3"
+}

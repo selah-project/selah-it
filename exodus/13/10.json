@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E osserverai ⟨את⟩ questa norma al suo tempo fissato, di anno in anno.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "e osserverai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa norma"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "questa norma"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "al suo tempo fissato"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "di anno"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "in anno"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:48.650953343Z",
+  "model": "glm-5.3"
+}

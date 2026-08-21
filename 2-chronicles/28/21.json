@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Poiché Achaz spogliò ⟨את⟩ la casa di YHWH e ⟨את⟩ la casa del re e i funzionari, e diede ⟨il tutto⟩ al re di Assur; ma non ⟨fu⟩ un aiuto per lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "spogliò"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la casa del re"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "e i funzionari"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Assur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "un aiuto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T10:00:40.790749888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E si alzò Yoav e andò a Gueshur, e portò ⟨את⟩ Avshalom a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "a Gueshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e portò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:26.375810694Z",
+  "model": "glm-5.3"
+}

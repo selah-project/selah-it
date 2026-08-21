@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "E lei partorì ancora e generò un figlio, e chiamò il suo nome ⟨את⟩ Shela; e ⟨egli si trovava⟩ a Keziv quando lei lo partorì ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "e lei continuò"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo nome"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "a Keziv"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "quando lei partorì"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lui (il figlio)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:19.953378874Z",
+  "model": "glm-5.3"
+}

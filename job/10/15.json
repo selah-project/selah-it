@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Se ho agito da malvagio, ahimè per me! E se sono giusto, non solleverò ⟨la mia⟩ testa, sazio di vergogna, e guarda la mia miseria.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ho agito da malvagio"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "ahimè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "e se sono giusto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "solleverò"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "la mia testa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sazio"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "di vergogna"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e guarda"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "la mia miseria"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:22.329637467Z",
+  "model": "glm-5.3"
+}

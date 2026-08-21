@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "se profanano le mie prescrizioni e non custodiscono i miei comandamenti,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "le mie prescrizioni"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "profanano"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e i miei comandamenti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "custodiscono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:24.629258783Z",
+  "model": "glm-5.3"
+}

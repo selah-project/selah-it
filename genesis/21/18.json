@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Àlzati, solleva ⟨את⟩ il ragazzo e tieni forte ⟨את⟩ la tua mano su di lui, perché di una nazione grande io lo farò.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "solleva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il ragazzo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il ragazzo"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "e tieni forte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua mano"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "di una nazione"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "io lo farò"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:41.490828818Z",
+  "model": "glm-5.3"
+}

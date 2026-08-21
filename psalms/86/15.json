@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Ma tu, Adonai, ⟨sei⟩ El misericordioso e clemente, lento all'ira e grande in chesed e in verità.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "misericordioso"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "e clemente"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lento"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "all'ira"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e grande"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "in chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "e in verità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:54.324113615Z",
+  "model": "glm-5.3"
+}

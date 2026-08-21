@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "tra me e i figli d'Israele ⟨è⟩ un segno per sempre, perché in sei giorni fece YHWH ⟨את⟩ i cieli e ⟨את⟩ la terra, e nel settimo giorno cessò e si ristorò.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "tra me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אות",
+      "gloss": "un segno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "in sei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cieli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "e nel giorno"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "cessò"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "e si ristorò"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:01.668329881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Ai santi che sono nella terra — sono essi, e i magni: tutto il mio piacere ⟨è⟩ in loro.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Ai santi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sono essi"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "e i magni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "il mio piacere"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:40.437762780Z",
+  "model": "glm-5.3"
+}

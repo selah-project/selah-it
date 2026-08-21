@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E YHWH ascoltò la voce di Israele e consegnò ⟨את⟩ il cananeo, e li votò allo sterminio, ⟨את⟩ loro e ⟨את⟩ le loro città; e chiamò il nome di quel luogo Chormah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ascoltò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "consegnò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cananeo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il cananeo"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "votò allo sterminio"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ loro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le loro città"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "le loro città"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "di quel luogo"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chormah"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:46.448991835Z",
+  "model": "glm-5.3"
+}

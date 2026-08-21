@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E Iehu si addormentò con i suoi padri, e lo seppellirono ⟨אתו⟩ in Samaria; e regnò al suo posto Iehoachaz suo figlio.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "e si addormentò"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e lo seppellirono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lo (Iehu)"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Samaria"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e regnò"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Iehoachaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "al suo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:30.085397012Z",
+  "model": "glm-5.3"
+}

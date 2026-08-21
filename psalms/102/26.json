@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Da tempi antichi hai fondato ⟨la⟩ terra, e ⟨i⟩ cieli ⟨sono⟩ opera delle tue mani.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Da tempi antichi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "hai fondato"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "e opera"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "delle tue mani"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:31.442915938Z",
+  "model": "glm-5.3"
+}

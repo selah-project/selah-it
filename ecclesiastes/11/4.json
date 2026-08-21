@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Chi custodisce il vento non semina, e chi guarda le nubi non miete.",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵ֥ר",
+      "gloss": "Chi custodisce"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "il vento"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "non"
+    },
+    {
+      "surface": "יִזְרָ֑ע",
+      "gloss": "semina"
+    },
+    {
+      "surface": "וְרֹאֶ֥ה",
+      "gloss": "e chi guarda"
+    },
+    {
+      "surface": "בֶעָבִ֖ים",
+      "gloss": "le nubi"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "non"
+    },
+    {
+      "surface": "יִקְצֽוֹר",
+      "gloss": "miete"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:50.904706195Z",
+  "model": "glm-5.3"
+}

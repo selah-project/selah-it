@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E avvenne, quando Saul fu tornato da dietro i Pelishtei, che gli fu riferito dicendo: ecco, Davide ⟨è⟩ nel deserto di En-Ghedì.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "שב",
+      "gloss": "fu tornato"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "da dietro"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Pelishtei"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "fu riferito"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "עין",
+      "gloss": "di En-Ghedì"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "En-Ghedì"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:03.356384320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E disse loro il re: un sogno ho sognato, e il mio spirito è turbato per conoscere ⟨את⟩ il sogno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "un sogno"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ho sognato"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ed è turbato"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "il mio spirito"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "per conoscere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sogno"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "il sogno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:09.898544081Z",
+  "model": "glm-5.3"
+}

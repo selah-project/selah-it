@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Poiché ho detto: « per sempre ⟨è⟩ costruito il chesed; nei cieli stabilisci la tua fedeltà ».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "il chesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "⟨è⟩ costruito"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "stabilisci"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "la tua fedeltà"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in essi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:34.373869624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "«Salite da me e aiutatemi, e colpiamo ⟨את⟩ Giv'on, perché ha fatto shalom con ⟨את⟩ Yehoshua e con ⟨את⟩ i figli di Israele».",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Salite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "e aiutatemi"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "e colpiamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'on"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "ha fatto shalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i figli di Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:09.149883683Z",
+  "model": "glm-5.3"
+}

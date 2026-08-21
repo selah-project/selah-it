@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E il re giunse, e tutto il popolo che ⟨era⟩ con lui ⟨את⟩, sfiniti; e là si rianimò ⟨la nefesh⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e giunse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "con lui ⟨את⟩",
+      "marks": "tutto il popolo"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "sfiniti"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "e si rianimò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:38.178884784Z",
+  "model": "glm-5.3"
+}

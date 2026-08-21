@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E Arnan si voltò e vide ⟨את⟩ il messaggero, e i suoi quattro figli con lui si nascosero; e Arnan trebbiava il grano.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "si voltò"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il messaggero"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "e i quattro"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "figli di lui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "si nascosero"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "e Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "trebbiava"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "il grano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:15.215991198Z",
+  "model": "glm-5.3"
+}

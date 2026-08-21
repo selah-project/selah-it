@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Fa cessare le guerre fino all'estremità della terra: rompe l'arco e spezza la lancia, i carri ⟨li⟩ brucia nel fuoco.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "fa cessare"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "le guerre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "all'estremità"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "l'arco"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "rompe"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "e spezza"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "la lancia"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "i carri"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "brucia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:36.990691168Z",
+  "model": "glm-5.3"
+}

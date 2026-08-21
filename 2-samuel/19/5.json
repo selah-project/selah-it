@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E il re si coperse ⟨את⟩ il suo volto, e il re gridò a gran voce: figlio mio Avshalom, Avshalom, figlio mio, figlio mio!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "si coperse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo volto"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "e gridò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:22.172710975Z",
+  "model": "glm-5.3"
+}

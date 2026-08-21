@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E lo presero e lo gettarono ⟨את⟩ nel pozzo; e il pozzo ⟨era⟩ vuoto, non ⟨c'era⟩ in esso acqua.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "e lo presero"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "e lo gettarono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "nel pozzo"
+    },
+    {
+      "surface": "ו הבור",
+      "gloss": "e il pozzo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vuoto"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in esso"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:31.652492404Z",
+  "model": "glm-5.3"
+}

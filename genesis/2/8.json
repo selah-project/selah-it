@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E piantò YHWH Elohim un giardino in Eden, a oriente, e pose là ⟨את⟩ l'uomo che aveva formato.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "piantò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "un giardino"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "in Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a oriente"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "pose"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "aveva formato"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:49.194787239Z",
+  "model": "glm-5.3"
+}

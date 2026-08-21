@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E crebbe fino all'esercito dei cieli, e fece cadere a terra ⟨parte⟩ dell'esercito e ⟨parte⟩ delle stelle, e le calpestò.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "e crebbe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "all'esercito"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "e fece cadere"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "parte ⟨di⟩"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "l'esercito"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e ⟨parte⟩ di"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "le stelle"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "e le calpestò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:35:29.782919658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "e non entreranno a vedere, nemmeno per un inghiottire ⟨את⟩ il santuario, e moriranno.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entreranno"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a vedere"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "nemmeno per un inghiottire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il santuario"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "il santuario"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "e moriranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:24:07.349405124Z",
+  "model": "glm-5.3"
+}

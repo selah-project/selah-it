@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Chi dice al malvagio: «tu ⟨sei⟩ giusto» — i popoli lo malediranno, le nazioni lo detesteranno.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "chi dice"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "al malvagio"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "lo malediranno"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "lo detesteranno"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "le nazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:48.296750718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E camminò Hanoch con ⟨את⟩ Elohim, e non ⟨fu⟩ più, perché Elohim lo prese ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "E camminò"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoch"
+    },
+    {
+      "surface": "את",
+      "gloss": "con ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "e non ⟨fu⟩ più"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lo (Hanoch)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:37.903854833Z",
+  "model": "glm-5.3"
+}

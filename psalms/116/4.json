@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "E nel nome di YHWH invocai: «Ti prego, YHWH, libera la mia nefesh».",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "e nel nome di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "invocai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ti prego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "libera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:23.575724573Z",
+  "model": "glm-5.3"
+}

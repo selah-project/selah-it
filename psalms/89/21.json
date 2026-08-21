@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Ho trovato David, mio servo; con l'olio della mia santità l'ho unto.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Ho trovato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mio servo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "con l'olio"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "della mia santità"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "l'ho unto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:20.213003878Z",
+  "model": "glm-5.3"
+}

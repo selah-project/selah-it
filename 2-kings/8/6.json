@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Il re interrogò la donna, ed ella gli raccontò; e il re le assegnò un eunuco, dicendo: «Restituisci ⟨את⟩ tutto ciò che è suo, e ⟨את⟩ tutto il prodotto del campo, dal giorno in cui lasciò ⟨את⟩ il paese fino ad ora».",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "interrogò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "ed ella raccontò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e assegnò"
+    },
+    {
+      "surface": "לה",
+      "gloss": "le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "un eunuco"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "restituisci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che è suo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לה",
+      "gloss": "è suo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto il prodotto del campo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "il prodotto"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "del campo"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "dal giorno"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "in cui lasciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il paese"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "il paese"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ad ora"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:14.252176947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E bue o gregge, ⟨l'uno⟩ ⟨את⟩ e ⟨את⟩ il suo piccolo non scannerete in un solo giorno.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "e bue"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "שה",
+      "gloss": "gregge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l'uno (il grande)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo piccolo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "il suo piccolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "scannerete"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in giorno"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:12.442508127Z",
+  "model": "glm-5.3"
+}

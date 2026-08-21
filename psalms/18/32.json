@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Poiché chi ⟨è⟩ Eloah oltre a YHWH? E chi ⟨è⟩ roccia all'infuori del nostro Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "oltre a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "roccia"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "all'infuori del"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:41.181951162Z",
+  "model": "glm-5.3"
+}

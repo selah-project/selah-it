@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Il tuo popolo, YHWH, essi lo schiacciano, e la tua eredità la opprimono.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "essi schiacciano"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "e la tua eredità"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "opprimono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:16.342266947Z",
+  "model": "glm-5.3"
+}

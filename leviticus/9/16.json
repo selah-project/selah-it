@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E avvicinò ⟨את⟩ l'olà, e la compì secondo la norma.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "e avvicinò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'olà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "e la compì"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "secondo la norma"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:11.325489974Z",
+  "model": "glm-5.3"
+}

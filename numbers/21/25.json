@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E Israele prese ⟨את⟩ tutte queste città, e Israele abitò in tutte le città dell'emorreo, in Cheshbon e in tutte le sue figlie.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte queste città"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "le città"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e abitò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città di"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'emorreo"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "in Cheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e in tutte"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "le sue figlie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:47.705948533Z",
+  "model": "glm-5.3"
+}

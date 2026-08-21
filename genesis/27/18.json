@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E venne da suo padre e disse: «Padre mio». E ⟨lui⟩ disse: «Eccomi. Chi sei tu, figlio mio?»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Padre mio"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Eccomi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:36.371221850Z",
+  "model": "glm-5.3"
+}

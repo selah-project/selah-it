@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "È alto e inaccessibile YHWH, perché dimora ⟨nelle⟩ altezze; ha riempito Tziyon di giustizia e di rettitudine.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "È alto e inaccessibile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "dimora"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨nelle⟩ altezze"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ha riempito"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e di rettitudine"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:23.212595232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E compose Davide ⟨את⟩ questo lamento su Sha'ul e su Yehonatan suo figlio:",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "compose (lamento)"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo lamento"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "lamento"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:56.178411725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E cospirarono contro di lui i servi di Amon, e misero a morte ⟨את⟩ il re nella sua casa.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "e cospirarono"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi di"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contro di lui"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "e misero a morte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nella sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:05.893522811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E quando avrà finito di espiare ⟨את⟩ il santuario e ⟨את⟩ la tenda del convegno e ⟨את⟩ l'altare, presenterà ⟨את⟩ il capro vivo.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "E quando avrà finito"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "di espiare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il santuario"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "il santuario"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la tenda del convegno"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "presenterà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il capro vivo"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "il capro"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vivo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:18.633514502Z",
+  "model": "glm-5.3"
+}

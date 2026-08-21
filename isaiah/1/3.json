@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Conosce ⟨il⟩ bue ⟨il⟩ suo possessore, e ⟨l'⟩asino ⟨la⟩ greppia ⟨del⟩ suo padrone; Israele non conosce, ⟨il⟩ mio popolo non riflette.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bue"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "il suo possessore"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "e asino"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "greppia"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "del suo padrone"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "riflette"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:00.756435611Z",
+  "model": "glm-5.3"
+}

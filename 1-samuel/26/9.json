@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E disse Davide ad Abishai: non distruggerlo, poiché chi stende la mano contro il Mashiach di YHWH e resta innocente?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "distruggerlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stende"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "contro il Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "e resta innocente"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:43.625742544Z",
+  "model": "glm-5.3"
+}

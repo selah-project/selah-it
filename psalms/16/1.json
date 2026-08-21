@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Miktam di Davide. Proteggimi, El, perché in te mi sono rifugiato.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Proteggimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi sono rifugiato"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:40.437443880Z",
+  "model": "glm-5.3"
+}

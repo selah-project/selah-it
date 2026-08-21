@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 62,
+  "translation": "Solo a Elohim, anima mia, fa' silenzio, perché da Lui ⟨è⟩ la mia speranza.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "fa' silenzio"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "anima mia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da Lui"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "la mia speranza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:29.488055025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Al direttore del coro. ⟨Al-tashchet⟩ («Non distruggere»). Di Davide, mikhtam, quando Saul mandò ⟨dei messi⟩ e sorvegliarono ⟨את⟩ la casa per farlo morire.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Al-tashchet⟩ («Non distruggere»)"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "non distruggere"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "quando mandò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "e sorvegliarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "per farlo morire"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:50.780560823Z",
+  "model": "glm-5.3"
+}

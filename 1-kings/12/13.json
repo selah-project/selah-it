@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E il re rispose al popolo duramente, e abbandonò ⟨את⟩ il consiglio degli anziani che gli avevano dato.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "duramente"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "e abbandonò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il consiglio"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "il consiglio"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "degli anziani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "gli avevano dato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:26.582180010Z",
+  "model": "glm-5.3"
+}

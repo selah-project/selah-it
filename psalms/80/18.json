@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Sia la tua mano sull'uomo della tua destra, sul figlio dell'uomo che hai reso forte per te.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "della tua destra"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sul figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "hai reso forte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:20.394492221Z",
+  "model": "glm-5.3"
+}

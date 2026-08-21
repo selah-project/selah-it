@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E disse Moshe al popolo: non temete, poiché per mettervi alla prova è venuto ⟨il⟩ ⟨Dio⟩ — l'Elohim — e perché la sua paura sia sui vostri volti, così che non pecchiate.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "per"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "mettere alla prova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (il popolo)"
+    },
+    {
+      "surface": "בא",
+      "gloss": "è venuto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sia"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "la sua paura"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "i vostri volti"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "così che non"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "pecchiate"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:25.991115109Z",
+  "model": "glm-5.3"
+}

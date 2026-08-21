@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "e consultò per lui YHWH, e gli diede provviste, e ⟨את⟩ la spada di Golyat il filisteo gli diede.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "e consultò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "e provviste"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la spada di Golyat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "di Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:24.421915847Z",
+  "model": "glm-5.3"
+}

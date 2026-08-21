@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "E dico: certo ⟨la⟩ tenebra mi schiaccerà, e la notte sarà luce intorno a me.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dico"
+    },
+    {
+      "surface": "אך",
+      "gloss": "certo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "⟨la⟩ tenebra"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "mi schiaccerà"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e la notte"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sarà luce"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "intorno a me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.237329836Z",
+  "model": "glm-5.3"
+}

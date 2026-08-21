@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Solo, come si mangia ⟨את⟩ la gazzella e ⟨את⟩ il cervo, così lo mangerai: l'impuro e il puro insieme lo mangeranno.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "si mangia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la gazzella"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "la gazzella"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il cervo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "il cervo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "lo mangerai"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "l'impuro"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "e il puro"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "lo mangeranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:54.436799086Z",
+  "model": "glm-5.3"
+}

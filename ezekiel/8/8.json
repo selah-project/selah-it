@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E mi disse: figlio dell'uomo, scava ora nel muro. E io scavai nel muro, ed ecco una porta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e mi disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "scava"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "nel muro"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "e scavai"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "nel muro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "una porta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    }
+  ],
+  "timestamp": "2026-08-21T08:17:58.061117016Z",
+  "model": "glm-5.3"
+}

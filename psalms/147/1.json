@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Lodate Yah, perché ⟨è⟩ buono cantare al nostro Elohim, perché ⟨è⟩ dolce, conviene ⟨la⟩ lode.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "cantare"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "al nostro Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dolce"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "conviene"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "〈la〉 lode"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:12.157980986Z",
+  "model": "glm-5.3"
+}

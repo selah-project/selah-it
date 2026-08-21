@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Ha giurato YHWH degli eserciti, dicendo: certo, come ho pensato, così è stata; e come ho consigliato, essa sussisterà.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Ha giurato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "certo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨certo⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ho pensato"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "è stata"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "e come"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ho consigliato"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sussisterà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:17.087334444Z",
+  "model": "glm-5.3"
+}

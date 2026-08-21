@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ogni essere strisciante che ⟨è⟩ vivo vi sarà per cibo: come l'erba verde io ho dato ⟨את⟩ ogni cosa ⟨a voi⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "essere strisciante"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "per cibo"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "come l'erba"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "verde"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "io ho dato"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni cosa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni cosa"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:38.736920760Z",
+  "model": "glm-5.3"
+}

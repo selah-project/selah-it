@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Invoco El Elyon, l'El che porta a compimento ⟨nei miei confronti⟩.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "invoco"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "l'Altissimo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "l'El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "che porta a compimento"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨nei miei confronti⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:25.618507970Z",
+  "model": "glm-5.3"
+}

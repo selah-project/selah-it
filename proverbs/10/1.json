@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Proverbi di Shelomoh. Un figlio saggio rallegra il padre, ma un figlio stolto ⟨è⟩ il dolore di sua madre.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Proverbi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "rallegra"
+    },
+    {
+      "surface": "אב",
+      "gloss": "il padre"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ma un figlio"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "stolto"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "il dolore"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "di sua madre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:24.223625307Z",
+  "model": "glm-5.3"
+}

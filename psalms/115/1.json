@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "Non a noi, YHWH, non a noi, ma al tuo Nome dà gloria, per il tuo chesed, per la tua fedeltà.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma \/ poiché"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "al tuo Nome"
+    },
+    {
+      "surface": "תן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloria"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "la tua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:26.130739012Z",
+  "model": "glm-5.3"
+}

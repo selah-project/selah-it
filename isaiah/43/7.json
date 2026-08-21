@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "ognuno che ⟨è⟩ chiamato ⟨con⟩ il mio nome, e che per la mia gloria io ho creato, io ho formato, ⟨sì⟩, io ho fatto.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ognuno"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "che ⟨è⟩ chiamato"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "⟨con⟩ il mio nome"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "e per la mia gloria"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "io ho creato"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "io ho formato"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨sì⟩"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "io ho fatto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:02.776555364Z",
+  "model": "glm-5.3"
+}

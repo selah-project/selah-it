@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E disse Itzchak a Jaakob: avvicinati, ti prego, e ti palpi, figlio mio: tu ⟨sei⟩ questo, figlio mio Esav, o no?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itzchak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "avvicinati"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "e ti palpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:53.046317885Z",
+  "model": "glm-5.3"
+}

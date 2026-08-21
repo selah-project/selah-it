@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E il sacerdote farà fumare ⟨את⟩ il grasso sull'altare, e il petto sarà per Aharon e per i suoi figli.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "farà fumare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il grasso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "il petto"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "per Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "e per i suoi figli"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:28.658636242Z",
+  "model": "glm-5.3"
+}

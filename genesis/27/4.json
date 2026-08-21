@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 27:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "e preparami piatti saporiti, come amo io, e portameli, perché io mangi, ⟨affinché⟩ ti benedica la mia ⟨nefesh⟩ prima che io muoia. »",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "e prepara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "piatti saporiti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "amo io"
+    },
+    {
+      "surface": "והביאה",
+      "gloss": "e porta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "e io mangi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "ti benedica"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "io muoia"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:02.578330062Z",
+  "model": "glm-5.3"
+}

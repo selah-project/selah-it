@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 12:15",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Soltanto, secondo tutto il desiderio della tua nefesh ⟨⟨potrai⟩⟩ macellare e mangiare carne, secondo la benedizione di YHWH tuo Elohim che ti ha dato in tutte le tue porte; il impuro e il puro lo mangeranno, come la gazzella e come il cervo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אות",
+      "gloss": "il desiderio"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "della tua nefesh"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "macellerai"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "e mangerai"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "secondo la benedizione"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "le tue porte"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "l'impuro"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "e il puro"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "lo mangeranno"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "come la gazzella"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "e come il cervo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:06.011855864Z",
+  "model": "glm-5.3"
+}

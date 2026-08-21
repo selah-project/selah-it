@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Àlzati, YHWH! Salvami, Elohim mio, perché hai colpito ⟨את⟩ tutti i miei nemici ⟨sulla⟩ guancia; i denti dei malvagi tu hai spezzato.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salvami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "hai colpito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i miei nemici"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "guancia"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i denti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "tu hai spezzato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:02.930432769Z",
+  "model": "glm-5.3"
+}

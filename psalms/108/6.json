@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 108,
+  "translation": "Innalzati sopra ⟨i⟩ cieli, o Elohim, e sopra tutta ⟨la⟩ terra ⟨sia⟩ la tua gloria!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "innalzati"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cieli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sopra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "la tua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:13.759853933Z",
+  "model": "glm-5.3"
+}

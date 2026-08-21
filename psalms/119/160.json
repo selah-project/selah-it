@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "La somma della tua parola ⟨è⟩ verità, e per sempre ogni giudizio della tua giustizia.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "La somma"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "della tua parola"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verità"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "e per sempre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "giudizio"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "della tua giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:13.262885371Z",
+  "model": "glm-5.3"
+}

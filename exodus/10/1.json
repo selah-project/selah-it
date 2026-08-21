@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E disse YHWH a Moshe: entra da Paroh, perché io ho reso pesante ⟨את⟩ il suo cuore e ⟨את⟩ il cuore dei suoi servi, affinché io ponga questi miei segni in mezzo a lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ho reso pesante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo cuore"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "il suo cuore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il cuore dei suoi servi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dei suoi servi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "io ponga"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "i miei segni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in mezzo a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:48.466257493Z",
+  "model": "glm-5.3"
+}

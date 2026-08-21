@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E il re tolse ⟨את⟩ il suo anello dalla sua mano e la diede ad Haman, figlio di Hamdata l'Agaghita, l'avversario dei Giudei.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "e tolse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo anello"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "il suo anello"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "e la diede"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ad Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "di Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "l'Agaghita"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "l'avversario"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "dei Giudei"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:51.518766028Z",
+  "model": "glm-5.3"
+}

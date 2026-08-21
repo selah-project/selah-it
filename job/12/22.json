@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Egli svela le profondità ⟨dalla⟩ tenebra e trae alla luce l'ombra della morte.",
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "svela"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "le profondità"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e trae fuori"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "alla luce"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "l'ombra della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:18.999415064Z",
+  "model": "glm-5.3"
+}

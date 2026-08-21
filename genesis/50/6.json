@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E disse il Faraone: Sali e seppellisci ⟨את⟩ tuo padre, come ti ha fatto giurare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "il Faraone"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Sali"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "e seppellisci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuo padre"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ti ha fatto giurare"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:15.430682215Z",
+  "model": "glm-5.3"
+}

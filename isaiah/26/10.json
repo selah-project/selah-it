@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Se al rasha' si usa grazia, non impara giustizia; nella terra della rettitudine agisce perversamente e non vede la maestà di YHWH.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "si usa grazia"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "al rasha'"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "למד",
+      "gloss": "impara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "della rettitudine"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "agisce perversamente"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "la maestà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:14.139740479Z",
+  "model": "glm-5.3"
+}

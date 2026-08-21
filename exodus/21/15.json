@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E chi percuote suo padre e sua madre — morte sarà messo a morte.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "e chi percuote"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "e sua madre"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:04.887882099Z",
+  "model": "glm-5.3"
+}

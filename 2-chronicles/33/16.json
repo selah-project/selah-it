@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E ristabilì ⟨את⟩ l'altare di YHWH, e vi sacrificò sopra sacrifici di shelamim e di rendimento di grazie, e disse a Yehudah di servire ⟨את⟩ YHWH, Elohim di Israele.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "e ristabilì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare di YHWH"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "e sacrificò"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sacrifici"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "di shelamim"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "e di rendimento di grazie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "a Yehudah"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "di servire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH, Elohim di Israele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T10:02:37.660418162Z",
+  "model": "glm-5.3"
+}

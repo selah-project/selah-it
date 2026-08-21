@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Salì Elohim tra acclamazioni, YHWH al suono dello shofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "salì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "tra acclamazioni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "al suono"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "dello shofar"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:51.617728264Z",
+  "model": "glm-5.3"
+}

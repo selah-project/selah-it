@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E disse Mosè a Parò: «Glòriati su di me: fino a quando pregherò per te, per i tuoi servi e per il tuo popolo, per sterminare ⟨את⟩ le rane da te e dalle tue case? Solo nel fiume rimarranno».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "a Parò"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "Glòriati"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "fino a quando"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "pregherò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "per i tuoi servi"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "per il tuo popolo"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "per sterminare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le rane"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "le rane"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "e dalle tue case"
+    },
+    {
+      "surface": "רק",
+      "gloss": "solo"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "nel fiume"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "rimarranno"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:28.582068393Z",
+  "model": "glm-5.3"
+}

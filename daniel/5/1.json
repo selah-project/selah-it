@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 5:1",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Belshazzar, il re, fece ⟨un⟩ banchetto grande per i suoi grandi, ⟨mille⟩, e davanti ai mille bevve vino.",
+  "tokens": [
+    {
+      "surface": "בלשאצר",
+      "gloss": "Belshazzar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "il re"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "fece"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "banchetto"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "לרברבנוהי",
+      "gloss": "per i suoi grandi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "ולקבל",
+      "gloss": "e davanti a"
+    },
+    {
+      "surface": "אלפא",
+      "gloss": "i mille"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "vino"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "bevve"
+    }
+  ],
+  "timestamp": "2026-08-21T09:34:28.542611103Z",
+  "model": "glm-5.3"
+}

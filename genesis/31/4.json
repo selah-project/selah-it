@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E Giacobbe mandò a chiamare Rachele e Lea al campo, dal suo gregge.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a chiamare"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachele"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "e Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "al campo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dal"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "suo gregge"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:02.175764738Z",
+  "model": "glm-5.3"
+}

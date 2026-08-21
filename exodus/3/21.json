@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E darò ⟨את⟩ il favore di questo popolo agli occhi degli Egiziani; e avverrà che, quando ve ne andrete, non ve ne andrete a mani vuote.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e darò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il favore"
+    },
+    {
+      "surface": "חן",
+      "gloss": "il favore"
+    },
+    {
+      "surface": "העם",
+      "gloss": "di questo popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "degli Egiziani"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e avverrà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che, quando"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ve ne andrete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ve ne andrete"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "a mani vuote"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:09.751516738Z",
+  "model": "glm-5.3"
+}

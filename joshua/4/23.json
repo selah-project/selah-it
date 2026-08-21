@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 4:23",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "poiché YHWH, il vostro Elohim, prosciugò ⟨את⟩ le acque del Giordano davanti a voi finché passaste, come fece YHWH, il vostro Elohim, al mare di Suf, che prosciugò davanti a noi finché passammo",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "prosciugò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le acque"
+    },
+    {
+      "surface": "מי",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "del Giordano"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "עברכם",
+      "gloss": "passaste"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "לים",
+      "gloss": "al mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "di Suf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "prosciugò"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "davanti a noi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "passammo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:51:01.873232040Z",
+  "model": "glm-5.3"
+}

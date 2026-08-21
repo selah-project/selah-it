@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Poiché si è saziata nei cieli la mia spada: ecco, su Edom scenderà, e sul popolo del mio chérem, per il giudizio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "si è saziata"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "la mia spada"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "scenderà"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "del mio chérem"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "per il giudizio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:07.455066220Z",
+  "model": "glm-5.3"
+}

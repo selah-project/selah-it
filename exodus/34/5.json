@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E YHWH scese nella nuvola e si fermò là con lui, e proclamò il nome di YHWH.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "nella nuvola"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "e si fermò"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e proclamò"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "il nome di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:52.112385808Z",
+  "model": "glm-5.3"
+}

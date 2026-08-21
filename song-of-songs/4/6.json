@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Finché spiri il giorno e fuggano le ombre, me ne andrò ⟨per me⟩ al monte della mirra e al colle dell'incenso — levonà.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "spiri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "e fuggano"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "le ombre"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "me ne andrò"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨per me⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "al monte"
+    },
+    {
+      "surface": "המור",
+      "gloss": "della mirra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "al colle"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "della levonà — incenso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:42.922078316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Mi cercherete ⟨את⟩ e Mi troverete, perché Mi ricercate con tutto il vostro cuore.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "cercherete"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Mi (YHWH, oggetto della ricerca)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "troverete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "Mi ricercate"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "il vostro cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:07:23.446472155Z",
+  "model": "glm-5.3"
+}

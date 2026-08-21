@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E li mise ⟨את⟩ in custodia, nella casa del capo dei cuochi, nella prigione, il luogo dove Giuseppe era prigioniero.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e mise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in custodia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "del capo"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "dei cuochi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "della prigione"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "il luogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "era prigioniero"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:20.766564642Z",
+  "model": "glm-5.3"
+}

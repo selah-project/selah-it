@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Poiché il malvagio si vanta del desiderio della sua nefesh, e chi guadagna afferro benedice, disprezza YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "si vanta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "il desiderio"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "della sua nefesh"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "chi guadagna afferro"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "benedice"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "disprezza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:38.522342686Z",
+  "model": "glm-5.3"
+}

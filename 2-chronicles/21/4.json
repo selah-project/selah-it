@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E si levò Jehoram sul regno di suo padre e si fortificò, e uccise ⟨את⟩ tutti i suoi fratelli con la spada — e anche alcuni dei principi di Israele.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "si levò"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "il regno di"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "e si fortificò"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "e uccise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi fratelli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "con la spada"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "dei principi di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:58:59.258748213Z",
+  "model": "glm-5.3"
+}

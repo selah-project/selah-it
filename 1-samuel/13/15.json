@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E si alzò Shemuël e salì da Guilgal a Giv'at Binyamin; e Sha'ul passò in rassegna ⟨את⟩ la gente che si trovava con lui: circa seicento uomini.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E si alzò"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Guilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'at"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "e passò in rassegna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la gente"
+    },
+    {
+      "surface": "העם",
+      "gloss": "la gente"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "che si trovava"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "circa seicento"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:25.261201394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Poiché come sono alti i cieli sopra la terra, così sono alti le mie vie sopra le vostre vie, e i miei pensieri sopra i vostri pensieri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sono alti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sopra la terra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sono alti"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "le mie vie"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "sopra le vostre vie"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "e i miei pensieri"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "sopra i vostri pensieri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:13.478394784Z",
+  "model": "glm-5.3"
+}

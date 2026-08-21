@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "e che fa chesed fino a migliaia ⟨di generazioni⟩, a quelli che mi amano e ai custodi dei miei comandamenti.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "e che fa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "fino a migliaia"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "a quelli che mi amano"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "e ai custodi"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "dei miei comandamenti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:56.249982772Z",
+  "model": "glm-5.3"
+}

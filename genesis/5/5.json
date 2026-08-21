@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E furono tutti i giorni di Adam, che visse, novecento anni e trenta anni; e morì.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חי",
+      "gloss": "visse"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nove"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e trenta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:44.933072315Z",
+  "model": "glm-5.3"
+}

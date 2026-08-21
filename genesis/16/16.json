@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E Abram ⟨era⟩ dell'età di ottant'anni e sei anni quando Hagar partorì ⟨את⟩ Ismael ad Abram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "e Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio (di anni)"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ottanta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e sei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "quando partorì"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ismael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ismael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ad Abram"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:32.706848301Z",
+  "model": "glm-5.3"
+}

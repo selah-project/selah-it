@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Quando li uccideva, essi lo cercavano, e tornavano, e cercavano solleciti El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "quando"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "li uccideva"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "essi lo cercavano"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "e tornavano"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "e cercavano solleciti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:54.278470226Z",
+  "model": "glm-5.3"
+}

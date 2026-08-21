@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E giurò il re e disse: vive YHWH, che ha riscattato ⟨את⟩ la mia nefesh da ogni angustia.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "e giurò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ha riscattato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia nefesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da ogni"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "angustia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:43.364430312Z",
+  "model": "glm-5.3"
+}

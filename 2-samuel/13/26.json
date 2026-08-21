@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 13:26",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E disse Avshalom: se no, ti prego, venga con ⟨את⟩ noi Amnon, mio fratello. E gli disse il re: perché verrebbe con te?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "se no"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "venga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "con ⟨את⟩ noi",
+      "marks": "preposizione «con», non il marcatore di oggetto"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mio fratello"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "verrebbe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:07.488297526Z",
+  "model": "glm-5.3"
+}

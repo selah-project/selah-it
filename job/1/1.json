@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 1:1",
+  "book": "job",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Un uomo vi era nella terra di Uts, e Iyov ⟨era⟩ il suo nome; e quell'uomo era integro e retto, timoroso di Elohim e alieno dal male.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Un uomo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vi era"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra di"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e … era"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "quell'uomo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "תם",
+      "gloss": "integro"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "e retto"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e timoroso di"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "e alieno da"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "il male"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:25.176317429Z",
+  "model": "glm-5.3"
+}

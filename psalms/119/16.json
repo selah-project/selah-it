@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Nei tuoi statuti mi delizierò; non dimenticherò la tua parola.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "nei tuoi statuti"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "mi delizierò"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "dimenticherò"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "la tua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:53.028735560Z",
+  "model": "glm-5.3"
+}

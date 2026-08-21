@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E farai ⟨את⟩ le sue lampade, sette, e farà salire ⟨את⟩ le sue lampade, e illuminerà sul lato della sua faccia.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue lampade"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "le sue lampade"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sette"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "e farà salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue lampade"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "le sue lampade"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "e illuminerà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "il lato di"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "faccia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:10.013173239Z",
+  "model": "glm-5.3"
+}

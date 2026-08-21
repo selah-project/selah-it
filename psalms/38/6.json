@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Puzzano, si sono marcite le mie lividure, a causa della mia stoltezza.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "puzzano"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "si sono marcite"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "le mie lividure"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "della mia stoltezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:31.113827598Z",
+  "model": "glm-5.3"
+}

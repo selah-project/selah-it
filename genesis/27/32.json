@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E gli disse Isacco suo padre: chi sei tu? Ed ⟨egli⟩ disse: io sono tuo figlio, il tuo primogenito, Esaù.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isacco"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sono tuo figlio"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "il tuo primogenito"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaù"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:38.372396107Z",
+  "model": "glm-5.3"
+}

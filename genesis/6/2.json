@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E i figli di Elohim videro ⟨את⟩ le figlie dell'umano, che buone esse ⟨erano⟩, e presero per loro mogli da tutte quelle che scelsero.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "e videro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le figlie dell'umano"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "le figlie di"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "buone"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "esse"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e presero"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mogli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quelle che"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "scelsero"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:00.123545645Z",
+  "model": "glm-5.3"
+}

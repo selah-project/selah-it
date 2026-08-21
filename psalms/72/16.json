@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "sia abbondanza di grano nella terra, sulla cima dei monti; ondeggi come il Libano il suo frutto, e fioriscano dalla città come l'erba della terra.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "abbondanza"
+    },
+    {
+      "surface": "בר",
+      "gloss": "di grano"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sulla cima"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dei monti"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ondeggi"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "come il Libano"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "il suo frutto"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "e fioriscano"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dalla città"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "come l'erba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:56.997802230Z",
+  "model": "glm-5.3"
+}

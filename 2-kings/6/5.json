@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E avvenne che, mentre uno faceva cadere ⟨את⟩ la trave, il ferro cadde nell'acqua; ed egli gridò e disse: Ahimè, mio signore! E ⟨esso⟩ era preso in prestito.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mentre uno"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "faceva cadere"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "la trave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il ferro"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "il ferro"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "cadde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nell'"
+    },
+    {
+      "surface": "המים",
+      "gloss": "acqua"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ed egli gridò"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ahimè"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mio signore"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed ⟨esso⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "era preso in prestito"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:01.177655946Z",
+  "model": "glm-5.3"
+}

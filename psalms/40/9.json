@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Fare ⟨il⟩ tuo volere, Elohim mio, ⟨ho⟩ desiderato, e la tua Torah ⟨è⟩ dentro ⟨le⟩ mie viscere.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "fare"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "il tuo volere"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ho desiderato"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "e la tua Torah"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dentro"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "le mie viscere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:03.477436150Z",
+  "model": "glm-5.3"
+}

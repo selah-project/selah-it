@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 5:16",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Ma egli disse: Vive YHWH, davanti al quale sto, ⟨che⟩ non prenderò ⟨nulla⟩! E Naaman insistette con lui perché prendesse, ma egli rifiutò.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "davanti al quale"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "sto"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨che⟩ (formula di giuramento)"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "prenderò"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "insistette"
+    },
+    {
+      "surface": "בו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "perché prendesse"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "ma rifiutò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:14.785575719Z",
+  "model": "glm-5.3"
+}

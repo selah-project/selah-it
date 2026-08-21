@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Per la parola — che non vennero incontro a voi ⟨את⟩ con il pane e con l'acqua per la strada, al vostro uscire dall'Egitto — e perché assoldarono contro di te ⟨את⟩ Bilam figlio di Beor, da Petor di Aram-Naharaim, per maledirti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "vennero incontro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "con il pane"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "e con l'acqua"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la strada"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "al vostro uscire"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "assoldarono"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "da Petor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "dei due fiumi"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "per maledirti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:55.511381082Z",
+  "model": "glm-5.3"
+}

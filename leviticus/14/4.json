@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e comanderà il sacerdote, e si prenderà per colui che si purifica due uccelli vivi, puri, e legno di cedro e scarlatto di tolà e issòpo.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "e comanderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "e si prenderà"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "per colui che si purifica"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "due"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "uccelli"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "vivi"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "puri"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "e legno"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "di cedro"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e scarlatto"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "di tolà"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "e issòpo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:06.821370977Z",
+  "model": "glm-5.3"
+}

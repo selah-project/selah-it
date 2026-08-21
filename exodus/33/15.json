@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E disse a lui: se il tuo volto non cammina, non farci salire di qui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "cammina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "farci salire"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di qui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:24.263626381Z",
+  "model": "glm-5.3"
+}

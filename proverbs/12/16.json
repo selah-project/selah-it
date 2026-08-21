@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Lo stolto in un giorno fa conoscere la sua ira, ma chi copre l'ignominia ⟨è⟩ accorto.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "lo stolto"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in un giorno"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "fa conoscere"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "la sua ira"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ma chi copre"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "l'ignominia"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "accorto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:57.695548631Z",
+  "model": "glm-5.3"
+}

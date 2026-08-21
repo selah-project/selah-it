@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 13:17",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E contesi con ⟨את⟩ i notabili di Giuda, e dissi loro: che cosa è questa cosa malvagia che voi fate, profanando ⟨את⟩ il giorno dello shabbat?",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "e contesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i notabili di Giuda"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "i notabili"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cosa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "malvagia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "fate"
+    },
+    {
+      "surface": "ומחללים",
+      "gloss": "e profanando"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giorno dello shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dello shabbat"
+    }
+  ],
+  "timestamp": "2026-08-21T09:45:44.886366312Z",
+  "model": "glm-5.3"
+}

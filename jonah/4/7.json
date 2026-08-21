@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E ⟨il⟩ Elohim dispose un verme al sorgere dell'alba, il giorno dopo; ed esso colpì ⟨את⟩ il qiqayon, ed esso seccò.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "e dispose"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "un verme"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "al sorgere"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "dell'alba"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "il giorno dopo"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ed esso colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il qiqayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "il qiqayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ed esso seccò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:23.018293813Z",
+  "model": "glm-5.3"
+}

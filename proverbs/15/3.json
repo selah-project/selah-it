@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "In ogni luogo ⟨sono⟩ gli occhi di YHWH, che scrutano i cattivi e i buoni.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "In ogni"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "luogo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "che scrutano"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "i cattivi"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "e i buoni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:48.710528134Z",
+  "model": "glm-5.3"
+}

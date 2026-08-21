@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E disse Elia a tutto il popolo: avvicinatevi a me. E tutto il popolo si avvicinò a lui; e riparò ⟨את⟩ l'altare di YHWH, quello demolito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "avvicinatevi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "e si avvicinò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "e riparò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "quello demolito"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:27.903453540Z",
+  "model": "glm-5.3"
+}

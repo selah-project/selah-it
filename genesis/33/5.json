@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E alzò ⟨i⟩ suoi occhi e vide ⟨את⟩ le donne e ⟨את⟩ i bambini, e disse: chi sono questi per te? E disse: i bambini che Elohim ha gratificato ⟨il⟩ tuo servo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "e alzò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi occhi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le donne"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i bambini"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "i bambini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "i bambini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ha gratificato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo servo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:40.987064523Z",
+  "model": "glm-5.3"
+}

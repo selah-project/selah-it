@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 125,
+  "translation": "Poiché non poserà lo scettro dell'empietà sulla sorte dei giusti, perché i giusti non tendano le loro mani verso l'ingiustizia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "poserà"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "lo scettro"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "dell'empietà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "la sorte"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "tendano"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "verso l'ingiustizia"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "le loro mani"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:01.692058181Z",
+  "model": "glm-5.3"
+}

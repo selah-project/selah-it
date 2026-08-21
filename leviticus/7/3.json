@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E ⟨את⟩ tutto il suo grasso porterà come offerta da esso: ⟨את⟩ la coda grassa e ⟨את⟩ il grasso che copre ⟨את⟩ l'intestino,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto il suo grasso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "il suo grasso"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "porterà come offerta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da esso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la coda grassa"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "la coda grassa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il grasso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "che copre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'intestino"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "l'intestino"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:40.272537116Z",
+  "model": "glm-5.3"
+}

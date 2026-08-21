@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Non ⟨sarà⟩ forse tenebra il giorno di YHWH, e non luce? E oscurità, e non splendore ⟨per esso⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אור",
+      "gloss": "luce"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "e oscurità"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "splendore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per esso"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:24.417407624Z",
+  "model": "glm-5.3"
+}

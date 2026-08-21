@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Non sia per lui chi estenda chesed, e non sia chi mostri grazia ai suoi orfani.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "משך",
+      "gloss": "chi estenda"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "chi mostri grazia"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ai suoi orfani"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:04.279168980Z",
+  "model": "glm-5.3"
+}

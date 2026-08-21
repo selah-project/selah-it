@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Custodiscimi come ⟨la⟩ pupilla, figlia dell'occhio; all'ombra delle tue ali nascondimi.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "custodiscimi"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "come ⟨la⟩ pupilla"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "עין",
+      "gloss": "dell'occhio"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "all'ombra"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "delle tue ali"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "nascondimi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:49.005740887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "E Giuseppe disse ai suoi fratelli: «Avvicinatevi ora a me». E si avvicinarono, ed egli disse: «Io sono Giuseppe, vostro fratello, che voi avete venduto ⟨את⟩ me in Egitto».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "avvicinatevi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "e si avvicinarono"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ed egli disse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vostro fratello"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "voi avete venduto"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "venduto me"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:34.740294968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Volgiti verso di me e fammi grazia, come ⟨è⟩ il diritto ⟨usato⟩ a chi ama il tuo nome.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "volgiti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e fammi grazia"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "come il diritto"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "a chi ama"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:37.986386338Z",
+  "model": "glm-5.3"
+}

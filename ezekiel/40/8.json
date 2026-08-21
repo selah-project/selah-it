@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E misurò ⟨את⟩ il vestibolo del porto, ⟨verso⟩ l'interno ⟨della⟩ casa: una canna.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "e misurò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il vestibolo"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "il vestibolo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "del porto"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "⟨verso⟩ l'interno ⟨della⟩ casa"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "una canna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    }
+  ],
+  "timestamp": "2026-08-21T08:28:49.173325868Z",
+  "model": "glm-5.3"
+}

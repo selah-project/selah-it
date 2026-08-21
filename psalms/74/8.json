@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Hanno detto nel loro cuore: «Opprimiamoli tutti insieme!». Hanno bruciato tutti i luoghi d'incontro di El nel paese.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "hanno detto"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "nel loro cuore"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "Opprimiamoli"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tutti insieme"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "hanno bruciato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "i luoghi d'incontro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nel paese"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:27.977002910Z",
+  "model": "glm-5.3"
+}

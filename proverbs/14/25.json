@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Un testimone di verità ⟨il⟩ salva ⟨le⟩ vite, ma chi spira menzogne ⟨è⟩ frode.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "salva"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "vite"
+    },
+    {
+      "surface": "עד",
+      "gloss": "un testimone"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "di verità"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ma chi spira"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "menzogne"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "frode"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:34.193906646Z",
+  "model": "glm-5.3"
+}

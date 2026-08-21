@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E nel quinto anno mangerete ⟨את⟩ il suo frutto, per aggiungere a voi il suo raccolto: io ⟨sono⟩ YHWH, ⟨il⟩ vostro Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "E nel quinto anno… e nell'anno"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "quinto"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo frutto"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "il suo frutto"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "per aggiungere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "il suo raccolto"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:18.450414943Z",
+  "model": "glm-5.3"
+}

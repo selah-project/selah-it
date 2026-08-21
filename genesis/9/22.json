@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E Cam, padre di Canaan, vide ⟨את⟩ la nudità del padre suo, e lo raccontò ai due fratelli suoi, fuori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre di"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Canaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nudità del padre suo"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudità"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "del padre suo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e lo raccontò"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ai due"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fratelli suoi"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "fuori"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:53.582850641Z",
+  "model": "glm-5.3"
+}

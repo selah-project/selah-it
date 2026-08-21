@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Se il tuo disperso sarà all'estremità dei cieli, di là ti raccoglierà YHWH, il tuo Elohim, e di là ti prenderà;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "il tuo disperso"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "all'estremità"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "ti raccoglierà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "e di là"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "ti prenderà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:07.856461560Z",
+  "model": "glm-5.3"
+}

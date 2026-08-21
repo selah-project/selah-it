@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Ecco il giorno, ecco, ⟨esso⟩ viene: è uscita la sferzata, è germogliato lo scettro, è fiorita l'arroganza.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "באה",
+      "gloss": "viene"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "è uscita"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "la sferzata"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "è germogliato"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "lo scettro"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "è fiorita"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "l'arroganza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:17:30.498153653Z",
+  "model": "glm-5.3"
+}

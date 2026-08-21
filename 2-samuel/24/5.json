@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Attraversarono ⟨את⟩ il Giordano e si accamparono ad Aroer, a destra della città che sta in mezzo al torrente di Gad, e verso Iaezer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "attraversarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "si accamparono"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "ad Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "a destra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "al torrente"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "di Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e verso"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Iaezer"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:14.648770892Z",
+  "model": "glm-5.3"
+}

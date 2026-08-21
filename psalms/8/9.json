@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Uccelli dei cieli e pesci del mare, ciò che passa per i sentieri dei mari.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "uccelli"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "e pesci"
+    },
+    {
+      "surface": "הים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "che passa"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "per i sentieri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dei mari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:58.814369269Z",
+  "model": "glm-5.3"
+}

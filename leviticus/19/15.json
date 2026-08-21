@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non farete ingiustizia nel giudizio; non alzerai la faccia del povero, e non onorerai la faccia del grande: con giustizia giudicherai il tuo simile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "farete"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ingiustizia"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nel giudizio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "alzerai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia"
+    },
+    {
+      "surface": "דל",
+      "gloss": "del povero"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "onorerai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "del grande"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "con giustizia"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "giudicherai"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "il tuo simile"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:19.816904716Z",
+  "model": "glm-5.3"
+}

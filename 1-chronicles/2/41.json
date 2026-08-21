@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e Shallum generò ⟨את⟩ Iekamia, e Iekamia generò ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "e Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iekamia"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Iekamia"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "e Iekamia"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:50.086577741Z",
+  "model": "glm-5.3"
+}

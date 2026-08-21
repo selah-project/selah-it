@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse: perché io sarò con te; e questo ti sarà il segno che io ti ho mandato: quando tu avrai fatto uscire ⟨את⟩ il popolo dall'Egitto, servirete ⟨את⟩ Elohim su questo monte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "io sarò"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "e questo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האות",
+      "gloss": "il segno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "ti ho mandato"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "quando avrai fatto uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "servirete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:56.318833887Z",
+  "model": "glm-5.3"
+}

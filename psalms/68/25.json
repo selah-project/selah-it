@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Hanno visto le tue processioni, o Elohim — le processioni del mio El, del mio re, nel santuario.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "hanno visto"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "le tue processioni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "le processioni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "del mio El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "del mio re"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nel santuario"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:27.556658801Z",
+  "model": "glm-5.3"
+}

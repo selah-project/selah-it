@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Ho odiato i custodi di vanità di inganno, ma io in YHWH ho confidato.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ho odiato"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "i custodi"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "di vanità"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "di inganno"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ho confidato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:59.529685633Z",
+  "model": "glm-5.3"
+}

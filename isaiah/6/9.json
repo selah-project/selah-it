@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E disse: va', e dirai a questo popolo: « Ascoltate pure, e non comprendete; guardate pure, e non conoscete ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e dirai"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a ⟨il⟩ popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "pure (ascoltando)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "comprendete"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e guardate"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "pure (guardando)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "conoscete"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:46.637099149Z",
+  "model": "glm-5.3"
+}

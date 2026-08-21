@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Per questo ti loderò fra ⟨את⟩ le nazioni, YHWH, e salmeggerò al tuo Nome.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ti loderò"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra ⟨את⟩ le nazioni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "e al tuo Nome"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "salmeggerò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:22.460699974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Chi conosce la potenza della tua ira, e il tuo furore secondo il timore che ti ⟨è dovuto⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "עז",
+      "gloss": "la potenza"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "della tua ira"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "e secondo il timore che ti ⟨è dovuto⟩"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "il tuo furore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:46.607566518Z",
+  "model": "glm-5.3"
+}

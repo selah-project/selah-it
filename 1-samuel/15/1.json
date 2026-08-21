@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E disse Shemuël a Shaul: «Mi ha mandato YHWH per ungerti re sul suo popolo, su Israele; e ora ascolta la voce delle parole di YHWH».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "me (oggetto di mandato)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ha mandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "per ungerti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "delle parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:50.035442241Z",
+  "model": "glm-5.3"
+}

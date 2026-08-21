@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E a Eber furono generati due figli: il nome dell'uno ⟨era⟩ Peleg, perché ai suoi giorni fu divisa la terra; e il nome di suo fratello ⟨era⟩ Joktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "e a Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "furono generati"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "dell'uno"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "ai suoi giorni"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "fu divisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e il nome"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "di suo fratello"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktan"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:51.811358258Z",
+  "model": "glm-5.3"
+}

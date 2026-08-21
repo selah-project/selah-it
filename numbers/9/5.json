@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E fecero ⟨את⟩ il Pesach nel primo ⟨mese⟩, il giorno quattordici del mese, tra le sere, nel deserto del Sinai; secondo tutto ciò che YHWH aveva comandato ⟨את⟩ Mosè, così fecero i figli d'Israele.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "il Pesach"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "nel primo ⟨mese⟩"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "in quattro"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "le sere"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "del Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:05.055441285Z",
+  "model": "glm-5.3"
+}

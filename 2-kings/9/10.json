@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "e ⟨את⟩ Izebel la mangeranno i cani nel territorio di Izreel, e non ci sarà chi la seppellisca». Ed ⟨egli⟩ aprì la porta e fuggì.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeranno"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "i cani"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "nel territorio"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "di Izreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ci sarà"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "chi la seppellisca"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ed aprì"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "la porta"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "e fuggì"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:39.972099701Z",
+  "model": "glm-5.3"
+}

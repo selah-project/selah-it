@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Così disse YHWH: se voi potete invalidare ⟨את⟩ il mio patto del giorno e ⟨את⟩ il mio patto della notte, sì che non vi siano giorno e notte al loro tempo,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "potete invalidare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio patto del giorno"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "del giorno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il mio patto della notte"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "della notte"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "sì che non"
+    },
+    {
+      "surface": "היות",
+      "gloss": "vi siano"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e notte"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "al loro tempo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:08:55.649955166Z",
+  "model": "glm-5.3"
+}

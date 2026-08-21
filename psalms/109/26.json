@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Aiutami, YHWH Elohim mio; salvami secondo il tuo chesed.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "aiutami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salvami"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "secondo il tuo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:04.867846472Z",
+  "model": "glm-5.3"
+}

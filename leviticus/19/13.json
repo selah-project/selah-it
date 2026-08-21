@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non opprimerai ⟨את⟩ il tuo prossimo e non lo deruberai; non ti resterà la notte presso di te il salario del giornaliero fino al mattino.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "opprimerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo prossimo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "il tuo prossimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "deruberai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ti resterà la notte"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "il salario"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "del giornaliero"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ presso di te"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "al mattino"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:19.816441711Z",
+  "model": "glm-5.3"
+}

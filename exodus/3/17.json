@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ho detto: vi farò salire ⟨את⟩-voi dall'afflizione dell'Egitto, alla terra del cananeo e dell'hittita e dell'emoreo e del perizzita e dell'hiwita e dello iebuseo, a una terra che stilla latte e miele.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e ho detto"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "vi farò salire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-voi",
+      "marks": "voi (gli anziani d'Israele)"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "dall'afflizione"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "dell'Egitto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "del cananeo"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e dell'hittita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e dell'emoreo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e del perizzita"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "e dell'hiwita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e dello iebuseo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "che stilla"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "latte"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e miele"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:17.419363107Z",
+  "model": "glm-5.3"
+}

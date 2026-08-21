@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Abbandonate sono le città di Aroer; saranno per le greggi, che vi giaceranno, e non vi sarà chi spaventi.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "Abbandonate"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "di Aroer"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "per le greggi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "saranno"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "e giaceranno"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non vi sarà"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "chi spaventi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:49.112045562Z",
+  "model": "glm-5.3"
+}

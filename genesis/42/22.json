@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 42:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E rispose Ruben ⟨את⟩ loro, dicendo: «Non ho forse detto a voi, dicendo: non peccate contro il ragazzo? E non avete ascoltato; e anche il suo sangue, ecco, è richiesto».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non... forse"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "peccate"
+    },
+    {
+      "surface": "בילד",
+      "gloss": "contro il ragazzo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "avete ascoltato"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "נדרש",
+      "gloss": "è richiesto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:41.484651907Z",
+  "model": "glm-5.3"
+}

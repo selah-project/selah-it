@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Non ne lasceranno nulla fino alla mattina, e osso non ne spezzeranno; secondo tutta la norma della Pasqua la faranno ⟨così⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "lasceranno"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "di esso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "alla mattina"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "e osso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "spezzeranno"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in esso"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutta"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "la norma"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "della Pasqua"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "la faranno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (il pesach)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:26:55.432409296Z",
+  "model": "glm-5.3"
+}

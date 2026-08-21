@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E anche sugli schiavi e sulle schiave, in quei giorni, spanderò ⟨את⟩ il mio Ruach.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "gli schiavi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "le schiave"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in giorni"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "quei"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "spanderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio Ruach"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "il mio Ruach"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:02.192624830Z",
+  "model": "glm-5.3"
+}

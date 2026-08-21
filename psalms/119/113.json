@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "I pensieri divisi ho odiato, e la tua Torah ho amato.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "i pensieri divisi"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ho odiato"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "e la tua Torah"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ho amato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:40.435717330Z",
+  "model": "glm-5.3"
+}

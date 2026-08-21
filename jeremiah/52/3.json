@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Poiché per lo sdegno di YHWH ciò avvenne in Gerusalemme e in Yehudah, finché Egli li ebbe scagliati via dalla Sua presenza; e Tsidkiyahu si ribellò al re di Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "אף",
+      "gloss": "lo sdegno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ciò avvenne"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Gerusalemme"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e in Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "Egli ebbe scagliati"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "loro (Gerusalemme e Yehudah)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "via da"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "dalla Sua presenza"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "e si ribellò"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Bavel"
+    }
+  ],
+  "timestamp": "2026-08-21T08:15:43.735759321Z",
+  "model": "glm-5.3"
+}

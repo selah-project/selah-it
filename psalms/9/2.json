@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Loderò YHWH con tutto il mio cuore, racconterò tutte le tue meraviglie.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "loderò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "racconterò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "le tue meraviglie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:53.302826763Z",
+  "model": "glm-5.3"
+}

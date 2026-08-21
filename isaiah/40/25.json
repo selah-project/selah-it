@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E a chi mi assimilerete, e chi ⟨sarà⟩ uguale a me? dice ⟨il⟩ Santo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "E a"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "mi assimilerete"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "e chi ⟨sarà⟩ uguale"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨il⟩ Santo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:26.047126930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "No, così ⟨non sarà⟩: andate ora voi uomini e servite ⟨את⟩ YHWH, perché ⟨את⟩ questo voi cercate. E li scacciò ⟨את⟩ loro dalla ⟨את⟩ presenza del Faraone.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "andate"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "voi uomini"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "e servite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ questo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "cercate"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "e li scacciò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dalla ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "presenza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "del Faraone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:56.744391551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Poiché abominio di YHWH, il tuo Elohim, ⟨è⟩ chiunque fa queste cose, chiunque fa l'ingiustizia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "abominio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "queste cose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "l'ingiustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:13.494865268Z",
+  "model": "glm-5.3"
+}

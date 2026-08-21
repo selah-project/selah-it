@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "finché io venga e vi prenda ⟨את⟩ verso una terra come la vostra terra, una terra di grano e di mosto, una terra di pane e di vigne.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "באי",
+      "gloss": "io venga"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "e vi prenda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "come la vostra terra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "di grano"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "e di mosto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "di pane"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "e di vigne"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:52.393895431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Apri ⟨את⟩ la tua mano e sazi di favore ogni vivente.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "apri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua mano"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "e sazi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivente"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "di favore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:01.309952395Z",
+  "model": "glm-5.3"
+}

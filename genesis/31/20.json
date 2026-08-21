@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E Giacobbe rubò ⟨את⟩ il cuore di Lavan l'Arameo, non avendogli detto che ⟨egli⟩ fuggiva.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "rubò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cuore"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "di Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "l'Arameo"
+    },
+    {
+      "surface": "על",
+      "gloss": "non"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "avendo"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "detto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "fuggiva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:26.422230563Z",
+  "model": "glm-5.3"
+}

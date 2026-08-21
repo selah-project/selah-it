@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "«Patto fra me e te, e fra mio padre e il tuo padre: ecco, ho inviato a te argento e oro; va', rompi il tuo patto ⟨את⟩ Baasha, re d'Israele, e si ritiri da me».",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Patto"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "fra me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e te"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e fra"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e fra"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "il tuo padre"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ho inviato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e oro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "rompi"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "il tuo patto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasha, re d'Israele"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "e si ritiri"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "da me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:58:35.932732262Z",
+  "model": "glm-5.3"
+}

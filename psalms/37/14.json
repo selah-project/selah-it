@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Spada hanno aperto i malvagi e teso il loro arco, per far cadere l'afflitto e il povero, per sgozzare i retti di via.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "spada"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "hanno aperto"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "e teso"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "il loro arco"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "per far cadere"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'afflitto"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e il povero"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "per sgozzare"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "i retti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:02.660010371Z",
+  "model": "glm-5.3"
+}

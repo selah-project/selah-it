@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E disse David a Yehonatan: «Chi me lo farà sapere? E se tuo padre ti risponde aspramente?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "farà sapere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "או",
+      "gloss": "e se"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cosa"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "ti risponde"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "aspramente"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:08.690848133Z",
+  "model": "glm-5.3"
+}

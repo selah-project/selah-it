@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Perciò, ecco, io sbarrerò ⟨את⟩ la tua via con i rovi, e cingerò ⟨את⟩ il suo recinto, e i suoi sentieri non troverà.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "percio"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "שך",
+      "gloss": "io sbarrero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua via"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "la tua via"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "con i rovi"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "e cingero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo recinto"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "il suo recinto"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "e i suoi sentieri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trovera"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:13.094184701Z",
+  "model": "glm-5.3"
+}

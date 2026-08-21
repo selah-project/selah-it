@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Perciò tutti i tuoi precetti, su ogni cosa, ⟨li⟩ ritengo retti; ogni sentiero di menzogna odio.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "i tuoi precetti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ritengo retti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sentiero"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "di menzogna"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "odio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:53.205232748Z",
+  "model": "glm-5.3"
+}

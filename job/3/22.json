@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "che gioiscono fino all'esultanza, esultano quando trovano ⟨il⟩ sepolcro.",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "che gioiscono"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "esultanza"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "esultano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "trovano"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sepolcro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:07.483824404Z",
+  "model": "glm-5.3"
+}

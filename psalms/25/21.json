@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "L'integrità e la rettitudine mi custodiscano, perché in te ho sperato.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "l'integrità"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "e la rettitudine"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "mi custodiscano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "in te ho sperato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:16.436027304Z",
+  "model": "glm-5.3"
+}

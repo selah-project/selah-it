@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Nudi passano la notte senza veste, e non ⟨c'è⟩ copertura nel freddo.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "nudi"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "passano la notte"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "veste"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "copertura"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "nel freddo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:30.552157866Z",
+  "model": "glm-5.3"
+}

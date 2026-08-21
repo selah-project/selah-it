@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 20:19",
+  "book": "job",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Poiché ha schiacciato ⟨e⟩ ha abbandonato i poveri, ha rapito una casa e non la costruirà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רצץ",
+      "gloss": "ha schiacciato"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ha abbandonato"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "i poveri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "ha rapito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יבנהו",
+      "gloss": "la costruirà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:54.952698072Z",
+  "model": "glm-5.3"
+}

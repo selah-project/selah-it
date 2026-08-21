@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Se ⟨uno⟩ non torna, la sua spada egli affila; il suo arco ha teso e l'ha apprestata.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "la sua spada"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "affila"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "il suo arco"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ha teso"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "e l'ha apprestata"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:38.566858988Z",
+  "model": "glm-5.3"
+}

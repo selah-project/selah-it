@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E Haman prese ⟨את⟩ la veste e ⟨את⟩ il cavallo, e rivestì ⟨את⟩ Mordechai, e lo fece cavalcare nella piazza della città, e proclamò davanti a lui: «Così si fa all'uomo che il re vuole onorare».",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la veste"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "la veste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il cavallo"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "il cavallo"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "e rivestì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "e lo fece cavalcare"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "nella piazza"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e proclamò"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "così"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "si fa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "all'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vuole"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "onorare"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:51.609507381Z",
+  "model": "glm-5.3"
+}

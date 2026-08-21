@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Rimuovi il malvagio davanti al re, e si stabilirà ⟨nella⟩ giustizia il suo trono.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "rimuovi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "e si stabilirà"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "⟨nella⟩ giustizia"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "il suo trono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:10.997004048Z",
+  "model": "glm-5.3"
+}

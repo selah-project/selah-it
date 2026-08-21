@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E Abrahamo rimproverò ⟨את⟩ Avimelech a motivo di un pozzo d'acqua che dei servi di Avimelech avevano portato via con violenza.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "e rimproverò"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "על",
+      "gloss": "a motivo di"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "a motivo di"
+    },
+    {
+      "surface": "באר",
+      "gloss": "un pozzo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "d'acqua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "avevano portato via con violenza"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dei servi di"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:49.585903316Z",
+  "model": "glm-5.3"
+}

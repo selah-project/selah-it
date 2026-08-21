@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "la cui bocca parla vanità e la loro destra è ⟨una⟩ destra di menzogna.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "la cui"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "bocca"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "vanità"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "e la loro destra"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "destra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "di menzogna"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:59.058955425Z",
+  "model": "glm-5.3"
+}

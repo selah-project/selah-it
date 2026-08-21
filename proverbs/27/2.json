@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Ti lodi ⟨un estraneo⟩ e non la tua bocca, ⟨uno sconosciuto⟩ e non le tue labbra.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ti lodi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "un estraneo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "la tua bocca"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "uno sconosciuto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "le tue labbra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:45.757332751Z",
+  "model": "glm-5.3"
+}

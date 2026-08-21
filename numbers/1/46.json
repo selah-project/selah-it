@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "e furono tutti i censiti: seicentomila e tremila e cinquecento e cinquanta.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "i censiti"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "e tre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mila"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e cinque"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e cinquanta"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:34.117101568Z",
+  "model": "glm-5.3"
+}

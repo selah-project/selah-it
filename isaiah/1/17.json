@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Imparate a fare il bene, cercate il giusto verdetto, rendete felice l'oppresso, giudicate l'orfano, difendete la vedova.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "imparate"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "a fare il bene"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "cercate"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giusto verdetto"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "rendete felice"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "l'oppresso"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "giudicate"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "l'orfano"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "difendete"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "la vedova"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:45.027572733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Io dissi nel mio cuore: ⟨את⟩ il giusto e ⟨את⟩ il malvagio giudicherà Elohim, perché ⟨c'è⟩ un tempo per ogni desiderio e per ogni opera, là.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "dissi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nel mio cuore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giusto"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il malvagio"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "giudicherà"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un tempo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per ogni"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "desiderio"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e per"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:45.058392999Z",
+  "model": "glm-5.3"
+}

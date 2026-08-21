@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E colpì YHWH ⟨את⟩ il Faraone con piaghe grandi e ⟨את⟩ la sua casa, a motivo di Sarai, moglie di Abram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Faraone"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "il Faraone"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "piaghe"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua casa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a motivo di"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨motivo⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moglie"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "di Abram"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:05.675888888Z",
+  "model": "glm-5.3"
+}

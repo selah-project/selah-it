@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Perciò di': ecco, io do a lui ⟨את⟩ il mio patto di shalom.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "percio"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di'"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco, io"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "do"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio patto di shalom"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "di shalom"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:08.583960167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "È in lutto, langue la terra; è arrossita di vergogna ⟨la⟩ Lebanon, è appassita; è divenuto lo Sharon come ⟨la⟩ Araba, e sono nudi ⟨il⟩ Bashan e ⟨il⟩ Carmel.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "è in lutto"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "langue"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "è arrossita di vergogna"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "è appassita"
+    },
+    {
+      "surface": "היה",
+      "gloss": "è divenuto"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "lo Sharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "come ⟨la⟩ Araba"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "e sono nudi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "e ⟨il⟩ Carmel"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:40.367793528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "YHWH, non rimproverarmi nella tua ira, e nella tua furia non castigarmi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "nella tua ira"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "rimproverarmi"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "e nella tua furia"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "castigarmi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:25.104774226Z",
+  "model": "glm-5.3"
+}

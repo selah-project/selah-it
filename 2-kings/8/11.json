@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Ed egli fissò ⟨את⟩ il suo volto e lo fissò finché ⟨quello⟩ si vergognò; e l'uomo di Elohim pianse.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ed egli fissò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo volto"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e lo fissò"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "בש",
+      "gloss": "si vergognò"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "e pianse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:19.108390003Z",
+  "model": "glm-5.3"
+}

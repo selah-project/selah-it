@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E dissi: udite dunque, capi di Giacobbe, e governanti della casa d'Israele: non ⟨spetta⟩ a voi conoscere ⟨את⟩ il diritto?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "udite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dunque"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "capi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "e governanti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "conoscere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il diritto"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "il diritto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:40.361061444Z",
+  "model": "glm-5.3"
+}

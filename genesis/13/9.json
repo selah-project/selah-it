@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Non ⟨è⟩ forse tutta la terra davanti a te? Separati, ti prego, da me: se ⟨a⟩ sinistra, io ⟨a⟩ destra; e se ⟨a⟩ destra, io a sinistra.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "non forse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "separati"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "sinistra"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "e io a destra"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "destra"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "e io a sinistra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:21.775132776Z",
+  "model": "glm-5.3"
+}

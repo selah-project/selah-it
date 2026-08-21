@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "in quei giorni, mentre il re Achashverosh sedeva sul trono del suo regno, che ⟨si trova⟩ a Shushan la cittadella —",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "in giorni"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "quei"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "mentre sedeva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "il trono"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "del suo regno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "a Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "la cittadella"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:18.312356366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 133,
+  "translation": "Come l'olio buono sulla testa, che scende sulla barba, la barba di Aharon, che scende sull'orlo delle sue vesti.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Come l'olio"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scende"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "la barba"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "barba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "di Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "che scende"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פי",
+      "gloss": "l'orlo"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "delle sue vesti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:03.102570230Z",
+  "model": "glm-5.3"
+}

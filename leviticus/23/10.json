@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Parla ai figli d'Israele e di' loro: quando entrerete nella terra che io vi do e mieterete ⟨la⟩ sua messe, porterete l'omer, primizia della vostra mietitura, al sacerdote.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e di'"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "entrerete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "do"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "e mieterete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua messe"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "la sua messe"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "porterete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "l'omer"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "primizia"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "della vostra mietitura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sacerdote"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:35.918832806Z",
+  "model": "glm-5.3"
+}

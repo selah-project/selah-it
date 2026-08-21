@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Dalla tua rampogna fuggono, al suono del tuo tuono si affrettano via —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "la tua rampogna"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "fuggono"
+    },
+    {
+      "surface": "מן",
+      "gloss": "al"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suono"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "del tuo tuono"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "si affrettano via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:07.284323755Z",
+  "model": "glm-5.3"
+}

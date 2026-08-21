@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Porsi ⟨את⟩ la mia faccia verso Adonai, l'Elohim, per cercare preghiera e suppliche, con digiuno, sacco e cenere.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "posi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia faccia"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la mia faccia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "per cercare"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "preghiera"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "e suppliche"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "con digiuno"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "sacco"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "e cenere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:35:45.192599013Z",
+  "model": "glm-5.3"
+}

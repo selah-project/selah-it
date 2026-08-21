@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Se ha fame il tuo nemico, sazialo di pane; e se ha sete, dissetalo di acqua.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ha fame"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "il tuo nemico"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "sazialo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ha sete"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "dissetalo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:49.953904078Z",
+  "model": "glm-5.3"
+}

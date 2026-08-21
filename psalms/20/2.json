@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Ti risponda YHWH nel giorno dell'angoscia, ti metta in alto il Nome dell'Elohim di Yaakov.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "ti risponda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dell'angoscia"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "ti metta in alto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il Nome"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:55.287907816Z",
+  "model": "glm-5.3"
+}

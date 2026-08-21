@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Inclina, YHWH, il tuo orecchio e ascolta; apri, YHWH, i tuoi occhi e vedi; e ascolta le parole ⟨את⟩ di Sennacherib, che ha mandato a oltraggiare Elohim vivente.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Inclina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "il tuo orecchio"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "e ascolta"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "apri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i tuoi occhi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e vedi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "e ascolta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "di Sennacherib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ha mandato"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "a oltraggiare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivente"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:32.760852134Z",
+  "model": "glm-5.3"
+}

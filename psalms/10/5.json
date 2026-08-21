@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Son salde le sue vie in ogni tempo; i tuoi giudici ⟨sono⟩ in alto, lontano da lui; tutti i suoi avversari egli li soffia ⟨via⟩.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "son salde"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "le sue vie"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ogni tempo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "in alto"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "i tuoi giudizi"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "lontano da lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "i suoi avversari"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "egli soffia"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "contro di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:21.866538033Z",
+  "model": "glm-5.3"
+}

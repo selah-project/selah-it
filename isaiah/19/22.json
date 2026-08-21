@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E colpirà YHWH ⟨את⟩ l'Egitto, colpendo e guarendo; ed essi torneranno fino a YHWH, ed egli si lascerà supplicare da loro e li guarirà.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "e colpirà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "colpendo"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "e guarendo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ed essi torneranno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "e si lascerà supplicare"
+    },
+    {
+      "surface": "להם",
+      "gloss": "da loro"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "e li guarirà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:53.366722303Z",
+  "model": "glm-5.3"
+}

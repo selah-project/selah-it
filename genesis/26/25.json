@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 26:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E costruì là un altare e invocò nel nome di YHWH, e piantò là la sua tenda; e scavarono là i servi di Isacco un pozzo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altare"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e invocò"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "e piantò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "la sua tenda"
+    },
+    {
+      "surface": "ויכרו",
+      "gloss": "e scavarono"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi di"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isacco"
+    },
+    {
+      "surface": "באר",
+      "gloss": "un pozzo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:30.438439936Z",
+  "model": "glm-5.3"
+}

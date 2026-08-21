@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 11:16",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E vi sarà una strada per il resto del suo popolo, quello che resterà da Ashshur, come fu per Israele nel giorno in cui salì dal paese di Mitzrajim.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "e vi sarà"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "una strada"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "per il resto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "del suo popolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quello che"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "resterà"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "da Ashshur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "per Israele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "in cui salì"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrajim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:42.660116767Z",
+  "model": "glm-5.3"
+}

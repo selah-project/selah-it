@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Pose ⟨come⟩ tenebra il suo nascondiglio, attorno a lui la sua sukka: tenebre di acque, nuvole dense dei cieli.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "pose"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "il suo nascondiglio"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "attorno a lui"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "la sua sukka (tenda)"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "tenebre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "di acque"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "nubi dense"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "dei cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:33.115548185Z",
+  "model": "glm-5.3"
+}

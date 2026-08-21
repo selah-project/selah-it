@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "C'è una via diritta davanti a un uomo, ma la sua fine ⟨sono⟩ vie di morte.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "una via"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "diritta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ma la sua fine"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "vie"
+    },
+    {
+      "surface": "מות",
+      "gloss": "di morte"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:59.913569047Z",
+  "model": "glm-5.3"
+}

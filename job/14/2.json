@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 14:2",
+  "book": "job",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Come un fiore esce e sfiorisce, e fugge come un'ombra e non resta fermo.",
+  "tokens": [
+    {
+      "surface": "כציץ",
+      "gloss": "come un fiore"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "esce"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "e sfiorisce"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "e fugge"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "come un'ombra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יעמוד",
+      "gloss": "resta fermo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:53.965245539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ la cicogna, l'airone secondo la sua specie, e ⟨את⟩ la upupa, e ⟨את⟩ il pipistrello.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la cicogna"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "la cicogna"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "l'airone"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "secondo la sua specie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la upupa"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "la upupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il pipistrello"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "il pipistrello"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:40.852200044Z",
+  "model": "glm-5.3"
+}

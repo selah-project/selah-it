@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Disprezza il suo prossimo chi ⟨è⟩ privo di cuore, ma l'uomo di discernimento tace.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "disprezza"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "privo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma l'uomo"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "di discernimento"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "tace"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:54.394493401Z",
+  "model": "glm-5.3"
+}

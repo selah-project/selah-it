@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "la bestia selvatica e tutto il bestiame, i rettili e gli uccelli alati:",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "la bestia selvatica"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "i rettili"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "e gli uccelli"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "alati"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:36.697556609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E radunò Lavan ⟨את⟩ tutti gli uomini del posto e fece un banchetto.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "e radunò"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti gli uomini del posto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "del posto"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "un banchetto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:52.117548309Z",
+  "model": "glm-5.3"
+}

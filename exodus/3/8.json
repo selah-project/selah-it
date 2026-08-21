@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 3:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E sono sceso per liberarlo dalla mano degli egiziani e per farlo salire da quella terra a una terra buona e spaziosa, a una terra che stilla latte e miele, al luogo del cananeo, dell'ittita, dell'emoreo, del perizzita, dell'ivveo e del gebuseo.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "E sono sceso"
+    },
+    {
+      "surface": "להצילו",
+      "gloss": "per liberarlo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "degli egiziani"
+    },
+    {
+      "surface": "ולהעלתו",
+      "gloss": "e per farlo salire"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "quella terra"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "buona"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "e spaziosa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "che stilla"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "latte"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e miele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "luogo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "del cananeo"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dell'ittita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "dell'emoreo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "del perizzita"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "dell'ivveo"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e del gebuseo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:20.139020065Z",
+  "model": "glm-5.3"
+}

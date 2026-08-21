@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "E fecero ⟨את⟩ la lamina della corona santa, d'oro puro, e scrissero su di essa una scritta, incisioni di sigillo: « Santo per YHWH ».",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la lamina"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "la lamina"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "della corona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "e scrissero"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "una scritta"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "incisioni"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "di sigillo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "« Santo »"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:46.506944782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E degli Ebrei passarono ⟨את⟩ il Giordano, verso la terra di Gad e di Gilead; e Saul era ancora a Ghilgal, e tutto il popolo tremava dietro di lui.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "E degli Ebrei"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "passarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "di Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "e di Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "e Saul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "era ancora"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "a Ghilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "tremava"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dietro di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:13.072198576Z",
+  "model": "glm-5.3"
+}

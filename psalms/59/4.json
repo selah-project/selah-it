@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Poiché ecco: hanno teso agguato alla mia nefesh, si radunano contro di me i prepotenti — non per mia ribellione né per mio peccato, YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "hanno teso agguato"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "alla mia nefesh"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "si radunano"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "i prepotenti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "per mia ribellione"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "per mio peccato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:50.781093811Z",
+  "model": "glm-5.3"
+}

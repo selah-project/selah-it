@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Poiché non con la loro spada presero possesso della terra, e il loro braccio non li salvò; ma la tua destra, e il tuo braccio, e la luce del tuo volto — poiché li hai favoriti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "con la loro spada"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "presero possesso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "e il loro braccio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "salvò"
+    },
+    {
+      "surface": "למו",
+      "gloss": "li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "e il tuo braccio"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "e la luce"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "del tuo volto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "li hai favoriti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:09.899198602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Perché io ⟨sono⟩ YHWH, il tuo Elohim, il Santo d'Israele, il tuo salvatore; ho dato l'Egitto come tuo riscatto, Kush e Seva al tuo posto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "il Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "il tuo salvatore"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "come tuo riscatto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "e Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "al tuo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:41.088550112Z",
+  "model": "glm-5.3"
+}

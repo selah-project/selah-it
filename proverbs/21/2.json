@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Ogni via di un uomo ⟨è⟩ diritta ai suoi occhi, ma YHWH pesa i cuori.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "via"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "diritta"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ai suoi occhi"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ma pesa"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "i cuori"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:04.763816368Z",
+  "model": "glm-5.3"
+}

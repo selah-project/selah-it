@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Quanto prezioso il tuo chesed, Elohim! Perciò i figli dell'uomo all'ombra delle tue ali si rifugiano.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "prezioso"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e i figli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "all'ombra"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "delle tue ali"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "si rifugiano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:48.010592225Z",
+  "model": "glm-5.3"
+}

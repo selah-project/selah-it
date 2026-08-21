@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Poiché nell'abbondanza di sapienza ⟨vi è⟩ abbondanza di cruccio, e chi accresce conoscenza accresce dolore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nell'abbondanza di"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sapienza"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abbondanza"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "di cruccio"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "e accresce"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "conoscenza"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "accresce"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "dolore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:47.477176010Z",
+  "model": "glm-5.3"
+}

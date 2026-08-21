@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Come una lumaca che si strugge, così ⟨ciascuno⟩ passi; come l'aborto di una donna, non vedranno il sole.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "una lumaca"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "che si strugge"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "passi"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "l'aborto"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "di una donna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "vedranno"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "il sole"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:13.787536383Z",
+  "model": "glm-5.3"
+}

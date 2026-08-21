@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E avvenne, quando Achab vide ⟨את⟩ Elia, che Achab gli disse: «Sei tu colui che turba Israele?»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "quando vide"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Sei tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "colui"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "che turba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:16.543557789Z",
+  "model": "glm-5.3"
+}

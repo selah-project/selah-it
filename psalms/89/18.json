@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Poiché tu ⟨sei⟩ lo splendore della loro forza, e nel tuo favore si innalza il nostro corno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "lo splendore"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "della loro forza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "e nel tuo favore"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "si innalza"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "il nostro corno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:16.603608702Z",
+  "model": "glm-5.3"
+}

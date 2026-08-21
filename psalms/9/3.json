@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Esulterò e gioirò in te, canterò il tuo Nome, ⟨o⟩ Altissimo.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "esulterò"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "e gioirò"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Altissimo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:53.302932018Z",
+  "model": "glm-5.3"
+}

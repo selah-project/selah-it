@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 114,
+  "translation": "Colui che volge ⟨la⟩ roccia in uno stagno d'acqua, la selce in sorgenti d'acqua!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Colui che volge"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "la roccia"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "in uno stagno"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "la selce"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "in sorgenti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:40.678637674Z",
+  "model": "glm-5.3"
+}

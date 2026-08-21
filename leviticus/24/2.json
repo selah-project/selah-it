@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Ordina ⟨ai⟩ figli d'Israele, che prendano ⟩per⟨ te olio d'oliva puro, battuto, per il lume, per far salire la luce di continuo.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "ordina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "che prendano"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "verso di te"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "זית",
+      "gloss": "d'oliva"
+    },
+    {
+      "surface": "זך",
+      "gloss": "puro"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "battuto"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "per il lume"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "per far salire"
+    },
+    {
+      "surface": "נר",
+      "gloss": "la lampada"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "di continuo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:02.221715072Z",
+  "model": "glm-5.3"
+}

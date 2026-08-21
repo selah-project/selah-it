@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ecco, ho reso la tua faccia forte davanti alle loro facce, e ⟨את⟩ la tua fronte forte davanti alla loro fronte.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho reso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua faccia"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "la tua faccia"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "forte"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "alle loro facce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la tua fronte"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "la tua fronte"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "forte"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "alla loro fronte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:16:55.694474643Z",
+  "model": "glm-5.3"
+}

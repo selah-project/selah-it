@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "poiché ⟨sono⟩ i vostri occhi che videro ⟨את⟩ tutta l'opera grande di YHWH, quella che egli fece.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "i vostri occhi"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "videro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta l'opera grande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quella che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:19.326945001Z",
+  "model": "glm-5.3"
+}

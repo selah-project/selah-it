@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Secondo i tuoi giudizi ⟨sono⟩ rimasti saldi fino a questo giorno, perché tutto ⟨è⟩ al tuo servizio.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "secondo i tuoi giudizi"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "sono rimasti saldi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "fino a questo giorno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "al tuo servizio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:54.815523582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "YHWH, il vostro Elohim, che cammina davanti a voi — ⟨lui⟩ combatterà per voi, secondo tutto ciò che ha fatto ⟨את⟩ voi in Egitto, davanti ai vostri occhi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "che cammina"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "combatterà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "davanti ai vostri occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:18.457534387Z",
+  "model": "glm-5.3"
+}

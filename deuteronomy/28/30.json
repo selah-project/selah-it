@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Una donna fidancerai, e un altro uomo giacerà con lei; una casa costruirai e non vi abiterai; una vigna pianterai e non la profanerai ⟨raccogliendone⟩.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "fidancerai"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e un uomo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altro"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "giacerà con lei"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "costruirai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "abiterai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "una vigna"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "pianterai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "la profanerai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:56.351456963Z",
+  "model": "glm-5.3"
+}

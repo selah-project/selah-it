@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Allora disse Davide: non ⟨si deve⟩ portare ⟨את⟩ l'arca dell'Elohim se non i leviti, perché in loro scelse YHWH per portare ⟨את⟩ l'arca di YHWH e per servirlo fino all'eterno.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Allora"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "portare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca dell'Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se non"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "i leviti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in loro"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "scelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "per portare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca di YHWH"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "e per servirlo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "all'eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:52.233892995Z",
+  "model": "glm-5.3"
+}

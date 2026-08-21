@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Ma ⟨את⟩ il campo della città e ⟨את⟩ i suoi villaggi diedero a Kalev figlio di Yefunne in possesso.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "il campo della città"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi villaggi"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "i suoi villaggi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "diedero"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "a Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "di Yefunne"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "in possesso"
+    }
+  ],
+  "timestamp": "2026-08-21T06:55:54.865492843Z",
+  "model": "glm-5.3"
+}

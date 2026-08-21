@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E il resto degli alberi del suo bosco sarà ⟨così poco⟩ che si conterà, e un fanciullo li scriverà.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "e il resto"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "degli alberi"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "del suo bosco"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "un numero (contabile)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "e un fanciullo"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "li scriverà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:34.956026478Z",
+  "model": "glm-5.3"
+}

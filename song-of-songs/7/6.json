@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "La tua testa su di te ⟨è⟩ come ⟨il⟩ Carmelo, e la chioma della tua testa come la porpora; un re ⟨è⟩ legato nelle ciocche.",
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "la tua testa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "come il Carmelo"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "e la chioma"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "della tua testa"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "come la porpora"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "legato"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "nelle ciocche"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:05.737384820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Quando ⟨egli⟩ sia giudicato, esca colpevole, e la sua preghiera diventi peccato.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "quando sia giudicato"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "esca"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "colpevole"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "e la sua preghiera"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "diventi"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:55.477824537Z",
+  "model": "glm-5.3"
+}

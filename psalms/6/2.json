@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "YHWH, non rimproverarmi nel tuo furore, e non castigarmi nella tua ira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "nel tuo furore"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "rimproverarmi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "nella tua ira"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "castigarmi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:44.518516126Z",
+  "model": "glm-5.3"
+}

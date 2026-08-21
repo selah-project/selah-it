@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E li fa saltellare come un vitello — ⟨il⟩ Libano e Sirion come un figlio di bufali selvatici.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "E li fa saltellare"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "un vitello"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "il Libano"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "e Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio di"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "bufali selvatici"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:47.558684797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E disse YHWH al pesce, ed esso vomitò ⟨את⟩ Yonah sull'asciutto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "al pesce"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ed esso vomitò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "l'asciutto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:23.202254723Z",
+  "model": "glm-5.3"
+}

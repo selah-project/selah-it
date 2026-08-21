@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Nella sua malvagità è respinto il malvagio, ma il giusto cerca rifugio nella sua morte.",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "nella sua malvagità"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "è respinto"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ma cerca rifugio"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "nella sua morte"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:41.206974091Z",
+  "model": "glm-5.3"
+}

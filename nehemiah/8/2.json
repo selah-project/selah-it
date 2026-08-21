@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E Ezra il sacerdote portò ⟨את⟩ la Torah davanti all'assemblea, dall'uomo fino alla donna, e tutti ⟨quelli⟩ che comprendevano ⟨ascoltando⟩, nel giorno uno del mese settimo.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "e portò"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dall'uomo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "che comprendevano"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ascoltando"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:43:36.912796561Z",
+  "model": "glm-5.3"
+}

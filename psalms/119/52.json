@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ho ricordato i tuoi giudizi, da sempre, YHWH, e mi sono consolato.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Ho ricordato"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "i tuoi giudizi"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "da sempre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "e mi sono consolato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:21.101076965Z",
+  "model": "glm-5.3"
+}

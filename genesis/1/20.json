@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse Elohim: brulichino le acque di un brulichio di nefesh vivente, e volatile voli sulla terra, sulla faccia del firmamento dei cieli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "brulichino"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "un brulichio"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "vivente"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "e volatile"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "voli"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "del firmamento"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:38.086219466Z",
+  "model": "glm-5.3"
+}

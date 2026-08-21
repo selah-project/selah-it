@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Metti alla prova, ti prego, ⟨את⟩ i tuoi servi dieci giorni; e ci diano dei semi ⟨da mangiare⟩, e acqua, e beviamo.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "metti alla prova"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi servi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i tuoi servi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "e ci diano"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "i semi (legumi)"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "e mangiamo"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e acqua"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "e beviamo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:10.202017328Z",
+  "model": "glm-5.3"
+}

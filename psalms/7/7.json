@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Lévati, YHWH, nella tua ira; innalzati contro le furie dei miei avversari; svegliati per me: il giudizio tu hai ordinato.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Lévati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "nella tua ira"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "innalzati"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "contro le furie"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dei miei avversari"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "e svegliati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "tu hai ordinato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:00.813594526Z",
+  "model": "glm-5.3"
+}

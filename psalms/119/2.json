@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Beati quelli che custodiscono ⟨את⟩ le sue testimonianze, con tutto il cuore lo cercano.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beati"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "quelli che custodiscono"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "⟨את⟩ le sue testimonianze",
+      "marks": "le sue testimonianze"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "lo cercano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:17.709641258Z",
+  "model": "glm-5.3"
+}

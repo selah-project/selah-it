@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E la vacca e l'orsa pascoleranno insieme, si sdraieranno i loro piccoli; e il leone mangerà paglia come il bue.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "e la vacca"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "e l'orsa"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "pascoleranno"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "si sdraieranno"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "i loro piccoli"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "e il leone"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "come il bue"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "paglia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:35.796436914Z",
+  "model": "glm-5.3"
+}

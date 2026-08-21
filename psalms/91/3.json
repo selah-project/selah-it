@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Poiché egli ti libererà dal laccio dell'uccellatore e dalla peste della rovina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ti libererà"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "dal laccio"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "dell'uccellatore"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dalla peste"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "della rovina"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:56.996292428Z",
+  "model": "glm-5.3"
+}

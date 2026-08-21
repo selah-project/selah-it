@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E disse: io farò passare tutto il mio bene davanti al tuo volto, e proclamerò il nome di YHWH davanti a te; e farò grazia a chi farò grazia, e avrò compassione di chi avrò compassione.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "farò passare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "il mio bene"
+    },
+    {
+      "surface": "על",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "al tuo volto"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "e proclamerò"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "e farò grazia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi (farò grazia)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "farò grazia"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "e avrò compassione"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi (avrò compassione)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "avrò compassione"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:26.458639415Z",
+  "model": "glm-5.3"
+}

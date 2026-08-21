@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E lei disse a Elia: che ⟨c'è⟩ fra me e te, uomo dell'Elohim? Sei venuto da me per ricordare ⟨את⟩ la mia colpa e per far morire ⟨את⟩ mio figlio?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E lei disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e a te"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "Sei venuto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "da me"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "per ricordare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia colpa"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "la mia colpa"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "e per far morire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mio figlio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:57.467742117Z",
+  "model": "glm-5.3"
+}

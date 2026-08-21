@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Tutta gloriosa ⟨è⟩ la figlia di re ⟨nelle⟩ stanze interne; di ricami d'oro ⟨è⟩ il suo vestito.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "gloriosa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "di re"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "verso l'interno"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "di ricami"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "il suo vestito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:52.086027256Z",
+  "model": "glm-5.3"
+}

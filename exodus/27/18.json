@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "La lunghezza del cortile: cento cubiti, e la larghezza cinquanta per cinquanta, e l'altezza cinque cubiti, di lino ritorto, e le loro basi di rame.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "la lunghezza"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "del cortile"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubi­ti"
+    },
+    {
+      "surface": "וירחב",
+      "gloss": "e la larghezza"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquanta"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "per cinquanta"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "e l'altezza"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubiti"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di lino fino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ritorto"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "e le loro basi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "di rame"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:47.140885911Z",
+  "model": "glm-5.3"
+}

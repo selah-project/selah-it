@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "I nostri padri in Egitto non compresero le tue meraviglie, non si ricordarono ⟨את⟩ l'abbondanza dei tuoi chesed, e si ribellarono presso il mare, al mare di Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "i nostri padri"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "comprese"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "le tue meraviglie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "si ricordarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'abbondanza dei tuoi chesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "l'abbondanza"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "dei tuoi chesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "e si ribellarono"
+    },
+    {
+      "surface": "על",
+      "gloss": "presso"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "בים",
+      "gloss": "al mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "di Suf"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:20.284797285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "sia i figli dell'uomo comune sia i figli del nobile, insieme, ricco e povero.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo comune"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli del"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nobile"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ricco"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e povero"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:14.945798798Z",
+  "model": "glm-5.3"
+}

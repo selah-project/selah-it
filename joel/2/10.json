@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Davanti a lui trema ⟨la⟩ terra, tremano i cieli; sole e luna si oscurano, e le stelle ritirano il loro splendore.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "trema"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terra"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "tremano"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sole"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "e luna"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "si oscurano"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "e le stelle"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "ritirano"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "il loro splendore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:01.133186360Z",
+  "model": "glm-5.3"
+}

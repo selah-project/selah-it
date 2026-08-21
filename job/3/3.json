@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Perisca il giorno in cui nacqui, e la notte che disse: ⟨⟨un maschio è stato concepito⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "perisca"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "nacqui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "e la notte"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "è stato concepito"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "un maschio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:08.719090266Z",
+  "model": "glm-5.3"
+}

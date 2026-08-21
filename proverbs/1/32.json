@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Poiché l'apostasia dei semplici li ucciderà, e la quiete degli stolti li distruggerà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "l'apostasia"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "dei semplici"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "li ucciderà"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "e la quiete"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "degli stolti"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "li distruggerà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:36.528275258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e fuggì Adad, lui e uomini edomiti, dei servi di suo padre, ⟨את⟩ con lui, per venire in Egitto; e Hadad ⟨era⟩ un ragazzo piccolo.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "e fuggì"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "e uomini"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "edomiti"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "dei servi di"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui",
+      "marks": "con lui"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "per venire"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "e Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un ragazzo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "piccolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:27.164277782Z",
+  "model": "glm-5.3"
+}

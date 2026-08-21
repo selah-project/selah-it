@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Al profumo dei tuoi olii, buoni — olio versato ⟨è⟩ il tuo nome; per questo le adolescenti ti amano.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "al profumo"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "dei tuoi olii"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "buoni"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "versato"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "le adolescenti"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "ti amano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:44.281912637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Quanto a me: ecco, il mio patto ⟨è⟩ ⟨את⟩ con te, e sarai padre di una moltitudine di nazioni.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Quanto a me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te",
+      "marks": "te"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "e sarai"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "padre"
+    },
+    {
+      "surface": "המון",
+      "gloss": "di una moltitudine"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "di nazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:45.278785807Z",
+  "model": "glm-5.3"
+}

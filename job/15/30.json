@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Non si allontanerà dalle tenebre, la sua germoglia inaridirà la fiamma, e ⟨sarà⟩ portato via dal soffio della ⟨sua⟩ bocca.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "si allontanerà"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dalle"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebre"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "la sua germoglia"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "inaridirà"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "la fiamma"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "e sarà portato via"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "dal soffio della"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T09:17:51.907515776Z",
+  "model": "glm-5.3"
+}

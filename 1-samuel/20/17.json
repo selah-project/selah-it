@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Gionatan aggiunse a far giurare ⟨את⟩ Davide, perché lo amava ⟨אתו⟩ con l'amore ⟨della⟩ propria nefesh — con l'amore della sua nefesh lo amava.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "aggiunse"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Gionatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "a far giurare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "perché lo amava — nell'amore suo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lui (Davide)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "con l'amore"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "della sua nefesh"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "lo amava"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:28.920776875Z",
+  "model": "glm-5.3"
+}

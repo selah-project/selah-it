@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Tutti i torrenti vanno verso ⟨il⟩ mare, e il mare non ⟨è⟩ pieno; al luogo dove quei torrenti vanno, là essi tornano per andare di nuovo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "i torrenti"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "vanno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "והים",
+      "gloss": "e il mare"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "non"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "⟨è⟩ pieno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "luogo"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "dove quei torrenti"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "vanno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "tornano"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "per andare di nuovo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:39.230624512Z",
+  "model": "glm-5.3"
+}

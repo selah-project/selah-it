@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Che farete nel giorno dell'appuntamento fisso, e nel giorno della festa di YHWH?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "farete"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "nel giorno dell'"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "appuntamento fisso"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "e nel giorno della"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:17.590553273Z",
+  "model": "glm-5.3"
+}

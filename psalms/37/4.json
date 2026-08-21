@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E trova il tuo diletto in YHWH, ed ⟨egli⟩ ti darà le richieste del tuo cuore.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "E trova il tuo diletto"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ed ⟨egli⟩ darà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "le richieste"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "del tuo cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:24.122425977Z",
+  "model": "glm-5.3"
+}

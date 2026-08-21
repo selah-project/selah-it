@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "ma del frutto dell'albero che ⟨è⟩ in mezzo al giardino, ha detto Elohim: non mangerete di esso e non lo toccherete, perché non moriate».",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "ma del frutto"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dell'albero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "al giardino"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "di esso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "toccherete"
+    },
+    {
+      "surface": "בו",
+      "gloss": "esso"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "moriate"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:09.907053272Z",
+  "model": "glm-5.3"
+}

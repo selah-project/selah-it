@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 150,
+  "translation": "Lodatelo con tamburello e danza, lodatelo con corde e flauto.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "con tamburello"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "e danza"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "con corde"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "e flauto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:56.437175770Z",
+  "model": "glm-5.3"
+}

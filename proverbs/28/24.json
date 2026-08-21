@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Chi deruba padre ⟨e⟩ madre e dice: « non ⟨c'è⟩ trasgressione », compagno ⟨è⟩ di un uomo distruttore.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "chi deruba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "padre"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "e madre"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dice"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "trasgressione"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "compagno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "distruttore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:09.038204322Z",
+  "model": "glm-5.3"
+}

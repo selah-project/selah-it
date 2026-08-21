@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Poiché YHWH ascolta ⟨את⟩ i poveri, e ⟨את⟩ i suoi prigionieri non disprezza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "i poveri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi prigionieri"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "i suoi prigionieri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "disprezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:04.410938924Z",
+  "model": "glm-5.3"
+}

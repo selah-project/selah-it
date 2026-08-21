@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Scenda come pioggia sul pelo tosato, come acquazzoni che stillano ⟨sopra⟩ la terra.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Scenda"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "come pioggia"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "גז",
+      "gloss": "pelo tosato"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "come acquazzoni"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "che stillano"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:10.902509607Z",
+  "model": "glm-5.3"
+}

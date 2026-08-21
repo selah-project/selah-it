@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Adonai riderà di lui, perché ha visto che il suo giorno viene.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "riderà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "di lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ha visto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "il suo giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:02.659783339Z",
+  "model": "glm-5.3"
+}

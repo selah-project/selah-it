@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 150,
+  "translation": "Lodatelo nelle sue imprese potenti, lodatelo secondo l'abbondanza della sua grandezza.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "nelle sue imprese potenti"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "secondo l'abbondanza"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "della sua grandezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:56.436967654Z",
+  "model": "glm-5.3"
+}

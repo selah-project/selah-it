@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Dall'estremità dei cieli ⟨è⟩ la sua uscita, e il suo giro fino alle loro estremità; e non ⟨vi è⟩ chi si nasconda dal suo calore.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "dall'estremità"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "la sua uscita"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "e il suo giro"
+    },
+    {
+      "surface": "על",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "alle loro estremità"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non vi è"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "chi si nasconda"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "dal suo calore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:33.684484845Z",
+  "model": "glm-5.3"
+}

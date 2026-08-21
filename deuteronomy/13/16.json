@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "colpirai, sì colpirai gli abitanti di quella città al filo della spada; la voterai allo sterminio, lei e tutto ciò che è in lei e ⟨את⟩ il suo bestiame, al filo della spada.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "colpirai, sì"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "colpirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli abitanti di quella città"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti di"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "quella città"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "della spada"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "la voterai allo sterminio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto ciò che è in lei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in lei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo bestiame"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "il suo bestiame"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "della spada"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:32.125955064Z",
+  "model": "glm-5.3"
+}

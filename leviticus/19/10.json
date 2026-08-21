@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E la tua vigna non spillerai, e i raspoi della tua vigna non raccoglierai: al povero e al forestiero ⟨את⟩ li lascerai. Io ⟨sono⟩ YHWH, Elohim vostro.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "e la tua vigna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "spillerai"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "e i raspoi"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "della tua vigna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "raccoglierai"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "al povero"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "e al forestiero"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "lascerai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:43.682923249Z",
+  "model": "glm-5.3"
+}

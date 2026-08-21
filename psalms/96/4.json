@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Poiché grande ⟨è⟩ YHWH e lodato moltissimo, terribile ⟨è⟩ lui sopra tutti gli Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "e lodato"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "moltissimo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "terribile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gli Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:21.706374782Z",
+  "model": "glm-5.3"
+}

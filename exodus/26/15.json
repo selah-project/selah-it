@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E farai ⟨את⟩ le assi per il mishkan: legno di acacia (shittim), erette.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le assi"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "le assi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "per il mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "legno"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "di acacia (shittim)"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "erette"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:05.569204268Z",
+  "model": "glm-5.3"
+}

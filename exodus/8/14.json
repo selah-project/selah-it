@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E fecero così i maghi con le loro arti segrete per far uscire ⟨את⟩ i pidocchi, ma non poterono; e i pidocchi furono sull'uomo e sul bestiame.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "i maghi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "con le loro arti segrete"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "per far uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i pidocchi"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "i pidocchi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "poterono"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "i pidocchi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sull'uomo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e sul bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:15.268606365Z",
+  "model": "glm-5.3"
+}

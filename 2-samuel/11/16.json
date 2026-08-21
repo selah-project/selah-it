@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E avvenne, mentre Ioav sorvegliava la città, che egli pose ⟨את⟩ Urià nel luogo dove sapeva che c'erano uomini valorosi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "avvenne"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "mentre sorvegliava"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urià"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urià"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sapeva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "valorosi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "c'erano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:58.173637819Z",
+  "model": "glm-5.3"
+}

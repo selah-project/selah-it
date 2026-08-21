@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "Lodatelo, sole e luna, lodatelo, tutte le stelle di luce.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sole"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "e luna"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "le stelle"
+    },
+    {
+      "surface": "אור",
+      "gloss": "di luce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:07.291125804Z",
+  "model": "glm-5.3"
+}

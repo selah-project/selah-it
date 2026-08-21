@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "In ⟨il⟩ anno di ⟨questo⟩ yovel voi tornerete, ciascuno alla sua proprietà.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "In ⟨il⟩ anno di"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨questo⟩"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "voi tornerete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "alla sua proprietà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:10.658164431Z",
+  "model": "glm-5.3"
+}

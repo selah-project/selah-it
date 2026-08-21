@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E lo farà a pezzi ⟨את⟩ nelle sue parti, e ⟨את⟩ la sua testa e ⟨את⟩ il suo grasso, e il sacerdote li disporrà ⟨את⟩ sulla legna che è sul fuoco che è sull'altare.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "e lo farà a pezzi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (la vittima)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "nelle sue parti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la sua testa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "la sua testa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo grasso"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "il suo grasso (suelo)"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "e disporrà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (le parti)"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "la legna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "è su"
+    },
+    {
+      "surface": "האש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "è su"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:57.252692787Z",
+  "model": "glm-5.3"
+}

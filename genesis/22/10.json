@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E Avraham stese ⟨את⟩ la sua mano e prese ⟨את⟩ il coltello per sgozzare ⟨את⟩ suo figlio.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e stese"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il coltello"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "il coltello"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "per sgozzare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo figlio"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:12.211622827Z",
+  "model": "glm-5.3"
+}

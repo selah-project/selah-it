@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Ecco, giorni vengono, oracolo di YHWH, e stringerò con ⟨את⟩ la casa di Israele e con ⟨את⟩ la casa di Giuda un patto nuovo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vengono"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "e stringerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di Israele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la casa di Giuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "un patto"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nuovo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:08:29.361922887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "che fa i cieli e la terra, ⟨את⟩ il mare e ⟨את⟩ tutto ciò che è in essi; che custodisce la verità per sempre,",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "che fa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e la terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mare"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto ciò che è in essi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in essi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "che custodisce"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "la verità"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:14.336403787Z",
+  "model": "glm-5.3"
+}

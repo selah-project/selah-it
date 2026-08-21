@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Ma il nobile decide cose nobili, e su cose nobili ⟨si⟩ leverà.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "Ma il nobile"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "cose nobili"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "decide"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed egli"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "cose nobili"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "⟨si⟩ leverà"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:00.832713722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Chi, fra tutti gli dèi di queste terre, ha liberato ⟨את⟩ la propria terra dalla mia mano, perché YHWH liberi ⟨את⟩ Gerusalemme dalla mia mano?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fra tutti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gli dèi"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "di queste terre"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ha liberato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la propria terra"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "la propria terra"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dalla mia mano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "liberi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dalla mia mano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:52.394401503Z",
+  "model": "glm-5.3"
+}

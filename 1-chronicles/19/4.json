@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Khanun prese ⟨את⟩ i servi di David, e li fece radere, e tagliò ⟨את⟩ le loro vesti a metà fino all'inguine, e li rimandò.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "E prese"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Khanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i servi di David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "e li fece radere"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "e tagliò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro vesti"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "le loro vesti"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "a metà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "all'inguine"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "e li rimandò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:19.438379055Z",
+  "model": "glm-5.3"
+}

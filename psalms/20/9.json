@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Essi hanno piegato ⟨il ginocchio⟩ e sono caduti, ma noi ci siamo rialzati e ci teniamo ritti.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "hanno piegato il ginocchio"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "e sono caduti"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ma noi"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "ci siamo rialzati"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "e ci teniamo ritti"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:48.812411339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "A colui che fa ⟨i⟩ cieli con intelligenza, perché per sempre ⟨dura⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "a colui che fa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨i⟩ cieli"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "con intelligenza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:39.348192730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Tendesti la tua destra: li inghiottì la terra.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "tendesti"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "li inghiottì"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:42.817551333Z",
+  "model": "glm-5.3"
+}

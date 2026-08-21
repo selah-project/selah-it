@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e ti fidanzerò a me nella fedeltà, e conoscerai ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "e ti fidanzerò"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "nella fedeltà"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "e conoscerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:36.048278092Z",
+  "model": "glm-5.3"
+}

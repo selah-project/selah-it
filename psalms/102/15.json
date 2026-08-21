@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Perché i tuoi servi si compiacciono delle sue pietre ⟨את⟩ e della sua polvere ⟨את⟩ hanno compassione.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "si compiacciono"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i tuoi servi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue pietre"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "le sue pietre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la sua polvere"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "la sua polvere"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "hanno compassione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:47.543239928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 23:39",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "perciò ecco, io vi solleverò portandovi via ⟨את⟩ voi, e vi abbandonerò ⟨את⟩ voi e ⟨את⟩ la città che ho dato a voi e ai vostri padri, davanti alla mia faccia.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "perciò"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco io"
+    },
+    {
+      "surface": "ונשיתי",
+      "gloss": "e solleverò portando via"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "(portare via)"
+    },
+    {
+      "surface": "ונטשתי",
+      "gloss": "e abbandonerò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la città"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "e ai vostri padri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da davanti a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la mia faccia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:28.438359558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e tolse da tutte le città di Giuda ⟨את⟩ le bamot e ⟨את⟩ i chammanim, e il regno fu quieto davanti a lui.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "e tolse"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutte"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bamot"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "le bamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i chammanim"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "i chammanim"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "e fu quieto"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:57:26.503785413Z",
+  "model": "glm-5.3"
+}

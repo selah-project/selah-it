@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Ecco, la verità tu hai desiderato nelle parti intime, e nel nascosto la sapienza mi farai conoscere.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "la verità"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "tu hai desiderato"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "nelle parti intime"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "e nel nascosto"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "mi farai conoscere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:33.007374302Z",
+  "model": "glm-5.3"
+}

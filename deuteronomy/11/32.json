@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E custodirete di fare ⟨את⟩ tutti gli statuti e ⟨את⟩ le norme che io pongo davanti a voi oggi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "E custodirete"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti gli statuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "gli statuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le norme"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "le norme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pongo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:52.202362281Z",
+  "model": "glm-5.3"
+}

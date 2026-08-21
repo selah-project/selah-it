@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E mi volsi e scesi dal monte, e posi ⟨את⟩ le tavole nell'arca che avevo fatto; e furono là, come mi aveva comandato YHWH.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "e mi volsi"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "e scesi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "e posi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le tavole"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "le tavole"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "nell'arca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "avevo fatto"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "mi aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:21.257117375Z",
+  "model": "glm-5.3"
+}

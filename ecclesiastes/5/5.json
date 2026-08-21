@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Non dare ⟨את⟩ la tua bocca per far peccare ⟨את⟩ la tua carne, e non dire davanti al messaggero: « ⟨fu⟩ un errore »; perché adirarsi su la tua voce dovrebbe Elohim, e distruggere ⟨את⟩ l'opera delle tue mani?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua bocca"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "la tua bocca"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "per far peccare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua carne"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "la tua carne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dire"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "un errore"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨fu⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "adirarsi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "la tua voce"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "e distruggere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'opera"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "delle tue mani"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:58.559092302Z",
+  "model": "glm-5.3"
+}

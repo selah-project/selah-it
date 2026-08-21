@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Ed ecco, Shaul veniva dietro il bestiame dal campo, e Shaul disse: «Che ha ⟨il⟩ popolo, che piange?». E gli raccontarono ⟨את⟩ le parole degli uomini di Iavesh.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "veniva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ha il popolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "piange"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "e raccontarono"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "degli uomini"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "di Iavesh"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:30.827824376Z",
+  "model": "glm-5.3"
+}

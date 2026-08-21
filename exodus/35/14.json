@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "e ⟨את⟩ la menorah della luce e ⟨את⟩ i suoi utensili e ⟨את⟩ le sue lampade e ⟨את⟩ l'olio della luce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la menorah della luce"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "la menorah"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "della luce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi utensili"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "i suoi utensili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le sue lampade"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "le sue lampade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'olio della luce"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "della luce"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:27.235441197Z",
+  "model": "glm-5.3"
+}

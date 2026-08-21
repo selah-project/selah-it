@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Battete le mani, tutti i popoli; acclamate Elohim con voce di giubilo!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "battete"
+    },
+    {
+      "surface": "כף",
+      "gloss": "le mani (palmo)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "acclamate"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "con voce"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "di giubilo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:00.355601837Z",
+  "model": "glm-5.3"
+}

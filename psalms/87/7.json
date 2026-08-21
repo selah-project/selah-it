@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 87,
+  "translation": "E cantori come suonatori ⟨di flauto⟩: tutte le mie sorgenti ⟨sono⟩ in te.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "e cantori"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "come suonatori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "le mie sorgenti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:49.589758873Z",
+  "model": "glm-5.3"
+}

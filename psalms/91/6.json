@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "della pestilenza che cammina nell'oscurità, della strage che devasta a mezzogiorno.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "della pestilenza"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "nell'oscurità"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "che cammina"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "della strage"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "che devasta"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "a mezzogiorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:47.051303516Z",
+  "model": "glm-5.3"
+}

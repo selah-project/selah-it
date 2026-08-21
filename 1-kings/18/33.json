@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E dispose ⟨את⟩ la legna, e fece a pezzi ⟨את⟩ il toro, e lo pose sopra ⟨la⟩ legna.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "e dispose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la legna"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "la legna"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "e fece a pezzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il toro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il toro"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e lo pose"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "⟨la⟩ legna"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:19.183356391Z",
+  "model": "glm-5.3"
+}

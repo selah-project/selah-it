@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Si veda ai tuoi servi la tua opera, e il tuo splendore sui loro figli.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Si veda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i tuoi servi"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "la tua opera"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "e il tuo splendore"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "i loro figli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:03.514129856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Shemuël non conosceva ancora ⟨את⟩ YHWH, e non gli era ancora stato rivelato ⟨il⟩ Davar YHWH.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "e Shemuël"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "non ancora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosceva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "e non ancora"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "era stato rivelato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:45.059506689Z",
+  "model": "glm-5.3"
+}

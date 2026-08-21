@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Non c'è forse una milizia per l'uomo mortale sulla ⟨la⟩ terra? E come i giorni di un salariato ⟨sono⟩ i suoi giorni.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Non c'è forse"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "una milizia"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "per l'uomo mortale"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "E come i giorni di"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "un salariato"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "i suoi giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:48.240394786Z",
+  "model": "glm-5.3"
+}

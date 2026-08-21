@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Esce dal grasso il loro occhio; trasgrediscono i pensieri del cuore.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "esce"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dal grasso"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "il loro occhio"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "trasgrediscono"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "i pensieri (immagini)"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "del cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:29.909753358Z",
+  "model": "glm-5.3"
+}

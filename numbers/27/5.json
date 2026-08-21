@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E Mosè avvicinò ⟨את⟩ la loro causa davanti a YHWH.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "e avvicinò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro causa"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "la loro causa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:54.256926665Z",
+  "model": "glm-5.3"
+}

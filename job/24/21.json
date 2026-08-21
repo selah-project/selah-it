@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Pasce ⟨il suo gregge sulla⟩ sterile che non partorisce, e alla vedova non fa del bene.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "pasce"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "la sterile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "partorisce"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "e alla vedova"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "fa del bene"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:34.632985728Z",
+  "model": "glm-5.3"
+}

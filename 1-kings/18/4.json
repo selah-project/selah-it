@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Avvenne, quando Izebel sterminava ⟨את⟩ i profeti di YHWH, che Obadiahu prese cento profeti e li nascose, cinquanta uomini in una caverna, e li nutrì con pane e acqua.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "avvenne"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "quando sterminava"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i profeti"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "i profeti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadiahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profeti"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "e li nascose"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquanta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "in una caverna"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "e li nutrì"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:20.912872097Z",
+  "model": "glm-5.3"
+}

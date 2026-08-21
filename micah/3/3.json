@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "e che mangiate la carne del mio popolo, e la loro pelle di dosso a loro scorticate, e ⟨את⟩ le loro ossa spezzate, e le disponete come ⟨ciò che sta⟩ nella pentola, e come carne in mezzo al calderone.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "e che"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mangiate"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "del mio popolo"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "e la loro pelle"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "di dosso a loro"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "scorticate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le loro ossa"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "le loro ossa"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "spezzate"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "e le disponete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "nella pentola"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "e come carne"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "al calderone"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:40.361502698Z",
+  "model": "glm-5.3"
+}

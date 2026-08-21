@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "Non indurite il vostro cuore come a Merivà, come nel giorno di Massà, nel deserto.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "indurite"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "il vostro cuore"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "come a Merivà"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come nel giorno"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "di Massà"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:49.114042452Z",
+  "model": "glm-5.3"
+}

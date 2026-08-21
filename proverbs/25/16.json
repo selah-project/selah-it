@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Miele hai trovato? Mangia il tuo bastare, perché tu non ti sati di esso e lo vomiti.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "miele"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "hai trovato"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangia"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "il tuo bastare"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché... non \/ che non"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "ti sati di esso"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "e lo vomiti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:11.956616689Z",
+  "model": "glm-5.3"
+}

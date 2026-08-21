@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Fai tornare l'uomo mortale fino a polvere spezzata, e dici: «Tornate, figli dell'uomo».",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "fai tornare"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "l'uomo mortale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "polvere spezzata"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e dici"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "tornate"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:09.716983553Z",
+  "model": "glm-5.3"
+}

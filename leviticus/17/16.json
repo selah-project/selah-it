@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Ma se non le laverà e la sua carne non bagnerà, porterà la sua iniquità.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "e la sua carne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "bagnerà"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "porterà"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "la sua iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:48.616900447Z",
+  "model": "glm-5.3"
+}

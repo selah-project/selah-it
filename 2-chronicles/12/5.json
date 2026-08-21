@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 12:5",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Shemaiah il profeta venne da Rechavam e dai capi di Yehudah che si erano radunati a Gerusalemme a causa di Shishak, e disse loro: così ha detto YHWH: voi mi avete abbandonato ⟨את⟩, e anche io ho abbandonato ⟨את⟩ voi in mano a Shishak.",
+  "tokens": [
+    {
+      "surface": "ושמעיה",
+      "gloss": "E Shemaiah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e dai capi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "si erano radunati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "avete abbandonato"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi (me, oggetto dell'abbandono)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ho abbandonato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi (oggetto dell'abbandono)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "a Shishak"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:33.171818840Z",
+  "model": "glm-5.3"
+}

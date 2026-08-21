@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "e farò ⟨את⟩ la casa di Achab come la casa di Ieroboam figlio di Nebat, e come la casa di Baasa figlio di Achia.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "e farò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di Achab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "di Achab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "come la casa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "di Ieroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "di Nebat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "e come la casa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "di Baasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "di Achia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:39.971875420Z",
+  "model": "glm-5.3"
+}

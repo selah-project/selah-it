@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E saranno i tuoi cieli, che ⟨sono⟩ sopra il tuo capo, rame; e la terra, che ⟨è⟩ sotto di te, ferro.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "e saranno"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "i tuoi cieli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "il tuo capo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rame"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sotto di te"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ferro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:33.162269946Z",
+  "model": "glm-5.3"
+}

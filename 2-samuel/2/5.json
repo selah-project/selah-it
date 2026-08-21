@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 2:5",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E Davide mandò messaggeri agli uomini di Iavesh di Gilead e disse loro: « Benedetti siete voi da YHWH, perché avete fatto questo chesed con il vostro signore, con Saul, e lo avete seppellito ».",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "agli uomini"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "di Iavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "di Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "benedetti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siete voi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "da YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "avete fatto"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "il chesed"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "il vostro signore"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ותקברו",
+      "gloss": "e avete seppellito"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (lui, Saul)"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:01.008312739Z",
+  "model": "glm-5.3"
+}

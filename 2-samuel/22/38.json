@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 22:38",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Inseguo i miei nemici e li distruggo, e non torno indietro finché non siano finiti.",
+  "tokens": [
+    {
+      "surface": "ארדפה",
+      "gloss": "inseguo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "e li distruggo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "torno indietro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "non siano finiti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:09.142793824Z",
+  "model": "glm-5.3"
+}

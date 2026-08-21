@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Maskil di Asaf. Perché, Elohim, ci hai respinto per sempre? Fuma la tua ira contro il gregge del tuo pascolo?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (poema didattico)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "hai respinto"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "fuma"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "la tua ira"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "contro il gregge"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "del tuo pascolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:54.439191160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Poiché come fumo si consumano i miei giorni, e le mie ossa come un tizzone ardono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "si consumano"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "come fumo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i miei giorni"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "e le mie ossa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "קד",
+      "gloss": "un tizzone"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ardono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:41.940495688Z",
+  "model": "glm-5.3"
+}

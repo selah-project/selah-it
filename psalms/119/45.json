@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "E camminerò in ⟨un luogo⟩ largo, perché i tuoi precetti ho cercato.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "e camminerò"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "in un luogo largo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "i tuoi precetti"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ho cercato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:36.768550951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E voi lo profanate, ⟨את⟩ esso, dicendo: «La mensa di Adonai ⟨è⟩ contaminata, e il suo frutto, il suo cibo, ⟨è⟩ spregevole».",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "E voi"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "profanate"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (il nome di YHWH)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "la mensa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "di Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "contaminata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "e il suo frutto"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "spregevole"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "il suo cibo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:56.563229667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Il mio dorso ho dato a chi percuote, e le mie guance a chi strappa; il mio volto non ho nascosto a insulti e sputi.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "il mio dorso"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "a chi percuote"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "e le mie guance"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "a chi strappa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il mio volto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ho nascosto"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "a insulti"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "e sputi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:15.795040796Z",
+  "model": "glm-5.3"
+}

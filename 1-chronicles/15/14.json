@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E si santificarono i sacerdoti e i leviti per far salire ⟨את⟩ l'arca di YHWH, Elohim di Israele.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "e si santificarono"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e i leviti"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "per far salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca di YHWH, Elohim di Israele"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:55.996787499Z",
+  "model": "glm-5.3"
+}

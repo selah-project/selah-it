@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E disse YHWH a Mosè: pesante ⟨è⟩ il cuore di Faraone, rifiuta di lasciar andare il popolo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "pesante"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "rifiuta"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "di lasciar andare"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:26.916615019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E Davide prese dalla sua mano ⟨את⟩ ciò che gli aveva portato, e le disse: sali in pace alla tua casa; vedi, ho ascoltato la tua voce e ho accolto il tuo volto.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "dalla sua mano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che gli aveva portato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "gli aveva portato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "e a lei"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sali"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "in pace"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "alla tua casa"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ho ascoltato"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "la tua voce"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "e ho accolto"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:05.298226191Z",
+  "model": "glm-5.3"
+}

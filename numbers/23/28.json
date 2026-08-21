@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E Balak prese ⟨את⟩ Bilam sulla cima di Peor, che si affaccia sulla faccia del deserto.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sulla cima"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "di Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "che si affaccia"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia di"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "il deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:07.432713615Z",
+  "model": "glm-5.3"
+}

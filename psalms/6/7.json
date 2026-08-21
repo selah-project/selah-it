@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Sono stanco del mio gemito, faccio nuotare ⟨il⟩ mio letto tutta la notte, con le mie lacrime disfo il mio giaciglio.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Sono stanco"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "del mio gemito"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "faccio nuotare"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la notte"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "⟨il⟩ mio letto"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "con le mie lacrime"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "il mio giaciglio"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "disfo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:57.461687505Z",
+  "model": "glm-5.3"
+}

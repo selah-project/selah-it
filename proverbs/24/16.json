@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Poiché sette volte cade il giusto e si rialza, ma i malvagi inciampano nel male.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sette volte"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cade"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "e si rialza"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ma i malvagi"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "inciampano"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nel male"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:57.110556844Z",
+  "model": "glm-5.3"
+}

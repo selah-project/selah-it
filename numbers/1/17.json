@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E Mosè e Aharon presero ⟨את⟩ questi uomini che furono designati per nome,",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e presero"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questi uomini"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "furono designati"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "per nome"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:39.496172666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 140,
+  "translation": "Farà vacillare su di loro braci; nel fuoco li farà cadere; in voragini — non si rialzeranno.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "farà vacillare"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "braci"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "li farà cadere"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "in voragini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "si rialzeranno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:38.659391246Z",
+  "model": "glm-5.3"
+}

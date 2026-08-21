@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 93,
+  "translation": "Più delle voci di acque grandi, dei potenti frangenti del mare, potente nell'altezza ⟨è⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "delle voci"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "potenti"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "frangenti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "potente"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "nell'altezza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:20.375700591Z",
+  "model": "glm-5.3"
+}

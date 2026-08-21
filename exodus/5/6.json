@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E ordinò Paroh, in quel giorno, ai sorveglianti del popolo ⟨את⟩ e ai suoi sovrintendenti ⟨ואת⟩, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e ordinò"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ai sorveglianti del popolo"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "ai sorveglianti"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ai suoi sovrintendenti"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "e ai suoi sovrintendenti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:22.117913855Z",
+  "model": "glm-5.3"
+}

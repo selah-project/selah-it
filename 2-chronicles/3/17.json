@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Eresse ⟨את⟩ le colonne davanti ⟨al⟩ tempio: una a destra e una a sinistra; e chiamò il nome della colonna destra Iakhin e il nome della sinistra Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "eresse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le colonne"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "le colonne"
+    },
+    {
+      "surface": "על",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "il tempio"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "una"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "a destra"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "e una"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "a sinistra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "della colonna destra"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Iakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e il nome"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "della sinistra"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-21T09:54:17.591183909Z",
+  "model": "glm-5.3"
+}

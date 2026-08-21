@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Distogli lo sguardo da me, e ⟨io⟩ mi rasserenerò, prima che io me ne vada e non ⟨sia⟩ più.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "distogli lo sguardo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "e mi rasserenerò"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "io me ne vada"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "e non ⟨sia⟩ più"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:40.806884900Z",
+  "model": "glm-5.3"
+}

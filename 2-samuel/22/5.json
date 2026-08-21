@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Poiché mi circondarono i frangenti della morte, i torrenti di Belial mi spaventarono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "mi circondarono"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "i frangenti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "della morte"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "i torrenti"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "di Belial"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "mi spaventarono"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:31.092093061Z",
+  "model": "glm-5.3"
+}

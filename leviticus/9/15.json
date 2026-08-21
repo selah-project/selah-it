@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E avvicinò ⟨את⟩ il qorban del popolo, e prese ⟨את⟩ il capro del sacrificio per il peccato, che era per il popolo, e lo scannò, e lo presentò come espiazione, come il primo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "e avvicinò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il qorban"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "il qorban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il capro"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "il capro"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "del sacrificio per il peccato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "era per il popolo"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "e lo scannò"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "lo presentò come espiazione"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "come il primo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:11.325319040Z",
+  "model": "glm-5.3"
+}

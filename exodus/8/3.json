@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E i maghi fecero lo stesso con le loro arti occulte, e fecero salire ⟨את⟩ le rane sulla terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lo stesso"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "i maghi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "con le loro arti occulte"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e fecero salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le rane"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "le rane"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:52.900197319Z",
+  "model": "glm-5.3"
+}

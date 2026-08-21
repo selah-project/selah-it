@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E affinché tu racconti agli orecchi di tuo figlio e del figlio di tuo figlio ⟨את⟩ ciò che ho fatto in Egitto e ⟨את⟩ i miei segni che ho posto in mezzo a loro, e sappiate che io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "e affinché"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "tu racconti"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "agli orecchi di"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tuo figlio"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e del figlio"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "di tuo figlio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che ho fatto in Egitto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ho fatto"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i miei segni"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "i miei segni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ho posto"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in mezzo a loro"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "e sappiate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:48.466526848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "guardati di dimenticare ⟨את⟩ YHWH, che ti ha fatto uscire dalla terra d'Egitto, dalla casa di servitù.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "guardati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te stesso"
+    },
+    {
+      "surface": "פן",
+      "gloss": "di non \/ che non"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dimenticare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ti ha fatto uscire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "di servitù"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:29.618774239Z",
+  "model": "glm-5.3"
+}

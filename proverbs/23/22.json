@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Ascolta tuo padre — lui che ti ha generato — e non disprezzare tua madre, perché ⟨è⟩ invecchiata.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascolta"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "che ti ha generato"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "disprezzare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "invecchiata"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tua madre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:42.405812399Z",
+  "model": "glm-5.3"
+}

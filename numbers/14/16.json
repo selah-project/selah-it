@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Per l'incapacità di YHWH di portare ⟨את⟩ questo popolo nella terra che aveva loro giurato, li ha uccisi nel deserto.",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "per l'incapacità"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "di poter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "portare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "aveva giurato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "li ha uccisi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:29:21.255269749Z",
+  "model": "glm-5.3"
+}

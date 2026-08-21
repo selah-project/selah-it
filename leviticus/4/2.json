@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Parla ai figli d'Israele, dicendo: una nefesh, quando pecchi per errore rispetto a uno di tutti i comandi di YHWH che non si devono fare, e ne faccia uno di queste:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "una nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "pecchi"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "per errore"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "rispetto a uno di tutti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "i comandi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "si devono fare"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e ne faccia"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "uno"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "di queste"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:41.003922534Z",
+  "model": "glm-5.3"
+}

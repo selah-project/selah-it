@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Chi ⟨di⟩ muore di Achav in città, lo mangeranno i cani; e chi muore in campo, lo mangerà l'uccello dei cieli.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Chi muore"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "di Achav"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in città"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "lo mangeranno"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "i cani"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "e chi muore"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in campo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "lo mangerà"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "l'uccello"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:55.309266404Z",
+  "model": "glm-5.3"
+}

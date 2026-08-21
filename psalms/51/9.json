@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Purificami con l'issopo e sarò puro, lavami e sarò più bianco della neve.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "purificami"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "con l'issopo"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "e sarò puro"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "lavami"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "e della neve"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "sarò più bianco"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:27.927634261Z",
+  "model": "glm-5.3"
+}

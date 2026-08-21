@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E i figli d'Israele tolsero ⟨את⟩ i Baalim e ⟨את⟩ le Asherot, e servirono ⟨את⟩ YHWH lui solo.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "e tolsero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "i Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le Asherot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "le Asherot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "e servirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lui solo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:19.751303823Z",
+  "model": "glm-5.3"
+}

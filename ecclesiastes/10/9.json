@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Chi sposta pietre ne sarà logorato, e chi spacca legna ne sarà danneggiato.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "Chi sposta"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "יעצף... יעצב",
+      "gloss": "ne sarà logorato"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "chi spacca"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "legna"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ne sarà danneggiato"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:01.873565350Z",
+  "model": "glm-5.3"
+}

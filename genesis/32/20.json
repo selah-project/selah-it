@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E comandò anche ⟨את⟩ il secondo, anche ⟨את⟩ il terzo, anche ⟨את⟩ tutti quelli che camminavano dietro ai greggi, dicendo: Conforme a questa parola parlerete a Esaù quando lo troverete ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e comandò"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il secondo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "il secondo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il terzo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "il terzo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "quelli che camminavano"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "ai greggi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "conforme a questa parola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "parlerete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaù"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "quando lo troverete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (Esaù)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:17.275501889Z",
+  "model": "glm-5.3"
+}

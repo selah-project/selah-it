@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 31:41",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E Mosè diede ⟨את⟩ la parte del tributo di YHWH a Elèazar il sacerdote, come YHWH aveva comandato ⟨את⟩ Mosè.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parte del tributo"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "la parte del tributo"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "del tributo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "a Elèazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:55.134706552Z",
+  "model": "glm-5.3"
+}

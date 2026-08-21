@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 117,
+  "translation": "Lodate ⟨את⟩ YHWH, tutte le nazioni; celebratelo, tutti i popoli!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "celebratelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "i popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:30.585203597Z",
+  "model": "glm-5.3"
+}

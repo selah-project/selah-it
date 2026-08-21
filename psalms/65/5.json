@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Beato colui che tu scegli e fai avvicinare ⟨a te⟩: abiterà nei tuoi cortili; saremo saziati della bontà della tua casa, del santo ⟨tempio⟩ del tuo palazzo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beato"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "che tu scegli"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "e fai avvicinare"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "abiterà"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "nei tuoi cortili"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "saremo saziati"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "della bontà"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "della tua casa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "del santo"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "del tuo palazzo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:16.048376087Z",
+  "model": "glm-5.3"
+}

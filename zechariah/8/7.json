@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Così disse YHWH degli eserciti: ecco, io salvo ⟨את⟩ il mio popolo dal paese d'oriente e dal paese del tramonto del sole.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco, io"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "salvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dal paese"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "d'oriente"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "e dal paese"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "del tramonto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "del sole"
+    }
+  ],
+  "timestamp": "2026-08-21T08:41:44.425254685Z",
+  "model": "glm-5.3"
+}

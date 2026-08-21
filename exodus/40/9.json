@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E prenderai ⟨את⟩ l'olio dell'unzione e ungerai ⟨את⟩ il mishkan e ⟨את⟩ tutto ciò che è in esso, e consacrerai ⟨את⟩ esso e ⟨את⟩ tutti i suoi strumenti, e sarà santo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "prenderai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'olio dell'unzione"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "dell'unzione"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ungerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che è in esso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in esso"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "consecrerai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ esso",
+      "marks": "il mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi strumenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i suoi strumenti"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:06.535074267Z",
+  "model": "glm-5.3"
+}

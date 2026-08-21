@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 3:6",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E il Davar giunse al re di Ninive, ed egli si alzò dal suo trono e si tolse di dosso il suo manto regale e si coprì di sacco e sedette sulla cenere.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "e giunse"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "il Davar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "מכסאו",
+      "gloss": "dal suo trono"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "e si tolse"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "il suo manto regale"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "di dosso"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "e si coprì"
+    },
+    {
+      "surface": "שק",
+      "gloss": "di sacco"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e sedette"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "la cenere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:47.189663862Z",
+  "model": "glm-5.3"
+}

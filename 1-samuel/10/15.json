@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E disse lo zio di Saul: « Raccontami, ti prego, che cosa vi ha detto Shemuël ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "lo zio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Saul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "racconta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:23.714997368Z",
+  "model": "glm-5.3"
+}

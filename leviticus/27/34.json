@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Questi sono i comandamenti che YHWH comandò ⟨a⟩ Mosè ⟨את⟩ per i figli d'Israele, sul monte Sinai.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "i comandamenti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "comandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "per"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:34.651626297Z",
+  "model": "glm-5.3"
+}

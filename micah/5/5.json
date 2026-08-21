@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E pascoleranno ⟨את⟩ la terra di Assur con la spada e ⟨את⟩ la terra di Nimrod alle sue porte; ed egli salverà da Assur, quando entrerà nella nostra terra e quando calpesterà ⟨i⟩ nostri confini.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "e pascoleranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra di Assur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Assur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "con la spada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra di Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "di Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "alle sue porte"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ed egli salverà"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "da Assur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entrerà"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "nella nostra terra"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e quando"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "calpesterà"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "i nostri confini"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:08.697656549Z",
+  "model": "glm-5.3"
+}

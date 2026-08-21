@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Tutti loro risponderanno e diranno a te: «Anche tu sei indebolito come noi! A noi sei diventato simile!».",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tutti loro"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "risponderanno"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e diranno"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "sei indebolito"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "come noi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "sei diventato simile"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:07.920051998Z",
+  "model": "glm-5.3"
+}

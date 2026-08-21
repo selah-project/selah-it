@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E Chever generò ⟨את⟩ Yaphlet e ⟨את⟩ Shomer e ⟨את⟩ Chotam e ⟨את⟩ Shua loro sorella.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "e Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaphlet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaphlet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "loro sorella"
+    }
+  ],
+  "timestamp": "2026-08-21T09:47:31.751722841Z",
+  "model": "glm-5.3"
+}

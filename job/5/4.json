@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "I suoi figli sono lontani dalla salvezza, e sono schiacciati nella porta, e non c'è chi li salvi.",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "sono lontani"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "dalla salvezza"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "e sono schiacciati"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nella porta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "chi li salvi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:42.918096320Z",
+  "model": "glm-5.3"
+}

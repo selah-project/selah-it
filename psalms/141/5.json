@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 141,
+  "translation": "Mi percuota il giusto — ⟨è⟩ chesed — e mi rimproveri: ⟨è⟩ olio per la testa; non rifiuti la mia testa, perché ancora la mia preghiera ⟨sarà⟩ nelle loro calamità.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "mi percuota"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "e mi rimproveri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "per la testa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יני",
+      "gloss": "rifiuti"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "la mia testa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "e la mia preghiera"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "nelle loro calamità"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:06.860331174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "⟨Egli⟩ ⟨è⟩ YHWH, il nostro Elohim; in tutta la terra ⟨sono⟩ i suoi giudizi",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Egli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "i suoi giudizi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:45.535442991Z",
+  "model": "glm-5.3"
+}

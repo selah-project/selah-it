@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 62,
+  "translation": "Fino a quando vi avventerete contro un uomo, per ucciderlo, tutti voi, come un muro inclinato, una siepe atterrata?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "vi avventerete"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "per ucciderlo"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "tutti voi"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "come un muro"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "inclinato"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "una siepe"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "atterrata"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:37.090113777Z",
+  "model": "glm-5.3"
+}

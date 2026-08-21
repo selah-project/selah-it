@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E presero ⟨את⟩ la fuliggine della fornace e stettero davanti a Faraone; e la sparse Mosè ⟨את⟩ verso il cielo, e divennero ulcere pustole bubboniche che erompono, sull'uomo e sul bestiame.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "e presero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fuliggine della fornace"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "la fuliggine"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "della fornace"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "e stettero"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "e sparse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "essa (la fuliggine)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "verso il cielo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e divennero"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ulcere"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "pustole bubboniche"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "che erompono"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sull'uomo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e sul bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:20.468943556Z",
+  "model": "glm-5.3"
+}

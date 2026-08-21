@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "E io ⟨ero⟩ insensato e senza sapere; come una bestia sono stato con Te.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "בער",
+      "gloss": "insensato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e senza"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sapere"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "come una bestia"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono stato"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con Te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:02.971747027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E questo è ciò che non mangerete tra essi: l'aquila, il peres e l'azniyyà.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "e questo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tra essi"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "l'aquila"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "il peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "e l'azniyyà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:04.860557505Z",
+  "model": "glm-5.3"
+}

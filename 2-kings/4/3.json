@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ed egli disse: «Va', chiediti dei recipienti da fuori, da ⟨את⟩ tutti i tuoi vicini — recipienti vuoti; non ne diminuire!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ed egli disse"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "va'"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "chiediti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "dei recipienti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "da ⟨את⟩",
+      "marks": "tutti i tuoi vicini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "i tuoi vicini"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "recipienti"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "vuoti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "ne diminuire"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:49.772530283Z",
+  "model": "glm-5.3"
+}

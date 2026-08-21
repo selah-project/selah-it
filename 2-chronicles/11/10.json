@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ Tsorah e ⟨את⟩ Aialon e ⟨את⟩ Chevron, che ⟨erano⟩ in Yehudah e in Binyamin, città fortificate.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aialon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aialon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "e in Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "città"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "fortificate"
+    }
+  ],
+  "timestamp": "2026-08-21T09:55:51.448456860Z",
+  "model": "glm-5.3"
+}

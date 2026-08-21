@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Casa di Levi, benedite ⟨את⟩ YHWH; voi che temete YHWH, benedite ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "di Levi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "benedite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "voi che temete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "benedite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:16.521173338Z",
+  "model": "glm-5.3"
+}

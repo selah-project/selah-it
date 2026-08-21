@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Fa' uscire ⟨il⟩ popolo ⟨che è⟩ cieco e pur ha occhi, sordo e pur ha orecchie.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Fa' uscire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨il⟩ popolo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "cieco"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "e pur ha occhi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ha"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "e sordo"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "e pur ha orecchie"
+    },
+    {
+      "surface": "למו",
+      "gloss": "a esso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:02.776679627Z",
+  "model": "glm-5.3"
+}

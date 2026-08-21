@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ed ella vide che ⟨Rut⟩ si era fatta forte per andare con ⟨את⟩ lei, e cessò di parlarle.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ed ella vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "si era fatta forte"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨Rut⟩"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "per andare"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "con lei"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "e cessò"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "di parlare"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:50.925785052Z",
+  "model": "glm-5.3"
+}

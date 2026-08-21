@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 37:2",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Ma non ascoltò lui, né i suoi servi, né il popolo del paese, le parole di YHWH che ⟨lui⟩ aveva parlato per mezzo di Geremiahu il profeta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascoltò"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "né i suoi servi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "né il popolo di"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "il paese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mezzo di"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Geremiahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:10:41.410352436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Faraone si adirò contro i suoi servi e ⟨את⟩ mi mise in custodia nella casa del capo delle guardie, ⟨את⟩ me e ⟨את⟩ il capo dei fornai.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "si adirò"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e mise"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "in custodia"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in custodia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "del capo"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "delle guardie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il capo dei fornai"
+    },
+    {
+      "surface": "שר",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "dei fornai"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:54.413467300Z",
+  "model": "glm-5.3"
+}

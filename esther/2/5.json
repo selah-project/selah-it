@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Un uomo giudeo ⟨era⟩ a Susa ⟨la⟩ cittadella, e il suo nome ⟨era⟩ Mordocheo, figlio di Iair, figlio di Shimei, figlio di Kis, un beniaminita.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Un uomo"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "giudeo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨era⟩"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "a Susa"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨la⟩ cittadella"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "e il suo nome"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordocheo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "di Iair"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "di Shimei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "di Kis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "beniaminita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:31.245966115Z",
+  "model": "glm-5.3"
+}

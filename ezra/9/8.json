@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 9:8",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E ora, come un breve istante, ⟨vi⟩ è stata una grazia da parte ⟨di⟩ ⟨את⟩ YHWH nostro Elohim: lasciarci un resto scampato e darci un piolo nel luogo della sua santità, per illuminare i nostri occhi, Elohim nostro, e darci un po' di vita nella nostra servitù.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "come un breve"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "istante"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "è stata"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "una grazia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH nostro Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nostro Elohim"
+    },
+    {
+      "surface": "להשאיר",
+      "gloss": "lasciare"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "un resto scampato"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "e dare"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "un piolo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "della sua santità"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "per illuminare"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "i nostri occhi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nostro"
+    },
+    {
+      "surface": "ולתתנו",
+      "gloss": "e darci"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un po'"
+    },
+    {
+      "surface": "בעבדתנו",
+      "gloss": "nella nostra servitù"
+    }
+  ],
+  "timestamp": "2026-08-21T09:41:16.266210062Z",
+  "model": "glm-5.3"
+}

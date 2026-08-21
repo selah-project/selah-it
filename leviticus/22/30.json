@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "In quel giorno ⟨il giorno⟩ sarà mangiato; non ne lascerete nulla fino al mattino: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sarà mangiato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "lascerete"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nulla di esso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:10.828813912Z",
+  "model": "glm-5.3"
+}

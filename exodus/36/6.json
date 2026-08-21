@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E ordinò Mosè, e fecero passare una voce per l'accampamento, dicendo: «Uomo e donna non fate più opera per l'offerta del santuario». E il popolo fu trattenuto dal portare.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e ordinò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "e fecero passare"
+    },
+    {
+      "surface": "קול",
+      "gloss": "una voce"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "per l'accampamento"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "e donna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "fate"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "per l'offerta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santuario"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "e fu trattenuto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "dal portare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:05.568210805Z",
+  "model": "glm-5.3"
+}

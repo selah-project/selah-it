@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E si corresse ⟨la⟩ terra davanti a ⟨l'⟩Elohim, e si riempì ⟨la⟩ terra di violenza.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "E si corresse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "e si riempì"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "di violenza"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:44.653159120Z",
+  "model": "glm-5.3"
+}

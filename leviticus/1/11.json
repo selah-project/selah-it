@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E lo sgozzerà ⟨את⟩ sul lato dell'altare, a settentrione, davanti a YHWH; e i figli di Aharon, i sacerdoti, aspergeranno ⟨את⟩ il suo sangue sull'altare, tutt'intorno.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "e lo sgozzerà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (la vittima)"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "il lato"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dell'altare"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "a settentrione"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "e aspergeranno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo sangue"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutt'intorno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:57.252491634Z",
+  "model": "glm-5.3"
+}

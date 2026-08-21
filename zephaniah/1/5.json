@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ quelli che si prostrano sui tetti all'esercito dei cieli, e ⟨את⟩ quelli che si prostrano, che giurano in YHWH e giurano nel loro re",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "quelli che si prostrano sui tetti"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "quelli che si prostrano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "i tetti"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "all'esercito"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "quelli che si prostrano e giurano"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "quelli che si prostrano"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "che giurano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "e giurano"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "nel loro re"
+    }
+  ],
+  "timestamp": "2026-08-21T08:39:31.943387021Z",
+  "model": "glm-5.3"
+}

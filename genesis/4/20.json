@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Adà partorì ⟨את⟩ Yaval: lui fu il padre di chi abita sotto la tenda e ⟨tra⟩ il bestiame.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "il padre di"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "chi abita"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sotto la tenda"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "e ⟨tra⟩ il bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:14.411329024Z",
+  "model": "glm-5.3"
+}

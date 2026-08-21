@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "YHWH dà forza al suo popolo; YHWH benedice ⟨את⟩ il suo popolo con la pace.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עז",
+      "gloss": "forza"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "al suo popolo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "benedice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo popolo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "con la pace"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:39.112543514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E faranno un'arca di legno di shittim: due cubiti e mezzo ⟨saranno⟩ la sua lunghezza, un cubito e mezzo la sua larghezza, e un cubito e mezzo la sua altezza.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "e faranno"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "un'arca"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "legno di"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim (acacia)"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "due cubiti"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e mezzo"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "la sua lunghezza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e un cubito"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e mezzo"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "la sua larghezza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e un cubito"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e mezzo"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "la sua altezza"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:06.154758204Z",
+  "model": "glm-5.3"
+}

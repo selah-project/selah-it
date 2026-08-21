@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Quando la mia nefesh venne meno dentro di me, io ricordai ⟨את⟩ YHWH, e la mia preghiera giunse a te, nel tempio della tua santità.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "quando venne meno"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dentro di me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "io ricordai"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "e giunse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nel"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempio"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "della tua santità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:10.504356748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E fecero bere anche in quella notte ⟨את⟩ loro padre con vino; e la più giovane si alzò e giacque con lui, ed egli non conobbe quand'ella si coricava né quand'ella si alzava.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "e fecero bere"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in quella notte"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loro padre"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "loro padre"
+    },
+    {
+      "surface": "יין",
+      "gloss": "con vino"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "la più giovane"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "e giacque"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conobbe"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "quand'ella si coricava"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "né quand'ella si alzava"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:01.255042799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "La voce di YHWH taglia ⟨tra⟩ fiamme di fuoco.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "La voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "taglia"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "fiamme"
+    },
+    {
+      "surface": "אש",
+      "gloss": "di fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:47.558785133Z",
+  "model": "glm-5.3"
+}

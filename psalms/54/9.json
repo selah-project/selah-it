@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 54,
+  "translation": "Poiché da ogni angustia mi ha liberato, e sui miei nemici ha visto il mio occhio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da ogni"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "angustia"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "mi ha liberato"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "e sui miei nemici"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ha visto"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:11.604879417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E dissero, un uomo a suo fratello: «Diamoci un capo e torniamo in Egitto.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "diamoci"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "un capo"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "e torniamo"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:57.843650607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Venga davanti a te il lamento del prigioniero; secondo la grandezza del tuo braccio, libera i figli destinati a morire.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "venga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "il lamento"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "del prigioniero"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "secondo la grandezza"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "del tuo braccio"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "libera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "destinati a morire"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:27.657965998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 8:14",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E mi condusse ⟨את⟩ all'ingresso della porta della casa di YHWH, quella ⟨che è⟩ verso nord, ed ecco là sedevano le donne che piangevano ⟨את⟩ Tammuz.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E mi condusse"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'ingresso"
+    },
+    {
+      "surface": "שער",
+      "gloss": "della porta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quella"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הצפונה",
+      "gloss": "nord"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "sedevano"
+    },
+    {
+      "surface": "מבכות",
+      "gloss": "piangevano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tammuz"
+    },
+    {
+      "surface": "התמוז",
+      "gloss": "Tammuz"
+    }
+  ],
+  "timestamp": "2026-08-21T08:18:26.403814262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Salomone amava ⟨את⟩ YHWH, camminando nelle prescrizioni di Davide suo padre; solo sulle bamà ⟨egli⟩ sacrificava e offriva incenso.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "E amava"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "camminando"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "nelle prescrizioni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "רק",
+      "gloss": "solo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sulle bamà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨egli⟩"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sacrificava"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "e offriva incenso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:52.502941540Z",
+  "model": "glm-5.3"
+}

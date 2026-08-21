@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Con che ⟨il⟩ giovane renderà pura ⟨את⟩ la sua via? Custodendola secondo la tua parola.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "con che"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "renderà pura"
+    },
+    {
+      "surface": "נער",
+      "gloss": "il giovane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua via"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "la sua via"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "custodendola"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "secondo la tua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:37.665921963Z",
+  "model": "glm-5.3"
+}

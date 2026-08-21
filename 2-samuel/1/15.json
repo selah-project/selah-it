@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E chiamò Davide uno dei suoi giovani e disse: «Avvicinati, piombagli addosso». E quello lo colpì, ed egli morì.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "a uno"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "dei giovani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "גש",
+      "gloss": "avvicinati"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "piombagli addosso"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "e lo colpì"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ed egli morì"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:46.993219574Z",
+  "model": "glm-5.3"
+}

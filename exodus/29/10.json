@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E farai avvicinare ⟨את⟩ il toro davanti alla tenda del convegno, e Aharon e i suoi figli appoggieranno ⟨את⟩ le loro mani sulla testa del toro.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "e farai avvicinare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il toro (הפר)"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il toro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "alla tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "e appoggierà"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro mani (ידיהם)"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "le loro mani"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "del toro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:34.205993554Z",
+  "model": "glm-5.3"
+}

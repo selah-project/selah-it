@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 14:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "nulla per me — soltanto ciò che hanno mangiato i giovani, e la porzione degli uomini che sono andati ⟨את⟩ con me: Aner, Eshkol e Mamrè; loro prenderanno la loro porzione.",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "nulla per me"
+    },
+    {
+      "surface": "רק",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "hanno mangiato"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "i giovani"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "e la porzione"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "degli uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "sono andati"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ con me",
+      "marks": "con me (preposizione את, non il marcatore di oggetto)"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aner"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וממרא",
+      "gloss": "e Mamrè"
+    },
+    {
+      "surface": "הם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "prenderanno"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "la loro porzione"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:15.050840926Z",
+  "model": "glm-5.3"
+}

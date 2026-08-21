@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E parlò Mosè davanti a YHWH, dicendo: « Ecco, i figli d'Israele non mi hanno ascoltato, e come mi ascolterà il Faraone? E io ⟨sono⟩ di labbra non circoncise ».",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E parlò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hanno ascoltato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "e come"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "mi ascolterà"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "il Faraone"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "E io"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "non circoncise"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "di labbra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:41.541849024Z",
+  "model": "glm-5.3"
+}

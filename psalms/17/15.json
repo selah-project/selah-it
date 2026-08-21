@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Quanto a me, nella giustizia contemplerò il tuo volto; mi sazierò, al risveglio, della tua immagine.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Quanto a me"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nella giustizia"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "contemplerò"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "mi sazierò"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "al risveglio"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "della tua immagine"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:48.821832497Z",
+  "model": "glm-5.3"
+}

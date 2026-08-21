@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E Jehozadaq andò in esilio, quando YHWH condusse in esilio ⟨את⟩ Giuda e Gerusalemme per mano di Nebukadnetsar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "E Jehozadaq"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "andò"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "in esilio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Gerusalemme"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano di"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsar"
+    }
+  ],
+  "timestamp": "2026-08-21T09:45:51.939702935Z",
+  "model": "glm-5.3"
+}

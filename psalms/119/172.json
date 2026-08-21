@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Risponda la mia lingua alla tua parola, perché tutti i tuoi comandamenti ⟨sono⟩ giustizia.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "risponda"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "la mia lingua"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "alla tua parola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "i tuoi comandamenti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:08.355597848Z",
+  "model": "glm-5.3"
+}

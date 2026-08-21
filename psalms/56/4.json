@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "Il giorno in cui temo, io — in te confido.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Il giorno"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "in cui temo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "confido"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:16.265679134Z",
+  "model": "glm-5.3"
+}

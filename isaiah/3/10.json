@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Dite ⟨del⟩ giusto che ⟨starà⟩ bene, perché il frutto delle loro opere essi mangeranno.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dite"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "il frutto"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "delle loro opere"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeranno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:39.085838763Z",
+  "model": "glm-5.3"
+}

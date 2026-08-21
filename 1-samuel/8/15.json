@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E decimerà il vostro seme e le vostre vigne, e darà ai suoi cortigiani e ai suoi servi.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "il vostro seme"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "le vostre vigne"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "decimerà"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e darà"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "ai suoi cortigiani"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ai suoi servi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:42.912980963Z",
+  "model": "glm-5.3"
+}

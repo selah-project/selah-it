@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E risposero ⟨את⟩ Yehoshua, dicendo: Tutto ciò che ci hai comandato faremo, e ovunque ci manderemo andremo.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "E risposero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "ci hai comandato"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "faremo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ovunque"
+    },
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ci manderai"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "andremo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:42.721057478Z",
+  "model": "glm-5.3"
+}

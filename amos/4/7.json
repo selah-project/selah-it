@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E anch'io ho trattenuto da voi ⟨את⟩ la pioggia quando mancavano ancora tre mesi alla mietitura; ho fatto piovere su una città e su una città non ho fatto piovere: un appezzamento riceveva pioggia, e l'appezzamento su cui non pioveva seccava.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e anch'"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "ho trattenuto"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "da voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la pioggia"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "quando mancavano ancora"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mesi"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "alla mietitura"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "e ho fatto piovere"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "una città"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "una città"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "un'altra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "ho fatto piovere"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "un appezzamento"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "uno"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "riceveva pioggia"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "e l'appezzamento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "pioveva"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di esso"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "seccava"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:01.253972779Z",
+  "model": "glm-5.3"
+}

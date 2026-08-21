@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E disse YHWH a Mosè: vedi, ti ho posto come Elohim per Faraone, e Aharon tuo fratello sarà il tuo profeta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ti ho posto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "per Faraone"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "il tuo profeta"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:18.954097128Z",
+  "model": "glm-5.3"
+}

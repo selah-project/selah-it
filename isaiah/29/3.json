@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E accamperò contro di te come un cerchio, e leverò contro di te posti d'assedio, e innalzerò contro di te baluardi.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "e accamperò"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "come un cerchio"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "e leverò ⟨assedio⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "posti d'assedio"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "e innalzerò"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "baluardi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:08.149745042Z",
+  "model": "glm-5.3"
+}

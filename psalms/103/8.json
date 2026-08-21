@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Misericordioso e grazioso ⟨è⟩ YHWH, lento all'ira e grande di chesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Misericordioso"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "e grazioso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lento"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "all'ira"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e grande"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "di chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:49.411581574Z",
+  "model": "glm-5.3"
+}

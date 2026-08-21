@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E parlai all'esilio tutte le parole di YHWH che mi aveva mostrato.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "E parlai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "l'esilio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole di YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mi aveva mostrato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:17:51.228128710Z",
+  "model": "glm-5.3"
+}

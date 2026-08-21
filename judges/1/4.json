@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E salì Yehudà, e YHWH diede ⟨את⟩ il Cananeo e il Perizzita nella loro mano; e li colpirono in Bezek, diecimila uomini.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudà"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Cananeo e il Perizzita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il Cananeo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e il Perizzita"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "nella loro mano"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "e li colpirono"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "in Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:03.708024877Z",
+  "model": "glm-5.3"
+}

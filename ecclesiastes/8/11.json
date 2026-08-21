@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché non viene eseguita subito la sentenza sull'opera malvagia, per questo il cuore dei figli dell'uomo si riempie in loro di fare il male.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "viene eseguita"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "la sentenza"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "sull'opera"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "malvagia"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "subito"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "si riempie"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in loro"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "רע",
+      "gloss": "il male"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:01.789737288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E YHWH visitò ⟨את⟩ Sarah come aveva detto, e YHWH fece a Sarah come aveva parlato.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "E YHWH"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "visitò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aveva detto"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "a Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:04.139648662Z",
+  "model": "glm-5.3"
+}

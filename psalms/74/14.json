@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Tu hai schiacciato le teste del Leviatan, l'hai dato in cibo al popolo, agli abitanti del deserto.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "hai schiacciato"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "le teste"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "del Leviatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "l'hai dato"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "in cibo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "al popolo"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "agli abitanti del deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:36.579635741Z",
+  "model": "glm-5.3"
+}

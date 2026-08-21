@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E ora presentatevi, e io giudicherò ⟨את⟩ voi davanti a YHWH, ⟨riguardo a⟩ tutte ⟨את⟩ le giustizie di YHWH, che egli fece ⟨את⟩ con voi e ⟨את⟩ con i vostri padri.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E ora"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "presentatevi"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "e io giudicherò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le giustizie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "le giustizie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "egli fece"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ con voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩ con"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "i vostri padri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:53.601935990Z",
+  "model": "glm-5.3"
+}

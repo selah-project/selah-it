@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Quanto è grande il tuo bene, che hai nascosto per quelli che ti temono, che hai operato per quelli che si rifugiano in te, davanti ai figli dell'uomo!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "רב",
+      "gloss": "è grande"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "il tuo bene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "hai nascosto"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "per quelli che ti temono"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hai operato"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "per quelli che si rifugiano"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:02.874521944Z",
+  "model": "glm-5.3"
+}

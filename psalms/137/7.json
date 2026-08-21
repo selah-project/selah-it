@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 137,
+  "translation": "Ricorda, YHWH, ai figli di Edom ⟨את⟩ il giorno di Gerusalemme, quelli che dicevano: « Spianatela, spianatela, fino alle sue fondamenta ».",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giorno di Gerusalemme"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "quelli che dicevano"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "« spianatela"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "spianatela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "le sue fondamenta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.371314577Z",
+  "model": "glm-5.3"
+}

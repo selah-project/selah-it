@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non perverterai il giudizio del tuo povero nella sua causa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "perverterai"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "del tuo povero"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "nella sua causa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:42.973421618Z",
+  "model": "glm-5.3"
+}

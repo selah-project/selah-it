@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Anche di Izebel ha parlato YHWH, dicendo: i cani mangeranno ⟨את⟩ Izebel nel recinto di Izreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Anche"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "di Izebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "i cani"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "nel recinto"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "di Izreel"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:55.309116560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E l'asina mi vide e si deviò davanti a me queste tre volte; se non si fosse deviata davanti a me, proprio ora anche ⟨את⟩ te avrei ucciso e ⟨את⟩ lei avrei lasciata in vita.",
+  "tokens": [
+    {
+      "surface": "ותראני",
+      "gloss": "e mi vide"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "l'asina"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "e si deviò"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "זה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "volte"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "se non"
+    },
+    {
+      "surface": "נטתה",
+      "gloss": "si fosse deviata"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩ te",
+      "marks": "te (oggetto di «avrei ucciso»)"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "avrei ucciso"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "e ⟨את⟩ lei",
+      "marks": "lei, l'asina (oggetto di «lasciata in vita»)"
+    },
+    {
+      "surface": "החייתי",
+      "gloss": "avrei lasciata in vita"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:56.315632900Z",
+  "model": "glm-5.3"
+}

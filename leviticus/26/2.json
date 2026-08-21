@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "⟨את⟩ i miei shabbat osserverete, e il mio santuario temerete; Io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei shabbat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "i miei shabbat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "osserverete"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "e il mio santuario"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temerete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:02.097395182Z",
+  "model": "glm-5.3"
+}

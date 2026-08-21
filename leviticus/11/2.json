@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Parlate ai figli d'Israele, dicendo: questa ⟨è⟩ la vivente che potete mangiare fra tutto il bestiame che ⟨è⟩ sulla terra.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "parlate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "la vivente"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "potete mangiare"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra tutto"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:18.133144458Z",
+  "model": "glm-5.3"
+}

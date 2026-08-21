@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Poiché dici: « Che giovamento ⟨c'è⟩ per te, che guadagno ⟨ricavo⟩ dal mio peccato? »",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dici"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "giovamento"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "guadagno ricavo"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "dal mio peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:17.998064119Z",
+  "model": "glm-5.3"
+}

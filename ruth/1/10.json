@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ed esse dissero a lei: ⟨di⟩ certo ⟨את⟩ con te torneremo, al tuo popolo.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ed esse dissero"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨di⟩ certo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te",
+      "marks": "torneremo — « con te torneremo »"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "torneremo"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "al tuo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:27.558909294Z",
+  "model": "glm-5.3"
+}

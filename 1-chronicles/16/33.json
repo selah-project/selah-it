@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Allora esulteranno gli alberi della foresta davanti a YHWH, perché ⟨egli⟩ viene a giudicare ⟨את⟩ la terra.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "esulteranno"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gli alberi di"
+    },
+    {
+      "surface": "היער",
+      "gloss": "la foresta"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "a giudicare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:28.205703283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Aprì la rupe, e acque fluirono; andarono nei luoghi aridi come un fiume.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "aprì"
+    },
+    {
+      "surface": "צור",
+      "gloss": "la rupe"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "e fluirono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "andarono"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "nei luoghi aridi"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "come un fiume"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:47.128226196Z",
+  "model": "glm-5.3"
+}

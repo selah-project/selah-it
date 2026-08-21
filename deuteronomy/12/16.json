@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Soltanto il sangue non lo mangerete; lo verserai sulla terra, come acqua.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "lo verserai"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "come acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:06.011996138Z",
+  "model": "glm-5.3"
+}

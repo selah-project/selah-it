@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E si levarono gli uomini d'Israele e di Yehudah, e lanciarono il grido, e inseguirono ⟨את⟩ i filistei fino all'ingresso della valle e fino alle porte di Ekron; e caddero i trafitti dei filistei lungo la via di Sha'arayim, e fino a Gat e fino a Ekron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "e si levarono"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e di Yehudah"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "e lanciarono il grido"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "e inseguirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i filistei"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "i filistei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "della valle"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "alle porte"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "di Ekron"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "e caddero"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "i trafitti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei filistei"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lungo la via"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "di Sha'arayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino"
+    },
+    {
+      "surface": "גת",
+      "gloss": "a Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "a Ekron"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:48.249872190Z",
+  "model": "glm-5.3"
+}

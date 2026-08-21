@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Lasciate ⟨ andare ⟩ e sappiate che io ⟨sono⟩ Elohim: sono esaltato fra le nazioni, sono esaltato nella terra.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "lasciate"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "e sappiate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "sono esaltato"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra le nazioni"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "sono esaltato"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:36.990838926Z",
+  "model": "glm-5.3"
+}

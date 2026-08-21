@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Loderò YHWH secondo la sua giustizia, e salmeggerò il nome di YHWH ⟨l'>Altissimo.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Loderò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "secondo la sua giustizia"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "e salmeggerò"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Altissimo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:17.321074950Z",
+  "model": "glm-5.3"
+}

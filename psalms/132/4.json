@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "se darò sonno ai miei occhi, torpore alle mie palpebre —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "darò"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "sonno"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ai miei occhi"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "alle mie palpebre"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "torpore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:55.310796775Z",
+  "model": "glm-5.3"
+}

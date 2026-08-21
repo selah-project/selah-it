@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Poiché ricordò ⟨את⟩ la parola della sua santità, ⟨את⟩ Avraham suo servo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ricordò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parola della sua santità"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "della sua santità"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham suo servo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "suo servo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:47.128411518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E presero ⟨את⟩ Lot, figlio del fratello di Abram, e ⟨את⟩ i suoi beni, e se ne andarono; ed ⟨egli⟩ dimorava a Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "e presero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi beni"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "i suoi beni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "del fratello"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "di Abram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "e se ne andarono"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed ⟨egli⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dimorava"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "a Sodom"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:57.043801003Z",
+  "model": "glm-5.3"
+}

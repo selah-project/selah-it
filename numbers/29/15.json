@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "e un decimo ⟨efà⟩ per l'agnello, per i quattordici agnelli;",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "e un decimo"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "decimo"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "per l'agnello"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "per i quattordici"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-dici"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "agnelli"
+    }
+  ],
+  "timestamp": "2026-08-21T06:35:35.465049045Z",
+  "model": "glm-5.3"
+}

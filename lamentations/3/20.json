@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ricordando ricorda, e si prostra su di me la mia anima.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ricordando"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "e si prostra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia anima"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:34.038252964Z",
+  "model": "glm-5.3"
+}

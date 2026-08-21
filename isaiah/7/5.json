@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Poiché ha tramato contro di te un consiglio malvagio: Aram, Efraim e il figlio di Remaliah, dicendo:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ha tramato"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "malvagio"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e il figlio"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "di Remaliah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:28.136387934Z",
+  "model": "glm-5.3"
+}

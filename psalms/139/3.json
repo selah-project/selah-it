@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Il mio cammino e il mio giacere, tu li vagli; tutte le mie vie ti sono familiari.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "il mio cammino"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "e il mio giacere"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "tu vagli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutte"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "le mie vie"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ti sono familiari"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:05.706004219Z",
+  "model": "glm-5.3"
+}

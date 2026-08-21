@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Va' e dirai al mio servo, a Davide: così dice YHWH: ⟨sarai⟩ tu a costruire per me una casa ⟨perché⟩ io vi abiti?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e dirai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "al mio servo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "⟨sarai⟩ tu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "a costruire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "בית",
+      "gloss": "una casa"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "perché io vi abiti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:39.350140442Z",
+  "model": "glm-5.3"
+}

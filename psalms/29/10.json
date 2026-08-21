@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "YHWH ⟨sedette⟩ ⟨sul⟩ diluvio, e siede YHWH ⟨come⟩ re per sempre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "⟨sul⟩ diluvio"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedette"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e siede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:39.112409674Z",
+  "model": "glm-5.3"
+}

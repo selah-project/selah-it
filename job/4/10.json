@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Il ruggito del leone, e la voce del leone feroce, e i denti dei leoncelli ⟨sono⟩ divelti.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "il ruggito"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "del leone"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e la voce"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "del leone feroce"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e i denti"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "dei leoncelli"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "divelti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:50.863055678Z",
+  "model": "glm-5.3"
+}

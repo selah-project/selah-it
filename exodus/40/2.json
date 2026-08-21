@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Nel primo giorno del primo mese alzerai ⟨את⟩ il mishkan (tabernacolo) della tenda del convegno.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "il primo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "al primo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "alzerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mishkan (tabernacolo)"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "il mishkan (tabernacolo)"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:28.494538209Z",
+  "model": "glm-5.3"
+}

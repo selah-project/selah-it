@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Tutti loro si arroventano come un forno e hanno divorato ⟨את⟩ i loro giudici; tutti i loro re sono caduti — non c'è chi gridi a me fra loro.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tutti loro"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "si arroventano"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "come un forno"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "e hanno divorato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro giudici"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "i loro giudici"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "i loro re"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sono caduti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chi gridi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fra loro"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:02.082308058Z",
+  "model": "glm-5.3"
+}

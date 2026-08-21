@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Quando dissi: « vacilla il mio piede », il tuo chesed, YHWH, mi sosteneva.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "quando"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dissi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "vacilla"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "il mio piede"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "mi sosteneva"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:14.218706361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "In quel giorno farò sorgere contro Eli ⟨את⟩ tutto ciò che ho parlato sulla sua casa: cominciando e finendo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in ⟨il⟩ giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "farò sorgere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contro"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che ho parlato sulla sua casa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "cominciando"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "e finendo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:45.887347872Z",
+  "model": "glm-5.3"
+}

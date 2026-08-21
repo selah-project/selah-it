@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "che copre i cieli di nubi, che prepara per la terra la pioggia, che fa germogliare sui monti l'erba.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "che copre"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "di nubi"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "che prepara"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "per la terra"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "che fa germogliare"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sui monti"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "l'erba"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.268131468Z",
+  "model": "glm-5.3"
+}

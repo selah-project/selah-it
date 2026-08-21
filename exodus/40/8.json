@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E disporrai ⟨את⟩ il cortile tutto intorno, e porrai ⟨את⟩ la cortina del portone del cortile.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "e disporrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cortile"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "il cortile"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutto intorno"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "e porrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cortina del portone"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "la cortina"
+    },
+    {
+      "surface": "שער",
+      "gloss": "del portone"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "del cortile"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:22.470046555Z",
+  "model": "glm-5.3"
+}

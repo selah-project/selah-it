@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Cavalcò su un keruv e volò, e apparve sulle ali del vento.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "cavalcò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "un keruv"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "e volò"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e apparve"
+    },
+    {
+      "surface": "על",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ali"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "del vento"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:30.596304344Z",
+  "model": "glm-5.3"
+}

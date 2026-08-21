@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Le tue città sante sono diventate ⟨il⟩ deserto, Tziyon è diventata deserto, Gerusalemme ⟨è⟩ una desolazione.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "le città"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sante (le tue sante)"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sono diventate"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "deserto"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "deserto"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "è diventata"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "una desolazione"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:09.868092795Z",
+  "model": "glm-5.3"
+}

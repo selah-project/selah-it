@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E si spoglierà ⟨את⟩ le sue vesti e si vestirà di altre vesti; e porterà fuori ⟨את⟩ la cenere fuori dall'accampamento, in un luogo puro.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "E si spoglierà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "e si vestirà"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "di vesti"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altre"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "e porterà fuori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cenere"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "la cenere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "dall'accampamento"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un luogo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:43.716825794Z",
+  "model": "glm-5.3"
+}

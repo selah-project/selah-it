@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Ma io, quasi ⟨furono⟩ piegati i miei piedi, come il nulla ⟨furono≫ riversati i miei passi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "quasi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "piegati"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i miei piedi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "come il nulla"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "furono riversati"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "i miei passi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:18.111233337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Nonostante il mio diritto, io ⟨sono⟩ bugiardo; la mia ferita ⟨è⟩ incurabile, senza trasgressione.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nonostante"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "il mio diritto"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "bugiardo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "incurabile"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "la mia ferita"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "trasgressione"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:28.629040090Z",
+  "model": "glm-5.3"
+}

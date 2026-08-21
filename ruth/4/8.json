@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E il goel disse a Boaz: compra per te. E si tolse il sandalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "il goel"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "a Boaz"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "compra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "e si tolse"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "il suo sandalo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:39.390339186Z",
+  "model": "glm-5.3"
+}

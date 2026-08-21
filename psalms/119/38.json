@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Fa' sorgere per il tuo servo la tua parola, che ⟨è⟩ per il tuo timore.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "fa' sorgere"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "per il tuo servo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "la tua parola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "per il tuo timore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:59.729283227Z",
+  "model": "glm-5.3"
+}

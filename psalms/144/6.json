@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "Fa' balenare il lampo e disperdili; scaglia le tue frecce e sconvolgili.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "fa' balenare"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "il lampo"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "e disperdili"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "scaglia"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "le tue frecce"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "e sconvolgili"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:59.058731187Z",
+  "model": "glm-5.3"
+}

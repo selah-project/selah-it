@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Si saziano gli alberi di YHWH, i cedri del Libano che ⟨egli⟩ ha piantato,",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "si saziano"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gli alberi di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "i cedri di"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "del Libano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ha piantato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:18.038454081Z",
+  "model": "glm-5.3"
+}

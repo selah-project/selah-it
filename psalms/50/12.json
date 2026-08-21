@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Se avessi fame, non lo direi a te, poiché mio ⟨è⟩ il mondo e la sua pienezza.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "avessi fame"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "direi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "il mondo"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "e la sua pienezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:12.768796115Z",
+  "model": "glm-5.3"
+}

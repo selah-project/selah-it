@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Si secca l'erba, appassisce il fiore, perché il Ruach di YHWH vi ha soffiato: davvero, il popolo ⟨è⟩ erba.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "si secca"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "l'erba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "appassisce"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "il fiore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il Ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "ha soffiato"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "davvero"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "erba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo ⟨è⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:35.789333654Z",
+  "model": "glm-5.3"
+}

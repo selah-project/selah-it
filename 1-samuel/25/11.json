@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E prenderei ⟨את⟩ il mio pane e ⟨את⟩ la mia acqua e ⟨את⟩ la mia carne macellata che ho macellato per i miei tosatori, e la darei a uomini che non conosco, da dove sono?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "e prenderei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio pane"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "il mio pane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la mia acqua"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "la mia acqua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la mia carne macellata"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "la mia carne macellata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ho macellato"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "per i miei tosatori"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "e la darei"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "a uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "conosco"
+    },
+    {
+      "surface": "אי",
+      "gloss": "da dove"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sono"
+    },
+    {
+      "surface": "המה",
+      "gloss": "loro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:43.526239725Z",
+  "model": "glm-5.3"
+}

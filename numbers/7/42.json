@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Il sesto giorno: il nasi dei figli di Gad, Eljasaf figlio di Deuel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "sesto"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "il nasi (capo)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:40.560581492Z",
+  "model": "glm-5.3"
+}

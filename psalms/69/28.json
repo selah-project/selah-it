@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Aggiungi colpa alla loro colpa, e non entrino nella tua giustizia.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Aggiungi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "colpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "alla loro colpa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entrino"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nella tua giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:51.488868460Z",
+  "model": "glm-5.3"
+}

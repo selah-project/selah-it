@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E Novach andò e catturò ⟨את⟩ Qenat e ⟨את⟩ le sue figlie-villaggi, e la chiamò Novach, con il suo nome.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "E Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "andò"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e catturò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Qenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le sue figlie-villaggi"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "le sue figlie-villaggi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "לה",
+      "gloss": "la"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "con il suo nome"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:57.387288041Z",
+  "model": "glm-5.3"
+}

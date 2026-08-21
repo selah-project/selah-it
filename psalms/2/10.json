@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E ora, o re, siate saggi; siate ammaestrati, o giudici della terra.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "o re"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "siate saggi"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "siate ammaestrati"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "o giudici"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:45.802437732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Giacobbe fuggì nel campo di Aram, e Israele servì per una donna, e per una donna fece la guardia.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "e fuggì"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "e servì"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "per una donna"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "e per una donna"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "fece la guardia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:45.716549415Z",
+  "model": "glm-5.3"
+}

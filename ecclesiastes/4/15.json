@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ho visto ⟨את⟩ tutti i viventi che camminano sotto il sole, stare con il ragazzo, il secondo, che starà al suo posto.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ho visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i viventi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "i viventi"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "che camminano"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il ragazzo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "il secondo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "starà"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "al suo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:18.255514352Z",
+  "model": "glm-5.3"
+}

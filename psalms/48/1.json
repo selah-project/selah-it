@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Canto, salmo dei figli di Qorach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:00.452051935Z",
+  "model": "glm-5.3"
+}

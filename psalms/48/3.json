@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Bella nel suo elevarsi, gioia di tutta ⟨la⟩ terra, ⟨è⟩ il monte Tzion, nei recessi del nord, la città del grande Re.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Bella"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "nel suo elevarsi"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "gioia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terra"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "nei recessi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "del nord"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "la città"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del Re"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:47.222406066Z",
+  "model": "glm-5.3"
+}

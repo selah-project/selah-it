@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e comanderà il sacerdote, ed estirperanno ⟨את⟩ le pietre nelle quali ⟨è⟩ la piaga, e le getteranno ⟨את⟩ fuori della città, in un luogo impuro.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "e comanderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "ed estirperanno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pietre"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "le pietre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nelle quali"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "in esse"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la piaga"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "e le getteranno"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "loro (le pietre)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un luogo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impuro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:37.548964195Z",
+  "model": "glm-5.3"
+}

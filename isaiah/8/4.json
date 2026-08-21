@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Poiché prima che il fanciullo sappia chiamare «padre mio» e «madre mia», sarà portato via ⟨את⟩ il potere di Damasco e ⟨את⟩ la preda di Shomron, davanti al re di Ashshur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sappia"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il fanciullo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chiamare"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "«padre mio»"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "e «madre mia»"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sarà portato via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il potere di Damasco"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "il potere"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "di Damasco"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la preda di Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "la preda"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "di Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:16.846460308Z",
+  "model": "glm-5.3"
+}

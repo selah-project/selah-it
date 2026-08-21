@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Con la benedizione degli integri la città si innalza, ma con la bocca dei malvagi ⟨viene⟩ demolita.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "con la benedizione"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "degli integri"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "si innalza"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "la città"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "ma con la bocca"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "demolita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:54.394379509Z",
+  "model": "glm-5.3"
+}

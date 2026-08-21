@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Chiunque maledica ⟨את⟩ suo padre e ⟨את⟩ sua madre, sarà messo a morte: suo padre e sua madre egli ha maledetto — il suo sangue ⟨è⟩ su di lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ogni uomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "maledice"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sua madre"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "e sua madre"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "ha maledetto"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "il suo sangue"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:21.725272328Z",
+  "model": "glm-5.3"
+}

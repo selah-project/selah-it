@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 62,
+  "translation": "Poiché quelli che lo raccolgono lo mangeranno e loderanno ⟨את⟩ YHWH, e quelli che lo raccolgono lo berranno nei cortili ⟨della⟩ mia santità.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "quelli che lo raccolgono"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "lo mangeranno"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "e loderanno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "e quelli che lo raccolgono"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "lo berranno"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "nei cortili"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mia santità"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:37.777852945Z",
+  "model": "glm-5.3"
+}

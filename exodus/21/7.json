@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E se un uomo vende ⟨את⟩ sua figlia come ancella, lei non uscirà come escono gli schiavi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "E se"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "venderà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sua figlia"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sua figlia"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "come ancella"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uscirà"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "come escono"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "gli schiavi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:33.216824939Z",
+  "model": "glm-5.3"
+}

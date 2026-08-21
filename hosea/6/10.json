@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Nella casa d'Israele ho visto ⟨una⟩ cosa orribile: là ⟨c'è⟩ la prostituzione di Efraim; ⟨Israele⟩ è contaminato, Israele.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "cosa orribile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "prostituzione"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "di Efraim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "è contaminato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:52.227522722Z",
+  "model": "glm-5.3"
+}

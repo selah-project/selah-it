@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Il mio diletto ⟨è⟩ per me e io ⟨sono⟩ per lui, che pastora tra i gigli.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "il mio diletto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "che pastora"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "tra i gigli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:09.408391214Z",
+  "model": "glm-5.3"
+}

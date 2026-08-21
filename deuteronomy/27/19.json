@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Maledetto chi piega il diritto del forestiero, dell'orfano e della vedova. E tutto il popolo dirà: amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maledetto"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "piega"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il diritto"
+    },
+    {
+      "surface": "גר",
+      "gloss": "del forestiero"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "dell'orfano"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "e della vedova"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dirà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:08.950931179Z",
+  "model": "glm-5.3"
+}

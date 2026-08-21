@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "I re degli eserciti fuggono, fuggono, e colei che dimora in casa divide il bottino.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "I re"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "fuggono"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "fuggono"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "e colei che dimora"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in casa"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "divide"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "il bottino"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:45.566498042Z",
+  "model": "glm-5.3"
+}

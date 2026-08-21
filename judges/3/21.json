@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Ehud tese la mano sinistra e prese ⟨את⟩ la spada da sopra la coscia destra, e la conficcò nel suo ventre.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "tese"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mano sinistra"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "sinistra"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la spada"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da sopra"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "la coscia"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "la sua destra"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "e la conficcò"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "nel suo ventre"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:35.257150476Z",
+  "model": "glm-5.3"
+}

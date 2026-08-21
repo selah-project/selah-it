@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E io ⟨sono⟩ YHWH, il tuo Elohim, dalla terra d'Egitto; ed un Elohim all'infuori di me non conoscerai, e non ⟨c'è⟩ salvatore fuori di me.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "e un Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "all'infuori di me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "conoscerai"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "e salvatore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'e"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "fuori di"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:16.735747283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Ci fai voltare indietro davanti all'avversario, e quelli che ci odiano spogliano per sé.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "ci fai voltare"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "indietro"
+    },
+    {
+      "surface": "מני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "צר",
+      "gloss": "all'avversario"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "e quelli che ci odiano"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "spogliano"
+    },
+    {
+      "surface": "למו",
+      "gloss": "per sé"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:34.320376418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Colui che siede al riparo di Elyon, all'ombra di Shaddai dimora per la notte.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "siede"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "al riparo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "di Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "all'ombra"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "di Shaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "dimora per la notte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:56.996014635Z",
+  "model": "glm-5.3"
+}

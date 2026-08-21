@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E al malvagio disse Elohim: che hai tu a raccontare ⟨le⟩ mie norme, e a portare il mio patto sulla tua bocca?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "E al malvagio"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hai tu"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "a raccontare"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "le mie norme"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "e a portare"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "la tua bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:10.383538846Z",
+  "model": "glm-5.3"
+}

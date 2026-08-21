@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Ascolta, figlia, e vedi, e porgi il tuo orecchio; e dimentica il tuo popolo e la casa di tuo padre —",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "e vedi"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "e porgi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "il tuo orecchio"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "e dimentica"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e la casa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "di tuo padre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:32.162178304Z",
+  "model": "glm-5.3"
+}

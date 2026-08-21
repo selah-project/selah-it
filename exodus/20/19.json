@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E dissero a Moshe: parla tu con noi e noi ascolteremo; e non parli con noi Elohim, perché non moriamo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "con noi"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "e noi ascolteremo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parli"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "con noi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "moriamo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:25.990954967Z",
+  "model": "glm-5.3"
+}

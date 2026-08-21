@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Spera in YHWH; sii forte, e si rafforzi il tuo cuore; sì, spera in YHWH.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "spera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sii forte"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "e si rafforzi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "e spera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:05.572747906Z",
+  "model": "glm-5.3"
+}

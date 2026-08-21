@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Non temere, perché io sono ⟨את⟩ con te: dall'oriente farò venire la tua stirpe, e dall'occidente ti radunerò.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ con te",
+      "marks": "io — colui che è con te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "dall'oriente"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "farò venire"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "la tua stirpe"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "e dall'occidente"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ti radunerò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:02.776243262Z",
+  "model": "glm-5.3"
+}

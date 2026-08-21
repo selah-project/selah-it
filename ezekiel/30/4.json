@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 30:4",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E verrà la spada in Egitto, e ci sarà angoscia in Kush al cadere dei trafitti in Egitto; e prenderanno la sua moltitudine, e saranno demolite le sue fondamenta.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "e verrà"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e ci sarà"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "angoscia"
+    },
+    {
+      "surface": "בכוש",
+      "gloss": "in Kush"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "al cadere"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "dei trafitti"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "e prenderanno"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "la sua moltitudine"
+    },
+    {
+      "surface": "ונהרסו",
+      "gloss": "e saranno demolite"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "le sue fondamenta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:24:31.890484166Z",
+  "model": "glm-5.3"
+}

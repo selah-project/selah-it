@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Tutto ciò che la tua mano trova da fare, fallo con la tua forza; perché non c'è opera, né calcolo, né conoscenza, né sapienza nello Sheol, dove tu stai andando.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trova"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da fare"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "con la tua forza"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fallo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "né calcolo"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "né conoscenza"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "né sapienza"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "nello Sheol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "stai andando"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:10.868047030Z",
+  "model": "glm-5.3"
+}

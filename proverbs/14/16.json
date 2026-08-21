@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "⟨Il⟩ saggio teme e si allontana dal male, ma lo stolto si infuria e si fida.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "teme"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "e si allontana"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dal male"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ma lo stolto"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "si infuria"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "e si fida"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:18.870700932Z",
+  "model": "glm-5.3"
+}

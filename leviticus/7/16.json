@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E se il sacrificio del suo qorban è voto o offerta volontaria, nel giorno in cui porta vicino ⟨את⟩ il suo sacrificio sarà mangiato; e il giorno dopo, ciò che avanza di esso sarà mangiato.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "voto"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "offerta volontaria"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "il sacrificio"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "del suo qorban"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "in cui porta vicino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo sacrificio"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "il suo sacrificio"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sarà mangiato"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "e il giorno dopo"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "e ciò che avanza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "di esso"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sarà mangiato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:19.465653103Z",
+  "model": "glm-5.3"
+}

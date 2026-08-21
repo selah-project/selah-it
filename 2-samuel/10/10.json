@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E ⟨את⟩ il resto del popolo diede in mano di Abishai, suo fratello, ed egli lo dispose incontro ai figli di Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il resto del popolo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "di Abishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ed egli dispose"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "incontro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "di Ammon"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:41.314379999Z",
+  "model": "glm-5.3"
+}

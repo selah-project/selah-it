@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E ⟨את⟩ il mio popolo istruiranno tra il santo e il profano, e tra l'impuro e il puro li faranno discernere.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "istruiranno"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "il santo"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "e il profano"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "l'impuro"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "e il puro"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "li faranno discernere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:30:12.069207220Z",
+  "model": "glm-5.3"
+}

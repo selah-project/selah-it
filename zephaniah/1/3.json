@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Raccoglierò l'uomo e la bestia, raccoglierò l'uccello dei cieli e i pesci del mare, e le insidie ⟨insieme⟩ ai malvagi; e sterminerò ⟨את⟩ l'uomo dalla superficie della terra, oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Raccoglierò"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "e la bestia"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "raccoglierò"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "l'uccello"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "e i pesci"
+    },
+    {
+      "surface": "הים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "e le insidie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ai malvagi"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ai malvagi"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e sterminerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dalla superficie"
+    },
+    {
+      "surface": "פני",
+      "gloss": "di"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:40:21.928704825Z",
+  "model": "glm-5.3"
+}

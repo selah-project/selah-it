@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Popolo mio, che cosa ti ho fatto? In che cosa ti ho stancato? Rispondimi!",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Popolo mio"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ti ho fatto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "in che cosa"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "ti ho stancato"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Rispondi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:16.670483127Z",
+  "model": "glm-5.3"
+}

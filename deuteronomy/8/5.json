@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E tu saprai con il tuo cuore che, come un uomo corregge ⟨את⟩ suo figlio, così YHWH il tuo Elohim ti corregge.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "e tu saprai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "corregge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo figlio"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "ti corregge"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:41.669639442Z",
+  "model": "glm-5.3"
+}

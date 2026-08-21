@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Che vantaggio ⟨c'è⟩ per l'uomo in tutta la sua fatica, in cui si affatica sotto il sole?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "vantaggio"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "per l'uomo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "la sua fatica"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "in cui si affatica"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:57.093645129Z",
+  "model": "glm-5.3"
+}

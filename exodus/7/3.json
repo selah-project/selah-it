@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E io indurirò ⟨את⟩ il cuore di Faraone, e moltiplicherò ⟨את⟩ i miei segni e ⟨את⟩ i miei prodigi nel paese d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "E io"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "indurirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cuore di Faraone"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "e moltiplicherò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei segni"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "i miei segni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i miei prodigi"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "i miei prodigi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nel paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:18.954556392Z",
+  "model": "glm-5.3"
+}

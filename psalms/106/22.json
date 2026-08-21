@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "cose meravigliose nella terra di Cham, cose tremende sul mare di Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "cose meravigliose"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "חם",
+      "gloss": "di Cham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "cose tremende"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "di Suf"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:07.946570206Z",
+  "model": "glm-5.3"
+}

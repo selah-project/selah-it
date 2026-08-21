@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Chi scava una fossa vi cadrà dentro, e chi sfonda un muro lo morderà un serpente.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "chi scava"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "una fossa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dentro"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cadrà"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "e chi sfonda"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "un muro"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "lo morderà"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "un serpente"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:54.125033915Z",
+  "model": "glm-5.3"
+}

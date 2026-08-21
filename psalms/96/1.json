@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Cantate a YHWH un canto nuovo, cantate a YHWH, tutta ⟨la⟩ terra!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cantate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un canto"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuovo"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:21.705946967Z",
+  "model": "glm-5.3"
+}

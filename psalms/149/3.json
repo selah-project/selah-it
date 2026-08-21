@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 149,
+  "translation": "Lodino il suo nome in danza, con timpano e cetra gli cantino inni.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Lodino"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "in danza"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "con timpano"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "e cetra"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "gli cantino inni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:18.842129316Z",
+  "model": "glm-5.3"
+}

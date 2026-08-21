@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "ustione per ustione, ferita per ferita, livido per livido.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ustione"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ustione"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ferita"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ferita"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "livido"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "livido"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:02.947857436Z",
+  "model": "glm-5.3"
+}

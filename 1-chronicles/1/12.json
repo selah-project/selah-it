@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ i Patrusiti e ⟨את⟩ i Casluchiti, dai quali uscirono i Filistei — e ⟨את⟩ i Caftoriti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Patrusiti"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "i Patrusiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Casluchiti"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "i Casluchiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dai quali"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "uscirono"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Caftoriti"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "i Caftoriti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:50.389100746Z",
+  "model": "glm-5.3"
+}

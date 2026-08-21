@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E Jotam si addormentò con i suoi padri, e lo seppellirono ⟨את⟩ nella città di Davide; e regnò Achaz suo figlio al suo posto.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "e si addormentò"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e lo seppellirono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo — Jotam, nella città di Davide"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e regnò"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "al suo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:59:44.651917237Z",
+  "model": "glm-5.3"
+}

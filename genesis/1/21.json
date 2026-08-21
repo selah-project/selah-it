@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E creò Elohim ⟨את⟩ i grandi taninim, e ⟨את⟩ ogni nefesh vivente che si muove, che le acque avevano fatto brulicare secondo la loro specie, e ⟨את⟩ ogni volatile alato secondo la sua specie; e vide Elohim che ⟨era⟩ buono.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "e creò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i grandi taninim"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "i taninim"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogni nefesh vivente che si muove"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "vivente"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "che si muove"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "avevano fatto brulicare"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "secondo la loro specie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogni volatile alato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "volatile"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "alato"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "secondo la sua specie"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:38.086499234Z",
+  "model": "glm-5.3"
+}

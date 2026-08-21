@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E avvenne, quando Shelomoh ebbe finito di costruire ⟨את⟩ la casa di YHWH e ⟨את⟩ la casa del re, e ⟨את⟩ tutto ciò che Shelomoh desiderava fare secondo il suo piacere,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "quando ebbe finito"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "di costruire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la casa del re"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto ciò che Shelomoh desiderava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ciò che desiderava"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "secondo il suo piacere"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "fare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:40.035329672Z",
+  "model": "glm-5.3"
+}

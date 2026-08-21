@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "poiché Gerusalemme è inceppata, e Yehudah è caduto; poiché la loro lingua e le loro azioni ⟨sono⟩ contro YHWH, per sfidare gli occhi della sua gloria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "è inceppata"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "è caduto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "la loro lingua"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "e le loro azioni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "per sfidare"
+    },
+    {
+      "surface": "עני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "della sua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:41.262167990Z",
+  "model": "glm-5.3"
+}

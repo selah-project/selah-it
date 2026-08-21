@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 36:4",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E Geremia chiamò ⟨את⟩ Baruc figlio di Neria, e Baruc scrisse dalla bocca di Geremia ⟨את⟩ tutte le parole di YHWH che ⟨egli⟩ aveva parlato a lui, su un rotolo di libro.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Geremia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruc figlio di Neria"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruc"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "di Neria"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "e scrisse"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruc"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "dalla bocca"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "di Geremia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole di YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "rotolo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "di libro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:10:18.185941472Z",
+  "model": "glm-5.3"
+}

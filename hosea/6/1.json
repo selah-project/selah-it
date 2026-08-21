@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Venite, torniamo a YHWH: egli ha dilaniato e ci guarirà, ha colpito e ci fascerà.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Venite"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "torniamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ha dilaniato"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "e ci guarirà"
+    },
+    {
+      "surface": "יך",
+      "gloss": "ha colpito"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "e ci fascerà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:06.285119574Z",
+  "model": "glm-5.3"
+}

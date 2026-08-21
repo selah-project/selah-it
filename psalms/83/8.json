@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Gebal e Ammon e Amalek, la Filistea con gli abitanti di Tiro.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "e Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "e Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "la Filistea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti di"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tiro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:29.970832607Z",
+  "model": "glm-5.3"
+}

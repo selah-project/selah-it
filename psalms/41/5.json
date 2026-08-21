@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Io ho detto: YHWH, fammi grazia, guarisci la mia nefesh, perché ho peccato contro di te.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fammi grazia"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "guarisci"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ho peccato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contro di te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:44.240707491Z",
+  "model": "glm-5.3"
+}

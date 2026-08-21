@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Addestra le mie mani alla battaglia, e ⟨le mie⟩ braccia piegano un arco di bronzo.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "addestra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "le mie mani"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "alla battaglia"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "e piegano"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "un arco"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "di bronzo"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "le mie braccia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:15.846071536Z",
+  "model": "glm-5.3"
+}

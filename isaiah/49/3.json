@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "E mi disse: mio servo sei tu, Israele, in te mi glorificherò.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mio servo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "mi glorificherò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:36.551061790Z",
+  "model": "glm-5.3"
+}

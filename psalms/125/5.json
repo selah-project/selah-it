@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 125,
+  "translation": "E i devianti verso i loro sentieri tortuosi — YHWH li condurrà via ⟨insieme a⟩ ⟨את⟩ i fautori dell'iniquità. Shalom su Israele.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "e i devianti"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "i loro sentieri tortuosi"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "li condurrà via"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i fautori dell'iniquità"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "i fautori"
+    },
+    {
+      "surface": "האון",
+      "gloss": "dell'iniquità"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:30.683813319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "poiché mio ⟨è⟩ ogni bestia della foresta, le bestie sui monti di אלף.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bestia"
+    },
+    {
+      "surface": "יער",
+      "gloss": "della foresta"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "le bestie"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "sui monti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "di אלף"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:12.768557550Z",
+  "model": "glm-5.3"
+}

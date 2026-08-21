@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Yehoshua si alzò di buon mattino e passò in rassegna ⟨את⟩ il popolo; poi salì, lui e gli anziani di Israele, davanti al popolo, verso Ha-Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "e si alzò di buon mattino"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "e passò in rassegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "e gli anziani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "העי",
+      "gloss": "verso Ha-Ai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:51:51.135207453Z",
+  "model": "glm-5.3"
+}

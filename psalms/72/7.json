@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Fiorisca nei suoi giorni il giusto, e abbondi shalom finché non ⟨vi sia più⟩ luna.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "Fiorisca"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "nei suoi giorni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e abbondi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "non ⟨vi sia più⟩"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "luna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:10.902696181Z",
+  "model": "glm-5.3"
+}

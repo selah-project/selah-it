@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Ecco, una nazione che non conosci tu chiamerai, e una nazione che non ti conosce correrà verso di te, per amore di YHWH, del tuo Elohim, e del Santo di Israele, perché ti ha ornato di splendore.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "una nazione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "conosci"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tu chiamerai"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "e una nazione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ti conosce"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "verso di te"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "correrà"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "del tuo Elohim"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "e del Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "ti ha ornato di splendore"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:16.375073570Z",
+  "model": "glm-5.3"
+}

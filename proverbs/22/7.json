@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Il ricco domina sui poveri, e chi prende in prestito ⟨è⟩ servo dell'uomo che presta.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Il ricco"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "sui poveri"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "domina"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "e servo"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "chi prende in prestito"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "che presta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:17.711004360Z",
+  "model": "glm-5.3"
+}

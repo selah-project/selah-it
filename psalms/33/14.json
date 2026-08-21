@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Dalla sede della sua dimora Scruta tutti gli abitanti della terra.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "dalla sede"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "della sua dimora"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "scruta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:31.641351854Z",
+  "model": "glm-5.3"
+}

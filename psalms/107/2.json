@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Lo dicano i riscattati di YHWH, quelli che ⟨egli⟩ ha riscattato dalla mano dell'avversario ⟨stretto⟩.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "lo dicano"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "i riscattati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quelli che"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ha riscattato"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dell'avversario ⟨stretto⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:34.837447337Z",
+  "model": "glm-5.3"
+}

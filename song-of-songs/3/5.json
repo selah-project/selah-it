@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Vi ho fatto giurare — ⟨את⟩ voi — figlie di Gerusalemme, per le gazzelle o per le cerve dei campi: che non svegliate e non destiate ⟨את⟩ l'amore, finché esso non voglia.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "vi ho fatto giurare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "figlie di Gerusalemme"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "figlie"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "per le gazzelle"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "per le cerve"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dei campi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "che"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "non svegliate"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "destiate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'amore"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "l'amore"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "esso non voglia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:47.601455870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Come hai aiutato chi ⟨non ha⟩ forza, come hai salvato ⟨il⟩ braccio senza vigore!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "come"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hai aiutato"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "chi non ha"
+    },
+    {
+      "surface": "כח",
+      "gloss": "forza"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "hai salvato"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "braccio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "senza"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vigore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:33.785447829Z",
+  "model": "glm-5.3"
+}

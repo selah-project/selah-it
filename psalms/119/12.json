@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Benedetto sei tu, YHWH; insegnami i tuoi statuti.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "insegnami"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i tuoi statuti"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:45.125912009Z",
+  "model": "glm-5.3"
+}

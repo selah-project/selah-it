@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E portò ⟨את⟩ le cose sacre di suo padre e le cose che egli stesso aveva consacrato nella casa di YHWH: argento, oro e oggetti.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e portò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cose sacre di suo padre"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "le cose sacre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "e le cose consacrate da lui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e oro"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "e oggetti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:52.502082029Z",
+  "model": "glm-5.3"
+}

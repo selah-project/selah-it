@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 70,
+  "translation": "Al direttore del coro. Di Davide. Per far ricordare.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "per far ricordare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:31.477275636Z",
+  "model": "glm-5.3"
+}

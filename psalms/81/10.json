@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Non sia in te ⟨un⟩ El estraneo, e non ti prostrerai a un El straniero.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "estraneo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ti prostrerai"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "a un El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "straniero"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:42.168313700Z",
+  "model": "glm-5.3"
+}

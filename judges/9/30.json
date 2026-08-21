@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E Zebul, capo della città, udì ⟨את⟩ le parole di Gaal figlio di Ebed, e la sua ira si accese.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole di Gaal figlio di Ebed"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "געל",
+      "gloss": "di Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "di Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "e si accese"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "la sua ira (lett. il suo naso)"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:06.584620444Z",
+  "model": "glm-5.3"
+}

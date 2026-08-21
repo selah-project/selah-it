@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Ti farò salire ⟨come⟩ olà animali grassi, con l'incenso di arieti; preparerò buoi con capri. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "come olà"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "animali grassi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "farò salire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "l'incenso"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "di arieti"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "preparerò"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buoi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "capri"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:01.769302566Z",
+  "model": "glm-5.3"
+}

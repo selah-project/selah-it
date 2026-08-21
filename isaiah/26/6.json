@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "La calpesta il piede — i piedi dell'afflitto, i passi dei miseri.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "la calpesta"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "il piede"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i piedi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dell'afflitto"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "i passi"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "dei miseri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:52.345473468Z",
+  "model": "glm-5.3"
+}

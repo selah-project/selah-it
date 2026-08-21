@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E levò tutta la comunità ⟨la sua voce⟩ e diedero ⟨את⟩ la loro voce, e il popolo pianse quella notte.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "e levò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "la comunità"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "e diedero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro voce"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "la loro voce"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "e pianse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "quella notte"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:57.842927852Z",
+  "model": "glm-5.3"
+}

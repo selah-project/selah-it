@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Maschio e femmina li creò, e li benedisse, e chiamò ⟨את⟩ il loro nome Adam, nel giorno in cui furono creati.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Maschio"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "e femmina"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "li creò"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e li benedisse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (maschio e femmina)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il loro nome"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "il loro nome"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "in cui furono creati"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:14.452311162Z",
+  "model": "glm-5.3"
+}

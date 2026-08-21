@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 54,
+  "translation": "Poiché estranei si sono levati contro di me, e violenti cercano la mia nefesh; non hanno posto Elohim davanti a loro. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "estranei"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "si sono levati"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "e violenti"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "cercano"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hanno posto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "davanti a loro"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:34.339086066Z",
+  "model": "glm-5.3"
+}

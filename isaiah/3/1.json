@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Poiché ecco, il Signore, YHWH degli eserciti, toglie da Gerusalemme e da Giuda appoggio e sostegno — ogni appoggio di pane e ogni appoggio d'acqua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "il Signore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "toglie"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "da Gerusalemme"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "e da Giuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "appoggio"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "e sostegno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "משען",
+      "gloss": "appoggio"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "di pane"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "משען",
+      "gloss": "appoggio"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:19.163760833Z",
+  "model": "glm-5.3"
+}

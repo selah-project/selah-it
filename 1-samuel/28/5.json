@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E Shaul vide ⟨את⟩ l'accampamento dei filistei, e temette, e il suo cuore tremò fortemente.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'accampamento dei filistei"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "l'accampamento"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei filistei"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e temette"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "e tremò"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "il suo cuore"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fortemente"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:56.902154804Z",
+  "model": "glm-5.3"
+}

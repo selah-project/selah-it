@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Davide fuggì da Naioth a Rama, e venne e disse davanti a Gionatan: «Che ho fatto? Qual è la mia colpa e qual è il mio peccato davanti a tuo padre, che cerca ⟨את⟩ la mia nefesh?»",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "e fuggì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "da Naioth"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "a Rama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Gionatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ho fatto"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qual è"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "la mia colpa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e qual è"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "il mio peccato"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia nefesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:31.932249230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E Davide colpì ⟨את⟩ la terra, e non lasciò in vita né uomo né donna; e prese greggi e buoi e asini e cammelli e vesti, e tornò e venne da Akish.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "lasciò in vita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "né uomo"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "né donna"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "greggi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e buoi"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "e asini"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "e cammelli"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "e vesti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:48.125135840Z",
+  "model": "glm-5.3"
+}

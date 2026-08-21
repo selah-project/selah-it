@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Appena un poco passerà il tuo servo ⟨את⟩ il Giordano, con ⟨את⟩ il re — e perché il re mi ricompenserebbe con questa ricompensa?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "appena un poco"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "passerà"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "mi ricompenserebbe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "con una ricompensa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:13.265724885Z",
+  "model": "glm-5.3"
+}

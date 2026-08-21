@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "I giorni dei nostri anni — in essi settanta anni, e se per vigore ottanta anni; e il loro vanto ⟨è⟩ fatica e affanno, perché presto passa e noi voliamo via.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "dei nostri anni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in essi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "settanta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "per vigore"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ottanta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "e il loro vanto"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fatica"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "e affanno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "גז",
+      "gloss": "passa (è reciso)"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "presto"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "e noi voliamo via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:46.607452586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Rombano, si agitano ⟨le⟩ sue acque, tremano ⟨i⟩ monti nella sua superbia. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "rombano"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "si agitano"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "le sue acque"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "tremino"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "nella sua superbia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:45.252500593Z",
+  "model": "glm-5.3"
+}

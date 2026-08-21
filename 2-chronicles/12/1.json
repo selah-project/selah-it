@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Avvenne che, quando il regno di Rechavàm fu consolidato e lui si fu rafforzato, egli abbandonò ⟨את⟩ la Torah di YHWH, e tutto Israele con lui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "avvenne"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "quando fu consolidato"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "di Rechavàm"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "e lui si fu rafforzato"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "abbandonò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Torah di YHWH"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:56.118070019Z",
+  "model": "glm-5.3"
+}

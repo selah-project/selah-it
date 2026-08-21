@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Ogni uccello puro voi ⟨potete⟩ mangiare",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "uccello"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "voi mangerete"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:01.811406909Z",
+  "model": "glm-5.3"
+}

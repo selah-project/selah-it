@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E il re di Babilonia li colpì e li mise a morte a Rivla, nel territorio di Chamat; e Giuda fu deportato lontano dalla sua terra.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "loro (i prigionieri)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Babilonia"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "e li mise a morte"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "a Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nel territorio"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "di Chamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "e fu deportato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "lontano da"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "dal suo suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:05.326642861Z",
+  "model": "glm-5.3"
+}

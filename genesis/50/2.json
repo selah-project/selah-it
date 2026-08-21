@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E ordinò Yosèf i suoi servi ⟨את⟩ — i medici ⟨את⟩ — di imbalsamare suo padre ⟨את⟩; e imbalsamarono i medici Israele ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e ordinò"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosèf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi servi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i medici"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "i medici"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "di imbalsamare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "e imbalsamarono"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "i medici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:04.801349019Z",
+  "model": "glm-5.3"
+}

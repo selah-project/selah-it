@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E i filistei furono impauriti, perché dissero: ⟨א⟩ Elohim è venuto nel campo. E dissero: guai a noi, perché non è stata così cosa ⟨simile⟩ ieri e l'altro ieri!",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "e furono impauriti"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "i filistei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dissero"
+    },
+    {
+      "surface": "בא",
+      "gloss": "è venuto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "guai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "è stata"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "così cosa ⟨simile⟩"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "ieri"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "e l'altro ieri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:50.935811617Z",
+  "model": "glm-5.3"
+}

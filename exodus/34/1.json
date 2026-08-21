@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E disse YHWH a Mosè: scalpisci per te due tavole di pietra come le prime, e io scriverò sulle tavole ⟨את⟩ le parole che erano sulle tavole prime, le quali tu hai spezzato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "scalpisci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tavole"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "di pietra"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "come le prime"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "e io scriverò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "le tavole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "היו",
+      "gloss": "erano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "le tavole"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "le prime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le quali"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "tu hai spezzato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:27.285995764Z",
+  "model": "glm-5.3"
+}

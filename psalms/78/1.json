@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Maskil di Asaf. Porgete l'orecchio, popolo mio, alla mia Torah; inclinate il vostro orecchio alle parole della mia bocca.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "porrete l'orecchio"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popolo mio"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "alla mia Torah"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "inclinate"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "il vostro orecchio"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "alle parole"
+    },
+    {
+      "surface": "פי",
+      "gloss": "della mia bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:23.920894444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Ma io a te, YHWH, ho gridato, e al mattino la mia preghiera ti verrà incontro ⟨ti precederà⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ho gridato"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "e al mattino"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ti verrà incontro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:22.560385765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E prese ⟨את⟩ gli anziani della città, e ⟨את⟩ le spine del deserto e ⟨את⟩ i cardi, e con quelli insegnò ⟨agli⟩ uomini di Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli anziani della città"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le spine del deserto"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "le spine"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "del deserto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i cardi"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "i cardi"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "insegnò\/disciplinò"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "con quelli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli uomini di Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "di Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-21T07:00:22.766002221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E Beniamino generò ⟨את⟩ Bela, il suo primogenito, Ashbel il secondo, e Acharach il terzo.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "E Beniamino"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "il suo primogenito"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "il secondo"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "e Acharach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "il terzo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:47:15.017642458Z",
+  "model": "glm-5.3"
+}

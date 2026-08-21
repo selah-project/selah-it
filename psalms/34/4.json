@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Ingrandite YHWH insieme ⟨את⟩ a me, ed esalteremo il suo nome insieme.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Ingrandite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ a me",
+      "marks": "insieme a me"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ed esalteremo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:46.020862239Z",
+  "model": "glm-5.3"
+}

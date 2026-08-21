@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Abitanti di tenebra e di ombra di morte, prigionieri di miseria e di ferro,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "abitanti"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "di tenebra"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "e di ombra di morte"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "prigionieri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "di miseria"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "e di ferro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.625483778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ma essi e i nostri padri si insuperbirono e indurirono ⟨את⟩ la loro nuca e non ascoltarono le tue mitzvot.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ma essi"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "e i nostri padri"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "si insuperbirono"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "e indurirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro nuca"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "la loro nuca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltarono"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "le tue mitzvot"
+    }
+  ],
+  "timestamp": "2026-08-21T09:43:14.214005712Z",
+  "model": "glm-5.3"
+}

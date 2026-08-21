@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E Shelomoh costruì ⟨את⟩ Ghezer e ⟨את⟩ Bet-Choron la bassa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "E costruì"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ghezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Ghezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Bet-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "la bassa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:20.703620134Z",
+  "model": "glm-5.3"
+}

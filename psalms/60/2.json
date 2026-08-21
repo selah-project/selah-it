@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Quando egli combatté contro ⟨את⟩ Aram Naharaim e contro ⟨את⟩ Aram Tzova, e Ioav tornò e colpì ⟨את⟩ Edom nella valle del Sale — dodicimila.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "quando egli combatté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Naharaim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aram Tzova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tzova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "nella valle"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "del Sale"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "migliaia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:29.311403288Z",
+  "model": "glm-5.3"
+}

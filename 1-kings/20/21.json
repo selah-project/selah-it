@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E uscì il re d'Israele e colpì ⟨את⟩ i cavalli e ⟨את⟩ i carri, e colpì Aram con una grande strage.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cavalli"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "i cavalli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i carri"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "i carri"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "una strage"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T07:33:14.210876482Z",
+  "model": "glm-5.3"
+}

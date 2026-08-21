@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Il re mandò e lo sciolse, il dominatore di popoli, e lo liberò.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "e lo sciolse"
+    },
+    {
+      "surface": "משל",
+      "gloss": "il dominatore"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "di popoli"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "e lo liberò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:39.664182333Z",
+  "model": "glm-5.3"
+}

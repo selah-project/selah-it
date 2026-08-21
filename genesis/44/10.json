@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E disse: anche ora, secondo le vostre parole, così ⟨è⟩: colui presso il quale sarà trovato ⟨את⟩[esso], sarà mio servo, e voi sarete innocenti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "secondo le vostre parole"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "colui presso il quale"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "sarà trovato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "presso il quale — la coppa trovata"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e voi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "sarete"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "innocenti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:18.666359162Z",
+  "model": "glm-5.3"
+}

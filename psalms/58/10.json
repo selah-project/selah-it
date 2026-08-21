@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Prima che le vostre pentole sentano ⟨il fuoco di⟩ ⟨i⟩ rovi, Egli ⟨li⟩ trascinerà via come un turbine — ⟨tanto⟩ il verde quanto ⟨quello che⟩ arde nella sua ira.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "sentano"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "le vostre pentole"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "⟨i⟩ rovi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "חי",
+      "gloss": "il verde"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "quello che arde ⟨nella sua ira⟩"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "Egli trascinerà via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:13.787800678Z",
+  "model": "glm-5.3"
+}

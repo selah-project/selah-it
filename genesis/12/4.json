@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E andò Abram come aveva parlato ⟨con lui⟩ YHWH, e andò ⟨con⟩ lui Lot; e Abram ⟨aveva⟩ cinquantasettantacinque anni all'uscire suo da Charan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨con lui⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (Lot, che va con Abram)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "e Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di (anni)"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "e settanta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "all'uscire suo"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "da Charan"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:05.808482851Z",
+  "model": "glm-5.3"
+}

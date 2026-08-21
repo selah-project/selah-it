@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Cantate a YHWH un canto nuovo, ⟨la⟩ sua lode dall'estremità della terra: voi che scendete al mare e ⟨a⟩ ciò che lo riempie, le isole e i loro abitanti.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cantate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un canto"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuovo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "⟨la⟩ sua lode"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dall'estremità"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "voi che scendete"
+    },
+    {
+      "surface": "הים",
+      "gloss": "al mare"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e ⟨a⟩ ciò che lo riempie"
+    },
+    {
+      "surface": "איים",
+      "gloss": "le isole"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "e i loro abitanti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:51.010131238Z",
+  "model": "glm-5.3"
+}

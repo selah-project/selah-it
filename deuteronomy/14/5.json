@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "il cervo, e la gazzella, e il capriolo, e lo stambecco, e il dishon, e il tèo, e lo zemer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "il cervo"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "e la gazzella"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "e il capriolo"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "e lo stambecco"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "e il dishon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "e il tèo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "e lo zemer"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:14.074275657Z",
+  "model": "glm-5.3"
+}

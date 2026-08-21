@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "YHWH lo custodirà e lo farà vivere; sarà felice ⟨sulla⟩ terra, e non lo darai in ⟨balìa della⟩ brama dei suoi nemici.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "lo custodirà"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "e lo farà vivere"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "sarà felice"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨sulla⟩ terra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "lo darai"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "in ⟨balìa della⟩ brama"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dei suoi nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:19.204158149Z",
+  "model": "glm-5.3"
+}

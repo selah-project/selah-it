@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "In te confidarono i padri nostri; confidarono, e tu li liberasti.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "confidarono"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "i padri nostri"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "confidarono"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "e tu li liberasti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:59.578009695Z",
+  "model": "glm-5.3"
+}

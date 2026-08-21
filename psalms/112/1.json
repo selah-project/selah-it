@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Lodate Yah! Beato ⟨l'⟩uomo che teme ⟨את⟩ YHWH, nei suoi comandimenti si compiace grandemente.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah!"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Beato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "che teme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "nei suoi comandimenti"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "si compiace"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandemente"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:54.520610994Z",
+  "model": "glm-5.3"
+}

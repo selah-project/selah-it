@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E disse Mosè a YHWH: «Il popolo non può salire sul monte Sinai, perché tu ⟨ci⟩ hai avvertito dicendo: delimita ⟨את⟩ il monte e santificalo».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "può"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "salire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "hai avvertito"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "delimita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il monte"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "e santificalo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:35.009180414Z",
+  "model": "glm-5.3"
+}

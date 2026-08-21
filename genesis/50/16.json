@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E comandarono ⟨a dire⟩ a Yosef, dicendo: «Tuo padre ha comandato prima della sua morte, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "e comandarono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a dire⟩ dicendo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prima di"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "la sua morte"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:38.865582744Z",
+  "model": "glm-5.3"
+}

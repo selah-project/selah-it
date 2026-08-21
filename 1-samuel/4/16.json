@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E l'uomo disse a Eli: «Sono io che vengo dall'accampamento, e io oggi sono fuggito dall'accampamento». Ed egli disse: «Che cosa è successo, figlio mio?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sono io"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "che vengo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dall'"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "accampamento"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dall'"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "accampamento"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "sono fuggito"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ed egli disse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "è successo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:50.291515163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ il nibbio, e ⟨את⟩ il falco secondo la sua specie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il nibbio"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "il nibbio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il falco"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "il falco"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "secondo la sua specie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:51.359894385Z",
+  "model": "glm-5.3"
+}

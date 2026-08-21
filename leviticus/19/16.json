@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non andrai in giro come calunniatore fra il tuo popolo; non ti fermerai sul sangue del tuo prossimo: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "andrai"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "come calunniatore"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "fra il tuo popolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ti fermerai"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "דם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "del tuo prossimo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:19.817040512Z",
+  "model": "glm-5.3"
+}

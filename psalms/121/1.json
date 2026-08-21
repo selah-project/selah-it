@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 121,
+  "translation": "Canto per le salite. Alzo i miei occhi verso i monti: da dove verrà il mio aiuto?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "per le salite"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "alzo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "da dove"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "verrà"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "il mio aiuto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:27.777194956Z",
+  "model": "glm-5.3"
+}

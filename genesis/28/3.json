@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E El Shaddai ti benedica ⟨את⟩, e ti renda fecondo, e ti moltiplichi, e tu diventi un'assemblea di popoli.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ti benedica"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ti (Giacobbe)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "e ti renda fecondo"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "e ti moltiplichi"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "e tu diventi"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "un'assemblea"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "di popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:40.647337111Z",
+  "model": "glm-5.3"
+}

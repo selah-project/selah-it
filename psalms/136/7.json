@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "A colui che fa ⟨le⟩ grandi luci, perché per sempre ⟨dura⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "a colui che fa"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "luci"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:39.348602691Z",
+  "model": "glm-5.3"
+}

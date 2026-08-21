@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "Rendete grazie all'Elohim degli elohim, perché per sempre ⟨dura⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Rendete grazie"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "all'Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "degli elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:57.038416456Z",
+  "model": "glm-5.3"
+}

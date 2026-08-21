@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E colui che li brucia laverà le sue vesti e laverà ⟨את⟩ la sua carne nelle acque, e dopo ciò entrerà nell'accampamento.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "e colui che li brucia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e laverà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua carne"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nelle acque"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entrerà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "l'accampamento"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:21.460456877Z",
+  "model": "glm-5.3"
+}

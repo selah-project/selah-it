@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Se accampasse contro di me un accampamento, il mio cuore non temerebbe; se sorgesse contro di me la guerra, in questo io confido.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "accampasse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "un accampamento"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "temerebbe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sorgesse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "la guerra"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "in questo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "confido"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:36.053842679Z",
+  "model": "glm-5.3"
+}

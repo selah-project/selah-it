@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "Bocca hanno ⟨i loro idoli⟩ e non parlano; occhi hanno e non vedono:",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "bocca"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hanno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "parlano"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "occhi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hanno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vedono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:57.781077885Z",
+  "model": "glm-5.3"
+}

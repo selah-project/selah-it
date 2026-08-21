@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "In quel giorno sarà grande il lamento in Gerusalemme, come il lamento di Hadad-Rimmon nella valle di Meghiddòn.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "sarà grande"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "il lamento"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Gerusalemme"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "come il lamento"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimmon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "nella valle"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "di Meghiddòn"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:07.610209585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Va', popolo mio, entra nelle tue stanze e chiudi le tue porte dietro di te; nasconditi un poco, un istante, finché passi lo sdegno.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popolo mio"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entra"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "nelle tue stanze"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "e chiudi"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "le tue porte"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "dietro di te"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "nasconditi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "un poco"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "un istante"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "passi"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "lo sdegno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:51.865887605Z",
+  "model": "glm-5.3"
+}

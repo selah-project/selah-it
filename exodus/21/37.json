@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Se un uomo ruba un bue o una pecora e lo macella o lo vende, cinque capi di grosso bestiame pagherà ⟨il riflesso⟩ al posto del bue e quattro capi di piccolo bestiame al posto della pecora.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "rubberà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "un bue"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "שה",
+      "gloss": "una pecora"
+    },
+    {
+      "surface": "וטבחו",
+      "gloss": "e lo macella"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "lo vende"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "capi di grosso bestiame"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pagherà"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "השור",
+      "gloss": "il bue"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e quattro"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "capi di piccolo bestiame"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "al posto di"
+    },
+    {
+      "surface": "השה",
+      "gloss": "la pecora"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:50.739520371Z",
+  "model": "glm-5.3"
+}

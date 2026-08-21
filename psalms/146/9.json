@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "YHWH custodisce ⟨את⟩ i forestieri, l'orfano e la vedova ⟨egli⟩ sostiene, ma la via dei malvagi ⟨egli⟩ storce.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "custodisce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i forestieri"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "i forestieri"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "l'orfano"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "e la vedova"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "sostiene"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ma la via"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "storce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:36.739937766Z",
+  "model": "glm-5.3"
+}

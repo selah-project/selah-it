@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "« Elohim lo ha abbandonato: inseguite e catturatelo, perché non c'è chi lo salvi ».",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "lo ha abbandonato"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "inseguite"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "e catturatelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "chi lo salvi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:09.275647595Z",
+  "model": "glm-5.3"
+}

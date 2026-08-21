@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E avvenne, quando Giuseppe venne dai suoi fratelli, che spogliarono Giuseppe ⟨את⟩ della sua tunica, la tunica — ⟨את⟩ la tunica dalle pianure che ⟨era⟩ su di lui.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venne"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "spogliarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuseppe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua tunica"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "della sua tunica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tunica dalle pianure"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "la tunica"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "dalle pianure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:31.652343502Z",
+  "model": "glm-5.3"
+}

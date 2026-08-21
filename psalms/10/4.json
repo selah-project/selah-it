@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Il malvagio, nell'alterigia del suo volto, non indaga: «non ⟨c'è⟩ Elohim» in tutte le sue macchinazioni.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Il malvagio"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "nell'alterigia"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "del suo volto"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "indaga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "le sue macchinazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:38.522476365Z",
+  "model": "glm-5.3"
+}

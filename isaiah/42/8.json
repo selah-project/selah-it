@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Io ⟨sono⟩ YHWH: quello ⟨è⟩ il mio Nome; e la mia gloria non la darò a un altro, né la mia lode alle immagini scolpite.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio Nome"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "e la mia gloria"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "a un altro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "la darò"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "né la mia lode"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "alle immagini scolpite"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:47.566690126Z",
+  "model": "glm-5.3"
+}

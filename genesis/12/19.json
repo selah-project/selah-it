@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Perché hai detto: lei ⟨è⟩ mia sorella, e io presi ⟨את⟩ lei per me come moglie? E ora, ecco tua moglie: prendi e va'.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "hai detto"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mia sorella"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "e io presi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "come moglie"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tua moglie"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e va'"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:05.676460427Z",
+  "model": "glm-5.3"
+}

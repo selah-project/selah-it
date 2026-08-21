@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Anzi, nel cuore operate il male; nella terra le vostre mani pesano la violenza.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "anzi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "nel cuore"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "il male"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "operate"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "la violenza"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "le vostre mani"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "pesano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:02.836894891Z",
+  "model": "glm-5.3"
+}

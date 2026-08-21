@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "YHWH, nel tuo favore hai fatto star salda la mia montagna ⟨di⟩ forza; hai nascosto il tuo volto — io sono stato sconvolto.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "nel tuo favore"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "hai fatto star salda"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "la mia montagna"
+    },
+    {
+      "surface": "עז",
+      "gloss": "di forza"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "hai nascosto"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "io sono stato"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "sconvolto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:41.425135425Z",
+  "model": "glm-5.3"
+}

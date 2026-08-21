@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Pelle e carne mi hai rivestito, e con ossa e tendini mi hai intrecciato ⟨come una siepe⟩.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "Pelle"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "e carne"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "mi hai rivestito"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "e con ossa"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "e tendini"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "mi hai intrecciato ⟨come una siepe⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:01.549285369Z",
+  "model": "glm-5.3"
+}

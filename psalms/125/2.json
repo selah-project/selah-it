@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 125,
+  "translation": "Gerushalaim: monti all'intorno, intorno a lei; e YHWH ⟨è⟩ all'intorno, intorno al suo popolo, da ora e fino a sempre.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerushalaim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "monti"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all'intorno"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "all'intorno"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "al suo popolo"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "da ora"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:01.691887287Z",
+  "model": "glm-5.3"
+}

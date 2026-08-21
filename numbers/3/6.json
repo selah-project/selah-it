@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Avvicina ⟨את⟩ la tribù di Levi e falla stare davanti ad Aharon il sacerdote, ed essi ⟨את⟩ lo serviranno.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Avvicina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tribù di Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "la tribù"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "di Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "e falla stare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "davanti ad Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "ed essi lo serviranno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:07.283252944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 1:6",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Tende di lino bianco e di porpora azzurra, fissate con corde di bisso e di porpora rossa su anelli d'argento e colonne di marmo; letti d'oro e d'argento su un pavimento di porfido, marmo, madreperla e pietra nera.",
+  "tokens": [
+    {
+      "surface": "חור",
+      "gloss": "lino bianco"
+    },
+    {
+      "surface": "כרפס",
+      "gloss": "tende di bisso"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "e di porpora azzurra"
+    },
+    {
+      "surface": "אחוז",
+      "gloss": "fissate"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "con corde"
+    },
+    {
+      "surface": "בוץ",
+      "gloss": "di bisso"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "e di porpora rossa"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "anelli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argento"
+    },
+    {
+      "surface": "ועמודי",
+      "gloss": "e colonne"
+    },
+    {
+      "surface": "שש",
+      "gloss": "di marmo"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "letti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "e d'argento"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "רצפת",
+      "gloss": "un pavimento"
+    },
+    {
+      "surface": "בהט",
+      "gloss": "di porfido"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "marmo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "madreperla"
+    },
+    {
+      "surface": "וסחרת",
+      "gloss": "e pietra nera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:43.725712493Z",
+  "model": "glm-5.3"
+}

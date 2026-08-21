@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 134,
+  "translation": "Alzate le vostre mani ⟨il⟩ santuario, e benedite ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Alzate"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "le vostre mani"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨il⟩ santuario"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "e benedite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:47.508022264Z",
+  "model": "glm-5.3"
+}

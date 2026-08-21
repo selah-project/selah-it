@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "e ti scaglierò, ⟨את⟩ te e ⟨את⟩ tua madre che ti ha partorito, su una terra diversa, dove non ⟨siete⟩ nati; e là morirete.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "e ti scaglierò"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ te",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tua madre"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tua madre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ti ha partorito"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "diversa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "siete nati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e là"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "morirete"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:13.882420509Z",
+  "model": "glm-5.3"
+}

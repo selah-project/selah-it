@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Quando pose in Egitto i suoi segni e i suoi prodigi nel campo di Tzoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pose"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "i suoi segni"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "e i suoi prodigi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "צען",
+      "gloss": "di Tzoan"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:51.888466125Z",
+  "model": "glm-5.3"
+}

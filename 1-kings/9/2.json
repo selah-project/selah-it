@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "che YHWH si fece vedere a Shelomoh una seconda volta, come si era fatto vedere a lui a Givon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "si fece vedere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "una seconda volta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "si era fatto vedere"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "a Givon"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:40.035546987Z",
+  "model": "glm-5.3"
+}

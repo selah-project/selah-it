@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 61,
+  "translation": "Posso io dimorare nella tua tenda per i secoli, rifugiarmi nel riparo delle tue ali. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "posso io dimorare"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "nella tua tenda"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "per i secoli"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "rifugiarmi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nel riparo"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "delle tue ali"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:08.728446522Z",
+  "model": "glm-5.3"
+}

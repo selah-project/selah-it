@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Quadrato sarà, doppio; uno zeret la sua lunghezza e uno zeret la sua larghezza.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Quadrato"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "doppio"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "uno zeret"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "la sua lunghezza"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "e uno zeret"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "la sua larghezza"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:06.147299763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Ed egli porterà ⟨את⟩ la sua offerta di colpa a YHWH, all'ingresso della tenda di convegno: un ariete come offerta di colpa.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "e porterà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua offerta di colpa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "la sua offerta di colpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "di convegno"
+    },
+    {
+      "surface": "איל",
+      "gloss": "un ariete"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "offerta di colpa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:24.138079440Z",
+  "model": "glm-5.3"
+}

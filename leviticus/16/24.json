@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E laverà ⟨את⟩ la sua carne nell'acqua in luogo santo, e indosserà ⟨את⟩ le sue vesti, e uscirà e farà ⟨את⟩ la sua olà (offerta di elevazione) e ⟨את⟩ l'olà del popolo, e coprirà per sé e per il popolo.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "e laverà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua carne"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in luogo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "e indosserà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e uscirà"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e farà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua olà"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "la sua olà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'olà del popolo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "e coprirà"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "e per"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:50.619182393Z",
+  "model": "glm-5.3"
+}

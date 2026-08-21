@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E tra questi non ⟨vi⟩ fu alcun uomo dei censiti di Mosè e di Aharon il sacerdote, che censirono ⟨את⟩ i figli d'Israele nel deserto del Sinai.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "E tra questi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "alcun uomo"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "dei censiti di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e di Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "censirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto di"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:56.789491835Z",
+  "model": "glm-5.3"
+}

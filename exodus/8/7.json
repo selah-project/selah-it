@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "« E le rane si ritireranno da te, e dalle tue case, e dai tuoi servi e dal tuo popolo; soltanto nel fiume resteranno ».",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "e si ritireranno"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "le rane"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "e dalle tue case"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "e dai tuoi servi"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "e dal tuo popolo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "nel fiume"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "resteranno"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:45.359025280Z",
+  "model": "glm-5.3"
+}

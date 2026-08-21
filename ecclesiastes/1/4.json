@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Una generazione va e una generazione viene; e la terra resta in piedi per sempre.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Una generazione"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "va"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "e una generazione"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e la terra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "resta in piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:57.093756728Z",
+  "model": "glm-5.3"
+}

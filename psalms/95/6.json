@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "Venite, prostriamoci e inginocchiamoci, benediciamo davanti a YHWH, che ci ha fatti.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "prostriamoci"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "e inginocchiamoci"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "benediciamo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "che ci ha fatti"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:48.442300781Z",
+  "model": "glm-5.3"
+}

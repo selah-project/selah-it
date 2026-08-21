@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 18:13",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Saul lo allontanò da sé e lo costituì per sé capo di mille; ⟨David⟩ usciva e rientrava davanti al popolo.",
+  "tokens": [
+    {
+      "surface": "ויסרהו",
+      "gloss": "e lo allontanò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "da sé"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "e lo costituì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "di mille"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "usciva"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "rientrava"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:22.260832307Z",
+  "model": "glm-5.3"
+}

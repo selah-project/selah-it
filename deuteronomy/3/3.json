@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E YHWH, il nostro Elohim, diede in nostra mano anche ⟨את⟩ Og, re del Bashan, e ⟨את⟩ tutto il suo popolo; e lo colpimmo finché non lasciammo a lui alcun superstite.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "in nostra mano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og, re del Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "del Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto il suo popolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "e lo colpimmo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "non"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "lasciammo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "alcun superstite"
+    }
+  ],
+  "timestamp": "2026-08-21T10:06:02.818965407Z",
+  "model": "glm-5.3"
+}

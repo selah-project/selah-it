@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Getta il suo ghiaccio come briciole; davanti al suo freddo chi può stare in piedi?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "getta"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "il suo ghiaccio"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "come briciole"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "al suo freddo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "può stare in piedi?"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:02.853623279Z",
+  "model": "glm-5.3"
+}

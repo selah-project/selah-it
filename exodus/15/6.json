@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "La tua destra, YHWH, ⟨è⟩ magnifica in forza; la tua destra, YHWH, frantuma il nemico.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "magnifica"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "in forza"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "frantuma"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:57.711807182Z",
+  "model": "glm-5.3"
+}

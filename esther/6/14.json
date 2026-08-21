@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Mentre ⟨erano⟩ ancora intenti a parlare con lui, arrivarono gli eunuchi del re e si affrettarono a portare ⟨את⟩ Haman al banchetto che aveva preparato Ester.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "mentre ancora"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "parlando"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "e gli eunuchi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "arrivarono"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "e si affrettarono"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "a portare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "il banchetto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aveva preparato"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:47.279796105Z",
+  "model": "glm-5.3"
+}

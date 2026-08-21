@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "Fammi udire al mattino il tuo chesed, perché in te ho confidato; fammi conoscere la via per cui io cammini, perché a te ho sollevato la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "fammi udire"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ho confidato"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fammi conoscere"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "זו",
+      "gloss": "per cui"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "io cammini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ho sollevato"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.530234661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E a questo popolo dirai: così ha detto YHWH: ecco, io pongo davanti a voi ⟨את⟩ la via della vita e ⟨את⟩ la via della morte.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dirai"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco, io"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pongo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la via della vita"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "della vita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la via della morte"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "המות",
+      "gloss": "della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:04:30.907191985Z",
+  "model": "glm-5.3"
+}

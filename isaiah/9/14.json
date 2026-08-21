@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Il vecchio e il favorito ⟨di volto⟩, egli ⟨è⟩ la testa; e il profeta maestro di menzogna, egli ⟨é⟩ la coda.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "il vecchio"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "e il favorito"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "di volto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "e il profeta"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "maestro"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "di menzogna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "la coda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:03.961629569Z",
+  "model": "glm-5.3"
+}

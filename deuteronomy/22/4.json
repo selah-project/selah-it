@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non vedrai ⟨את⟩ l'asino del tuo fratello o il suo bue caduti per la strada, e ti nasconderai da loro: sollevando li solleverai con lui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vedrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'asino del tuo fratello"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "l'asino"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "del tuo fratello"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "il suo bue"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "caduti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la strada"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "e ti nasconderai"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "da loro"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "sollevando"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "li solleverai"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:36.360230082Z",
+  "model": "glm-5.3"
+}

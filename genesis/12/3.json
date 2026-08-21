@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E benedirò chi ti benedice, e chi ti maledice io lo maledirò; e in te si benediranno tutte le famiglie dell'humus.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "e benedirò"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "chi ti benedice"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "e chi ti maledice"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "io lo maledirò"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "e si benediranno"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "le famiglie"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dell'humus"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:05.808169468Z",
+  "model": "glm-5.3"
+}

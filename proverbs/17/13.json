@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Chi rende il male in cambio del bene — il male non si allontanerà dalla sua casa.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "chi rende"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "si allontanerà"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "dalla sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:02.974737243Z",
+  "model": "glm-5.3"
+}

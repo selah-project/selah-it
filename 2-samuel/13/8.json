@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E Tamar andò a casa di Amnon, suo fratello, ed egli era a letto; e lei prese ⟨את⟩ la pasta e la lavorò, e preparò le focacce davanti ai suoi occhi, e cucinò ⟨את⟩ le focacce.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a casa"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "di Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed egli"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "era a letto"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la pasta"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "la pasta"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "e la lavorò"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "e preparò le focacce"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "davanti ai suoi occhi"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "e cucinò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le focacce"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "le focacce"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:40.647805239Z",
+  "model": "glm-5.3"
+}

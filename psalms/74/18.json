@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Ricorda questo: ⟨il⟩ nemico ha schernito YHWH, e un popolo stolto ha disprezzato il tuo Nome.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ha schernito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e un popolo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "stolto"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ha disprezzato"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:22.267233736Z",
+  "model": "glm-5.3"
+}

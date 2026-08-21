@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Anche se siedono i principi e contro di me parlano, il tuo servo medita sui tuoi statuti.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche se"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "siedono"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "i principi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "parlano"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "medita"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "sui tuoi statuti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:25.666463212Z",
+  "model": "glm-5.3"
+}

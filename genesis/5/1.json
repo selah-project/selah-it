@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Questo ⟨è⟩ il libro delle generazioni di Adam. Nel giorno in cui creò Elohim l'uomo, a somiglianza di Elohim lo fece ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Questo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "il libro"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "delle generazioni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "di Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Nel giorno"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "creò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "a somiglianza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo (lo fece)"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:14.452122563Z",
+  "model": "glm-5.3"
+}

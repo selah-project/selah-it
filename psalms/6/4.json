@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E la mia nefesh è molto turbata; ma tu, YHWH, fino a quando?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "e la mia nefesh"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "è turbata"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quando"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:44.518808003Z",
+  "model": "glm-5.3"
+}

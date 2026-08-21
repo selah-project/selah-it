@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Se avessi detto: « racconterò così », ecco, ⟨avrei⟩ tradito la generazione dei tuoi figli.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "avessi detto"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "racconterò"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "così"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "דור",
+      "gloss": "la generazione"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dei tuoi figli"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "tradito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:01.487517260Z",
+  "model": "glm-5.3"
+}

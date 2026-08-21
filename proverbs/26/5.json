@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Rispondi allo stolto secondo la sua stoltezza, perché non sia saggio ai propri occhi.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "rispondi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "allo stolto"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "secondo la sua stoltezza"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sia"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ai propri occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:23.326388154Z",
+  "model": "glm-5.3"
+}

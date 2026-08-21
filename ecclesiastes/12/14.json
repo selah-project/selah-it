@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Poiché ⟨את⟩ ogni opera l'Elohim porterà in giudizio, insieme a ogni cosa nascosta, sia buona sia cattiva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni opera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "porterà"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in giudizio"
+    },
+    {
+      "surface": "על",
+      "gloss": "insieme a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "cosa nascosta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buona"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cattiva"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:11.435429046Z",
+  "model": "glm-5.3"
+}

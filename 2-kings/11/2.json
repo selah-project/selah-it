@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 11:2",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Jehosheba, figlia del re Ioram, sorella di Acazia, prese ⟨את⟩ Ioash figlio di Acazia e lo sottrasse ⟨את⟩ dal mezzo dei figli del re che venivano messi a morte — ⟨את⟩ lui e ⟨את⟩ la sua nutrice, nella camera dei letti — e lo nascosero ⟨את⟩ dalla faccia di Athaliah, e non fu messo a morte.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "יהושבע",
+      "gloss": "Jehosheba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Ioram"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sorella"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "di Acazia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioash figlio di Acazia"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Ioash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "di Acazia"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "e sottrasse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "dal mezzo dei figli del re"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dal mezzo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "הממותתים",
+      "gloss": "che venivano messi a morte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "e la sua nutrice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua nutrice"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "la sua nutrice"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "nella camera"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "dei letti"
+    },
+    {
+      "surface": "ויסתרו",
+      "gloss": "e nascosero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "dalla faccia di Athaliah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dalla faccia di"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athaliah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "הומת",
+      "gloss": "fu messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:59.329974027Z",
+  "model": "glm-5.3"
+}

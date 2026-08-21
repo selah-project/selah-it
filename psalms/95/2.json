@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "Presentiamoci alla sua faccia con ringraziamento, con inni acclamiamo a lui.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "presentiamoci"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "alla sua faccia"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "con ringraziamento"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "con inni"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "acclamiamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:16.376451701Z",
+  "model": "glm-5.3"
+}

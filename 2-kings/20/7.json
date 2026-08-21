@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 20:7",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E disse Yesha'yahu: prendete una compressa di fichi; e la presero e la posero sull'ulcera, ed egli visse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesha'yahu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "prendete"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "una compressa"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "di fichi"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e la presero"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "e la posero"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "l'ulcera"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ed egli visse"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:15.223082673Z",
+  "model": "glm-5.3"
+}

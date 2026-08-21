@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Quanto alla tua nascita: il giorno in cui sei nata ⟨את⟩, non fu reciso il tuo ombelico, e con acqua non fosti lavata per essere ammorbidita, né fosti sfregata con sale, né fosti avvolta in fasce.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Quanto alla tua nascita"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "in cui sei nata"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te (oggetto: il giorno in cui fosti generata)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "fu reciso"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "il tuo ombelico"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "e con acqua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "fosti lavata"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "per essere ammorbidita"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "né con sale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "fosti sfregata"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "né in fasce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "fosti avvolta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:19:37.984810912Z",
+  "model": "glm-5.3"
+}

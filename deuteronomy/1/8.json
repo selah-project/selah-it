@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Vedi, ho posto davanti a voi ⟨את⟩ la terra: entrate e prendete possesso di ⟨את⟩ la terra che YHWH ha giurato ai vostri padri, ad Avraham, a Yitzchak e a Yaakov, di darla a loro e alla loro discendenza dopo di loro.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho posto"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "באו",
+      "gloss": "entrate"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "e prendete possesso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ha giurato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ai vostri padri"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ad Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "a Yitzchak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "e a Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "di dare"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "e alla loro discendenza"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "dopo di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:45.438520222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E fece ⟨את⟩ le tavole per il mishkan (tabernacolo), di legno di acacia, ritte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le tavole"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "le tavole"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "per il mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "di legno"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "di acacia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ritte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:55.751055273Z",
+  "model": "glm-5.3"
+}

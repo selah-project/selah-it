@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Davanti a YHWH, perché viene, perché viene a giudicare ⟨la⟩ terra: giudicherà ⟨la⟩ mondo-abitato con giustizia, e i popoli con la sua fedeltà.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "a giudicare"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "giudicherà"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "il mondo-abitato"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "con giustizia"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "e i popoli"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "con la sua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:56.190637991Z",
+  "model": "glm-5.3"
+}

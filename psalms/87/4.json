@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 87,
+  "translation": "Ricordo Rahav e Babilonia a quelli che mi conoscono; ecco, Peleshet e Tzor, con Cush: questo ⟨uno⟩ è nato là.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ricordo \/ farò menzione"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav (Egitto)"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "e Babilonia"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "a quelli che mi conoscono"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet (Filistea)"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "e Tzor (Tiro)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Cush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "è nato"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:51.544025841Z",
+  "model": "glm-5.3"
+}

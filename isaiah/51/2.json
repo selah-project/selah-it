@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Guardate ad Abrahamo vostro padre, e a Sarah che vi ha partoriti: perché uno solo ho chiamato, e l'ho benedetto e l'ho moltiplicato.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Guardate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamo"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "vostro padre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "che vi ha partoriti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno solo"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ho chiamato"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "e l'ho benedetto"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "e l'ho moltiplicato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:43.749746161Z",
+  "model": "glm-5.3"
+}

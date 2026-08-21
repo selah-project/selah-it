@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E li benedisse Elohim ⟨את⟩, e disse loro Elohim: «Siate fecondi e moltiplicatevi e riempite ⟨את⟩ la terra e soggiogatela, e dominate sul pesce del mare e sull'uccello dei cieli e su ogni essere vivente che striscia sulla terra».",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "siate fecondi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "e moltiplicatevi"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e riempite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "e soggiogatela"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "e dominate"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "sul pesce"
+    },
+    {
+      "surface": "הים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "e sull'uccello"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e su ogni"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "essere vivente"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "che striscia"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:16.082202425Z",
+  "model": "glm-5.3"
+}

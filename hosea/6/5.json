@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Per questo ho tagliato ⟨את⟩ i profeti, li ho uccisi con le parole della mia bocca; e i tuoi giudizi usciranno come luce.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "ho tagliato"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "⟨את⟩ i profeti",
+      "marks": "i profeti"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "li ho uccisi"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "con le parole"
+    },
+    {
+      "surface": "פי",
+      "gloss": "della mia bocca"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "e i tuoi giudizi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "come luce"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "usciranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:08.774117829Z",
+  "model": "glm-5.3"
+}

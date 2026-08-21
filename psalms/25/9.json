@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Farà camminare gli umani nel ⟨giudizio⟩, e insegnerà agli umani la sua via.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "farà camminare"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "gli umili"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nel giudizio"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "e insegnerà"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "agli umili"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "la sua via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:24.539758681Z",
+  "model": "glm-5.3"
+}

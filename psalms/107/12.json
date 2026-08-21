@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "ed Egli umiliò con travaglio il loro cuore; barcollarono, e non ⟨vi fu⟩ chi aiutasse.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "ed Egli umiliò"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "con travaglio"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "il loro cuore"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "barcollarono"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨vi fu⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "chi aiutasse"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.625786749Z",
+  "model": "glm-5.3"
+}

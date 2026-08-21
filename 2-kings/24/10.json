@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "In quel tempo salirono i servi di Nebukadnetstsar, re di Babilonia, contro Gerusalemme, e la città entrò ⟨sotto⟩ assedio.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "quel tempo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "salirono"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi di"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonia"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "contro Gerusalemme"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "e entrò"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "sotto assedio"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:27.910362561Z",
+  "model": "glm-5.3"
+}

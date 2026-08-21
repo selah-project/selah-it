@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Poiché chi si unisce a tutti i viventi ha fiducia: poiché un cane vivo è meglio del leone morto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "si unisce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "i viventi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "fiducia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "a un cane"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "è meglio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "del"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "leone"
+    },
+    {
+      "surface": "המת",
+      "gloss": "morto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:04.508100821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E il diluvio fu quaranta giorni sulla ⟨la⟩ terra, e le acque crebbero e sollevarono ⟨את⟩ l'arca, ed essa si alzò sopra la terra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E il diluvio fu"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "il diluvio"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quaranta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "e crebbero"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "e sollevarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "ed essa si alzò"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:36.808404877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Parole di Geremiahu, figlio di Chilqiahu, dai sacerdoti che erano in Anatot, nella terra di Beniamino.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Parole"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "di Geremiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "di Chilqiahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dai"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sacerdoti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "in Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "di Beniamino"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:33.420311654Z",
+  "model": "glm-5.3"
+}

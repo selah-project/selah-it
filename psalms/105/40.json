@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Chiesero, ed Egli portò le quaglie, e con pane di cielo li saziò.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "chiesero"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ed Egli portò"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "quaglie"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "e con pane"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "di cielo"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "li saziò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:47.777836225Z",
+  "model": "glm-5.3"
+}

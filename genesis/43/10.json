@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Se non avessimo indugiato, ora ⟨saremmo⟩ già tornati due volte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨Se⟩"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "non"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "avessimo indugiato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨già⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "tornati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨due⟩ volte ⟨questa⟩"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "due volte"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:21.377137796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E disse: prendi le frecce. Ed ⟨egli⟩ le prese, e disse al re d'Israele: colpisci ⟨la⟩ terra! Ed ⟨egli⟩ colpì tre volte, e si fermò.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "le frecce"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "הך",
+      "gloss": "colpisci"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨la⟩ terra"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "volte"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e si fermò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:48.576307296Z",
+  "model": "glm-5.3"
+}

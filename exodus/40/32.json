@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Quando entravano nella tenda del convegno e quando si accostavano all'altare, si lavavano, come YHWH aveva comandato ⟨את⟩ Mosè.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "quando entravano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "e quando si accostavano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "si lavavano"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:39.319146703Z",
+  "model": "glm-5.3"
+}

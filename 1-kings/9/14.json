@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E Chiram mandò al re cento e venti kikkar d'oro.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e venti"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkar (talenti)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:34.760193667Z",
+  "model": "glm-5.3"
+}

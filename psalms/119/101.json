@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Da ogni sentiero malvagio ho trattenuto i miei piedi, per custodire la tua parola.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "da ogni"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sentiero"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malvagio"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "ho trattenuto"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i miei piedi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "custodire"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "la tua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:08.505173045Z",
+  "model": "glm-5.3"
+}

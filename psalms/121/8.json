@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 121,
+  "translation": "YHWH custodirà la tua uscita e il tuo entrare, da ora e per sempre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "custodirà"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "la tua uscita"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "e il tuo entrare"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "da ora"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:33.992855526Z",
+  "model": "glm-5.3"
+}

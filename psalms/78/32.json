@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Con tutto questo peccarono ancora, e non credettero nelle sue meraviglie.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "peccarono"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "credettero"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "nelle sue meraviglie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:11.935499771Z",
+  "model": "glm-5.3"
+}

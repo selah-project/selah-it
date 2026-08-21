@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Mi farai conoscere ⟨את⟩ il sentiero della vita: sazietà di gioie davanti al tuo volto, delizie alla tua destra, per sempre.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "mi farai conoscere"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "il sentiero"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "della vita"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sazietà"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "di gioie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sentiero della vita"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "davanti al tuo volto"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "delizie"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "alla tua destra"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:30.796456356Z",
+  "model": "glm-5.3"
+}

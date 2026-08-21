@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "YHWH sventa ⟨il⟩ consiglio delle nazioni, rende vani i disegni dei popoli.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "sventa"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "⟨il⟩ consiglio"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "delle nazioni"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "rende vani"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "i disegni"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dei popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:28.231553042Z",
+  "model": "glm-5.3"
+}

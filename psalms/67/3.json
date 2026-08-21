@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 67,
+  "translation": "per far conoscere sulla terra la tua via, tra tutti i popoli la tua salvezza.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "per far conoscere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "la tua via"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tra tutti"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "la tua salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:16.789491912Z",
+  "model": "glm-5.3"
+}

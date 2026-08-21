@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E una nebbia saliva dalla terra e innaffiava ⟨את⟩ tutta la superficie del suolo.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "una nebbia"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "saliva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "innaffiava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la superficie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la superficie"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "del suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:49.194240319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "e per sua sorella vergine, a lui vicina, che non ⟨è stata⟩ di un uomo — per lei si contaminerà.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "e per sua sorella"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "vergine"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "vicina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "è stata"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "per lei"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "si contaminerà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:16.816562057Z",
+  "model": "glm-5.3"
+}

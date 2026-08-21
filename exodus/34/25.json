@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Non sgozzare ⟨su⟩ lievito il sangue del mio sacrificio, e non rimanga fino al mattino la vittima della festa di Pesach.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "sgozzare"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "lievito"
+    },
+    {
+      "surface": "דם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "del mio sacrificio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "rimanga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "fino al mattino"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "la vittima"
+    },
+    {
+      "surface": "חג",
+      "gloss": "della festa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "di Pesach"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:16.512939680Z",
+  "model": "glm-5.3"
+}

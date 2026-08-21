@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "e nel tagliare la pietra per incastonarla, e nel cesellare il legno, per lavorare ogni opera.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "e nel tagliare"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "la pietra"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "per incastonarla"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "e nel cesellare"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "il legno"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "per lavorare"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "opera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:44.918533216Z",
+  "model": "glm-5.3"
+}

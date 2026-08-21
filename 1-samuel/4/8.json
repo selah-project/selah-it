@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Guai a noi! Chi ci salverà dalla mano di questi Elohim possenti? Sono questi gli Elohim che colpirono ⟨את⟩ l'Egitto con ogni piaga nel deserto.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "guai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ci salverà"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di questi Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "possenti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sono questi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "gli Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "che colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con ogni"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "piaga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:50.935969216Z",
+  "model": "glm-5.3"
+}

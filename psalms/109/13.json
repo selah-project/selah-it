@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Sia la sua posterità per lo sterminio; nella generazione seguente sia cancellato il loro nome.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "la sua posterità"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "per lo sterminio"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nella generazione"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "seguente"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "sia cancellato"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "il loro nome"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:07.846628891Z",
+  "model": "glm-5.3"
+}

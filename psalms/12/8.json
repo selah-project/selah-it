@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Tu, YHWH, li custodirai, li proteggerai ⟨tu⟩ da questa generazione per sempre.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "li custodirai"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "li proteggerai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "questa generazione"
+    },
+    {
+      "surface": "זו",
+      "gloss": "questa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:43.366319257Z",
+  "model": "glm-5.3"
+}

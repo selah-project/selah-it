@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "I suoi principi in mezzo a lei ⟨sono⟩ leoni ruggenti; i suoi giudici lupi della sera, che al mattino non han lasciato osso.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "I suoi principi"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in mezzo a lei"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "leoni"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "ruggenti"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "i suoi giudici"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "lupi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "della sera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "han lasciato osso"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "al mattino"
+    }
+  ],
+  "timestamp": "2026-08-21T08:39:35.497328309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 122,
+  "translation": "Gerusalemme, costruita come città che ⟨è⟩ congiunta a sé insieme.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "costruita"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "come città"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "che ⟨è⟩ congiunta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a sé"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:44.425914050Z",
+  "model": "glm-5.3"
+}

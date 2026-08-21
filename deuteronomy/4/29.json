@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E cercherete di là YHWH, ⟨il⟩ vostro Elohim, e troverete, perché lo cercherete con tutto il vostro cuore e con tutta la vostra nefesh.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "e cercherete"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "e troverete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "lo cercherete"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "il vostro cuore"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e con tutta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la vostra nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:01.986085144Z",
+  "model": "glm-5.3"
+}

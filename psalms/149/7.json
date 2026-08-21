@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 149,
+  "translation": "per fare vendetta sulle nazioni, castighi sui popoli.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "per fare"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "vendetta"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sulle nazioni"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "castighi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sui"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:10.858404778Z",
+  "model": "glm-5.3"
+}

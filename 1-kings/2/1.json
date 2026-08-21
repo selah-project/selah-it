@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Si avvicinarono i giorni di Davide a morire, e comandò ⟨את⟩ Shelomoh suo figlio, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "si avvicinarono"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a morire"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "e comandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:25.967398202Z",
+  "model": "glm-5.3"
+}

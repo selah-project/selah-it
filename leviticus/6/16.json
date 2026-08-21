@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E ogni minchà di sacerdote sarà interamente ⟨bruciata⟩: non sarà mangiata.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchà di"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sacerdote"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "interamente"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sarà mangiata"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:55.387165864Z",
+  "model": "glm-5.3"
+}

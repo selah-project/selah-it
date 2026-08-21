@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 24:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E disse ai suoi uomini: mi sia lungi, da parte di YHWH, se io faccio ⟨את⟩ questa cosa al mio signore, al Mashiach di YHWH, stendere la mia mano contro di lui, perché Mashiach di YHWH egli ⟨è⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "לאנשיו",
+      "gloss": "ai suoi uomini"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "mi sia lungi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "da parte di YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "io faccio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa cosa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "questa cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "al mio signore"
+    },
+    {
+      "surface": "למשיח",
+      "gloss": "al Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "stendere"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "contro di lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli ⟨è⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:11.050459725Z",
+  "model": "glm-5.3"
+}

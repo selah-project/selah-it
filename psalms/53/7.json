@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "Chi darà da Tzion le salvezze di Israele! Quando Elohim ricondurrà i prigionieri del suo popolo, esulterà Yaakov, gioirà Israele.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Chi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "da Tzion"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "le salvezze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Quando ricondurrà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "i prigionieri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "del suo popolo"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "esulterà"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gioirà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:50.642807513Z",
+  "model": "glm-5.3"
+}

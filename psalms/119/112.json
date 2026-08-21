@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ho inclinato il mio cuore a fare i tuoi statuti, per sempre, fino alla fine.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "ho inclinato"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a fare"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i tuoi statuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "fino alla fine"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:06.169363351Z",
+  "model": "glm-5.3"
+}

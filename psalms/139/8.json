@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Se salgo ai cieli — là ⟨sei⟩ Tu; e se mi preparo un giaciglio nello Sheol — ecco, ⟨sei⟩ Tu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "salgo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ai cieli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu ⟨sei⟩"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "e se mi preparo un giaciglio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "nello Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ecco, ⟨sei⟩ Tu"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:59.026920876Z",
+  "model": "glm-5.3"
+}

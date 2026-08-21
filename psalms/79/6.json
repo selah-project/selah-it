@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Rovescia la tua furia sulle nazioni che non ti hanno conosciuto, e sui regni che sul tuo Nome non hanno invocato.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Rovescia"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "la tua furia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ti hanno conosciuto"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "i regni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sul tuo Nome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hanno invocato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:07.197760527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Ma quando ⟨il⟩ gregge ⟨era⟩ debole, non ⟨le⟩ poneva; e ⟨i⟩ deboli erano di Labano e ⟨i⟩ robusti di Giacobbe.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "ma quando era debole"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "poneva"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e avveniva"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "i deboli"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "di Labano"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "e i robusti"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "di Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:54.083152214Z",
+  "model": "glm-5.3"
+}

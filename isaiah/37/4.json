@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 37:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Forse YHWH, il tuo Elohim, udrà ⟨את⟩ le parole di Ravshakeh, che il re di Ashshur, il suo signore, ha mandato per oltraggiare Elohim vivente, e riprenderà le parole che YHWH, il tuo Elohim, ha udito; quindi innalza una preghiera a favore del resto che si trova ⟨ancora vivo⟩.",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "forse"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "udrà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole di Ravshakeh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ha mandato"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashshur"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "il suo signore"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "per oltraggiare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivente"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "e riprenderà"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ha udito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "quindi innalza"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "una preghiera"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "a favore di"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "הנמצאה",
+      "gloss": "che si trova"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:16.206970031Z",
+  "model": "glm-5.3"
+}

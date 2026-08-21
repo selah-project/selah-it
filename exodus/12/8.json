@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E mangeranno ⟨את⟩ la carne in questa notte: arrosto al fuoco, e con azzimi ⟨insieme⟩ a erbe amare la mangeranno.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "e mangeranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la carne"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in questa notte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "arrosto"
+    },
+    {
+      "surface": "אש",
+      "gloss": "al fuoco"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "e con azzimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨insieme⟩ a"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "erbe amare"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "la mangeranno"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:57.729068847Z",
+  "model": "glm-5.3"
+}

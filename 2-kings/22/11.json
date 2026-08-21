@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E avvenne, quando il re udì ⟨את⟩ le parole del libro della Torah, che stracciò ⟨את⟩ le sue vesti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "quando udì"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole del libro della Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "del libro"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "della Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "che stracciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:22.412713475Z",
+  "model": "glm-5.3"
+}

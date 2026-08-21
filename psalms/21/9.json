@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Troverà la tua mano tutti i tuoi nemici, la tua destra troverà quelli che ti odiano.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "troverà"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "troverà"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "quelli che ti odiano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:34.358040015Z",
+  "model": "glm-5.3"
+}

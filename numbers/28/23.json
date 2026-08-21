@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Oltre all'olà del mattino, che ⟨è⟩ per l'olà continua, farete ⟨את⟩ queste cose.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "oltre a"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "del mattino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "per l'olà"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "continua"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "farete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "queste cose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "queste cose"
+    }
+  ],
+  "timestamp": "2026-08-21T06:35:28.417042896Z",
+  "model": "glm-5.3"
+}

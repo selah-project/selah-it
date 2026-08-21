@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Ricorda, Adonai, ⟨il⟩ vituperio dei tuoi servi: io porto in seno ⟨quello⟩ di molti popoli potenti.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "il vituperio"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dei tuoi servi"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "io porto"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "in seno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti potenti"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:49.670662221Z",
+  "model": "glm-5.3"
+}

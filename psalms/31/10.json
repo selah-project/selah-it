@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Sii grazioso con me, YHWH, perché ⟨sono⟩ in angustia; si è consumata nel dolore il mio occhio, la mia nefesh e il mio ventre.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "sii grazioso con me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "צר",
+      "gloss": "in angustia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨sono⟩ per me"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "si è consumata"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "nel dolore\/irritazione"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "e il mio ventre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:59.079524365Z",
+  "model": "glm-5.3"
+}

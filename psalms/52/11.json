@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Ti celebrerò per sempre, perché tu hai fatto ⟨questo⟩, e spererò nel tuo nome, perché ⟨esso è⟩ buono davanti ai tuoi fedeli.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ti celebrerò"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu hai fatto"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "e spererò"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nel tuo nome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ai tuoi fedeli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:23.388352258Z",
+  "model": "glm-5.3"
+}

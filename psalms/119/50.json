@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Questa ⟨è⟩ la mia consolazione nella mia miseria: che la tua parola mi ha dato vita.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Questa"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "la mia consolazione"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "nella mia miseria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "la tua parola"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "mi ha dato vita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:21.100828590Z",
+  "model": "glm-5.3"
+}

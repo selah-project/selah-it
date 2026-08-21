@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Poiché YHWH umiliò ⟨את⟩ Giuda a causa di Achaz, re d'Israele, perché egli aveva tolto ogni freno in Giuda e aveva agito con gravissima infedeltà contro YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "umiliò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "a causa di"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "aveva tolto ogni freno"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Giuda"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "e aveva agito con infedeltà"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gravissima"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "contro YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:59.276691329Z",
+  "model": "glm-5.3"
+}

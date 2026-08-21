@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "E fece ⟨את⟩ l'efod: oro, turchina, porpora e scarlatto, e lino ritorto.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "l'efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "turchina"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "e porpora"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "e scarlatto"
+    },
+    {
+      "surface": "שני",
+      "gloss": "scarlatto"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ritorto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:08.774098042Z",
+  "model": "glm-5.3"
+}

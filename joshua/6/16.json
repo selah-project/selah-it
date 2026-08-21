@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E avvenne la settima volta: i sacerdoti suonarono ⟨את⟩ i shofar, e Yehoshua disse al popolo: «Gridate! Poiché YHWH vi ha dato ⟨את⟩ la città».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "la volta"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "settima"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "suonarono"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "i shofar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "gridate!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la città"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:56.374035856Z",
+  "model": "glm-5.3"
+}

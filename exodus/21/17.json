@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E chi maledice suo padre e sua madre: morte sarà messo a morte.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "e chi maledice"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "e sua madre"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:06.906168678Z",
+  "model": "glm-5.3"
+}

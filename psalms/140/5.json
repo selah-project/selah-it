@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 140,
+  "translation": "Guardami, YHWH, dalle mani del malvagio, dall'uomo di violenze proteggimi — a quelli che hanno tramato di far scivolare i miei passi.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "guardami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dalle mani"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dall'uomo"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "di violenze"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "proteggimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a quelli che"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "hanno tramato"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "di far scivolare"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "i miei passi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:13.493271925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 14:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Mosè stese la sua mano sul mare, e YHWH fece retrocedere ⟨את⟩ il mare con un ruach orientale forte tutta la notte, e pose ⟨את⟩ il mare in asciugutto, e le acque si spaccarono.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "stese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ויולך",
+      "gloss": "e fece retrocedere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mare"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "con un ruach"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "orientale"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "forte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "la notte"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mare"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "in asciugutto"
+    },
+    {
+      "surface": "ויבקעו",
+      "gloss": "e si spaccarono"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:20.154975255Z",
+  "model": "glm-5.3"
+}

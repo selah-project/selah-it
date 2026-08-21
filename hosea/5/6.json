@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Con le loro pecore e con i loro buoi andranno a cercare ⟨את⟩ YHWH, e non lo troveranno: si è ritirato da loro.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "con le loro pecore"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "e con i loro buoi"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "andranno"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "a cercare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "lo troveranno"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "si è ritirato"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "da loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:28.376407503Z",
+  "model": "glm-5.3"
+}

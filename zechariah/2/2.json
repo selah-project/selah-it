@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E dissi all'angelo che parlava in me: che cosa sono queste? E mi disse: queste sono le corna che hanno disperso ⟨את⟩ Giuda, ⟨את⟩ Israele e Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "l'angelo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "che parlava"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sono queste"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "le corna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "hanno disperso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:08.549261680Z",
+  "model": "glm-5.3"
+}

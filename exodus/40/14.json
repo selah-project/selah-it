@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E ⟨את⟩ i suoi figli farai avvicinare, e li vestirai di tuniche.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "farai avvicinare"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "e li vestirai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "li vestirai"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "di tuniche"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:30.823862182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E ⟨את⟩ la casa di Yehudah avrò in compassione, e li salverò per mezzo di YHWH, ⟨il⟩ loro Elohim; e non li salverò con arco, né con spada, né con battaglia, con cavalli né con cavalieri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "avrò in compassione"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "e li salverò"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "per mezzo di YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "loro Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "li salverò"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "con arco"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "né con spada"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "né con battaglia"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "con cavalli"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "né con cavalieri"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:17.808567766Z",
+  "model": "glm-5.3"
+}

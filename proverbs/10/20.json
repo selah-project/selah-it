@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Argento scelto ⟨è⟩ la lingua del giusto; il cuore dei malvagi vale poco.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "scelto"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "la lingua"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "del giusto"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "vale poco"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:29.852487944Z",
+  "model": "glm-5.3"
+}

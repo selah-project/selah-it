@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E YHWH mi ha reso secondo la mia giustizia, secondo la purità delle mie mani davanti ai suoi occhi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e ha reso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "secondo la mia giustizia"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "secondo la purità"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "delle mie mani"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:12.957910549Z",
+  "model": "glm-5.3"
+}

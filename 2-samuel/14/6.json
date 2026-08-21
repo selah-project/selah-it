@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E la tua serva aveva due figli, e i due litigarono nel campo e non c'era chi li separasse, e l'uno colpì ⟨את⟩ l'altro, e ⟨את⟩ lui mise a morte.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "e la tua serva"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "e litigarono"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "essi due"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'era"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "chi separasse"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tra loro"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'uno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altro"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'altro"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e mise a morte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "l'altro (l'ucciso)"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:38.738270253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E disse YHWH a Samuel: ascolta la voce del popolo, per tutto ciò che ti diranno; perché non ⟨את⟩ te hanno respinto, ma ⟨את⟩ me hanno respinto, dal regnare su di loro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce di"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "diranno"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "hanno respinto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "hanno respinto"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "dal regnare"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:47.825826452Z",
+  "model": "glm-5.3"
+}

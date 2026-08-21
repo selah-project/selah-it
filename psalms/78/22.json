@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "perché non credettero in Elohim e non confidarono nella sua salvezza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "credettero"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "confidarono"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "nella sua salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:43.455202572Z",
+  "model": "glm-5.3"
+}

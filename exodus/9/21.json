@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E chi non pose il suo cuore alla parola di YHWH lasciò i suoi servi e ⟨את⟩ il suo bestiame nel campo.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pose"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "il suo cuore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "lasciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi servi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo bestiame"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "il suo bestiame"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:03.660054233Z",
+  "model": "glm-5.3"
+}

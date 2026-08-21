@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E ci dichiari YHWH tuo Elohim ⟨את⟩ la strada per cui camminare e ⟨את⟩ la parola che dobbiamo fare.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "e dichiari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la strada per cui camminare"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "la strada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "per cui"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "camminare"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la parola che dobbiamo fare"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "dobbiamo fare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:11:53.908446262Z",
+  "model": "glm-5.3"
+}

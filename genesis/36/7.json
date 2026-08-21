@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Poiché ⟨la⟩ loro proprietà era troppa perché potessero abitare insieme, e la terra dei loro soggiorni non poteva sostenerli ⟨את⟩, a motivo del loro bestiame.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "la loro proprietà"
+    },
+    {
+      "surface": "רב",
+      "gloss": "troppa"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "perché potessero abitare"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "poteva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "dei loro soggiorni"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sostenerli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro (i due fratelli con le loro case)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "a motivo di"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "del loro bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:30.683680811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Lo lodino i cieli e la terra, i mari e tutto ciò che si muove in essi.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "lo lodino"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e la terra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "i mari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto ciò che"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "si muove"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in essi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:04.411053077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E questa ⟨è⟩ la benedizione che Mosè, uomo dell'Elohim, pronunciò sui figli d'Israele ⟨את⟩ prima della sua morte.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "E questa"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "la benedizione"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pronunciò … su (benedisse)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prima"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "della sua morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:39.167706062Z",
+  "model": "glm-5.3"
+}

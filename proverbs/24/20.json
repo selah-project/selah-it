@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "poiché non vi sarà futuro per il malvagio; la lampada dei malvagi si spegnerà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vi sarà"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "futuro"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "per il malvagio"
+    },
+    {
+      "surface": "נר",
+      "gloss": "la lampada"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "si spegnerà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:38.599721859Z",
+  "model": "glm-5.3"
+}

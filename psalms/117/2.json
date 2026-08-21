@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 117,
+  "translation": "Poiché il suo chesed ⟨è⟩ prevalso su di noi, e la fedeltà di YHWH ⟨dura⟩ per sempre. Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨è⟩ prevalso"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "e la fedeltà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:30.585477873Z",
+  "model": "glm-5.3"
+}

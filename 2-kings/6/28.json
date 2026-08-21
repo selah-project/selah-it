@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E il re le disse: «Che ⟨hai⟩?». E ⟨la donna⟩ disse: «Questa donna mi ha detto: Dammi ⟨את⟩ tuo figlio e lo mangeremo oggi, e ⟨את⟩ mio figlio mangeremo domani».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לה",
+      "gloss": "le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תני",
+      "gloss": "dammi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuo figlio"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tuo figlio"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "e lo mangeremo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mio figlio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mangeremo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "domani"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:11.778840246Z",
+  "model": "glm-5.3"
+}

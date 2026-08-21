@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Egli mi invocherà: «Mio padre sei tu, El mio, e roccia della mia salvezza».",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "mi invocherà"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mio"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "e roccia"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "della mia salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:06.642862964Z",
+  "model": "glm-5.3"
+}

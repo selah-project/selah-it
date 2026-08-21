@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E ⟨את⟩ la lepre, perché ⟨essa⟩ fa risalire il bolo ma lo zoccolo non ha spacciato — impura ⟨essa⟩ è per voi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "la lepre (l'arnevet)"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "la lepre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "fa risalire"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "il bolo (gerà)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "e lo zoccolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "ha spacciato"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "impura"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:41.481678881Z",
+  "model": "glm-5.3"
+}

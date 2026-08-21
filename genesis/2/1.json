@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E furono compiuti i cieli e la terra e tutto il loro esercito.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "furono compiuti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e la terra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "il loro esercito"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:12.847271849Z",
+  "model": "glm-5.3"
+}

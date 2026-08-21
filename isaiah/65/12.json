@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 65:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "E vi destinerò ⟨את⟩ alla spada, e vi inchinerete tutti al macello, perché ho chiamato e non avete risposto, ho parlato e non avete ascoltato; e avete fatto il male ai miei occhi e avete scelto ciò che io non ho voluto.",
+  "tokens": [
+    {
+      "surface": "ומניתי",
+      "gloss": "e vi destinerò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "alla spada"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "alla spada"
+    },
+    {
+      "surface": "וכלכם",
+      "gloss": "e voi tutti"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "al macello"
+    },
+    {
+      "surface": "תכרעו",
+      "gloss": "vi inchinerete"
+    },
+    {
+      "surface": "יען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ho chiamato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "avete risposto"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "avete ascoltato"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "e avete fatto"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ai miei occhi"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "e ciò che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "io ho voluto"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "avete scelto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:20.170857923Z",
+  "model": "glm-5.3"
+}

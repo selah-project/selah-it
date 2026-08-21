@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Ma io, come un sordo, non odo, e come un muto che non apre la sua bocca.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "come un sordo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "odo"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "e come un muto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "apre"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "la sua bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:43.882395139Z",
+  "model": "glm-5.3"
+}

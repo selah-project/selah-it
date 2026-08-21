@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Sollevate un canto, battete il tamburello, la cetra soave con l'arpa.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "sollevate"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "un canto"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "e battete"
+    },
+    {
+      "surface": "תף",
+      "gloss": "il tamburello"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "la cetra"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "soave"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "l'arpa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:35.223352200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Le mie lacrime sono ⟨state⟩ per me pane, giorno e notte, nel dirmi tutto il giorno: «Dov'è ⟨il tuo⟩ Elohim?»",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "è ⟨stata⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "le mie lacrime"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e notte"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "nel dire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dove"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨il tuo⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:19.322424356Z",
+  "model": "glm-5.3"
+}

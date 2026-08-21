@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E avvenne dopo sette giorni: le acque del diluvio furono sulla terra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "dopo sette"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e le acque"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "del diluvio"
+    },
+    {
+      "surface": "היו",
+      "gloss": "furono"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:28.955883163Z",
+  "model": "glm-5.3"
+}

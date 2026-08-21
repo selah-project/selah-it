@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "e il sacerdote la presenterà ⟨אתה⟩ e la farà stare in piedi davanti a YHWH.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "e presenterà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lei"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "e la farà stare in piedi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:24:51.403936548Z",
+  "model": "glm-5.3"
+}

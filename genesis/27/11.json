@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E disse Giacobbe a Rivka sua madre: ecco, Esaù mio fratello ⟨è⟩ uomo peloso, e io ⟨sono⟩ uomo liscio.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaù"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mio fratello"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "peloso"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "liscio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:25.256995501Z",
+  "model": "glm-5.3"
+}

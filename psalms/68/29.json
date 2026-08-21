@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Ha comandato il tuo Elohim la tua forza: sii forte, o Elohim, questo ⟨che⟩ hai operato per noi!",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "la tua forza"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "sii forte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "questo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "hai operato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:54.976641380Z",
+  "model": "glm-5.3"
+}

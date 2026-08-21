@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E nessun sangue mangerete in tutte le vostre dimore, ⟨sia⟩ dell'uccello ⟨sia⟩ della bestia.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e nessun"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sangue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "le vostre dimore"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "dell'uccello"
+    },
+    {
+      "surface": "וולבהמה",
+      "gloss": "e della bestia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:09.856641239Z",
+  "model": "glm-5.3"
+}

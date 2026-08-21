@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Buono ⟨è⟩ l'uomo che grazia e presta: egli sostiene le sue parole nel mishpat.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "che grazia"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "e presta"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "egli sostiene"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "le sue parole"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nel mishpat (giudizio)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:46.586582278Z",
+  "model": "glm-5.3"
+}

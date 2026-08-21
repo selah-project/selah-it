@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E concepì ancora e partorì un figlio, e disse: Questa volta loderò ⟨את⟩ YHWH. Perciò chiamò il suo nome Yehudah; e smise di partorire.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "concepì"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "questa volta"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "loderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "chiamò"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "e smise"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "di partorire"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:10.858266917Z",
+  "model": "glm-5.3"
+}

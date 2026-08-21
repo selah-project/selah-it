@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E uscirono a mezzogiorno; e Ben-Hadad beveva, ubriaco, nelle tende, lui e i re, trentadue re che lo aiutavano.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "e uscirono"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "a mezzogiorno"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "beveva"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ubriaco"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "nelle tende"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "e i re"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "e due"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "che aiutavano"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:33:14.066202871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E mi disse: figlio d'uomo, ⟨את⟩ tutte le mie parole che io ti parlerò prendi nel tuo cuore, e con le tue orecchie ascolta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e mi disse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le mie parole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "io parlerò"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "nel tuo cuore"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "e con le tue orecchie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:17:46.240472422Z",
+  "model": "glm-5.3"
+}

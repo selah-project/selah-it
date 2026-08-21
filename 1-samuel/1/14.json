@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E le disse Eli: fino a quando ti ubriacherai? Togli via ⟨את⟩ il tuo vino di dosso a te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ti ubriacherai"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "togli via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo vino"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "il tuo vino"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "di dosso a te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:05:29.267047511Z",
+  "model": "glm-5.3"
+}

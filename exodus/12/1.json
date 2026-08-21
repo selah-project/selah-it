@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E parlò YHWH a Mosè e ad Aharon nella terra di Egitto, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E parlò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e ad"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Egitto"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:14.205363966Z",
+  "model": "glm-5.3"
+}

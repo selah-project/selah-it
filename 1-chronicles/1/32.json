@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E i figli di Ketura, concubina di Abramo: ella partorì ⟨את⟩ Zimran e Yokshan e Medan e Midian e Yishbak e Shuach; e i figli di Yokshan: Sheva e Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E i figli di"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "concubina di"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ella partorì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "e Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "e Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "e Midian"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "e Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "e Shuach"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e i figli di"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "e Dedan"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:42.103880458Z",
+  "model": "glm-5.3"
+}

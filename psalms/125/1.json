@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 125,
+  "translation": "Shir hamaalot — canto delle salite. Quelli che confidano in YHWH ⟨sono⟩ come il monte di Tzion: non sarà smosso, per sempre dimora.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "quelli che confidano"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "come il monte"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarà smosso"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dimora"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:01.691660725Z",
+  "model": "glm-5.3"
+}

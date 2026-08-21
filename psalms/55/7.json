@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "E dissi: chi mi darà una pinna come la colomba? Volerei via e riposerei.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "una pinna"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "come la colomba"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "volerei via"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "e riposerei"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:55.790735479Z",
+  "model": "glm-5.3"
+}

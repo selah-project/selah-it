@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E un uomo che prende ⟨את⟩ una donna e ⟨את⟩ sua madre: depravazione ⟨è⟩; nel fuoco li bruceranno, lui e loro, e non ci sia depravazione in mezzo a voi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "E un uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una donna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sua madre"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "depravazione"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "li bruceranno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "e ⟨את⟩ loro",
+      "marks": "loro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ci sia"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "depravazione"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in mezzo a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:53.370569168Z",
+  "model": "glm-5.3"
+}

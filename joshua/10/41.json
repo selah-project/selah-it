@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Yehoshua li colpì da Qadesh-Barneʿa fino a ʿAzzah, e ⟨את⟩ tutta la terra di Goshen fino a Givʿon.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "li colpì"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "da Qadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneʿa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ʿAzzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la terra di Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "di Goshen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givʿon"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:06.798354934Z",
+  "model": "glm-5.3"
+}

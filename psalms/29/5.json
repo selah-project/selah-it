@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "La voce di YHWH spezza i cedri — sì, YHWH frantuma ⟨את⟩ i cedri del Libano.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "La voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "spezza"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "i cedri"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "sì, frantuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cedri del Libano"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "i cedri di"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "il Libano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:47.558440142Z",
+  "model": "glm-5.3"
+}

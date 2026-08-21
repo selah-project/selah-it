@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Mi feci giardini e parchi, e vi piantai alberi di ogni frutto.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "feci"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "giardini"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "e parchi"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "e piantai"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "alberi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di ogni"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frutto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:04.877124223Z",
+  "model": "glm-5.3"
+}

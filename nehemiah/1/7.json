@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ci siamo comportati molto corrottamente contro di te e non abbiamo custodito ⟨את⟩ i comandamenti né ⟨את⟩ gli statuti né ⟨את⟩ le norme che hai comandato ⟨את⟩ a Mosè, tuo servo.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "molto corrottamente"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "ci siamo comportati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "abbiamo custodito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i comandamenti"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "i comandamenti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "né ⟨את⟩",
+      "marks": "gli statuti"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "gli statuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "né ⟨את⟩",
+      "marks": "le norme"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "le norme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "hai comandato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tuo servo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:08.235285502Z",
+  "model": "glm-5.3"
+}

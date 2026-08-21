@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E si volsero e salirono verso la montagna, e arrivarono fino alla valle di Eshkol, e la esplorarono ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "E si volsero"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "e salirono"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "verso la montagna"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e arrivarono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "alla valle"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "di Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "e la esplorarono"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "la terra (suffisso femminile: essa)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:16.192553488Z",
+  "model": "glm-5.3"
+}

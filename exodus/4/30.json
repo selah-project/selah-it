@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E parlò Aharon ⟨את⟩ tutte le parole che YHWH aveva parlato a Mosè, e fece i segni agli occhi del popolo.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "i segni"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "agli occhi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:08.637077622Z",
+  "model": "glm-5.3"
+}

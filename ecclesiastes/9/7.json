@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Va', mangia con gioia il tuo pane e bevi con cuore buono il tuo vino, perché già Elohim si ⟨è⟩ compiaciuto ⟨את⟩ delle tue opere.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangia"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "con gioia"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "il tuo pane"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "e bevi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "con cuore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "il tuo vino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "già"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "si è compiaciuto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le tue opere"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "delle tue opere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:41.872472787Z",
+  "model": "glm-5.3"
+}

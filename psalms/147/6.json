@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "YHWH rialza gli umili, abbassa i malvagi fino a terra.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "rialza"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "gli umili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "abbassa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.267826061Z",
+  "model": "glm-5.3"
+}

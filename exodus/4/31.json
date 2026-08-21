@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E il popolo credette, e udirono che YHWH aveva visitato ⟨את⟩ i figli di Israele e che aveva visto ⟨את⟩ la loro miseria; e si inchinarono e si prostrarono.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "e credette"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "e udirono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "aveva visitato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli di Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e che"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "aveva visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro miseria"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "la loro miseria"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "e si inchinarono"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "e si prostrarono"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:08.637270036Z",
+  "model": "glm-5.3"
+}

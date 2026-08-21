@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Hai visto molte cose, e non ⟨le⟩ custodisci; ⟨ha⟩ orecchi aperti, e non ode.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "hai visto"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "molte cose"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "custodisci"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "aperti"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "orecchi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ode"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:42.496912022Z",
+  "model": "glm-5.3"
+}

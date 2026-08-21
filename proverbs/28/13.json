@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Chi copre le sue trasgressioni non prospererà; chi confessa e le abbandona otterrà compassione.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "chi copre"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "le sue trasgressioni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "prospererà"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "e chi confessa"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "e abbandona"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "otterrà compassione"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:01.140883928Z",
+  "model": "glm-5.3"
+}

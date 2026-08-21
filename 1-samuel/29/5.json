@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Non è forse questi Davide, del quale rispondevano nelle danze, dicendo: «Sha'ul ha colpito tra i suoi migliaia, e Davide tra le sue decine di migliaia»?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "non... forse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "del quale"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "rispondevano"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "nelle danze"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ha colpito"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "tra i suoi migliaia"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e Davide"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "tra le sue decine di migliaia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:40.897394936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Conosci tu Avner figlio di Ner: che per ingannarti ⟨venne⟩, e per conoscere ⟨את⟩ la tua uscita e ⟨את⟩ il tuo ingresso, e per conoscere ⟨את⟩ tutto ciò che tu fai.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "conosci tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נר",
+      "gloss": "di Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "per ingannarti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "è venuto"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "e per conoscere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua uscita"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "la tua uscita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il tuo ingresso"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "il tuo ingresso"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "e per conoscere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che tu fai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fai"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:47.839169885Z",
+  "model": "glm-5.3"
+}

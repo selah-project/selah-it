@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E Acaz prese ⟨את⟩ l'argento e ⟨את⟩ l'oro che si trovava nella casa di YHWH e nei tesori della casa del re, e lo mandò al re di Assur, ⟨come⟩ tributo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "E prese"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Acaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'argento"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argento"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'oro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "e l'oro"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "che si trovava"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "e nei tesori"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e lo mandò"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Assur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "⟨come⟩ tributo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:53.118316217Z",
+  "model": "glm-5.3"
+}

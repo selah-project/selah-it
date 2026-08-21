@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 101,
+  "translation": "Chi calunnia in segreto il suo prossimo — ⟨את⟩ lui sterminerò; chi ha occhi alti e cuore largo — ⟨את⟩ lui non lo sopporterò.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "chi calunnia"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in segreto"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "sterminerò"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "alti"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "occhi"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "e largo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "cuore"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "sopporterò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:53.322220810Z",
+  "model": "glm-5.3"
+}

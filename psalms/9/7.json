@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Il nemico ⟨è⟩ finito, ⟨in⟩ rovine per sempre; e le città hai sradicato, perita è la loro memoria — ⟨essi⟩.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "il nemico"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "finito"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "rovine"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "e le città"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "hai sradicato"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "perita è"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "la loro memoria"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:56.542847460Z",
+  "model": "glm-5.3"
+}

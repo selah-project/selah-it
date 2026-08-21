@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Venite, contemplate le opere di YHWH, che ha posto desolazioni nella terra.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "contemplate"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "le opere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ha posto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "desolazioni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:36.990404549Z",
+  "model": "glm-5.3"
+}

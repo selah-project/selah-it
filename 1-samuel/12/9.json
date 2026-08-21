@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E dimenticarono ⟨את⟩ YHWH ⟨את⟩ il loro Elohim, ed egli li vendette in mano di Sisera, capo dell'esercito di Chatsor, e in mano dei Pelishtiti, e in mano del re di Moav; ed essi combatterono contro di loro.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "e dimenticarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "il loro Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ed egli vendette"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano di"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "dell'esercito"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "di Chatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e in mano dei"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e in mano del"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ed essi combatterono"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contro di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:09:18.149625414Z",
+  "model": "glm-5.3"
+}

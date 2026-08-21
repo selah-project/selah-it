@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E vi condussi ⟨את⟩ verso la terra dell'Emoreo che dimora oltre il Giordano, ed essi combatterono con voi ⟨את⟩; e li diedi in mano vostra, e prendeste possesso ⟨את⟩ della loro terra, e li distrussi davanti a voi.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "e vi condussi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vi ⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "dell'Emoreo"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "che dimora"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "e combatterono"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "con voi ⟨את⟩"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "e diedi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "li ⟨את⟩",
+      "marks": "loro (gli Emorei)"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in mano vostra"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "e prendeste possesso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro terra"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "la loro terra"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "e li distrussi"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "davanti a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:43.037874114Z",
+  "model": "glm-5.3"
+}

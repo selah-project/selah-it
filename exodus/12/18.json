@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Nel primo ⟨mese⟩, il giorno quattordici del mese, alla sera, mangerete matzot, fino al giorno ventuno del mese, alla sera.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "nel primo"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "quattor"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-dici"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "matzot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "יום",
+      "gloss": "al giorno"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "il ventu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "-esimo primo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "alla sera"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:40.319096046Z",
+  "model": "glm-5.3"
+}

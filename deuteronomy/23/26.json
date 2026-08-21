@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 23:26",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Quando entri nel grano ⟨in piedi⟩ del ⟨tuo⟩ prossimo, puoi spigolare spighe con la ⟨tua⟩ mano; ma la falce non leverai sul grano del ⟨tuo⟩ prossimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "entri"
+    },
+    {
+      "surface": "בקמת",
+      "gloss": "nel grano in piedi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "del tuo prossimo"
+    },
+    {
+      "surface": "וקטפת",
+      "gloss": "spigolerai"
+    },
+    {
+      "surface": "מלילת",
+      "gloss": "spighe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "con la tua mano"
+    },
+    {
+      "surface": "וחרמש",
+      "gloss": "la falce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "leverai"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "קמת",
+      "gloss": "grano"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "del tuo prossimo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:28.458713666Z",
+  "model": "glm-5.3"
+}

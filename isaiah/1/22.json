@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Il tuo argento è diventato scorie, il tuo vino è annacquato con acqua.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "il tuo argento"
+    },
+    {
+      "surface": "היה",
+      "gloss": "è diventato"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "scorie"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "il tuo vino"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "annacquato"
+    },
+    {
+      "surface": "במים",
+      "gloss": "con acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:58.193028489Z",
+  "model": "glm-5.3"
+}

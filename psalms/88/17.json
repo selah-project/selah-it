@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Su di me sono passate le tue ardenti ire; i tuoi terrori mi hanno estirpato.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "sono passate"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "le tue ardenti ire"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "i tuoi terrori"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "mi hanno estirpato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:59.841190215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E seppellirono ⟨את⟩ Avner a Chevron; e il re alzò ⟨את⟩ la sua voce e pianse sulla tomba di Avner, e tutto il popolo pianse.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "e seppellirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "a Chevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "e alzò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua voce"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "la sua voce"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "e pianse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "la tomba"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "di Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "e pianse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:43.240506331Z",
+  "model": "glm-5.3"
+}

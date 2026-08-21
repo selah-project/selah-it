@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E vedeva tutto il popolo ⟨את⟩ la colonna della nuvola ferma all'ingresso della tenda, e si alzava tutto il popolo e si prostravano, ciascuno all'ingresso della sua tenda.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "e vedeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la colonna della nuvola"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "la colonna"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "della nuvola"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ferma"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "e si alzava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "e si prostravano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "della sua tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:46.165364085Z",
+  "model": "glm-5.3"
+}

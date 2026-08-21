@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Quanto felice ⟨è⟩ l'uomo che ha posto YHWH come suo rifugio, e non si è volto ai prepotenti né a quelli che scivolano verso la menzogna.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "quanto felice"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ha posto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "come suo rifugio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "si è volto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ai prepotenti"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "né a quelli che scivolano"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "verso la menzogna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:07.256114786Z",
+  "model": "glm-5.3"
+}

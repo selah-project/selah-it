@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E Abramo ⟨era⟩ figlio di cento anni quando gli nacque ⟨את⟩ Isacco, suo figlio.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "e Abramo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "di cento"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "quando nacque"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isacco"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isacco"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:59.911188355Z",
+  "model": "glm-5.3"
+}

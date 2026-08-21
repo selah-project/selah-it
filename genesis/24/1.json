@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E Abramo era vecchio, entrato nei giorni, e YHWH aveva benedetto ⟨את⟩ Abramo in ogni cosa.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "E Abramo"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "era vecchio"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entrato"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nei giorni"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "aveva benedetto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abramo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ogni cosa"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:34.975670327Z",
+  "model": "glm-5.3"
+}

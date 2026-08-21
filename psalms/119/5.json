@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ah, fossero stabiliti i miei cammini per custodire i tuoi chukkim!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ah, fossero"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "stabiliti"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "i miei cammini"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "per custodire"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i tuoi chukkim (statuti)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:44.660729527Z",
+  "model": "glm-5.3"
+}

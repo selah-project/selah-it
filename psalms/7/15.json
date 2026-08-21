@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Ecco, ⟨l'iniquità⟩ è in travaglio, e ha concepito fatica, e partorisce menzogna.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "è in travaglio"
+    },
+    {
+      "surface": "און",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "e ha concepito"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fatica"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "e partorisce"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "menzogna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:38.567200530Z",
+  "model": "glm-5.3"
+}

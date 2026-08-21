@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E Shelomoh costruì ⟨את⟩ la casa e la completò.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "e la completò"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:46.828011243Z",
+  "model": "glm-5.3"
+}

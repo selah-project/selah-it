@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Verrò con le prodezze di Adonai YHWH, ricorderò la tua giustizia, tua soltanto.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Verrò"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "con le prodezze"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "di Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ricorderò"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tua soltanto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:32.021024437Z",
+  "model": "glm-5.3"
+}

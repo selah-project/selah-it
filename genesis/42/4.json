@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E ⟨את⟩ Beniamino, fratello di Giuseppe, non lo mandò Giacobbe con i suoi fratelli ⟨את⟩, perché aveva detto: che non gli capiti una disgrazia.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beniamino"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Beniamino"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fratello di"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi fratelli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aveva detto"
+    },
+    {
+      "surface": "פן",
+      "gloss": "che non"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "gli capiti"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "una disgrazia"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:51.400925641Z",
+  "model": "glm-5.3"
+}

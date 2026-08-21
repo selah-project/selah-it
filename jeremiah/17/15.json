@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Ecco, quelli dicono a me: «Dov'è la parola di YHWH? Venga, ora!»",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "המה",
+      "gloss": "quelli"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dov'è"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "venga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    }
+  ],
+  "timestamp": "2026-08-21T08:04:04.512653159Z",
+  "model": "glm-5.3"
+}

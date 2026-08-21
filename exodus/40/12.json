@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E farai avvicinare ⟨את⟩ Aharon e ⟨את⟩ i suoi figli all'ingresso della tenda del convegno, e laverai ⟨את⟩ loro con l'acqua.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "farai avvicinare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "laverai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "Aharon e i suoi figli"
+    },
+    {
+      "surface": "במים",
+      "gloss": "con l'acqua"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:06.535550898Z",
+  "model": "glm-5.3"
+}

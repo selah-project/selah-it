@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E farai due cherubim d'oro; lavoro battuto li farai ⟨את⟩, alle due estremità della kapporet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "E farai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "cherubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "lavoro battuto"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "li farai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (i cherubim)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "alle due"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "estremità"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "della kapporet"
+    }
+  ],
+  "timestamp": "2026-08-21T06:03:36.433641582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "E porrò per sempre la sua discendenza, e il suo trono come i giorni ⟨dei⟩ cieli.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "e porrò"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "la sua discendenza"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "e il suo trono"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "come i giorni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨dei⟩ cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:24.629001120Z",
+  "model": "glm-5.3"
+}

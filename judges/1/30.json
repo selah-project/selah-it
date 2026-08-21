@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Zevulun non diseredò ⟨את⟩ gli abitanti di Kitron e ⟨את⟩ gli abitanti di Nahalol; e il cananeo abitò in mezzo a lui, e furono a tributo.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "diseredò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli abitanti"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "di Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gli abitanti"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "di Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e abitò"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "il cananeo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in mezzo a lui"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "למס",
+      "gloss": "a tributo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:49.298220432Z",
+  "model": "glm-5.3"
+}

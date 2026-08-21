@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Non ha fatto così per nessuna nazione, e ⟨delle⟩ sue norme non hanno saputo nulla. Lodate Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per nessuna"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nazione"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "e ⟨delle⟩ norme"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non… nulla"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "hanno saputo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:02.854134628Z",
+  "model": "glm-5.3"
+}

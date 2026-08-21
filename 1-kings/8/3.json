@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E vennero tutti gli anziani di Israel, e i sacerdoti sollevarono ⟨את⟩ l'arca.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "e vennero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "e sollevarono"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "l'arca"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:00.179457133Z",
+  "model": "glm-5.3"
+}

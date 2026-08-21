@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Si riversarono acque ⟨dalle⟩ nubi dense, voce diedero ⟨i⟩ cieli, anche le tue frecce saettavano.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "si riversarono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "nubi dense"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "diedero"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "le tue frecce"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "saettavano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:08.770927646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E disse uno: degnati, ti prego, e vieni con ⟨את⟩ i tuoi servi. E disse: io verrò.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "degnati"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e vieni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi servi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i tuoi servi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "verrò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:59.014620972Z",
+  "model": "glm-5.3"
+}

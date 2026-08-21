@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E se davvero sarà mangiato nel terzo giorno, ⟨è⟩ cosa putrida; non sarà gradito.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "davvero mangiato"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sarà mangiato"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terzo"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "cosa putrida"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "sarà gradito"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:34.616460996Z",
+  "model": "glm-5.3"
+}

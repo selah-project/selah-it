@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Nel giorno della mia angoscia ti invoco, perché tu mi rispondi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "della mia angoscia"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ti invoco"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "tu mi rispondi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:54.223507116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 85,
+  "translation": "La giustizia camminerà davanti a lui, e porrà i suoi passi per via.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "La giustizia"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "camminerà"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "e porrà"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "per via"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "i suoi passi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:37.735887653Z",
+  "model": "glm-5.3"
+}

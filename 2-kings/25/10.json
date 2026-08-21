@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E ⟨את⟩ le mura di Gerusalemme tutt'intorno demolì tutta la forza dei Kasdìm che ⟨era⟩ con il capo dei carnefici.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le mura di Gerusalemme"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "le mura di"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutt'intorno"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "demolì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "la forza"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "dei Kasdìm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "רב",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "dei carnefici"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:36.601704502Z",
+  "model": "glm-5.3"
+}

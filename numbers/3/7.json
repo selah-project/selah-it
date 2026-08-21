@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E custodiranno ⟨את⟩ la sua custodia e ⟨את⟩ la custodia di tutta l'assemblea davanti alla tenda del convegno, per servire ⟨את⟩ il servizio del mishkan (tabernacolo).",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "E custodiranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua custodia"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "la sua custodia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la custodia di tutta l'assemblea"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la custodia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti alla"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendа"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "per servire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il servizio del mishkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "il servizio"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "del mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:07.283428938Z",
+  "model": "glm-5.3"
+}

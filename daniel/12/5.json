@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E vidi io, Daniele, ed ecco altri due in piedi: uno di qua, sull'orlo del fiume, e uno di là, sull'orlo del fiume.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "e vidi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniele"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altri"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "in piedi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "di qua"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "sull'orlo"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "del fiume"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "e uno"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "di là"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "sull'orlo"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "del fiume"
+    }
+  ],
+  "timestamp": "2026-08-21T09:37:55.461389962Z",
+  "model": "glm-5.3"
+}

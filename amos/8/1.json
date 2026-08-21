@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Così mi fece vedere Adonai YHWH, ed ecco un cesto di frutta d'estate.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Così"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mi fece vedere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "un cesto"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "di frutta d'estate"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:45.982276903Z",
+  "model": "glm-5.3"
+}

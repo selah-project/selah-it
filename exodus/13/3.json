@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E disse Mosè al popolo: « Ricordate ⟨את⟩ questo giorno, in cui siete usciti dall'Egitto, dalla casa degli schiavi, perché con mano forte YHWH vi ha fatti uscire di qui; e non si mangi pane lievitato ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al popolo"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ricordate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo giorno"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "siete usciti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "degli schiavi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "con forza"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mano"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ha fatti uscire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "di qui"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di qui"
+    },
+    {
+      "surface": "וילא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "si mangi"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "pane lievitato"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:36.759311250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 21:13",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "e si toglierà di dosso ⟨את⟩ la veste della sua prigionia, e abiterà nella tua casa, e piangerà ⟨את⟩ suo padre e ⟨את⟩ sua madre un mese di giorni; e dopo ciò entrerai da lei e la prenderai in moglie, e sarà per te in moglie.",
+  "tokens": [
+    {
+      "surface": "והסירה",
+      "gloss": "e si toglierà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la veste della sua prigionia"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "la veste"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "della sua prigionia"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "di dosso a lei"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "e abiterà"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nella tua casa"
+    },
+    {
+      "surface": "ובכתה",
+      "gloss": "e piangerà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sua madre"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "un mese"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di giorni"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "entrerai"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "da lei"
+    },
+    {
+      "surface": "ובעלתה",
+      "gloss": "e la prenderai in moglie"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "in moglie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:08.197625787Z",
+  "model": "glm-5.3"
+}

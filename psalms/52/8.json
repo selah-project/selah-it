@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "E i giusti vedranno e temeranno, e su di lui rideranno.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "e vedranno"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "e temeranno"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "rideranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:35.665764814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Israele ⟨era⟩ cosa santa per YHWH, primizia del suo raccolto; tutti quelli che lo mangiano saranno colpevoli — il male verrà su di loro, oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "cosa santa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "primizia"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "del suo raccolto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "quelli che lo mangiano"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "saranno colpevoli"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "verrà"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:58:27.513872777Z",
+  "model": "glm-5.3"
+}

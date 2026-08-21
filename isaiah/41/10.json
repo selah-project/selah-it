@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Non temere, perché io ⟨sono⟩ con te; non guardarti intorno smarrito, perché io ⟨sono⟩ Elohim tuo: ti ho reso forte, sì, ti ho aiutato, sì, ti ho sostenuto con la destra della mia giustizia.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "temere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "guardarti intorno smarrito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tuo"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "ti ho reso forte"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sì"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ti ho aiutato"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sì"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ti ho sostenuto"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "con la destra"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "della mia giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:26.964576862Z",
+  "model": "glm-5.3"
+}

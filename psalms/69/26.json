@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Sia ⟨la⟩ loro dimora desolata; nelle loro tende non vi sia ⟨un⟩ abitante.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Sia"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "la loro dimora"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "desolata"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "nelle loro tende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "vi sia"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "abitante"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:51.488645245Z",
+  "model": "glm-5.3"
+}

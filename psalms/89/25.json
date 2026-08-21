@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "E la mia fedeltà e il mio chesed ⟨saranno⟩ con lui, e nel mio nome si ergerà il suo corno.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "e la mia fedeltà"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "e il mio chesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "e nel mio nome"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "si ergerà"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "il suo corno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:06.642558549Z",
+  "model": "glm-5.3"
+}

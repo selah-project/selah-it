@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E mi condusse ⟨את⟩ fuori allo spazio largo, mi trasse in salvo, perché si compiacque di me.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e mi condusse fuori"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "allo spazio largo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi (oggetto del condurre fuori)"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "mi trasse in salvo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "si compiacque"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:24.515826238Z",
+  "model": "glm-5.3"
+}

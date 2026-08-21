@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Yehoshua sentì ⟨את⟩ il rumore del popolo nel suo clamore, e disse a Moshe: rumore di guerra ⟨c'è⟩ nell'accampamento!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sentì"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il rumore"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il rumore"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nel suo clamore"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rumore"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "di guerra"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nell'accampamento"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:16.186600886Z",
+  "model": "glm-5.3"
+}

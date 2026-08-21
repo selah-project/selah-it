@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "E Giuseppe trovò grazia ai suoi occhi, e lo servì ⟨אתו⟩; e lo costituì sopra la sua casa, e tutto ciò che aveva pose nella sua mano.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "E trovò"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grazia"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ai suoi occhi"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "e servì"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (servì lui)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "e lo costituì"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ciò che aveva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pose"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nella sua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:25.032369288Z",
+  "model": "glm-5.3"
+}

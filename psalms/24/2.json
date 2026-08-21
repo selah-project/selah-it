@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Poiché ⟨Egli⟩ sui mari l'ha fondata, e sui fiumi l'ha stabilita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Egli"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "i mari"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "l'ha fondata"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "i fiumi"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "l'ha stabilita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:13.490670674Z",
+  "model": "glm-5.3"
+}

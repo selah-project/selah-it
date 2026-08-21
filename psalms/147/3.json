@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "⟨Colui che⟩ guarisce i cuori spezzati e avvolge le loro ferite.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "guarisce"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "i cuori spezzati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "cuore"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "e avvolge"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "le loro ferite"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:12.158328535Z",
+  "model": "glm-5.3"
+}

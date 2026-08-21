@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E YHWH ricondusse ⟨את⟩ la sorte di Giobbe quando egli pregò per i suoi amici; e YHWH aggiunse ⟨את⟩ a tutto ciò che era di Giobbe, al doppio.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ricondusse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sorte di Giobbe"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "la sorte (la cattività)"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "di Giobbe"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "quando egli pregò"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "per"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "i suoi amici"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "e aggiunse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tutto ciò che era di Giobbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "era di Giobbe"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "al doppio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:26.857056588Z",
+  "model": "glm-5.3"
+}

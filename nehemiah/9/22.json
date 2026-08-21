@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E desti loro regni e popoli, e li assegnasti zona per zona; ed essi presero in possesso ⟨את⟩ la terra di Sichon e ⟨את⟩ la terra del re di Cheshbon e ⟨את⟩ la terra di Og, re del Bashan.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "e desti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "regni"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "e popoli"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "e li assegnasti"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "zona per zona"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "e presero in possesso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra di Sichon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "di Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra del re di Cheshbon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "di Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra di Og"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "di Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "del Bashan"
+    }
+  ],
+  "timestamp": "2026-08-21T09:42:59.481664106Z",
+  "model": "glm-5.3"
+}

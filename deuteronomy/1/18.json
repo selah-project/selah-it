@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E io ⟨את⟩ vi comandai in quel tempo ⟨את⟩ tutte le parole che avreste dovuto fare.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "e io comandai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel tempo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "avreste dovuto fare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:12.635611860Z",
+  "model": "glm-5.3"
+}

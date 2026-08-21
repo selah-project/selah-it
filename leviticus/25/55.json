@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Perché a me i figli d'Israele ⟨sono⟩ servi; servi miei essi ⟨sono⟩, che ho fatto uscire ⟨את⟩ loro dalla terra d'Egitto; io ⟨sono⟩ YHWH, Elohim vostro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "servi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servi miei"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ho fatto uscire"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "loro (dalla terra d'Egitto)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra di"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egitto"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:38.614691969Z",
+  "model": "glm-5.3"
+}

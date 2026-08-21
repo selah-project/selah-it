@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E il sacerdote li farà salire in fumo ⟨את⟩ sull'altare, offerta di fuoco a YHWH: ⟨⟨è⟩⟩ un sacrificio di colpa (asham).",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "farà salire in fumo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "essi (le parti grasse)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offerta di fuoco"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sacrificio di colpa (asham)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso è"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:13.445300123Z",
+  "model": "glm-5.3"
+}

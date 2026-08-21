@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Cingi la tua spada sulla coscia, o potente, ⟨è⟩ il tuo splendore e la tua maestà.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "cingi"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "la tua spada"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "la coscia"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "o potente"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "il tuo splendore (hod)"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "e la tua maestà (hadar)"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:28.910230384Z",
+  "model": "glm-5.3"
+}

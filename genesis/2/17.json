@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "ma dell'albero della conoscenza del bene e del male non ne mangerai, perché nel giorno in cui ne mangerai, morendo morirai.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "ma dell'albero"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "della conoscenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "del bene"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "e del male"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ne mangerai"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ne (da esso)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "in cui ne mangerai"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ne (da esso)"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morendo"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "morirai"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:18.269448723Z",
+  "model": "glm-5.3"
+}

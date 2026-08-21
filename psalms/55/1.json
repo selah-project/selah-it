@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Al maestro del coro, sugli strumenti a corda. Insegnamento di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al maestro del coro"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "sugli strumenti a corda"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Insegnamento"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:38.691965742Z",
+  "model": "glm-5.3"
+}

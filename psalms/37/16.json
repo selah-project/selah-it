@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Meglio il poco per il giusto che l'abbondanza di molti malvagi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "il poco"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "per il giusto"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "l'abbondanza"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "malvagi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:02.660214609Z",
+  "model": "glm-5.3"
+}

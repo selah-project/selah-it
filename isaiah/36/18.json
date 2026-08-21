@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "che Ezechia non vi seduca ⟨את⟩ dicendo: YHWH ci libererà. Hanno forse liberato gli dèi delle nazioni, ciascuno ⟨את⟩ la sua terra, dalla mano del re di Assur?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "che… non"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "seduca"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ezechia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ci libererà"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "hanno forse liberato"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gli dèi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "delle nazioni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua terra"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "la sua terra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Assur"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:52.394126885Z",
+  "model": "glm-5.3"
+}

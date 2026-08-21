@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E fece il male agli occhi di YHWH, e andò dietro ai peccati di Ieroboam figlio di Nevat, con cui aveva fatto peccare ⟨את⟩ Israele; non se ne allontanò.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ai peccati"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "di Ieroboam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "di Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "aveva fatto peccare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "סר",
+      "gloss": "se ne allontanò"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "da essa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:23.848699676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Ricorda che un soffio ⟨è⟩ la mia vita: ⟨il⟩ mio occhio non tornerà a vedere il bene.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un soffio"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "la mia vita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tornerà"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a vedere"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:25.576340095Z",
+  "model": "glm-5.3"
+}

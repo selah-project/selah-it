@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Questo mese ⟨sarà⟩ per voi capo dei mesi: primo ⟨esso⟩ è per voi, per i mesi dell'anno.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Questo mese"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dei mesi"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "primo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "per i mesi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "dell'anno"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:14.205664181Z",
+  "model": "glm-5.3"
+}

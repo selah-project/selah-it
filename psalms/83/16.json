@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "così perseguali con ⟨il⟩ tuo turbine, e con ⟨la⟩ tua bufera sconvolgi.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "perseguali"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "con il tuo turbine"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "e con la tua bufera"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "sconvolgi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:27.780008048Z",
+  "model": "glm-5.3"
+}

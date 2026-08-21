@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Siano sigillate le labbra bugiarde, che parlano contro il giusto con insolenza, con orgoglio e disprezzo.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "siano sigillate (ammutolite)"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "le labbra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bugiarde"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "che parlano"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "con insolenza"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "con orgoglio"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "e disprezzo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:02.874399225Z",
+  "model": "glm-5.3"
+}

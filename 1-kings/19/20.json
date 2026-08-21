@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Ed egli lasciò ⟨את⟩ i buoi e corse dietro a Eliyahu e disse: « Bacerò, ti prego, mio padre e mia madre, e poi verrò dietro a te ». E gli disse: « Va', torna, perché che cosa ti ho fatto? »",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ed egli lasciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i buoi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "i buoi"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "e corse"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "Bacerò"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "e mia madre"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "e verrò"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dietro a te"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "E gli disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va'"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ti ho fatto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:21.531082800Z",
+  "model": "glm-5.3"
+}

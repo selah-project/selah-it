@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E avvenne nell'anno quinto del re Rechavàm, che Shishak re di Mitzrajim salì contro Gerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "quinto"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavàm"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "salì"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:11.650298110Z",
+  "model": "glm-5.3"
+}

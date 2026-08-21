@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E custodirai ⟨את⟩ il comandamento, e ⟨את⟩ gli statuti e ⟨את⟩ le norme che io ti comando oggi, per fare ⟨li⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "e custodirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il comandamento"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "il comandamento"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gli statuti"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "gli statuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le norme"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "le norme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti comando"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "per fare li"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:18.424559610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E vide Mosè ⟨את⟩ il popolo, che era sbrigliato — perché Aaronne lo aveva lasciato sbrigliato, per vergogna tra i loro avversari.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "sbrigliato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "era"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lo aveva lasciato sbrigliato"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronne"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "per vergogna"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "tra i loro avversari"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:12.774959300Z",
+  "model": "glm-5.3"
+}

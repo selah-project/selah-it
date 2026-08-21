@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Prima che i monti nascessero e tu generassi ⟨la⟩ terra e ⟨il⟩ mondo, da eternità a eternità, tu ⟨sei⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "nascessero"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "e generassi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "e il mondo"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "da eternità"
+    },
+    {
+      "surface": "עד",
+      "gloss": "a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eternità"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:09.716795025Z",
+  "model": "glm-5.3"
+}

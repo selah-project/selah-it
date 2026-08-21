@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "⟨Egli⟩ ama la giustizia e il diritto; del chesed di YHWH ⟨è⟩ piena la terra.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "la giustizia"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e il diritto"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "⟨è⟩ piena"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:13.028393420Z",
+  "model": "glm-5.3"
+}

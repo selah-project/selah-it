@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E disse: «Perché ⟨את⟩ sette pecorelle prenderai dalla mia mano, perché ⟨esse⟩ mi siano come testimonianza che io ho scavato ⟨את⟩ questo pozzo».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sette pecorelle"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sette"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "pecorelle"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prenderai"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dalla mia mano"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "siano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "come testimonianza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "io ho scavato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo pozzo"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "il pozzo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:00.910947633Z",
+  "model": "glm-5.3"
+}

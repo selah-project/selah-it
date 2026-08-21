@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "Poiché in ⟨della⟩ sua mano ⟨sono⟩ le profondità della terra, e le vette dei monti ⟨sono⟩ sue.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in ⟨della⟩ sua mano"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "le profondità"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "e le vette"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dei monti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sue"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:16.376764391Z",
+  "model": "glm-5.3"
+}

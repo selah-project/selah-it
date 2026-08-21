@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Yoav mandò messaggeri a Davide e disse: ho combattuto contro Rabbah, e ho anche preso ⟨את⟩ la città delle acque.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "ho combattuto"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "contro Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "ho preso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la città delle acque"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "המים",
+      "gloss": "delle acque"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:26.999441353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Torna, YHWH — fino a quando? — e ⟨ti⟩ consola ⟨riguardo⟩ ai tuoi servi.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Torna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "a quando?"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "e ⟨ti⟩ consola"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨riguardo⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ai tuoi servi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:03.513698784Z",
+  "model": "glm-5.3"
+}

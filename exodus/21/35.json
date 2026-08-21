@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E se il bue di un uomo colpisce ⟨את⟩ il bue del suo prossimo e ⟨quello⟩ muore, venderanno ⟨את⟩ il bue vivo e divideranno ⟨את⟩ il suo prezzo; anche ⟨את⟩ il morto lo divideranno.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "colpisce"
+    },
+    {
+      "surface": "שור",
+      "gloss": "il bue"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bue"
+    },
+    {
+      "surface": "שור",
+      "gloss": "il bue"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "del suo prossimo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e muore"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "venderanno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bue vivo"
+    },
+    {
+      "surface": "השור",
+      "gloss": "il bue"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "e divideranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prezzo"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "il suo prezzo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il morto"
+    },
+    {
+      "surface": "המת",
+      "gloss": "il morto"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "lo divideranno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:16.194833650Z",
+  "model": "glm-5.3"
+}

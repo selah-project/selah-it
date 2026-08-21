@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Afflissero con ceppi i suoi piedi, il ferro entrò ⟨nella⟩ sua nefesh.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "afflissero"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "con ceppi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "i suoi piedi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "il ferro"
+    },
+    {
+      "surface": "באה",
+      "gloss": "entrò"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:39.663941373Z",
+  "model": "glm-5.3"
+}

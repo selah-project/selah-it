@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E Abramo salì dall'Egitto — lui, sua moglie e tutto ciò che aveva, e Lot con lui — verso il Negev.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e sua moglie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aveva"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "e Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "verso il Negev"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:31.608852808Z",
+  "model": "glm-5.3"
+}

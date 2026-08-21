@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Il forestiero dimorante e il salariato non ne mangeranno.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "il forestiero dimorante"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "e il salariato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangeranno"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:36.383869454Z",
+  "model": "glm-5.3"
+}

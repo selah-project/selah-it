@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Un confine hai posto — non lo passeranno, non torneranno a coprire la terra.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "un confine"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "hai posto"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "lo passeranno"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "torneranno"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "a coprire"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:15.632853954Z",
+  "model": "glm-5.3"
+}

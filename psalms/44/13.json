@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Vendi il tuo popolo senza guadagno, e non ti accresci ⟨ricavando⟩ dal loro prezzo.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "vendi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "senza"
+    },
+    {
+      "surface": "הון",
+      "gloss": "guadagno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ti accresci"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "dal loro prezzo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:31.903484901Z",
+  "model": "glm-5.3"
+}

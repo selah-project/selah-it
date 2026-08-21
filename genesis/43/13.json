@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "E ⟨את⟩ vostro fratello prendete, e alzatevi, tornate all'uomo:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vostro fratello"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vostro fratello"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "prendete"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "alzatevi"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "tornate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:32.893235468Z",
+  "model": "glm-5.3"
+}

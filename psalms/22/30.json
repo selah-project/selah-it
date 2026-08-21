@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Mangiano e si prostrano tutti i grassi della terra; davanti a lui si inginocchiano tutti quelli che scendono nella polvere — e ⟨per⟩ la sua nefesh non ⟨c'è⟩ chi ⟨la⟩ mantenga in vita.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "mangiano"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "e si prostrano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "i grassi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "si inginocchiano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "quelli che scendono"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "nella polvere"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "e ⟨per⟩ la sua nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "chi mantenga in vita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:09.550321923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Devora, una donna profetessa, moglie di Lapidot — lei giudicava ⟨את⟩ Israele in quel tempo.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "e Devora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "profetessa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moglie di"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lapidot"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "giudicava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "quel tempo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:31.459611678Z",
+  "model": "glm-5.3"
+}

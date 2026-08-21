@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Figlio d'uomo, dille: tu ⟨sei⟩ una terra non purificata ⟨essa⟩, non piovuta nel giorno dell'indignazione.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "di'"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu",
+      "marks": "tu (pronome, non il marcatore ⟨את⟩)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "purificata"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨essa⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "piovuta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "dell'indignazione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:22:34.106417324Z",
+  "model": "glm-5.3"
+}

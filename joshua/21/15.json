@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "e ⟨את⟩ Cholon con i suoi pascoli, e ⟨את⟩ Debir con i suoi pascoli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Cholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi pascoli"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "i suoi pascoli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi pascoli"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "i suoi pascoli"
+    }
+  ],
+  "timestamp": "2026-08-21T06:56:44.637541945Z",
+  "model": "glm-5.3"
+}

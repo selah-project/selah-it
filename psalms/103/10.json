@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Non secondo i nostri peccati ⟨Egli⟩ ha fatto con noi, e non secondo le nostre iniquità ha retribuito su di noi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "secondo i nostri peccati"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "con noi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "secondo le nostre iniquità"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ha retribuito"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:15.500973079Z",
+  "model": "glm-5.3"
+}

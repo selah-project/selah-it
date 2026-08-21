@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Poiché i malfattori saranno sterminati, e quelli che sperano in YHWH — essi erediteranno ⟨la⟩ terra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "i malfattori"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "saranno sterminati"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "e quelli che sperano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "erediteranno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:30.712359576Z",
+  "model": "glm-5.3"
+}

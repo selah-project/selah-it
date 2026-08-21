@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "« E io ho consacrato il mio re su Tzion, il mio monte santo ».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ho consacrato"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "il mio re"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "il mio santo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:59.883032871Z",
+  "model": "glm-5.3"
+}

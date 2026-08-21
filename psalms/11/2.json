@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Poiché ecco, i malvagi tendono l'arco, hanno approntato la loro freccia sulla corda, per tirare nell'oscurità contro i retti di cuore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "tendono"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "l'arco"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "hanno approntato"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "la loro freccia"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "la corda"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "per tirare"
+    },
+    {
+      "surface": "במו",
+      "gloss": "in"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "oscurità"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "contro i retti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:18.258746568Z",
+  "model": "glm-5.3"
+}

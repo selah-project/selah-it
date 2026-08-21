@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Quando batterai il tuo olivo, non lo rimonderai dietro di te: sarà del forestiero, dell'orfano e della vedova.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "batterai"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "il tuo olivo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "rimonderai"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "dietro di te"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "del forestiero"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "dell'orfano"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "e della vedova"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:35.096370823Z",
+  "model": "glm-5.3"
+}

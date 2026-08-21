@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 150,
+  "translation": "Lodatelo al suono dello shofar, lodatelo con nevel e kinnor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "al suono"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "dello shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "con il nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "e con il kinnor"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:56.437066818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 23:19",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E salirono gli zifei da Shaúl a Ghibea, dicendo: ecco, David si nasconde presso di noi nelle fortezze, a Chorshà, sul colle di Haclilà, che è a destra dello Yesimòn.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "e salirono"
+    },
+    {
+      "surface": "זפים",
+      "gloss": "gli zifei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "a Ghibea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "si nasconde"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "presso di noi"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "nelle fortezze"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "a Chorshà"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "sul colle"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "di Haclilà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "a destra di"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "lo Yesimòn"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:14.619705007Z",
+  "model": "glm-5.3"
+}

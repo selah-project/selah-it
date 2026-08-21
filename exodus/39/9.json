@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Quadrato era, doppio, fecero il choshen; uno zeret ⟨la⟩ sua lunghezza e uno zeret ⟨la⟩ sua larghezza, doppio.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "quadrato"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "doppio"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il choshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "il choshen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "uno zeret"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "⟨la⟩ sua lunghezza"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "e uno zeret"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "⟨la⟩ sua larghezza"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "doppio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:08:35.853056805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 114,
+  "translation": "i monti, che saltellate come arieti, le colline, come agnelli del gregge?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "saltellate"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "come arieti"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "le colline"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "come figli di"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "gregge"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:40.678414268Z",
+  "model": "glm-5.3"
+}

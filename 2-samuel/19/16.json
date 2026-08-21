@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E tornò il re e giunse fino al Giordano; e Giuda venne a Ghilgal, per andare incontro al re, per far passare ⟨את⟩ il re attraverso ⟨את⟩ il Giordano.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e giunse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Giuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venne"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "a Ghilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "per andare"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "incontro a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "per far passare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:03.374237702Z",
+  "model": "glm-5.3"
+}

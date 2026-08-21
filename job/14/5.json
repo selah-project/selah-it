@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Se fissati sono i suoi giorni, stabilito con ⟨את⟩te il numero dei suoi mesi; un limite hai posto, e non passerà.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "fissati"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "i suoi giorni"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "il numero"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "dei suoi mesi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩te",
+      "marks": "con te (preposizione ע״ם, non il marcatore di oggetto)"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "un limite"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai posto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "passerà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:17:04.958757749Z",
+  "model": "glm-5.3"
+}

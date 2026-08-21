@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Hanno salvato ⟨את⟩-li, gli dèi delle nazioni che i miei padri distrussero: ⟨את⟩ Gozan e ⟨את⟩ Charan, e Retzef e i figli di Eden, che erano in Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "hanno salvato"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-li",
+      "marks": "li (le nazioni e i loro dèi)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gli dèi di"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "distrussero"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "i miei padri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "e Retzef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e i figli di"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "in Telassar"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:28.168062605Z",
+  "model": "glm-5.3"
+}

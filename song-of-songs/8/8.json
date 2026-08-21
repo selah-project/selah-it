@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Una sorella piccola abbiamo, e seni non ha; che faremo per la nostra sorella nel giorno in cui si parlerà di lei?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "una sorella"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "abbiamo"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "piccola"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "e seni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a lei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "faremo"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "per la nostra sorella"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "in cui si parlerà"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di lei"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:54.241967224Z",
+  "model": "glm-5.3"
+}

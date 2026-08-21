@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 129,
+  "translation": "E i passanti non dicono: « La benedizione di YHWH su di voi! Vi abbiamo benedetti ⟨אתכם⟩ nel nome di YHWH ».",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "i passanti"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "la benedizione di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "vi abbiamo benedetti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel nome di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:56.509900940Z",
+  "model": "glm-5.3"
+}

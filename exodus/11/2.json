@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Parla ora ⟨ti prego⟩ agli orecchi del popolo, e chieda ogni uomo ⟨da⟩את⟩ il suo prossimo, e ogni donna ⟨da⟩את⟩ la sua vicina, oggetti d'argento e oggetti d'oro.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "agli orecchi di"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "e chiedano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ogni uomo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨da⟩את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "e ogni donna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨da⟩את⟩",
+      "marks": "la sua vicina"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "la sua vicina"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "oggetti di"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "e oggetti di"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:23.238455905Z",
+  "model": "glm-5.3"
+}

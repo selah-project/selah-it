@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Cadrà un uccello sulla rete a terra, e un laccio ⟨non⟩ vi ⟨sia⟩ per esso? Salirà una rete dal suolo, e nulla ⟨aver⟩ catturato non catturerà?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "cadrà"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "un uccello"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פח",
+      "gloss": "una rete"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "e un laccio"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "לה",
+      "gloss": "per esso"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "salirà"
+    },
+    {
+      "surface": "פח",
+      "gloss": "una rete"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "suolo"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "e catturare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "catturerà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:51.041425005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Chi ⟨è⟩ questi, il Re della Gloria? YHWH, il forte e il potente, YHWH, potente in battaglia.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il Re"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "della Gloria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "il forte"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "e il potente"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "potente"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "in battaglia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:29.087771581Z",
+  "model": "glm-5.3"
+}

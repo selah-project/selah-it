@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E disse a Davide: più giusto ⟨sei⟩ tu di me, perché tu mi hai reso il bene e io ti ho reso il male.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "di me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "mi hai reso"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "ti ho reso"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "il male"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:39.287692110Z",
+  "model": "glm-5.3"
+}

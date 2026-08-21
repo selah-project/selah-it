@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E gli abitanti di Givon sentirono ⟨את⟩ ciò che Yehoshua aveva fatto a Yericho e ad Ai.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "e gli abitanti"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "di Givon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sentirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che Yehoshua aveva fatto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "a Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "e ad Ai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:52:42.685121676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Voce di giubilo e di salvezza nelle tende dei giusti: la destra di YHWH fa prodezze.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "di giubilo"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "e di salvezza"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "nelle tende"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la destra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "prodezze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:02.422470588Z",
+  "model": "glm-5.3"
+}

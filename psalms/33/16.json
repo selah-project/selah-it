@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Non ⟨v'è⟩ re salvato per la moltitudine dell'esercito, né il prode liberato per la grandezza della forza.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "è salvato"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "per la moltitudine"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dell'esercito"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "il prode"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "sarà liberato"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "per la grandezza"
+    },
+    {
+      "surface": "כח",
+      "gloss": "della forza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:31.641575178Z",
+  "model": "glm-5.3"
+}

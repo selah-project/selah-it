@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Sulle palme ti solleveranno, perché il tuo piede non urti contro ⟨la⟩ pietra.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "le palme"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ti solleveranno"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "urti"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "contro ⟨la⟩ pietra"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "il tuo piede"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.467185362Z",
+  "model": "glm-5.3"
+}

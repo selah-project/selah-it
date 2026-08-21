@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Dove ⟨sono⟩ i tuoi chesed di prima, Adonai, che giurasti a Davide nella tua fedeltà?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "dove"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "i tuoi chesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "di prima"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "giurasti"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "nella tua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:49.670520835Z",
+  "model": "glm-5.3"
+}

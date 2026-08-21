@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E si rallegrò tutto il popolo della terra, e la città fu quieta; e ⟨את⟩ Atalia essi misero a morte con la spada.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "E si rallegrò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "e la città"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "fu quieta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalia"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "essi misero a morte"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "con la spada"
+    }
+  ],
+  "timestamp": "2026-08-21T09:58:10.416159492Z",
+  "model": "glm-5.3"
+}

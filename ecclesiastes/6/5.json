@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Anche il sole non ha visto e non ha conosciuto ⟨nulla⟩; riposo ⟨ha⟩ questo più di quello.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ha visto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ha conosciuto"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "riposo"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "più di quello"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:29.707013244Z",
+  "model": "glm-5.3"
+}

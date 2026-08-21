@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Si rallegri tuo padre e tua madre, ed esulti colei che ti ha generato.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "si rallegri"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "e tua madre"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ed esulti"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "colei che ti ha generato"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:39.191030474Z",
+  "model": "glm-5.3"
+}

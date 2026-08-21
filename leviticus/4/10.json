@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "come si toglie dal toro del sacrificio degli shelamim; e il sacerdote li farà fumare sull'altare dell'olà (offerta di elevazione).",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "si toglie"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dal toro"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "del sacrificio"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "degli shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "li farà fumare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dell'olà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:21.789381743Z",
+  "model": "glm-5.3"
+}

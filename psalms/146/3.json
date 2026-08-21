@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "Non confidate nei nobili, in un figlio d'adam, che non ⟨ha⟩ in lui salvezza.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "confidate"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "nei nobili"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "in un figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'adam"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "che non ha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "in lui"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.899615233Z",
+  "model": "glm-5.3"
+}

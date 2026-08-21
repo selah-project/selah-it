@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Con tutto il mio cuore ti ho cercato; non farmi vagare lontano dai tuoi comandamenti.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ti ho cercato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "farmi vagare"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "dai tuoi comandamenti"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:37.666153296Z",
+  "model": "glm-5.3"
+}

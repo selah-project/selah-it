@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 16:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E disse: «Hagar, schiava di Sarai, da dove vieni e dove vai?» Ed ⟨ella⟩ disse: «Dalla presenza di Sarai, la mia padrona, io sto fuggendo».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "schiava"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "di Sarai"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dove"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "da qui"
+    },
+    {
+      "surface": "באת",
+      "gloss": "vieni"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "e dove"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dalla presenza"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "di Sarai"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "la mia padrona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "sto fuggendo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:39.965432222Z",
+  "model": "glm-5.3"
+}

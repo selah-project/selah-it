@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Anche esso ⟨את⟩ sarà portato ad Ashshur, tributo al re Yarev; vergogna raccoglierà Efrayim, e si vergognerà Israele del suo consiglio.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (il vitello-idolo di Beth-Aven)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ad Ashshur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "sarà portato"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tributo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "al re"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vergogna"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "raccoglierà"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "e si vergognerà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "del suo consiglio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:38.120288097Z",
+  "model": "glm-5.3"
+}

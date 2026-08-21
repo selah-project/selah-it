@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non allontanarti da me, poiché ⟨la⟩ stretta è vicina, poiché non ⟨c'è⟩ chi aiuti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "allontanarti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "stretta"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "è vicina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "chi aiuti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:57.166996674Z",
+  "model": "glm-5.3"
+}

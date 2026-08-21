@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Ti temano finché ⟨duri⟩ il sole, e davanti alla luna, generazione di generazioni.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Ti temano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "finché ⟨duri⟩"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e davanti a"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "alla luna"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generazione"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "di generazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:10.902313735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E queste ⟨sono⟩ le generazioni di Peretz: Peretz generò ⟨את⟩ Chetsron.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e queste"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "le generazioni"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "di Peretz"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chetsron"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:24.238526033Z",
+  "model": "glm-5.3"
+}

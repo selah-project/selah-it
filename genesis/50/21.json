@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E ora non temete: io vi nutrirò, ⟨את⟩ voi e ⟨את⟩ i vostri piccoli. E ⟨את⟩ li consolò e parlò al loro cuore.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "vi nutrirò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i vostri piccoli"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "i vostri piccoli"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "e li consolò"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "al loro cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:33.628058511Z",
+  "model": "glm-5.3"
+}

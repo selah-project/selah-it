@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Molti ⟨sono⟩ i dolori del malvagio; ma chi confida in YHWH, il chesed lo circonda.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Molti"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "i dolori"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "ma chi confida"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "il chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "lo circonda"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:28.531102355Z",
+  "model": "glm-5.3"
+}

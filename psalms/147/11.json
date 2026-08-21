@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "YHWH si compiace di ⟨את⟩ quelli che lo temono, di ⟨את⟩ quelli che sperano nel suo chesed.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "si compiace"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quelli che lo temono"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "quelli che lo temono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quelli che sperano nel suo chesed"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "quelli che sperano"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "nel suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:41.177019966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ha scannato la sua macellazione, ha mescolato il suo vino, anche ha apparecchiato la sua tavola.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ha scannato"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "la sua macellazione"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ha mescolato"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "il suo vino"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ha apparecchiato"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "la sua tavola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:21.733334272Z",
+  "model": "glm-5.3"
+}

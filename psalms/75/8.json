@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 75,
+  "translation": "Poiché Elohim ⟨è⟩ giudice: questo umilia, e quello innalza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "giudice"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "umilia"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "e quello"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "innalza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:46.761422888Z",
+  "model": "glm-5.3"
+}

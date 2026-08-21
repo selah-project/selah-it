@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 140,
+  "translation": "Certo, i giusti loderanno il tuo Nome; i retti siederanno davanti ⟨את⟩ al tuo volto.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "certo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "loderanno"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "il tuo Nome"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "siederanno"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "i retti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al tuo volto"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "al tuo volto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:32.538722563Z",
+  "model": "glm-5.3"
+}

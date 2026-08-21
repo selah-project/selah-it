@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 130,
+  "translation": "Ed egli riscatterà ⟨את⟩ Israele da tutte le sue iniquità.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ed egli"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "riscatterà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutte"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "le sue iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:57.792974584Z",
+  "model": "glm-5.3"
+}

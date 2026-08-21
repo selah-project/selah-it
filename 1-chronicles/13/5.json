@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E radunò Davide ⟨את⟩ tutto Israele, dal Shichor d'Egitto fino all'entrata di Chamat, per portare ⟨את⟩ l'arca dell'Elohim da Qiriat-Yearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "e radunò"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shichor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "all'entrata"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "di Chamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "per portare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca dell'Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "da Qiriat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Yearim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:10.373943137Z",
+  "model": "glm-5.3"
+}

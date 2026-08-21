@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E riconobbe Sha'ul ⟨את⟩ la voce di David, e disse: ⟨È⟩ questa la tua voce, figlio mio David? E David disse: La mia voce, Adonai il re.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "e riconobbe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voce di David"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "la tua voce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:36.540542987Z",
+  "model": "glm-5.3"
+}

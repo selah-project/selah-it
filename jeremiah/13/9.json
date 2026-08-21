@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Così disse YHWH: «Proprio così rovinerò ⟨את⟩ l'orgoglio di Giuda e ⟨את⟩ il grande orgoglio di Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Proprio così"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "rovinerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'orgoglio di Giuda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "l'orgoglio"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il grande orgoglio di Gerusalemme"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "l'orgoglio"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "il grande"
+    }
+  ],
+  "timestamp": "2026-08-21T08:02:50.879382871Z",
+  "model": "glm-5.3"
+}

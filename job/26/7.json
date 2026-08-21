@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Egli stende il settentrione sul vuoto, sospende la terra su ciò che non ⟨è⟩ nulla.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "stende"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "il settentrione"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "il vuoto"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "sospende"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ciò che non"
+    },
+    {
+      "surface": "מה",
+      "gloss": "è nulla"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:47.106099244Z",
+  "model": "glm-5.3"
+}

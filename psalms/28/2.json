@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Ascolta la voce delle mie suppliche, quando grido a te, quando levo le mie mani verso ⟨il⟩ devir del tuo santuario.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascolta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "delle mie suppliche"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "quando grido"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "quando levo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "le mie mani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "⟨il⟩ devir"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "del tuo santuario"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:26.415604019Z",
+  "model": "glm-5.3"
+}

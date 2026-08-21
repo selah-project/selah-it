@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ho guardato ⟨את⟩ la terra, ed ecco: tohu va-vohu; e verso i cieli, e non ⟨c'è⟩ la loro luce.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ho guardato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu (deserta)"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "va-vohu (e vuota)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e verso"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨c'è⟩"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "la loro luce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:00:18.778745594Z",
+  "model": "glm-5.3"
+}

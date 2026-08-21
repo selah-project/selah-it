@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Questi sono quelli che passarono ⟨את⟩ il Giordano nel primo mese, quando esso traboccava su tutte le sue rive, e misero in fuga ⟨את⟩ tutti ⟨quelli⟩ delle valli, a est e a ovest.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Questi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sono quelli che"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עברו",
+      "gloss": "passarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "nel mese"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "primo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "quando esso"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "traboccava"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "le sue rive"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "e misero in fuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti (quelli delle valli)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "delle valli"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "a est"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "e a ovest"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:51.077527450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "E prepareranno ⟨את⟩ l'agnello e ⟨את⟩ la minchah e ⟨את⟩ l'olio, mattina per mattino: olà perpetua.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "e prepareranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'agnello"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "l'agnello"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "la minchah (offerta vegetale)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'olio"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "olà (offerta di elevazione)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "perpetua"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:02.299126593Z",
+  "model": "glm-5.3"
+}

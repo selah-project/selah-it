@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "una coppa d'oro di dieci ⟨sicli⟩, piena di incenso.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "una coppa (kaf)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "piena"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "di incenso (qetoret)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:41.473732091Z",
+  "model": "glm-5.3"
+}

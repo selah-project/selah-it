@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E sarete santi per me, perché santo ⟨sono⟩ io, YHWH; e vi ho distinti ⟨את⟩ dai popoli, per essere per me.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "e sarete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "santi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "e ho distinto"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "vi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "per essere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:50.406953518Z",
+  "model": "glm-5.3"
+}

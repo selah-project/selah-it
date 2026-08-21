@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Colui che cammina integro, e opera giustizia, e parla verità nel suo cuore.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "cammina"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "integro"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "e opera"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e parla"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "verità"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "nel suo cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:02.619935961Z",
+  "model": "glm-5.3"
+}

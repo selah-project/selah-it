@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Voce di tumulto dalla città, voce dal tempio, voce di YHWH che rende la ricompensa ai suoi nemici.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Voce"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "di tumulto"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dalla città"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "dal tempio"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "che rende"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "la ricompensa"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "ai suoi nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:52.549324108Z",
+  "model": "glm-5.3"
+}

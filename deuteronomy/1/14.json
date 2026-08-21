@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E mi rispondeste ⟨את⟩ e diceste: buona ⟨סה⟩ la cosa che hai parlato da fare.",
+  "tokens": [
+    {
+      "surface": "וותענו",
+      "gloss": "e mi rispondeste"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi (l'oggetto: Mosè)"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "e diceste"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buona"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "hai parlato"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "da fare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:28.389035362Z",
+  "model": "glm-5.3"
+}

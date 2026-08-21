@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Fammi camminare nel sentiero dei tuoi comandamenti, perché in esso io ⟨ho⟩ dilettato.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "fammi camminare"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "nel sentiero"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dei tuoi comandamenti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in esso"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "io ⟨ho⟩ dilettato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:35.705140253Z",
+  "model": "glm-5.3"
+}

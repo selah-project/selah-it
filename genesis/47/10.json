@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E Jaakov benedisse ⟨את⟩ Faraone, e uscì dalla presenza di Faraone.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraone"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dalla presenza di"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:05.361471102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Va verso il sud e gira verso il nord; girando, girando va ⟨il vento⟩, e sui suoi giri torna il vento.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "va"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "il sud"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "e gira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "il nord"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "girando"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "girando"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "va"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "il vento"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "i suoi giri"
+    },
+    {
+      "surface": "שב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "il vento"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:39.230479768Z",
+  "model": "glm-5.3"
+}

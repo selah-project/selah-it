@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E radunò Iehu ⟨את⟩ tutto il popolo e disse loro: Aclav servì ⟨את⟩ il Baal un poco; Iehu lo servirà molto.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "E radunò"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il popolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aclav"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "il Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un poco"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "lo servirà"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:04.018254977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E disse loro il re d'Egitto: perché, Mosè e Aharon, sregolate ⟨את⟩ il popolo dai suoi lavori? Andate ai vostri carichi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "sregolate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "dai suoi lavori"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "andate"
+    },
+    {
+      "surface": "לסבללתיכם",
+      "gloss": "ai vostri carichi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:38.199572473Z",
+  "model": "glm-5.3"
+}

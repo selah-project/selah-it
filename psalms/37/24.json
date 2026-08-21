@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Se cade, non ⟨sarà⟩ abbattuto, perché YHWH lo sostiene con la sua mano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "cade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "⟨sarà⟩ abbattuto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "sostiene"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "con la sua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:27.930112480Z",
+  "model": "glm-5.3"
+}

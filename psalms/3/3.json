@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Molti dicono alla mia nefesh: « Non ⟨c'è⟩ salvezza per lui in Elohim ». Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "alla mia nefesh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "salvezza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:55.106503204Z",
+  "model": "glm-5.3"
+}

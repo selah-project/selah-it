@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E David convinse ⟨את⟩ i suoi uomini con parole e non permise loro di alzarsi contro Saul; e Saul si alzò dalla grotta e andò per la strada.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "E convinse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi uomini"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "i suoi uomini"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "con parole"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "permise loro"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "di alzarsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contro"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "e Saul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "si alzò"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "dalla grotta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la strada"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:11.050620500Z",
+  "model": "glm-5.3"
+}

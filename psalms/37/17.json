@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Poiché le braccia dei malvagi saranno spezzate, ma YHWH sostiene i giusti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "le braccia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "saranno spezzate"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ma sostiene"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:24.494080197Z",
+  "model": "glm-5.3"
+}

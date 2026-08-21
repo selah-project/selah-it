@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "Ho aperto ⟨le⟩ mie mani verso di te, la mia nefesh ⟨è⟩ come terra esausta — verso di te. Sela.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "ho aperto"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "le mie mani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "verso di te"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "come terra"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "esausta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "verso di te"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.529950165Z",
+  "model": "glm-5.3"
+}

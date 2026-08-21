@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Al rumore ⟨di⟩ l'orecchio mi ascoltano; i figli dello straniero mi si sottomettono con menzogna.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "al rumore"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "di l'orecchio"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mi ascoltano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "lo straniero"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "mi si sottomettono con menzogna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:16.370410743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Se temete YHWH ⟨את⟩ e lo servite ⟨את⟩ e ascoltate la sua voce e non ribellate ⟨את⟩ la bocca di YHWH, allora ⟨sarete⟩ sia voi sia il re che regna su di voi, dietro a YHWH vostro Elohim:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "e servite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (YHWH)"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "e ascoltate"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "la sua voce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "ribellate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bocca di YHWH"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "sarete"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e sia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regna"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:44.424517546Z",
+  "model": "glm-5.3"
+}

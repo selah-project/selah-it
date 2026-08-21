@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Il re stese a Ester ⟨את⟩ lo scettro d'oro; Ester si alzò e stette davanti al re.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "e stese"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "a Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo scettro d'oro"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "lo scettro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "e stette"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:17.470037246Z",
+  "model": "glm-5.3"
+}

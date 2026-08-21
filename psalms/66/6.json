@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Volse il mare in terra asciutta; per il fiume passarono a piedi; là gioimmo in lui.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Volse"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "in terra asciutta"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "per il fiume"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "passarono"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "a piedi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "gioimmo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:19.452807707Z",
+  "model": "glm-5.3"
+}

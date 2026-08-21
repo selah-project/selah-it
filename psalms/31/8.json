@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Esulterò e mi rallegrerò nel tuo chesed, perché hai visto ⟨את⟩ la mia miseria, hai conosciuto nelle angosce la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "esulterò"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "e mi rallegrerò"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "nel tuo chesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "hai visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia miseria"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "la mia miseria"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "hai conosciuto"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "nelle angosce"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:59.529804144Z",
+  "model": "glm-5.3"
+}

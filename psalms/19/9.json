@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "I precetti di YHWH ⟨sono⟩ retti, rallegrano il cuore; il comandamento di YHWH ⟨è⟩ puro, illumina gli occhi.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "i precetti di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "retti"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "rallegrano"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "il comandamento di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "puro"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "illumina"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gli occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:39.845237682Z",
+  "model": "glm-5.3"
+}

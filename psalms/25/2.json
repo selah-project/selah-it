@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Elohim mio, in te ho confidato: non sia io svergognato, non esultino i miei nemici su di me.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ho confidato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "sia io svergognato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "esultino"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "לי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:32.979725299Z",
+  "model": "glm-5.3"
+}

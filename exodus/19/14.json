@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E scese Mosè dal monte verso il popolo, e consacrò ⟨את⟩ il popolo, e lavarono le loro vesti.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "E scese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "monte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "e consacrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "e lavarono"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "le loro vesti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:52.766964311Z",
+  "model": "glm-5.3"
+}

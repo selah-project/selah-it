@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E disse Mosè ai giudici di Israele: Uccida ciascuno i suoi uomini, quelli che si sono uniti a Baal-Peor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "giudici"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "Uccida"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "i suoi uomini"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "quelli che si sono uniti"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "a Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Peor"
+    }
+  ],
+  "timestamp": "2026-08-21T06:34:21.290250991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Poiché con te ⟨è⟩ ⟨la⟩ fonte della vita; nella tua luce vedremo la luce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "fonte"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "della vita"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "nella tua luce"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "vedremo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la luce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:52.119923230Z",
+  "model": "glm-5.3"
+}

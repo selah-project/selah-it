@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Il suo toro copre e non fallisce ⟨nel desiderio⟩; la sua vacca partorisce e non abortisce.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "il suo toro"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "copre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "fallisce ⟨nel desiderio⟩"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "partorisce"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "la sua vacca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "abortisce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:49.593734558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E si alzò Ezra e fece giurare ⟨את⟩ i capi dei sacerdoti, i leviti e tutto Israele di fare secondo questa parola — e giurarono.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "e fece giurare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i capi dei sacerdoti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i capi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dei sacerdoti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "i leviti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo questa parola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "e giurarono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:39:54.867122442Z",
+  "model": "glm-5.3"
+}

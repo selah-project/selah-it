@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 27:15",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Perché io non li ho mandati — oracolo di YHWH — e loro profetizzano nel mio nome falsamente, per sviarvi ⟨אתכם⟩ e farvi perire, voi e i profeti che profetizzano a voi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "li ho mandati"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והם",
+      "gloss": "e loro"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profetizzano"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nel mio nome"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "falsamente"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "הדיחי",
+      "gloss": "sviarvi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vi"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "e farvi perire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "e i profeti"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "che profetizzano"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:06:54.749953647Z",
+  "model": "glm-5.3"
+}

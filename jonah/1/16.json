@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E gli uomini furono presi da un grande timore verso ⟨את⟩ YHWH, e offrirono un sacrificio a YHWH e fecero voti.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "e furono presi da timore"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "timore"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "e offrirono"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "un sacrificio"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "voti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:39.836774656Z",
+  "model": "glm-5.3"
+}

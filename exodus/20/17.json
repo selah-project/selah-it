@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Non desidererai la casa del tuo prossimo, non desidererai la moglie del tuo prossimo, né il suo servo, né la sua serva, né il suo bue, né il suo asino, né nulla di ciò che ⟨appartiene⟩ al tuo prossimo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "desidererai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "del tuo prossimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "desidererai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la moglie"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "del tuo prossimo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "né il suo servo"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "né la sua serva"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "né il suo bue"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "né il suo asino"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "né nulla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di ciò che"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "⟨appartiene⟩ al tuo prossimo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:25.990434642Z",
+  "model": "glm-5.3"
+}

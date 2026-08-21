@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Fino a quando porrò consigli nella mia nefesh, dolore nel mio cuore, ogni giorno? Fino a quando si leverà alto il mio nemico su di me?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "quando"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "porrò"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "consigli"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "nella mia nefesh"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "dolore"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "nel mio cuore"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ogni giorno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "si leverà alto"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "il mio nemico"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:48.270301995Z",
+  "model": "glm-5.3"
+}

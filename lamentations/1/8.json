@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 1:8",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Peccato ha peccato Gerusalemme, per questo è diventata come ⟨l'⟩impura; tutti i suoi onoratori l'hanno disprezzata, perché hanno visto la sua nudità; anche lei ha sospirato ed è tornata indietro.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "peccato"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ha peccato"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "לנידה",
+      "gloss": "come ⟨l'⟩impura"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "è diventata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מכבדיה",
+      "gloss": "i suoi onoratori"
+    },
+    {
+      "surface": "הזילוה",
+      "gloss": "l'hanno disprezzata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hanno visto"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "la sua nudità"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "ha sospirato"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ed è tornata"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "indietro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:20.651898512Z",
+  "model": "glm-5.3"
+}

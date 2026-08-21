@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "La destra di YHWH ⟨è⟩ esaltata, la destra di YHWH fa prodezze.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "la destra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "esaltata"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la destra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "prodezze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:02.422595272Z",
+  "model": "glm-5.3"
+}

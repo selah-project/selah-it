@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Questi ⟨sono⟩ i nomi degli uomini che Mosè mandò a esplorare ⟨את⟩ la terra; e Mosè chiamò Hoshea figlio di Nun, Yehoshua.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "i nomi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "degli uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "a esplorare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נון",
+      "gloss": "di Nun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:25.817736605Z",
+  "model": "glm-5.3"
+}

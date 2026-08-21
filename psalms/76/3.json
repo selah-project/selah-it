@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "E fu in Salem il suo riparo, e la sua dimora in Sion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "in Salem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "il suo riparo"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "e la sua dimora"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Sion"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:01.145680277Z",
+  "model": "glm-5.3"
+}

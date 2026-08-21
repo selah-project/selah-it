@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "E ora non voi mi avete mandato ⟨את⟩ qui, ma ⟨è stato⟩ Elohim: mi ha posto come padre per Faraone e come signore di tutta la sua casa, e come governatore in tutta la terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "avete mandato"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi (Giuseppe)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "mi ha posto"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "come padre"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "per Faraone"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "e come signore"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "di tutta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "e come governatore"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:18.881534381Z",
+  "model": "glm-5.3"
+}

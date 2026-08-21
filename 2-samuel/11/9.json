@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Uria si coricò all'ingresso della casa del re, con ⟨את⟩ tutti i servi del suo signore, e non scese a casa sua.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "e si coricò"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i servi del suo signore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "del suo signore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa sua"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:16.164064682Z",
+  "model": "glm-5.3"
+}

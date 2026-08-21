@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 33:14",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Ecco, giorni vengono, oracolo di YHWH, e io realizzerò ⟨את⟩ la parola buona che ho parlato alla casa di Yisra'el e riguardo alla casa di Yehudah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "באים",
+      "gloss": "vengono"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "e io realizzerò (farò sorgere)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parola buona"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "buona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "alla casa di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e riguardo a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "alla casa di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:09:00.908813924Z",
+  "model": "glm-5.3"
+}

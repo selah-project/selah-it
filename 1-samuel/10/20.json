@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E fece avvicinare Shemuèl ⟨את⟩ tutte le tribù di Israele, e fu presa la tribù di Biniamin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "e fece avvicinare"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le tribù di Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "le tribù"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "e fu presa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "la tribù"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "di Biniamin"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:45.277371054Z",
+  "model": "glm-5.3"
+}

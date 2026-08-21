@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Ma se il servo dice proprio così: «Ho amato il mio signore, mia moglie e i miei figli; non uscirò libero»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dire"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dirà"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "il servo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ho amato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio signore"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "il mio signore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mia moglie"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mia moglie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i miei figli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i miei figli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "uscirò"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "libero"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:33.216373759Z",
+  "model": "glm-5.3"
+}

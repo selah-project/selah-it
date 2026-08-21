@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "« Vattene da qui, volgiti verso est e nasconditi al torrente Kerit, che ⟨si trova⟩ davanti al Giordano.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "vattene"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "da qui"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "e volgiti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "verso est"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "e nasconditi"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "al torrente"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "al cospetto di"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:51.468937152Z",
+  "model": "glm-5.3"
+}

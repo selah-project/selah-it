@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Athaliah, madre di Acazia, vide che suo figlio era morto, e si alzò e distrusse ⟨את⟩ tutta la stirpe del regno.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "e Athaliah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "madre"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "di Acazia"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "מת",
+      "gloss": "era morto"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "e distrusse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la stirpe del regno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "la stirpe"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "del regno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:59.329550736Z",
+  "model": "glm-5.3"
+}

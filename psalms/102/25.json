@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Ho detto: El mio, non farmi salire a metà dei miei giorni; ⟨i⟩ tuoi anni ⟨durano⟩ per generazione di generazioni.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ho detto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El mio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "farmi salire"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "a metà"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dei miei giorni"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "per generazione"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "di generazioni"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "i tuoi anni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:31.442660119Z",
+  "model": "glm-5.3"
+}

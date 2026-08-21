@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 30:23",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "per l'odiata quando si marita, e per la schiava quando eredita ⟨il posto di⟩ la sua padrona.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "l'odiata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תבעל",
+      "gloss": "si marita"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "e per la schiava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "eredita"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "la sua padrona"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:44.143559090Z",
+  "model": "glm-5.3"
+}

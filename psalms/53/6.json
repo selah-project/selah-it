@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "Là hanno temuto terrore — e non c'era terrore — perché Elohim ha disperso le ossa di chi accampa contro di te; li hai coperti di vergogna, perché Elohim li ha respinti.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Là"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "hanno temuto"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "terrore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "היה",
+      "gloss": "c'era"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "terrore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "ha disperso"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "le ossa"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "di chi accampa contro di te"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "li hai coperti di vergogna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "li ha respinti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:50.642654074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Perché non ricordò di fare chesed, ma perseguì l'uomo povero e bisognoso, e lo stroncato di cuore, per mettere a morte.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ricordò"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ma perseguì"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "povero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e bisognoso"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "e lo stroncato"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "di cuore"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "per mettere a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:07.847179295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 133,
+  "translation": "Come la rugiada del Chermon, che scende sui monti di Tzion, perché là YHWH ha comandato ⟨את⟩ la benedizione: la vita, fino all'eterno.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Come la rugiada"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "del Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "che scende"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la benedizione"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "la benedizione"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la vita"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "all'eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:03.102722297Z",
+  "model": "glm-5.3"
+}

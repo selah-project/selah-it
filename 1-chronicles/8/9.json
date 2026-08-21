@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E generò da Chodesh, sua moglie, ⟨את⟩ Iobav e ⟨את⟩ Tsivjà e ⟨את⟩ Meishà e ⟨את⟩ Malkàm.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iobav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Iobav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tsivjà"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivjà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Meishà"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meishà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Malkàm"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkàm"
+    }
+  ],
+  "timestamp": "2026-08-21T09:47:00.025856246Z",
+  "model": "glm-5.3"
+}

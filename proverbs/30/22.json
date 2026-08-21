@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "per lo ⟨il⟩ servo quando regna, e per il perfetto-insensato quando si sazia di pane —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "per"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "il servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "regna"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "e il perfetto-insensato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "si sazia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "di pane"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:44.143426410Z",
+  "model": "glm-5.3"
+}

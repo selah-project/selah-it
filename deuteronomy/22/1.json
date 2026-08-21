@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non vedrai ⟨את⟩ il bue del tuo fratello o ⟨את⟩ il suo piccolo del gregge smarriti, e ti nasconderai da loro: restituendo li restituirai al tuo fratello.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vedrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bue del tuo fratello"
+    },
+    {
+      "surface": "שור",
+      "gloss": "il bue"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "del tuo fratello"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo piccolo del gregge"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "il suo piccolo del gregge"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "smarriti"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "e ti nasconderai"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "da loro"
+    },
+    {
+      "surface": "השב",
+      "gloss": "restituendo"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "li restituirai"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "al tuo fratello"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:36.359659716Z",
+  "model": "glm-5.3"
+}

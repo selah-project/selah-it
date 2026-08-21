@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E avvenne, alla fine di vent'anni, che Shelomoh aveva costruito ⟨את⟩ i due edifici: ⟨את⟩ la casa di YHWH e ⟨את⟩ la casa del re.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "alla fine"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aveva costruito"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i due edifici"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i due"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "edifici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la casa del re"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:28.196063249Z",
+  "model": "glm-5.3"
+}

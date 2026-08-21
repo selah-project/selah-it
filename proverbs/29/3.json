@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Un uomo che ama la sapienza rallegra suo padre; ma chi pascola prostitute sperpera ⟨il⟩ patrimonio.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "che ama"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "rallegra"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ma chi pascola"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "prostitute"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "sperpera"
+    },
+    {
+      "surface": "הון",
+      "gloss": "patrimonio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:44.097715184Z",
+  "model": "glm-5.3"
+}

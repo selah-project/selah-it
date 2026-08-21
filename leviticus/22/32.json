@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E non profanerete ⟨את⟩ il mio santo nome; io sarò santificato in mezzo ai figli d'Israele: io ⟨sono⟩ YHWH, che vi santifico.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "profanerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio santo nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nome"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "il mio santo"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "io sarò santificato"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "che vi santifico"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:10.829077477Z",
+  "model": "glm-5.3"
+}

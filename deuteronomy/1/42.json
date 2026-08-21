@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse YHWH a me: «Di' loro: Non salite e non combattete, perché io non sono in mezzo a voi, e non siate sconfitti davanti ai vostri nemici».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Di'"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "salite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "combattete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "io non sono"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in mezzo a voi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "siate sconfitti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "i vostri nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:09.465388260Z",
+  "model": "glm-5.3"
+}

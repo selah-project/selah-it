@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Il mio occhio langue per l'afflizione: a te grido, YHWH, ogni giorno, a te stendo le mie palme.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "langue"
+    },
+    {
+      "surface": "מני",
+      "gloss": "per"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'afflizione"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "a te grido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "stendo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "le mie palme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:17.872231714Z",
+  "model": "glm-5.3"
+}

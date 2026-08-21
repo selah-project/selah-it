@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ciò che ⟨è⟩ stato, già ⟨esso è⟩; e ciò che dev'essere, già è stato; e l'Elohim ricerca ⟨את⟩ ciò che è perseguitato.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "è stato"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "già"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso è"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ciò che"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "dev'essere"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "già"
+    },
+    {
+      "surface": "היה",
+      "gloss": "è stato"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "e l'Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ricerca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che è perseguitato"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ciò che è perseguitato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:14.865442300Z",
+  "model": "glm-5.3"
+}

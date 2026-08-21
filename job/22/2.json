@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "«È forse per ⟨il⟩ profitto di El che un uomo giova? Che un sapiente giova a lui stesso?»",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "forse per El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "giova"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "giova"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "a lui stesso"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un sapiente"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:34.231984862Z",
+  "model": "glm-5.3"
+}

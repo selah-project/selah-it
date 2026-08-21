@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "YHWH, ascolta la mia preghiera, e il mio grido giunga a te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "e il mio grido"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "giunga"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:41.940180152Z",
+  "model": "glm-5.3"
+}

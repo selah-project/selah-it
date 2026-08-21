@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E i due erano nudi, l'umano e sua moglie, e non provavano vergogna.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "E erano"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "entrambi"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "nudi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e sua moglie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "provavano vergogna"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:09.717179016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 127,
+  "translation": "Come frecce in mano al prode, così i figli della giovinezza.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Come frecce"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "al prode"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "della giovinezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:22.977518669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 128,
+  "translation": "La fatica delle tue mani tu mangerai: beato tu, e ⟨ti va⟩ bene.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "La fatica"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "delle tue mani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu mangerai"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "beato tu"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "e bene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:13.506880670Z",
+  "model": "glm-5.3"
+}

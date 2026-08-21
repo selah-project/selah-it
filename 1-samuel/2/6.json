@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "YHWH fa morire e fa vivere, fa scendere allo Sheol e fa salire.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "fa morire"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "e fa vivere"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "fa scendere"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "allo Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e fa salire"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:02.539458696Z",
+  "model": "glm-5.3"
+}

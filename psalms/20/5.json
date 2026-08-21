@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Ti dia secondo il tuo cuore, e tutto il tuo consiglio adempia.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "secondo il tuo cuore"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "il tuo consiglio"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "adempia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:43.819260548Z",
+  "model": "glm-5.3"
+}

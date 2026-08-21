@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E quelli che sperano in YHWH rinnoveranno ⟨la loro⟩ forza; saliranno con ali come aquile, correranno e non si stancheranno, cammineranno e non verranno meno.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "e quelli che sperano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "rinnoveranno"
+    },
+    {
+      "surface": "כח",
+      "gloss": "forza"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "saliranno"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "con ali"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "come aquile"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "correranno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "si stancheranno"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "cammineranno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "verranno meno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:59.882241897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "All'udito dell'orecchio ⟨avevo⟩ udito ⟨di⟩ te, ma ora ⟨il⟩ mio occhio ti ha visto.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "all'udito"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dell'orecchio"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "avevo udito ⟨di⟩ te"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ma ora"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "ti ha visto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:45.490760546Z",
+  "model": "glm-5.3"
+}

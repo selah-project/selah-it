@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Poiché il giudizio tornerà ⟨alla⟩ giustizia, e dopo di esso ⟨saranno⟩ tutti i retti di cuore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tornerà"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "e dopo di esso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "i retti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:20.805900873Z",
+  "model": "glm-5.3"
+}

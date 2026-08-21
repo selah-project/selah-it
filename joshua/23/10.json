@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Un uomo solo di voi ne insegue mille, perché YHWH, il vostro Elohim, ⟨è⟩ colui che combatte per voi, come vi ha parlato.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "di voi"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "insegue"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "colui che"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "combatte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:07.923010567Z",
+  "model": "glm-5.3"
+}

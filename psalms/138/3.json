@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 138,
+  "translation": "Nel giorno in cui chiamavo, tu mi hai risposto; mi hai reso ardito nella mia nefesh, con forza.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nel giorno"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "in cui chiamavo"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "tu mi hai risposto"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "mi hai reso ardito"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "nella mia nefesh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "con forza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:07.237711127Z",
+  "model": "glm-5.3"
+}

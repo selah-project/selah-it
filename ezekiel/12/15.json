@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "e sapranno che io ⟨sono⟩ YHWH, quando li disperderò ⟨את⟩ fra le nazioni e li seminerò ⟨את⟩ nelle terre.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "e sapranno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "quando li disperderò"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "fra le nazioni"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra le nazioni"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "e li seminerò"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ loro",
+      "marks": "nelle terre"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "nelle terre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:18:52.858960513Z",
+  "model": "glm-5.3"
+}

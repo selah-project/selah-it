@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E disse al re: « Vero ⟨era⟩ il discorso che ho udito nella mia terra sulle tue parole e sulla tua sapienza ».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "vero"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "il discorso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ho udito"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "nella mia terra"
+    },
+    {
+      "surface": "על",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tue parole"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sulla"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tua sapienza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:48.327875242Z",
+  "model": "glm-5.3"
+}

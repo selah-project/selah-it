@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Poiché che più ⟨ha⟩ il saggio rispetto allo stolto? che ⟨ha⟩ il povero, che sa camminare davanti ai viventi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "più"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "il saggio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rispetto allo"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "stolto"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "camminare"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ai viventi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:29.707557031Z",
+  "model": "glm-5.3"
+}

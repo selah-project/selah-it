@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E il Libano non basta per ⟨il⟩ fuoco, e i suoi animali non bastano per l'olà.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "e il Libano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "די",
+      "gloss": "basta"
+    },
+    {
+      "surface": "בער",
+      "gloss": "per bruciare"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "e i suoi animali"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "די",
+      "gloss": "basta"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "per l'olà"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:06.939207747Z",
+  "model": "glm-5.3"
+}

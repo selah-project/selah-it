@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Guai a coloro che dicono al male: « bene », e al bene: « male »; che mettono le tenebre al posto della luce e la luce al posto delle tenebre, che mettono l'amaro al posto del dolce e il dolce al posto dell'amaro.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Guai"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "a coloro che dicono"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "al male"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "« bene »"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "e al bene"
+    },
+    {
+      "surface": "רע",
+      "gloss": "« male »"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "che mettono"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "le tenebre"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "al posto della luce"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "e la luce"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "al posto delle tenebre"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "che mettono"
+    },
+    {
+      "surface": "מר",
+      "gloss": "l'amaro"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "al posto del dolce"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "e il dolce"
+    },
+    {
+      "surface": "למר",
+      "gloss": "al posto dell'amaro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:08.922289198Z",
+  "model": "glm-5.3"
+}

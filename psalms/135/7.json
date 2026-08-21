@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Fa salire le nubi dall'estremità della terra, fa i lampi per la pioggia, trae il vento dai suoi tesori.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "fa salire"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "le nubi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dall'estremità"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "i lampi"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "per la pioggia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "trae"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il vento"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "dai suoi tesori"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:16.572269573Z",
+  "model": "glm-5.3"
+}

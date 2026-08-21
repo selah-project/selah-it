@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E nell'estinguerti coprirò i cieli e oscurerò ⟨את⟩ le loro stelle; il sole coprirò di nube, e la luna non farà brillare la sua luce.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "e coprirò"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "nell'estinguerti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "e oscurerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro stelle"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "le loro stelle"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "di nube"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "coprirò"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "e la luna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "farà brillare"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "la sua luce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:25:18.523511445Z",
+  "model": "glm-5.3"
+}

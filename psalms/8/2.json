@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "YHWH, Adonai nostro, quanto maestoso ⟨è⟩ il tuo Nome in tutta la terra, tu che hai posto la tua maestà sopra i cieli.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai nostro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "maestoso"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tu che"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "hai posto"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "la tua maestà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:45.915098400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ruggirà forse un leone nella foresta, se non ha preda? Farà udire la sua voce il leoncello dalla sua tana, se non ha catturato qualcosa?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Ruggirà forse"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "un leone"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "nella foreststa"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "e preda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "[a lui]"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Farà udire"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "il leoncello"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "la sua voce"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "dalla sua tana"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "se non"
+    },
+    {
+      "surface": "אם",
+      "gloss": "[quando]"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ha catturato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:10.244799985Z",
+  "model": "glm-5.3"
+}

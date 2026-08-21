@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "YHWH, nella tua forza gioisce il re, e nella tua salvezza quanto esulta!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "nella tua forza"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gioisce"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "e nella tua salvezza"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "esulta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(di molto)"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:46.876274649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "La mia pelle è annerita su di me, e le mie ossa arse ⟨bruciano⟩ per ⟨il⟩ calore arsura.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "la mia pelle"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "è annerita"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "e le mie ossa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "arse"
+    },
+    {
+      "surface": "מני",
+      "gloss": "per"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "arsura"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:17.380479813Z",
+  "model": "glm-5.3"
+}

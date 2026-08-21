@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "ecco, la mano di YHWH sarà sul tuo bestiame che ⟨è⟩ nel campo: sui cavalli, sugli asini, sui cammelli, sui buoi e sulle pecore — peste gravissima.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "sul tuo bestiame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sui cavalli"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "sugli asini"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "sui cammelli"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sui buoi"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "e sulle pecore"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "gravissima"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:44.717520631Z",
+  "model": "glm-5.3"
+}

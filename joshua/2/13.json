@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e conserverete in vita ⟨את⟩ mio padre e ⟨את⟩ mia madre e ⟨את⟩ i miei fratelli e ⟨את⟩ le mie sorelle e ⟨את⟩ tutto ciò che è loro, e salverete ⟨את⟩ le nostre vite dalla morte.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "e conserverete in vita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mio padre"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mia madre"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mia madre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i miei fratelli"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "i miei fratelli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le mie sorelle"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "le mie sorelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto ciò che è loro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "להם",
+      "gloss": "è loro"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "e salverete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nostre vite"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "le nostre vite"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dalla morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:12.581160515Z",
+  "model": "glm-5.3"
+}

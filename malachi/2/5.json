@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Il mio patto fu con lui ⟨את⟩: ⟨la⟩ vita e ⟨lo⟩ shalom; e li diedi a lui: timore — ed egli mi temette, e davanti al mio Nome si prostrò, egli.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "la vita"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "e lo shalom"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "e li diedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "timore"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "ed egli mi temette"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e davanti a"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio Nome"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "si prostrò"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:33.467919644Z",
+  "model": "glm-5.3"
+}

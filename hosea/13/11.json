@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Ti ho dato un re nella mia ira, e l'ho tolto nel mio furore.",
+  "tokens": [
+    {
+      "surface": "אֶֽתֶּן",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "לְךָ֥",
+      "gloss": "a te"
+    },
+    {
+      "surface": "מֶ֨לֶךְ֙",
+      "gloss": "un re"
+    },
+    {
+      "surface": "בְּאַפִּ֔י",
+      "gloss": "nella mia ira"
+    },
+    {
+      "surface": "וְאֶקַּ֖ח",
+      "gloss": "e l'ho tolto"
+    },
+    {
+      "surface": "בְּעֶבְרָתִֽי",
+      "gloss": "nel mio furore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:28.562385089Z",
+  "model": "glm-5.3"
+}

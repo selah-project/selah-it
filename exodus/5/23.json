@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E da quando sono venuto da Parò per parlare nel tuo Nome, ⟨egli⟩ ha fatto male a questo popolo, e quanto al liberare — non hai liberato ⟨את⟩ il tuo popolo.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "e da quando"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "sono venuto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parò"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "per parlare"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nel tuo Nome"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ha fatto male"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a ⟨il⟩ popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "e quanto al liberare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "hai liberato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo popolo (עמך)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:00.114205094Z",
+  "model": "glm-5.3"
+}

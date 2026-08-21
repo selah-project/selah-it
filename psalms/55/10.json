@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Divora, Adonai, dividi la loro lingua, perché ho visto violenza e contesa nella città.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "divora"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "dividi"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "la loro lingua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violenza"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "e contesa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:56.241399244Z",
+  "model": "glm-5.3"
+}

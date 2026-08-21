@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Colui che siede nei cieli ride, Adonai si fa beffe di loro.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "colui che siede"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ride"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "si fa beffe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:10.895464264Z",
+  "model": "glm-5.3"
+}

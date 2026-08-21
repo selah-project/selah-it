@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 98,
+  "translation": "Suonate per YHWH con ⟨la⟩ cetra, con ⟨la⟩ cetra e ⟨con⟩ voce di canto.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "suonate (il canto)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "con ⟨la⟩ cetra"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "con ⟨la⟩ cetra"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e ⟨con⟩ voce"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "di canto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:05.569122608Z",
+  "model": "glm-5.3"
+}

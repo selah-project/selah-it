@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Poiché tu, Adonai, sei buono e perdoni, e grande ⟨è⟩ il chesed per tutti quelli che ti invocano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "e perdoni"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e grande"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "quelli che ti invocano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:54.223193634Z",
+  "model": "glm-5.3"
+}

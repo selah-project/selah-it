@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E Davide sentì nel deserto che Naval tosava ⟨את⟩ il suo gregge.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e sentì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "tosava"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo gregge (צאנו)"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "il suo gregge"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:38.584578131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E alla fine di giorni il torrente si inaridì, perché non c'era stata pioggia sulla ⟨terra⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "alla fine"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di giorni"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "e si inaridì"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "il torrente"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "היה",
+      "gloss": "c'era stata"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "pioggia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:58.007204589Z",
+  "model": "glm-5.3"
+}

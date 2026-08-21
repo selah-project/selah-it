@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Io dichiarerò la tua giustizia e ⟨את⟩ le tue opere, e non ti gioveranno.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "dichiarerò"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le tue opere"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "le tue opere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ti gioveranno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:09.267532332Z",
+  "model": "glm-5.3"
+}

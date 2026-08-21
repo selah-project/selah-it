@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Tagli via, YHWH, tutte le labbra liscie, la lingua che parla cose grandi.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "tagli via"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "le labbra"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "liscie"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "la lingua"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "che parla"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "cose grandi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:58.772958922Z",
+  "model": "glm-5.3"
+}

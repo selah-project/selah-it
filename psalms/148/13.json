@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "Lodino ⟨il⟩ nome ⟨di⟩ YHWH, perché il suo nome solo ⟨è⟩ sublime; ⟨il⟩ suo splendore ⟨è⟩ sopra la terra e ⟨i⟩ cieli.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Lodino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "sublime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "solo"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "il suo splendore"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "e i cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:38.021887669Z",
+  "model": "glm-5.3"
+}

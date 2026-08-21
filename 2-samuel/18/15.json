@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E si voltarono dieci giovani, portatori delle armi di Ioab, e colpirono ⟨את⟩ Assalonne e lo misero a morte.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "E si voltarono"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "giovani"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "portatori"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "delle armi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "di Ioab"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assalonne"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Assalonne"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "e lo misero a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:46.706383262Z",
+  "model": "glm-5.3"
+}

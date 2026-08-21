@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E se ⟨è⟩ trovato, restituirà sette volte: darà tutto il patrimonio della ⟨sua⟩ casa.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "e se trovato"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "restituirà"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sette volte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto (il patrimonio)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "הון",
+      "gloss": "il patrimonio"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "della sua casa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "darà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:08.152853516Z",
+  "model": "glm-5.3"
+}

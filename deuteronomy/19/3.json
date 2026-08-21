@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "preparerai per te la strada e dividerai in tre parti ⟨את⟩ il confine della tua terra che YHWH tuo Elohim ti fa ereditare, e sarà perché vi fugga là ogni omicida.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "preparerai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "la strada"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "e dividerai in tre parti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il confine della tua terra"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "il confine"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "della tua terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "ti fa ereditare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "per fuggire"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "omicida"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:29.285480051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Nel luogo santissimo lo mangerai; ogni maschio lo mangerà ⟨את⟩ — santo sarà per te.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "nel luogo santo"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "santissimo (dei santi)"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "lo mangerai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (il cibo santissimo)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:02.878742576Z",
+  "model": "glm-5.3"
+}

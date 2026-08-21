@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E vedrete ⟨את⟩ la terra, com'⟨è⟩, e ⟨את⟩ il popolo che vi dimora: ⟨è⟩ forte o debole? ⟨è⟩ poco o numeroso?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "e vedrete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "com'"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "che dimora"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "vi"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "forte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "debole"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "poco"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨è⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "רב",
+      "gloss": "numeroso"
+    }
+  ],
+  "timestamp": "2026-08-21T06:29:12.118703850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E Mosè prese ⟨את⟩ il sangue e asperse sul popolo, e disse: ecco il sangue del patto che YHWH ha tagliato con voi su tutte queste parole.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "E prese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sangue"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "e asperse"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "דם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "del patto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ha tagliato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con voi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "queste"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:02.158226771Z",
+  "model": "glm-5.3"
+}

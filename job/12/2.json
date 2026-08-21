@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Davvero, voi ⟨siete⟩ il popolo, e con voi morirà la sapienza!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Davvero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨siete⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "e con voi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "morirà"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sapienza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:43.540458576Z",
+  "model": "glm-5.3"
+}

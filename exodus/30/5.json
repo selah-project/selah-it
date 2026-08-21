@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E farai ⟨את⟩ le stanghe di legno di acacia, e ⟨את⟩ le rivestirai d'oro.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le stanghe"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "le stanghe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "di legno"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "di acacia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "e rivestirai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le (stanghe)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:02.000502115Z",
+  "model": "glm-5.3"
+}

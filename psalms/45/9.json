@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Mirra, aloe e cassia — tutte le tue vesti; da palazzi d'avorio strumenti a corda ti hanno rallegrato.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mirra"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "e aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "cassia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "le tue vesti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "palazzi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "d'avorio"
+    },
+    {
+      "surface": "מני",
+      "gloss": "strumenti a corda"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "ti hanno rallegrato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:32.161860716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E afferrò ⟨את⟩ Agag re di Amalek, vivo; e ⟨את⟩ tutto il popolo votò allo sterminio al filo della spada.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "e afferrò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag re di Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto il popolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "votò allo sterminio"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo di"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "spada"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:12.934948726Z",
+  "model": "glm-5.3"
+}

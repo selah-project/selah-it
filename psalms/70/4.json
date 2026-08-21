@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 70,
+  "translation": "Tornino indietro per ⟨il castigo di⟩ ⟨la loro⟩ vergogna quelli che dicono: «Aha! Aha!»",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "tornino indietro"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "il castigo di"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "la loro vergogna"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "quelli che dicono"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:31.477701396Z",
+  "model": "glm-5.3"
+}

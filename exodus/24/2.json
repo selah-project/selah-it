@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E si accosterà Mosè, lui solo, a YHWH; ma essi non si accosteranno, e il popolo non salirà con lui.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "e si accosterà"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lui solo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ma essi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "si accosteranno"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "e il popolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "salirà"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:04.946436446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E migliore di entrambi ⟨è⟩ ⟨את⟩ colui che non è ancora stato, che non ha visto ⟨את⟩ l'opera cattiva che si fa sotto il sole.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "E migliore"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "di entrambi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "colui che non è ancora stato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "colui che"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "היה",
+      "gloss": "è stato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ha visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'opera cattiva"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "cattiva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "si fa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:40.118184509Z",
+  "model": "glm-5.3"
+}

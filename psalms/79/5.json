@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Fino a quando, YHWH? Ti adirerai per sempre? Arderà come fuoco la tua gelosia?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Fino a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Ti adirerai"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "Arderà"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "la tua gelosia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:07.197479218Z",
+  "model": "glm-5.3"
+}

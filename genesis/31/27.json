@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 31:27",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Perché ti sei nascosto per fuggire, e mi hai ingannato, e non mi hai riferito — e io ti avrei mandato via con gioia e con canti, con timpano e con cetra?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נחבאת",
+      "gloss": "ti sei nascosto"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "per fuggire"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "mi hai ingannato"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ me",
+      "marks": "mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "hai riferito"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "e io ti avrei mandato via"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "con gioia"
+    },
+    {
+      "surface": "ובשרים",
+      "gloss": "e con canti"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "con timpano"
+    },
+    {
+      "surface": "ובכנור",
+      "gloss": "e con cetra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:10.080741964Z",
+  "model": "glm-5.3"
+}

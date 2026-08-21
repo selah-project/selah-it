@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Vi prenderò ⟨את⟩ dalle nazioni, vi raccoglierò ⟨את⟩ da tutte le terre e vi condurrò ⟨את⟩ verso il vostro suolo.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "vi prenderò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (dalle nazioni)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "vi raccoglierò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (da tutte le terre)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutte"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "le terre"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "e vi condurrò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (verso il vostro suolo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "il vostro suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:27:08.354435829Z",
+  "model": "glm-5.3"
+}

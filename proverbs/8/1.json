@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Non ⟨forse⟩ chiama ⟨forse⟩ la Chokhmà, e la comprensione dà la sua voce?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Non ⟨forse⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la Chokhmà"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "chiama ⟨forse⟩"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "e la comprensione"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "la sua voce"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:13.483821657Z",
+  "model": "glm-5.3"
+}

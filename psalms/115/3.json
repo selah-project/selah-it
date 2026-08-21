@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "Il nostro Elohim ⟨è⟩ nei cieli; tutto ciò che vuole, ⟨l'⟩ha fatto.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "e il nostro Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vuole"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:26.131059428Z",
+  "model": "glm-5.3"
+}

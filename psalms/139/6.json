@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "⟨È⟩ troppo meravigliosa per me ⟨questa⟩ conoscenza; ⟨è⟩ innalzata, non posso ⟨arrivarla⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "troppo meravigliosa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "conoscenza"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "per me"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "⟨è⟩ innalzata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "posso"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨arrivarla⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:59.026617994Z",
+  "model": "glm-5.3"
+}

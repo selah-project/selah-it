@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "A me gridano: «Elohim mio, ti abbiamo conosciuto, Israele!»",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "gridano"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "ti abbiamo conosciuto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:55.847631951Z",
+  "model": "glm-5.3"
+}

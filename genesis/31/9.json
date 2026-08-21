@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Così Elohim ha tolto ⟨את⟩ il bestiame di vostro padre e lo ha dato a me.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "così ha tolto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bestiame di vostro padre"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "di vostro padre"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e ha dato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:23.839384114Z",
+  "model": "glm-5.3"
+}

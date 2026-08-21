@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E gridarono i figli di Israel a YHWH, dicendo: abbiamo peccato verso di te, perché abbiamo abbandonato ⟨את⟩ Elohim nostro e abbiamo servito ⟨את⟩ i Baalim.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "e gridarono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "abbiamo peccato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "verso di te"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "abbiamo abbandonato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim nostro"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nostro"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "e abbiamo servito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "i Baalim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:32.906642486Z",
+  "model": "glm-5.3"
+}

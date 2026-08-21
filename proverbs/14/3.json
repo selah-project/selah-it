@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Nella bocca dello stolto ⟨c'è⟩ un bastone di superbia, ma le labbra dei sapienti li custodiscono.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "nella bocca"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dello stolto"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "un bastone"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "di superbia"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ma le labbra"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dei sapienti"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "li custodiscono"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:22.265134662Z",
+  "model": "glm-5.3"
+}

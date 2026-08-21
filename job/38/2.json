@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "«Chi ⟨è⟩ costui che oscura ⟨il⟩ consiglio con parole senza sapere?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "costui"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "oscura"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "consiglio"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "con parole"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sapere"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:37.875682492Z",
+  "model": "glm-5.3"
+}

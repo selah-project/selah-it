@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "In questo conosco che ti compiaci di me: che il mio nemico non grida ⟨vittoria⟩ su di me.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "in questo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "conosco"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ti compiaci"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "grida"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "il mio nemico"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:25.766751053Z",
+  "model": "glm-5.3"
+}

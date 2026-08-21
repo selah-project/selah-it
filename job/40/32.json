@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Poni su di lui la tua mano — ricorda la battaglia — non ⟨lo⟩ fare più.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "poni"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "la tua mano (palma)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "la battaglia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "aggiungere \/ fare più"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:45.509974076Z",
+  "model": "glm-5.3"
+}

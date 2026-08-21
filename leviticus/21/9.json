@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E la figlia di un uomo, un kohen, se si profana prostituendosi, ⟨את⟩ suo padre lei profana: nel fuoco sarà bruciata.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "E la figlia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "un kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "si profana"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "prostituendosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "profana"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "sarà bruciata"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:50.765423172Z",
+  "model": "glm-5.3"
+}

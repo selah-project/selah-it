@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Una parola Adonai mandò in Giacobbe, ed essa cadde su Israele.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "in Giacobbe"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ed essa cadde"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "su Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:42.618156269Z",
+  "model": "glm-5.3"
+}

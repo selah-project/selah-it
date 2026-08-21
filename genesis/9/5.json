@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Sì, ⟨את⟩ il vostro sangue, per le vostre vite, io richiederò: dalla mano di ogni animale lo richiederò, e dalla mano dell'uomo; dalla mano dell'uomo, suo fratello, richiederò ⟨את⟩ la vita dell'uomo.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "sì, certamente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il vostro sangue"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "il vostro sangue"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "per le vostre vite"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "io richiederò"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "animale"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "lo richiederò"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "e dalla mano di"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano di"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "richiederò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vita dell'uomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la vita"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:18.967433830Z",
+  "model": "glm-5.3"
+}

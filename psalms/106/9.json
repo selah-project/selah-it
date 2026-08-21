@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E rimproverò ⟨il⟩ mare dei giunchi e si prosciugò, e li condusse nelle profondità come ⟨nella⟩ steppa.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "e rimproverò"
+    },
+    {
+      "surface": "בים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "dei giunchi"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "e si prosciugò"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "e li condusse"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "nelle profondità"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "come la steppa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:32.810092948Z",
+  "model": "glm-5.3"
+}

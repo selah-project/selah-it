@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E le scriverai sugli stipiti della tua casa e sulle tue porte.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "e le scriverai"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "gli stipiti"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "della tua casa"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "e sulle tue porte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:29.618081013Z",
+  "model": "glm-5.3"
+}

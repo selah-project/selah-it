@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Regni della terra, cantate a Elohim, salmodiate ⟨al⟩ Signore Adonai — selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "regni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "salmodiate"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:01.958260027Z",
+  "model": "glm-5.3"
+}

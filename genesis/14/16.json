@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E riportò ⟨את⟩ tutta la proprietà, e anche ⟨את⟩ Lot suo fratello e la sua proprietà riportò, e anche ⟨את⟩ le donne e ⟨את⟩ la gente.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e riportò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la proprietà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "la proprietà"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "suo fratello"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "e la sua proprietà"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "riportò"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le donne"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la gente"
+    },
+    {
+      "surface": "העם",
+      "gloss": "la gente"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:20.463659031Z",
+  "model": "glm-5.3"
+}

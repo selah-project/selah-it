@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "Beati quelli che abitano nella tua casa: ancora ti lodano. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beati"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "quelli che abitano"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nella tua casa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ti lodano"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:29.264063482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E ⟨את⟩ Yehu figlio di Nimshi ungerai come re su Israele, e ⟨את⟩ Elisha figlio di Shefat, di Avel-Mecholà, ungerai come profeta al tuo posto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu figlio di Nimshi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "di Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ungerai"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "come re"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elisha figlio di Shefat"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "di Shefat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "di Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "-Mecholà"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ungerai"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "come profeta"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "al tuo posto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:16.369190188Z",
+  "model": "glm-5.3"
+}

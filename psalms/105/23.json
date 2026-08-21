@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "E venne Israele in Egitto, e Giacobbe dimorò ⟨come straniero⟩ nella terra di Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "e Giacobbe"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dimorò ⟨come straniero⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "חם",
+      "gloss": "di Cham"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:55.897976518Z",
+  "model": "glm-5.3"
+}

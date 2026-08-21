@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "Perché re di tutta la terra ⟨⟨è⟩⟩ Elohim; cantate un maskil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un maskil"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:51.617970797Z",
+  "model": "glm-5.3"
+}

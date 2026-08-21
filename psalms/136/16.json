@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "A colui che condusse il suo popolo nel deserto, perché per sempre ⟨dura⟩ il suo chesed:",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "a colui che condusse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.550771658Z",
+  "model": "glm-5.3"
+}

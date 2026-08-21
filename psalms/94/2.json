@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Solèvati, giudice di ⟨la⟩ terra; restituisci la retribuzione sui superbi!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "solèvati"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "giudice"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "di ⟨la⟩ terra"
+    },
+    {
+      "surface": "השב",
+      "gloss": "restituisci"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "la retribuzione"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "i superbi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:03.079206748Z",
+  "model": "glm-5.3"
+}

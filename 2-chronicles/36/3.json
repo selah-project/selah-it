@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E lo depose il re d'Egitto a Gerusalemme, e multò ⟨את⟩ il paese: cento talenti d'argento e un talento d'oro.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "e lo depose"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "e multò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il paese"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "il paese"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argento"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "e un talento"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    }
+  ],
+  "timestamp": "2026-08-21T10:03:46.010760757Z",
+  "model": "glm-5.3"
+}

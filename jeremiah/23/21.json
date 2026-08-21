@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non ho mandato ⟨את⟩ i profeti, eppure essi sono corsi; non ho parlato loro, eppure essi hanno profetizzato.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ho mandato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i profeti"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "i profeti"
+    },
+    {
+      "surface": "והם",
+      "gloss": "eppure essi"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "sono corsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "והם",
+      "gloss": "eppure essi"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "hanno profetizzato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:32.493886731Z",
+  "model": "glm-5.3"
+}

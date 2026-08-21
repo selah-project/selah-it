@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E aprì ⟨essa⟩ e lo vide, ⟨את⟩ il bambino — ed ecco, un fanciullo che piangeva; e ne ebbe compassione, e disse: « Dai bambini degli ebrei ⟨è⟩ questo ».",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "e aprì"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "e lo vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bambino"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il bambino"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un fanciullo"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "che piangeva"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "e ne ebbe compassione"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "dai bambini"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "degli ebrei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:49.426894440Z",
+  "model": "glm-5.3"
+}

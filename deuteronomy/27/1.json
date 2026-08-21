@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E comandarono Moshe e gli anziani di Israele ⟨את⟩ il popolo, dicendo: osserva ⟨את⟩ tutta la mitzvà che io ti comando ⟨את⟩ oggi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e comandarono"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "e gli anziani di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "osserva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la mitzvà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "la mitzvà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "comando"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:57.032514349Z",
+  "model": "glm-5.3"
+}

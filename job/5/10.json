@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Che dà la pioggia sulla faccia della terra e manda acque sulla faccia delle piazze.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "che dà"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "e manda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "delle piazze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:03.101738190Z",
+  "model": "glm-5.3"
+}

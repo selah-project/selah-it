@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E uscì il re Ioram in quel giorno da Samaria e passò in rassegna ⟨את⟩ tutto Israele.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E uscì"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Ioram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "da Samaria"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "e passò in rassegna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:20.459633530Z",
+  "model": "glm-5.3"
+}

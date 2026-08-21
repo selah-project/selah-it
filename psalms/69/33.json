@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Vedranno gli umili e si rallegreranno; voi che cercate Elohim — e vivrà il vostro cuore.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "vedranno"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "gli umili"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "si rallegreranno"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "voi che cercate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "e vivrà"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "il vostro cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:04.410741950Z",
+  "model": "glm-5.3"
+}

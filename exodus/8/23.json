@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 8:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Con un cammino di tre giorni andremo nel deserto e sacrificheremo a YHWH nostro Elohim, come dirà a noi.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "con un cammino"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "di tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "andremo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "וזבחנו",
+      "gloss": "e sacrificheremo"
+    },
+    {
+      "surface": "ליהויו",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nostro Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dirà"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "a noi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:51.673712586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Come un sogno al risveglio, Adonai, al tuo destarti disprezzerai la loro immagine.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "come un sogno"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "al risveglio"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "al tuo destarti"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "la loro immagine"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "disprezzerai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:19.437597122Z",
+  "model": "glm-5.3"
+}

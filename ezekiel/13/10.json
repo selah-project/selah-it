@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Proprio perché hanno traviato ⟨את⟩ il mio popolo, dicendo: « shalom! », e non ⟨c'è⟩ shalom — e uno costruisce un muro, ed ecco loro lo intonacano ⟨את⟩ con malta scadente —",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "proprio perché"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "hanno traviato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "« shalom! »"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e uno"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "costruisce"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "un muro"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ed ecco loro"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "intonacano"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "con malta scadente"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "malta scadente"
+    }
+  ],
+  "timestamp": "2026-08-21T08:19:21.270507103Z",
+  "model": "glm-5.3"
+}

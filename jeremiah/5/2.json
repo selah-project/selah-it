@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E se dicono: « Per la vita di YHWH », certo è alla menzogna che giurano.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E se"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Per la vita di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "certo"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "alla menzogna"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "giurano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:59:45.213553661Z",
+  "model": "glm-5.3"
+}

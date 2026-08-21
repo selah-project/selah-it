@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 131,
+  "translation": "Speri Israele in YHWH, da ora e fino a ⟨per⟩ sempre.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "speri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "da ora"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:42.609647706Z",
+  "model": "glm-5.3"
+}

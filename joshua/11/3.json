@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "al cananeo a oriente e a occidente, e all'emoreo e al chittita e al perizzita e al yebuseo nel monte, e al chivvita sotto Chermon, nella terra di Mitspa,",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "al cananeo"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "a oriente"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e a occidente"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e all'emoreo"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e al chittita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e al perizzita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e al yebuseo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nel monte"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "e al chivvita"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "di Mitspa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:36.795796700Z",
+  "model": "glm-5.3"
+}

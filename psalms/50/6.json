@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E i cieli annunciano la sua giustizia, perché Elohim ⟨è⟩ giudice ⟨esso stesso⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "E annunciano"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "la sua giustizia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "giudice"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso stesso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:11.994474011Z",
+  "model": "glm-5.3"
+}

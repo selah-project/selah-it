@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 124,
+  "translation": "allora le acque ci avrebbero travolti, il torrente sarebbe passato sulla nostra nefesh,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "allora"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ci avrebbero travolti"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "il torrente"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "sarebbe passato"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "la nostra nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:04.534722138Z",
+  "model": "glm-5.3"
+}

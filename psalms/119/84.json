@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Quanti sono i giorni del tuo servo? Quando farai giustizia dei miei persecutori?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "quanti"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "del tuo servo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "dei miei persecutori"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:38.529692674Z",
+  "model": "glm-5.3"
+}

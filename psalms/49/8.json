@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Un fratello — no, riscatterebbe ⟨un⟩ uomo? Non dà a Elohim il suo prezzo di copertura.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Un fratello"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "riscatterebbe (infinito assoluto)"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "riscatterebbe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "il suo prezzo di copertura"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:55.648794249Z",
+  "model": "glm-5.3"
+}

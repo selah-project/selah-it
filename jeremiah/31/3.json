@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Da lontano YHWH mi ⟨si⟩ è mostrato: con amore eterno ti ho amato, per questo ti ho tratto a me con chesed.",
+  "tokens": [
+    {
+      "surface": "מרחוק",
+      "gloss": "da lontano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "si è mostrato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "con amore"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eterno"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "ti ho amato"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "משכתיך",
+      "gloss": "ti ho tratto a me"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "con chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T08:07:52.176184236Z",
+  "model": "glm-5.3"
+}

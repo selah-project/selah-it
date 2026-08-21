@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Opprime il povero per moltiplicare ⟨i suoi beni⟩; dà al ricco — solo per mancanza.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "opprime"
+    },
+    {
+      "surface": "דל",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "per moltiplicare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a sé"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "al ricco"
+    },
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "per mancanza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:13.762201240Z",
+  "model": "glm-5.3"
+}

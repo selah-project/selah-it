@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E prese Mosè ⟨את⟩ i carri e ⟨את⟩ il bestiame bovino, e li diede ai leviti.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i carri"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "i carri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il bestiame bovino"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "il bestiame bovino"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ai leviti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ai leviti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:04.592285915Z",
+  "model": "glm-5.3"
+}

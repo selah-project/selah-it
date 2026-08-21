@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Sulla bocca di due testimoni o di tre testimoni sarà messo a morte colui che deve morire; non sarà messo a morte sulla bocca di un testimone solo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sulla"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bocca di"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "testimoni"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "testimoni"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    },
+    {
+      "surface": "המת",
+      "gloss": "colui che deve morire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    },
+    {
+      "surface": "על",
+      "gloss": "sulla"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bocca di"
+    },
+    {
+      "surface": "עד",
+      "gloss": "testimone"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:00.901846420Z",
+  "model": "glm-5.3"
+}

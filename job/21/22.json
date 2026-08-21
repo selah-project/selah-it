@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 21:22",
+  "book": "job",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Si insegnerà forse a El la conoscenza, ⟨lui⟩ che giudica ⟨i⟩ sommi?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "ילמד",
+      "gloss": "si insegnerà"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la conoscenza"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨lui⟩ che"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "⟨i⟩ sommi"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "giudica"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:21.973753442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 130,
+  "translation": "Speri Israele in YHWH, perché con YHWH ⟨è⟩ il chesed e con lui ⟨è⟩ abbondante riscatto.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "speri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "il chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "e abbondante"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "riscatto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:57.792845081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Ed ecco, ha generato un figlio, e ⟨il figlio⟩ ha visto ⟨את⟩ tutti i peccati di suo padre che ⟨il padre⟩ aveva fatto, ha temuto e non ha fatto come lui.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ha generato"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e ha visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i peccati di suo padre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "i peccati"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ha temuto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "come lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:21:22.059356146Z",
+  "model": "glm-5.3"
+}

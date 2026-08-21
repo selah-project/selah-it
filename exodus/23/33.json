@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non abiteranno nella tua terra, perché non ti facciano peccare ⟨contro⟩ di me, se tu servi ⟨את⟩ i loro dèi: saranno per te ⟨in⟩ laccio.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "abiteranno"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nella tua terra"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ti facciano peccare"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tu servi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro dèi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "i loro dèi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "infatti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "saranno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "in laccio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:24.206319286Z",
+  "model": "glm-5.3"
+}

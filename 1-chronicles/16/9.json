@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Cantate a lui, salmodiate a lui, meditate tutte le sue meraviglie.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cantate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "salmodiate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "meditate"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "le sue meraviglie"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:13.594783449Z",
+  "model": "glm-5.3"
+}

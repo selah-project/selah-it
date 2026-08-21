@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E Davide ebbe il sopravvento sul filisteo con la fionda e con la pietra, e colpì ⟨את⟩ il filisteo e lo mise a morte; e la spada non ⟨era⟩ nella mano di Davide.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "e ebbe il sopravvento"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מן",
+      "gloss": "su"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "con la fionda"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "e con la pietra"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il filisteo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "e lo mise a morte"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "e la spada"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨era⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nella mano"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:48.249506553Z",
+  "model": "glm-5.3"
+}

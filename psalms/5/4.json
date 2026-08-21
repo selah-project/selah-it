@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "YHWH, al mattino ascolterai la mia voce; al mattino disporrò ⟨la preghiera⟩ davanti a te e starò in attesa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ascolterai"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "disporrò"
+    },
+    {
+      "surface": "לך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "e starò in attesa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:58.463540102Z",
+  "model": "glm-5.3"
+}

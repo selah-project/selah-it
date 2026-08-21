@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Percorsero tutta la terra e alla fine di nove mesi e venti giorni tornarono a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "percorsero"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tornarono"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "alla fine di"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nove"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mesi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e venti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:14.649238057Z",
+  "model": "glm-5.3"
+}

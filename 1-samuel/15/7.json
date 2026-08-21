@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E Shaul colpì ⟨את⟩ Amalek, da Chavilah venendo a Shur, che ⟨è⟩ davanti a ⟨la faccia di⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "da Chavilah"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "venendo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "a Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la faccia di⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:12.934712283Z",
+  "model": "glm-5.3"
+}

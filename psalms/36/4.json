@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Le parole della sua bocca sono vanità e inganno; ha smesso di agire con saggezza, di fare il bene.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "della sua bocca"
+    },
+    {
+      "surface": "און",
+      "gloss": "vanità"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "e inganno"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ha smesso"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "di agire con saggezza"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "di fare il bene"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:17.747866220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Camminerò davanti a YHWH, nelle terre dei viventi.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "camminerò"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "nelle terre"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "dei viventi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:35.451805651Z",
+  "model": "glm-5.3"
+}

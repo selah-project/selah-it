@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 11:3",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E gli dissero gli anziani di Iavesh: «Lasciaci sette giorni, e manderemo messaggeri in tutto il territorio di Israele; e se non c'è chi ci salvi, usciremo da te».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani di"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Iavesh"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "lasciaci"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ונשלחה",
+      "gloss": "e manderemo"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutto"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "il territorio di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "chi salvi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ci (noi)"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "usciremo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "da te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:37.884871609Z",
+  "model": "glm-5.3"
+}

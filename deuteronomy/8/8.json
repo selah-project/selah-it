@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Terra di grano e orzo, di vite e fico e melograno; terra di olivo, olio e miele.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "di grano"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "e orzo"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "di vite"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "e fico"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "e melograno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "זית",
+      "gloss": "di olivo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e miele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:41.670174068Z",
+  "model": "glm-5.3"
+}

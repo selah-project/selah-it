@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Io ti ho conosciuto nel deserto, in terra di arsura.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ti ho conosciuto"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in terra"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "di arsura"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:21.861484139Z",
+  "model": "glm-5.3"
+}

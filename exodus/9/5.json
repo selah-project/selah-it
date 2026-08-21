@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E YHWH fissò un tempo fissato, dicendo: «Domani YHWH farà questa cosa nella terra».",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "e fissò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "un tempo fissato"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "domani"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "questa cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:18.070258532Z",
+  "model": "glm-5.3"
+}

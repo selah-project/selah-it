@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Chi ama ⟨il⟩ denaro non si sazia ⟨di⟩ denaro, e chi ama l'abbondanza ⟨non ha⟩ rendita; anche questo è hevel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "chi ama"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "denaro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "si sazia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "denaro"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "l'abbondanza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "⟨ha⟩ rendita"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:21.887266041Z",
+  "model": "glm-5.3"
+}

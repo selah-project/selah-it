@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Al capo ⟨del coro⟩. Un mizmor di David. Un cantico.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al capo ⟨del coro⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un cantico"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:57.375258299Z",
+  "model": "glm-5.3"
+}

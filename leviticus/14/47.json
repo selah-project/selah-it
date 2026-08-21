@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e chi dorme nella casa laverà ⟨את⟩ le sue vesti, e chi mangia nella casa laverà ⟨את⟩ le sue vesti.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "e chi dorme"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "e chi mangia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:54.152165718Z",
+  "model": "glm-5.3"
+}

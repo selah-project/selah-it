@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E vedesti ⟨את⟩ l'afflizione dei nostri padri in Egitto, e ⟨את⟩ il loro grido udisti presso il mare di Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "e vedesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'afflizione dei nostri padri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'afflizione"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "dei nostri padri"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il loro grido"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "il loro grido"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "udisti"
+    },
+    {
+      "surface": "על",
+      "gloss": "presso"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "di Suf"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:31.652215543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E quando Aharon accende ⟨את⟩ le lampade tra le due sere, lo farà bruciare: incenso perpetuo davanti a YHWH, per le vostre generazioni.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "e quando accende"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le lampade"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "le lampade"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "le due sere"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "lo farà bruciare"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "incenso"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "perpetuo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "per le vostre generazioni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:02.001082408Z",
+  "model": "glm-5.3"
+}

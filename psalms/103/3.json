@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Colui che perdona tutte le tue iniquità, che guarisce tutte le tue malattie.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Colui che perdona"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "le tue iniquità"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "che guarisce"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "le tue malattie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:01.128538154Z",
+  "model": "glm-5.3"
+}

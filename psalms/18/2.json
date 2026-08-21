@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E disse: ti amerò con tenerezza, YHWH, forza mia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "ti amerò con tenerezza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "forza mia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:56.249389275Z",
+  "model": "glm-5.3"
+}

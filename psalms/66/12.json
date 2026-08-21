@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Hai fatto cavalcare mortali sulle nostre teste; siamo entrati nel fuoco e nell'acqua, e ci hai fatti uscire fino all'abbondanza.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "hai fatto cavalcare"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortali"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "sulle nostre teste"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "siamo entrati"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "e nell'acqua"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "e ci hai fatti uscire"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "fino all'abbondanza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:45.040769195Z",
+  "model": "glm-5.3"
+}

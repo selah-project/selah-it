@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Guai a coloro che decretano decreti di iniquità, e agli scribi che scrivono prepotenza:",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "guai"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "a coloro che decretano"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "decreti"
+    },
+    {
+      "surface": "און",
+      "gloss": "di iniquità"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "e agli scribi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "prepotenza"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "scrivono"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:53.157496096Z",
+  "model": "glm-5.3"
+}

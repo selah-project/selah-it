@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e contro ogni torre alta e contro ogni muraglia fortificata",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "torre"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "alta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "muraglia"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "fortificata"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:08.383030225Z",
+  "model": "glm-5.3"
+}

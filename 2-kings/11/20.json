@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E gioì tutto il popolo della terra, e la città fu tranquilla; e ⟨את⟩ Atalia misero a morte con la spada nella casa del re.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "e gioì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "e la città"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "fu tranquilla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Atalia"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "misero a morte"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "con la spada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:24.916470593Z",
+  "model": "glm-5.3"
+}

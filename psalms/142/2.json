@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 142,
+  "translation": "Con la mia voce grido a YHWH, con la mia voce a YHWH chiedo grazia.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "con la mia voce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "grido"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "con la mia voce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "chiedo grazia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:24.827938941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Se ho reso male al mio ⟨alleato in pace⟩, e ho spogliato chi mi opprime senza motivo —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ho reso"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "al mio ⟨alleato in pace⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "male"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "e ho spogliato"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "chi mi opprime"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "senza motivo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:00.813218557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E riconobbe Giuseppe ⟨את⟩ i suoi fratelli, ma loro non lo riconobbero.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "e riconobbe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi fratelli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ma loro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "lo riconobbero"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:50.607962435Z",
+  "model": "glm-5.3"
+}

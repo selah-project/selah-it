@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ l'Arvadeo, e ⟨את⟩ lo Zemareo, e ⟨את⟩ l'Hamateo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'Arvadeo"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "l'Arvadeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "lo Zemareo"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "lo Zemareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'Hamateo"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "l'Hamateo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:48.622163821Z",
+  "model": "glm-5.3"
+}

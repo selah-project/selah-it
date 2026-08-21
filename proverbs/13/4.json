@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "⟨La⟩ ⟨nefesh⟩ dell'indolente desidera e non ⟨c'è⟩ nulla; ma la ⟨nefesh⟩ dei diligenti ⟨sarà⟩ ingrassata.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "desidera"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è nulla"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la nefesh dell'indolente"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "indolente"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ma la nefesh"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "dei diligenti"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "sarà ingrassata"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:11.098809968Z",
+  "model": "glm-5.3"
+}

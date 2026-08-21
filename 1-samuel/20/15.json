@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "e non taglierai ⟨את⟩ il tuo chesed dalla mia casa per sempre, neppure quando YHWH sterminerà ⟨את⟩ i nemici di David, ognuno dalla faccia della terra.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "taglierai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo chesed"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mia casa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "neppure"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "quando sterminerà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i nemici"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i nemici"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ognuno"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faccia"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:45.656556095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Siano oscurati i loro occhi dal vedere, e i loro lombi falliscano sempre.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "siano oscurati"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "i loro occhi"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "dal vedere"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "e i loro lombi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "failiscano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:28.214543213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E il vantaggio della terra, in tutto ⟨esso⟩: un re ⟨è⟩ servito dal campo coltivato.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "E il vantaggio"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutto"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨esso⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "dal campo"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "è servito"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:58.559699032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Poiché per causa tua ho portato ⟨il⟩ ludibrio, e ⟨la⟩ vergogna ha coperto ⟨il⟩ mio volto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "per causa tua"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ho portato"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ludibrio"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ha coperto"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "vergogna"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il mio volto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:10.859452932Z",
+  "model": "glm-5.3"
+}

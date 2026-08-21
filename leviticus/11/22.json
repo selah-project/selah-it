@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "⟨את⟩ questi di loro potete mangiare: ⟨את⟩ l'arbeh secondo la sua specie, e ⟨את⟩ il sol'am secondo la sua specie, e ⟨את⟩ il chargol secondo la sua specie, e ⟨את⟩ il chagav secondo la sua specie.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "di loro"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "potete mangiare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "l'arbeh (la locusta)"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "secondo la sua specie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il sol'am"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "il sol'am"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "secondo la sua specie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il chargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "il chargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "secondo la sua specie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il chagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "il chagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "secondo la sua specie"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:11.234706656Z",
+  "model": "glm-5.3"
+}

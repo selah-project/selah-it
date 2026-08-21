@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Dov'è il re di Chamat, e il re di Arpad, e il re della città di Sefarvajim, di Hena e di Ivva?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Dov'è"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "di Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "di Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "di Sefarvajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "di Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "e di Ivva"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:32.760248760Z",
+  "model": "glm-5.3"
+}

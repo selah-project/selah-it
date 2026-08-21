@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E si radunarono i Filistei, e vennero e si accamparono a Shunem; e Sha'ul radunò ⟨את⟩ tutto Israele, e si accamparono al Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "e si radunarono"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e vennero"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e si accamparono"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "a Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "e radunò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "e si accamparono"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "al Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:30.523405510Z",
+  "model": "glm-5.3"
+}

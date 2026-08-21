@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Viene ⟨la⟩ superbia, e viene ⟨la⟩ vergogna; e con i modesti ⟨c'è⟩ sapienza.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "superbia"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e viene"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "vergogna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i modesti"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "i modesti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sapienza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:18.147199378Z",
+  "model": "glm-5.3"
+}

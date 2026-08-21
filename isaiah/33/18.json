@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Il tuo cuore mediterà il terrore: dov'⟨⟨è⟩⟩ lo scriba? dov'⟨⟨è⟩⟩ chi pesa? dov'⟨⟨è⟩⟩ chi conta ⟨את⟩ le torri?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mediterà"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "il terrore"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dov'⟨è⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "lo scriba"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dov'⟨è⟩"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "chi pesa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "dov'⟨è⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "chi conta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le torri"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "le torri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:50:30.062034775Z",
+  "model": "glm-5.3"
+}

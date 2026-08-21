@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 125,
+  "translation": "Fai il bene, YHWH, ai buoni e ai retti nei loro cuori.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "fai il bene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "ai buoni"
+    },
+    {
+      "surface": "וילישרים",
+      "gloss": "e ai retti"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "nei loro cuori"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:01.692184748Z",
+  "model": "glm-5.3"
+}

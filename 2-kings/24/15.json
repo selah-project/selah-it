@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E deportò ⟨את⟩ Iehoiachin a Babilonia, e ⟨את⟩ la madre del re, e ⟨את⟩ le donne del re, e ⟨את⟩ i suoi eunuchi, e ⟨את⟩ i notabili del paese: condusse ⟨loro⟩ in esilio da Gerusalemme a Babilonia.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "e deportò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehoiachin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Iehoiachin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "a Babilonia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la madre del re"
+    },
+    {
+      "surface": "אם",
+      "gloss": "la madre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le donne del re"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi eunuchi"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "i suoi eunuchi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i notabili del paese"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "i notabili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "condusse"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "in esilio"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "da Gerusalemme"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "a Babilonia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:34.728900276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 138,
+  "translation": "Di Davide. Ti loderò con tutto il mio cuore; davanti a Elohim ti canterò con la cetra.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ti loderò"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ti canterò con la cetra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:07.237361624Z",
+  "model": "glm-5.3"
+}

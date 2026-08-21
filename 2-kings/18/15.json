@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Chizkiyàhu diede ⟨את⟩ tutto l'argento trovato nella casa di YHWH e nei tesori della casa del re.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyàhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto l'argento trovato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argento"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "trovato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "e nei tesori di"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa di"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:39:53.924569874Z",
+  "model": "glm-5.3"
+}

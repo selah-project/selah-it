@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Vive YHWH, e benedetta ⟨sia⟩ la mia rupe, e sia esaltato l'Eloah della mia salvezza.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "e benedetta"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "la mia rupe"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "e sia esaltato"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "l'Eloah di"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "la mia salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:16.370921045Z",
+  "model": "glm-5.3"
+}

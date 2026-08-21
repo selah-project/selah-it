@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E portò ⟨את⟩ le cose sante di suo padre e le sue cose sante nella casa di Elohim: argento, oro e oggetti.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e portò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cose sante di suo padre"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "le cose sante"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "e le sue cose sante"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e oro"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "e oggetti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:57:10.532268847Z",
+  "model": "glm-5.3"
+}

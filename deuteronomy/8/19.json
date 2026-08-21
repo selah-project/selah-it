@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 8:19",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E sarà: se dimenticando dimentichi ⟨את⟩ YHWH il tuo Elohim, e vai dietro ad altri elohim, e li servi, e ti prostri davanti a loro, io chiamo a testimoni oggi contro di voi che perirete per certo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E sarà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "dimenticando"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dimentichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH il tuo Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "e vai"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altri"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "e li servi"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "e ti prostri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "davanti a loro"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "io chiamo a testimoni"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contro di voi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "perire"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "perirete per certo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:16.453273369Z",
+  "model": "glm-5.3"
+}

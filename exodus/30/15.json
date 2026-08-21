@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Il ricco non darà di più e il povero non darà di meno di mezzo siclo, per dare ⟨את⟩ il contributo di YHWH, per coprire ⟨le⟩ vostre vite.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Il ricco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "darà di più"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "e il povero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "darà di meno"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "di mezzo"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "siclo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per dare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il contributo di YHWH"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "il contributo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "per coprire\/espiare"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "le vostre vite"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:16.235890939Z",
+  "model": "glm-5.3"
+}

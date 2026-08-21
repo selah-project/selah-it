@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ⟨את⟩ la porta dei pesci la costruirono i figli di Hassenaah; essi la rivestirono e misero in piedi i suoi battenti, i suoi catenacci e le sue sbarre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la porta dei pesci"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la porta"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "dei pesci"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "costruirono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hassenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "la rivestirono"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "e misero in piedi"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "i suoi battenti"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "i suoi catenacci"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "e le sue sbarre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:42:04.135613512Z",
+  "model": "glm-5.3"
+}

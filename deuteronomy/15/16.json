@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E sarà: se ti dirà: «Non uscirò da te», perché ti ama, ⟨lui⟩ e ⟨la⟩ casa tua — perché sta bene ⟨a lui⟩ con te;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dirà"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "uscirò"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "ti ama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "casa tua"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "e la casa tua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sta bene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:22.103092207Z",
+  "model": "glm-5.3"
+}

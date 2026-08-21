@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Prepari davanti a me una tavola di fronte ai miei avversari; ungono con olio la mia testa — ⟨è⟩ la mia coppa, la mia coppa ⟨è⟩ sazietà.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "prepari (disponi in ordine)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "una tavola"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di fronte a"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "i miei avversari"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "hai unto (reso splendente)"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "con olio"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "la mia testa"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "la mia coppa"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "sazietà (trabocca)"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:09.858131871Z",
+  "model": "glm-5.3"
+}

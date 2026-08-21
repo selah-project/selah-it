@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Ma li salvò per il suo Nome, per far conoscere ⟨את⟩ la sua potenza.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "ma li salvò"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo Nome"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "per far conoscere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua potenza"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "la sua potenza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:20.284977487Z",
+  "model": "glm-5.3"
+}

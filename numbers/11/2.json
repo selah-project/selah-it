@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E il popolo gridò a Mosè, e Mosè pregò YHWH, e il fuoco si spense.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "e gridò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "e pregò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "e si spense"
+    },
+    {
+      "surface": "האש",
+      "gloss": "il fuoco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:45.222532650Z",
+  "model": "glm-5.3"
+}

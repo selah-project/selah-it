@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Figlio di trentadue anni era ⟨quando⟩ cominciò a regnare, e otto anni regnò in Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e due"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "quando cominciò a regnare"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "e otto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regnò"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:20.407519705Z",
+  "model": "glm-5.3"
+}

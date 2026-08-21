@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e lo fece regnare sul Gilead e sugli Ashuriti e su Izreel, e su Efrayim e su Binyamin e su tutto Israele.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "e lo fece regnare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "il Gilead"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e sugli"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "Ashuriti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Izreel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tutto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:38.300078211Z",
+  "model": "glm-5.3"
+}

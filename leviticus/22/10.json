@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E nessun estraneo mangerà ⟨le⟩ cose sante; l'ospite di un sacerdote e il mercenario non mangeranno ⟨le⟩ cose sante.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "זר",
+      "gloss": "estraneo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "cose sante"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "l'ospite"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "di un sacerdote"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "e il mercenario"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangeranno"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "cose sante"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:50.918904410Z",
+  "model": "glm-5.3"
+}

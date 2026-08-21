@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Poiché non ⟨è⟩ un nemico che mi insulta — e io lo porterei — non ⟨è⟩ il mio odiatore che contro di me si è ingrandito — e io mi nasconderei da lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "un nemico"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "che mi insulta"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "e io lo porterei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "il mio odiatore"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "si è ingrandito"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "e io mi nasconderei"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:47.261206890Z",
+  "model": "glm-5.3"
+}

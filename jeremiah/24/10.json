@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E manderò contro di loro ⟨את⟩ la spada, ⟨את⟩ la fame e ⟨את⟩ la peste, finché siano finiti via dal suolo che ho dato a loro e ai loro padri.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "e manderò"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contro di loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la spada"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fame"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la fame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la peste"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la peste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "siano finiti"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "via dal"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "suolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "e ai loro padri"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:21.412846143Z",
+  "model": "glm-5.3"
+}

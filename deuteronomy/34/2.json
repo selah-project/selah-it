@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "e ⟨את⟩ tutto Neftali, e ⟨את⟩ la terra di Efraim e di Menashe, e ⟨את⟩ tutta la terra di Iehudah, fino al mare ultimo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto Neftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra di Efraim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "di Efraim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "e di Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutta la terra di Iehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Iehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "ultimo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:34.871397079Z",
+  "model": "glm-5.3"
+}

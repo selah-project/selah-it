@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 61,
+  "translation": "Poiché tu sei stato un rifugio per me, una torre di forza davanti al nemico.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu sei stato"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "un rifugio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "una torre"
+    },
+    {
+      "surface": "עז",
+      "gloss": "di forza"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "il nemico"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:27.770857407Z",
+  "model": "glm-5.3"
+}

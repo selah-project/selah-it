@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Solo, nei tuoi giorni non lo farò, per amore di Davide tuo padre; dalla mano di tuo figlio lo strapperò.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "nei tuoi giorni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "lo farò"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "di tuo figlio"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "lo strapperò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:20.580426373Z",
+  "model": "glm-5.3"
+}

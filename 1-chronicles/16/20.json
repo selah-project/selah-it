@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E andarono errando da nazione a nazione, e da un regno a un altro popolo.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "e andarono errando"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "da nazione"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nazione"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "e da un regno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popolo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:49:12.131074385Z",
+  "model": "glm-5.3"
+}

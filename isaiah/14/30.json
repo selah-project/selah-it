@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E pascoleranno i primogeniti dei poveri, e i bisognosi giaceranno ⟨al⟩ sicuro; ma io ucciderò di fame la tua radice, e il tuo resto sarà ucciso.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "e pascoleranno"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "i primogeniti"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "dei poveri"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "e i bisognosi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "⟨al⟩ sicuro"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "giaceranno"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "ma io ucciderò"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "di fame"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "la tua radice"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "e il tuo resto"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "sarà ucciso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:56.566359479Z",
+  "model": "glm-5.3"
+}

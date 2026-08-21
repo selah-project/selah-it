@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Davide lo udì, e mandò ⟨את⟩ Ioav e ⟨את⟩ tutto l'esercito dei prodi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutto l'esercito dei prodi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "l'esercito"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "dei prodi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:35.230610792Z",
+  "model": "glm-5.3"
+}

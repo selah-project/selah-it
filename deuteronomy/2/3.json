@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Basta a voi girare attorno ⟨את⟩ a questo monte; voltatevi per voi verso nord.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "bastа"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "סב",
+      "gloss": "girare attorno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a questo monte"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "voltatevi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "verso nord"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:43.160820313Z",
+  "model": "glm-5.3"
+}

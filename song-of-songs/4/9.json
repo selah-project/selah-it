@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Mi hai rapito il cuore, sorella mia, sposa; mi hai rapito il cuore con uno ⟨dei⟩ tuoi occhi, con un ⟨giro⟩ della tua collana.",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "mi hai rapito il cuore"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sorella mia"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sposa"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "mi hai rapito il cuore"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "con uno"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "dei tuoi occhi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "con un"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "giro di collana"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "della tua collana"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:55.468157303Z",
+  "model": "glm-5.3"
+}

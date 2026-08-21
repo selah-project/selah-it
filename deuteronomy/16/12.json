@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E ricorderai che servo fosti in Egitto, e osserverai e farai ⟨את⟩ questi statuti.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "ricorderai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "fosti"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "osserverai"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questi statuti"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "questi statuti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:14.169569105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "A colui che fa da solo grandi meraviglie, perché per sempre ⟨dura⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "A colui che fa"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "meraviglie"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "da solo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:57.038733946Z",
+  "model": "glm-5.3"
+}

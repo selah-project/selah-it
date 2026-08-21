@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Elohim, tu conosci la mia stoltezza, e le mie colpe da te non ⟨sono⟩ nascoste.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "conosci"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "la mia stoltezza"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "e le mie colpe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "sono nascoste"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:10.859128209Z",
+  "model": "glm-5.3"
+}

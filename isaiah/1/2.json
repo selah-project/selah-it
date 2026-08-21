@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ascoltate, cieli, e porgi ⟨l'⟩orecchio, terra, perché YHWH ha parlato: figli ho allevato e ho esaltato, ed essi si sono ribellati a me.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cieli"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "e porgi ⟨l'⟩orecchio"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ho allevato"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "e ho esaltato"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ed essi"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "si sono ribellati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:00.756299844Z",
+  "model": "glm-5.3"
+}

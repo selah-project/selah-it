@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ascoltate questo, anziani, e porgete l'orecchio, tutti voi abitanti della terra! ⟨È⟩ avvenuta una cosa simile ai vostri giorni, o pure ai giorni dei vostri padri?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "anziani"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "e porgete l'orecchio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "voi abitanti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "⟨È⟩ avvenuta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "una cosa simile"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "ai vostri giorni"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o pure"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ai giorni"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "dei vostri padri"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:36.614612485Z",
+  "model": "glm-5.3"
+}

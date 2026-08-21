@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Fàtti un'arca di legno di gofèr; celle farai ⟨l'⟩arca, e la spalmerai di bitume ⟨את⟩ da dentro e da fuori, con il kofèr.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "fàtti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "un'arca"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "di legno"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "di gofèr"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "celle"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "e la spalmerai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "da dentro"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "da dentro"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "e da fuori"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "con il kofèr (bitume)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:25.742853859Z",
+  "model": "glm-5.3"
+}

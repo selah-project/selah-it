@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Dove andrò dal Tuo Ruach? E dove fuggirò dal Tuo volto?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Dove"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "andrò"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "dal Tuo Ruach"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "E dove"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dal Tuo volto"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "fuggirò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:59.026774079Z",
+  "model": "glm-5.3"
+}

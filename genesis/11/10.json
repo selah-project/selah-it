@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Queste ⟨sono⟩ le generazioni di Shem: Shem, figlio di cento anni, generò ⟨את⟩ Arpakshad, due anni dopo il diluvio.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "queste"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "le generazioni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "di cento"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "e generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "due anni"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "il diluvio"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:16.534429833Z",
+  "model": "glm-5.3"
+}

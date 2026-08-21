@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E chiamò il Faraone a Mosè e disse: andate, servite ⟨את⟩ YHWH; soltanto le vostre greggi e i vostri armenti restino; anche i vostri bambini vadano con voi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "il Faraone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "andate"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "servite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רק",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "le vostre greggi"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "e i vostri armenti"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "restino"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "i vostri bambini"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "vadano"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "con voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:14.308272941Z",
+  "model": "glm-5.3"
+}

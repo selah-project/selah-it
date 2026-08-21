@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Lamenta, come una vergine cinta di sacco per lo sposo della sua giovinezza.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Lamenta"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "come una vergine"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "cinta"
+    },
+    {
+      "surface": "שק",
+      "gloss": "di sacco"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "lo sposo"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "della sua giovinezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:41.029102700Z",
+  "model": "glm-5.3"
+}

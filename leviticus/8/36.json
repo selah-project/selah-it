@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E Aharon e i suoi figli fecero ⟨את⟩ tutte le parole che YHWH aveva comandato per mano di Mosè.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "משה",
+      "gloss": "di Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:37.257848229Z",
+  "model": "glm-5.3"
+}

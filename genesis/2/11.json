@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Il nome del primo ⟨è⟩ Pishon: esso è quello che circonda ⟨את⟩ tutta la terra di Chavilah, dove si trova l'oro.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "del primo"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso è"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "quello che circonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la terra di Chavilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "di Chavilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "שם",
+      "gloss": "si trova"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'oro"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:24.497946521Z",
+  "model": "glm-5.3"
+}

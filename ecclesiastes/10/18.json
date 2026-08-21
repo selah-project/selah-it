@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Per pigrizia sprofonda il tetto, e con il rilassamento delle mani gocciola la casa.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "per pigrizia"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "sprofonda"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "il tetto"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "e con il rilassamento"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "delle mani"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "gocciola"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:29.260543120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E sarà udito l'editto del re che egli farà in tutto il suo regno — poiché esso ⟨è⟩ grande — e tutte le donne daranno onore ai loro mariti, dal grande fino al piccolo.",
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "e sarà udito"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "l'editto"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutto"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "il suo regno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "היא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutte"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "le donne"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "daranno"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "onore"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "ai loro mariti"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "dal grande"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "il piccolo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:17.077462774Z",
+  "model": "glm-5.3"
+}

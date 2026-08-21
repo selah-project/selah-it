@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Come un gregge guidasti ⟨il⟩tuo popolo, per mano di Moshe e di Aharon.",
+  "tokens": [
+    {
+      "surface": "נָחִ֣יתָ",
+      "gloss": "guidasti"
+    },
+    {
+      "surface": "כַצֹּ֣אן",
+      "gloss": "come un gregge"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "בְּֽיַד",
+      "gloss": "per mano di"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וְאַהֲרֹֽן",
+      "gloss": "e di Aharon"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:15.452862923Z",
+  "model": "glm-5.3"
+}

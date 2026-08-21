@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "In quel giorno Israele sarà il terzo, con l'Egitto e con Assur, benedizione in mezzo alla terra.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "il terzo"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "con l'Egitto"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "e con Assur"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "benedizione"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:53.367001310Z",
+  "model": "glm-5.3"
+}

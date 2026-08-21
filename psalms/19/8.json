@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "La Torah di YHWH ⟨è⟩ integra, fa tornare la nefesh; la testimonianza di YHWH ⟨è⟩ fedele, rende sapiente il semplice.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "integra"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "fa tornare"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "la testimonianza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "fedele"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "rende sapiente"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "il semplice"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:33.684608435Z",
+  "model": "glm-5.3"
+}

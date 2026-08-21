@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E YHWH si farà conoscere all'Egitto, e l'Egitto conoscerà ⟨את⟩ YHWH in quel giorno, e offriranno sacrificio e offerta, e voteranno un voto a YHWH e lo adempieranno.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "e si farà conoscere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "all'Egitto"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "e conosceranno"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "e offriranno"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrificio"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "e offerta"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "e voteranno"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "un voto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "e lo adempieranno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:53.366515748Z",
+  "model": "glm-5.3"
+}

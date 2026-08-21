@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 113,
+  "translation": "Dal sorgere del sole fino al suo tramonto, ⟨è⟩ lodato il Nome di YHWH.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "dal sorgere"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "del sole"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "al suo tramonto"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "lodato"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:45.963562903Z",
+  "model": "glm-5.3"
+}

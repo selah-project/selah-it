@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Comanderà YHWH ⟨את⟩ ⟨con⟩ te ⟨את⟩ la benedizione nei tuoi granai e in ogni ⟨opera⟩ che le tue mani avviano, e ti benedirà nella terra che YHWH, il tuo Elohim, ti dá.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "Comanderà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨con⟩ te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la benedizione"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "la benedizione"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "nei tuoi granai"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e in ogni"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "che avviano"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "le tue mani"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "e ti benedirà"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:00.456841537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Oracolo su Damasco. Ecco, Damasco è tolta dall'essere città, e sarà un cumulo di rovine.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Oracolo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "su Damasco"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasco"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "è tolta"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dall'essere città"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "un cumulo"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "di rovine"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:49.111857875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "e ⟨את⟩ tutta l'assemblea raduna all'ingresso della tenda del convegno.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutta l'assemblea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "raduna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:25.679332016Z",
+  "model": "glm-5.3"
+}

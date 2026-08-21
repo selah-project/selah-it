@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Al direttore del coro, su «Sosannim», per i figli di Korach, maskil, canto d'amore.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "«Sosannim» (sui gigli)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil (poema didattico)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "d'amore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:28.909670022Z",
+  "model": "glm-5.3"
+}

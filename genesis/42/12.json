@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E disse loro: «No; a vedere la nudità del paese siete venuti».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudità"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "siete venuti"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a vedere"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:54.256786254Z",
+  "model": "glm-5.3"
+}

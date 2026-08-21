@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E Dawid finì di offrire l'olà e le offerte di pace, e benisse ⟨את⟩ il popolo nel Nome di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "e finì"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "di offrire"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "e le offerte di pace"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel Nome di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:10.286452496Z",
+  "model": "glm-5.3"
+}

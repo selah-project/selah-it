@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Gionata rispose a Saul suo padre e gli disse: perché dovrebbe essere messo a morte? che cosa ha fatto?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Gionata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul suo padre"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:33.262959005Z",
+  "model": "glm-5.3"
+}

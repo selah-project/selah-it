@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "I leoncelli impoveriscono e patiscono fame, ma quelli che cercano YHWH non mancheranno di alcun bene.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "I leoncelli"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "impoveriscono"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "e patiscono fame"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ma quelli che cercano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "mancheranno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di alcun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bene"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:19.354176552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E chiamerò a testimoniarmi testimoni fedeli: ⟨את⟩ Uria il sacerdote e ⟨את⟩ Zecharyahu figlio di Yevarekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "e farò testimoniare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "testimoni"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "fedeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zecharyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zecharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "di Yevarekhyahu"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:16.846147194Z",
+  "model": "glm-5.3"
+}

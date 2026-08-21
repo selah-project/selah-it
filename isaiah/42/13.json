@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "YHWH come un prode uscirà, come un uomo di guerre susciterà la gelosia; griderà, anzi urlerà contro i suoi nemici, si mostrerà potente.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "come un prode"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uscirà"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "come un uomo"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "di guerre"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "susciterà"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "la gelosia"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "griderà"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anzi"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "urlerà"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "i suoi nemici"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "si mostrerà potente"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:08.717087226Z",
+  "model": "glm-5.3"
+}

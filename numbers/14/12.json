@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Lo colpirò con la peste e lo spoglierò ⟨della sua eredità⟩, e farò di te ⟨את⟩ una nazione grande e più potente di lui.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "lo colpirò"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "con la peste"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "e lo spoglierò"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "e farò"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "una nazione grande e potente"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "una nazione"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "e potente"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "più di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:59.885484838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Oggi voi uscite, nel mese dell'aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Oggi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "uscite"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "nel mese"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "dell'aviv"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:36.759480741Z",
+  "model": "glm-5.3"
+}

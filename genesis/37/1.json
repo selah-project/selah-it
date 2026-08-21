@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E Giacobbe abitò nella terra dei soggiorni di suo padre, nella terra di Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e abitò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "dei soggiorni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:58.305018046Z",
+  "model": "glm-5.3"
+}

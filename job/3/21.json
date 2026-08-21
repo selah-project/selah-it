@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "che aspettano ⟨la⟩ morte, ed essa non viene, e la scavano ⟨più⟩ dei tesori nascosti.",
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "che aspettano"
+    },
+    {
+      "surface": "למות",
+      "gloss": "la morte"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ed essa non viene"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "e la scavano"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "dei tesori nascosti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:07.483601719Z",
+  "model": "glm-5.3"
+}

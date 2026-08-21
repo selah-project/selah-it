@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Come chi lega una pietra nella frombola, così chi dà onore a uno stolto.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "come chi lega"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "una pietra"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "nella frombola"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "chi dà"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "a uno stolto"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "onore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:23.326910155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Non per i tuoi sacrifici ti riprenderò — le tue olà ⟨sono⟩ davanti a me sempre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "i tuoi sacrifici"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ti riprenderò"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "e le tue olà"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:11.994791690Z",
+  "model": "glm-5.3"
+}

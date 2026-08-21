@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E ⟨את⟩ il mio patto io stabilirò con Isacco, che Sara ti partorirà ⟨את⟩ lui ⟨per⟩ il tempo fissato, questo, nell'anno prossimo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il mio patto"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "io stabilirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "con ⟨את⟩",
+      "marks": "Isacco"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isacco"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ti partorirà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "per il tempo fissato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "prossimo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:18.581807654Z",
+  "model": "glm-5.3"
+}

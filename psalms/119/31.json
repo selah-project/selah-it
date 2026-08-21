@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Mi sono tenuto stretto alle tue testimonianze, YHWH; non farmi sfigurare di vergogna.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "mi sono tenuto stretto"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "alle tue testimonianze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "farmi sfigurare di vergogna"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:54.642416482Z",
+  "model": "glm-5.3"
+}

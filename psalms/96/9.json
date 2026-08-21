@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 96,
+  "translation": "Prostratevi davanti a YHWH nello splendore della santità; tremi davanti alla sua presenza tutta ⟨la⟩ terra.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "prostratevi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "davanti a YHWH"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "nello splendore"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "della santità"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "tremi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "davanti alla sua presenza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:34.916212879Z",
+  "model": "glm-5.3"
+}

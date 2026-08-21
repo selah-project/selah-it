@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E mandò fuori ⟨את⟩ la colomba da con ⟨את⟩ sé, per vedere se le acque si erano alleggerite da sopra la superficie del suolo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la colomba"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "la colomba"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "da con ⟨את⟩ sé"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "per vedere"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "se si erano alleggerite"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da sopra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la superficie"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "del suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:52.115529196Z",
+  "model": "glm-5.3"
+}

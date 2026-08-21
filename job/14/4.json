@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Chi può dare un puro da un impuro? Non uno.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "può dare"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "un puro"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "da un impuro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:53.965516068Z",
+  "model": "glm-5.3"
+}

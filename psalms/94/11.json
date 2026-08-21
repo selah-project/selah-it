@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "YHWH conosce i pensieri dell'uomo, che ⟨sono⟩ vanità.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "i pensieri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:12.720523396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Benedetto ⟨sia⟩ Adonai, giorno per giorno: ci carica ⟨di benefici⟩ — l'El della nostra salvezza. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "יום",
+      "gloss": "per giorno"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "ci carica"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "האל",
+      "gloss": "l'El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "della nostra salvezza"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:29.395860424Z",
+  "model": "glm-5.3"
+}

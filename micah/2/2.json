@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E bramano campi e li rapiscono, e case, e le portano via; e spogliano un uomo ⟨e⟩ la sua casa, un uomo ⟨e⟩ la sua eredità.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "E bramano"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "campi"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "e li rapiscono"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "e case"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "e le portano via"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "e spogliano"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "la sua eredità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:33.982568259Z",
+  "model": "glm-5.3"
+}

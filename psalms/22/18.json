@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Posso contare tutte le mie ossa; essi guardano, mi fissano ⟨su di me⟩.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "posso contare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "le mie ossa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "guardano"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "fissano"
+    },
+    {
+      "surface": "בי",
+      "gloss": "su di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:57.042732437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E se un uomo trova ⟨את⟩ il suo nemico e lo lascia andare per una buona strada — YHWH ti ripaghi il bene in cambio di questo giorno, di ciò che hai fatto a me.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "trova"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo nemico"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "il suo nemico"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "e lo lascia andare"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per una strada"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "buona"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "ti ripaghi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di ciò che"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:39.287963121Z",
+  "model": "glm-5.3"
+}

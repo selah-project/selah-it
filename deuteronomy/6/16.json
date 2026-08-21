@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Non metterete alla prova ⟨את⟩ YHWH, il vostro Elohim, come metteste alla prova a Massà.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "metterete alla prova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH, il vostro Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "metteste alla prova"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "a Massà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:12.129547684Z",
+  "model": "glm-5.3"
+}

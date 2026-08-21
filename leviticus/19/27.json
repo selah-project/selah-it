@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non arrotonderete ⟨la⟩ parte laterale della vostra testa e non distruggerete ⟨את⟩ ⟨la⟩ parte laterale della tua barba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "arrotonderete (taglierete in tondo)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "parte laterale"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "della vostra testa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "distruggerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parte laterale della tua barba"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "parte laterale"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "della tua barba"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:18.450916664Z",
+  "model": "glm-5.3"
+}

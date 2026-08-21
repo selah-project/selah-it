@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Vedi la mia miseria e liberami, perché la tua Torah non ho dimenticato.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vedi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "la mia miseria"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "e liberami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "la tua Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ho dimenticato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:52.832565541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E ⟨את⟩ il Mare pose dal lato destro, a oriente, di fronte ⟨al⟩ sud.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il Mare"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il Mare"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pose"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "dal lato"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "destro"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "a oriente"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "di fronte"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "⟨al⟩ sud"
+    }
+  ],
+  "timestamp": "2026-08-21T09:54:33.835110351Z",
+  "model": "glm-5.3"
+}

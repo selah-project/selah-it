@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E avvenne dopo questo, e Davide colpì ⟨את⟩ i Filistei e li sottomise; e Davide prese ⟨את⟩ il morso della metropoli dalla mano dei Filistei.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Filistei"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "e li sottomise"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il morso"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "il morso"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "della metropoli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dei Filistei"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:41.272123768Z",
+  "model": "glm-5.3"
+}

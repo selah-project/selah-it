@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non desiderare le sue prelibatezze, perché ⟨esso⟩ è pane di menzogna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "desiderare"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "le sue prelibatezze"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "perché esso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "di menzogna"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:50.575875690Z",
+  "model": "glm-5.3"
+}

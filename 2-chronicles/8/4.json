@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E costruì ⟨את⟩ Tadmor nel deserto, e ⟨את⟩ tutte le città dei depositi che aveva costruito in Chamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "E costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutte le città dei depositi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città dei"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "depositi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aveva costruito"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "in Chamat"
+    }
+  ],
+  "timestamp": "2026-08-21T09:56:16.054974073Z",
+  "model": "glm-5.3"
+}

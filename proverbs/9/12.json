@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Se sei divenuto saggio, sei saggio per te stesso; e se deridi, tu solo ne porterai ⟨il peso⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sei divenuto saggio"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sei saggio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te stesso"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "e se deridi"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tu solo"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ne porterai"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:34.578569926Z",
+  "model": "glm-5.3"
+}

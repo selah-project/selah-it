@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Di giorno e di notte la circondano sulle sue mura, e iniquità e travaglio ⟨sono⟩ in mezzo ad essa.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "di giorno"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e di notte"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "la circondano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "le sue mura"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "e iniquità"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "e travaglio"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in mezzo ad essa"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:59.652374108Z",
+  "model": "glm-5.3"
+}

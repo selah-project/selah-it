@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E sognò Giuseppe un sogno, e lo riferì ai suoi fratelli, ed essi aggiunsero ancora a odiarlo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "e sognò"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "un sogno"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e lo riferì"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ai suoi fratelli"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ed essi aggiunsero"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "a odiare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (odiarlo)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:32.600835312Z",
+  "model": "glm-5.3"
+}

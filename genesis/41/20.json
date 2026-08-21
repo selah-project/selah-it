@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "E le vacche magre e brutte divorarono ⟨את⟩ le prime sette vacche, le grasse.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "e divorarono"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "le vacche"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "magre"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "e brutte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le prime sette vacche grasse"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sette"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "vacche"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "le prime"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "le grasse"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:24.124261500Z",
+  "model": "glm-5.3"
+}

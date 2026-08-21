@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Ho distolto la sua spalla dal carico, le sue mani dalla cesta passano.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "ho distolto"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "dal carico"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "la sua spalla"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "le sue mani"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "dalla cesta"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "passano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:47.223989523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E videro ⟨את⟩ lei i principi di Faraone, e la lodarono ⟨את⟩ ⟨lei⟩ a Faraone, e la donna fu presa ⟨ nella ⟩ casa di Faraone.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "e videro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lei"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i principi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "e la lodarono"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "e fu presa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:02.287377232Z",
+  "model": "glm-5.3"
+}

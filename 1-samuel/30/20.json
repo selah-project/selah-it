@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E Davide prese ⟨את⟩ tutto il gregge e il bestiame grande; li condussero davanti a quel bestiame, e dissero: « questo ⟨è⟩ il bottino di Davide ».",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il gregge e il bestiame grande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "e il bestiame grande"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "condussero"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "al bestiame"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e dissero"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bottino"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:16.582915762Z",
+  "model": "glm-5.3"
+}

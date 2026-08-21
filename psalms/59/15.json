@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "E tornino alla sera, mugolino come ⟨il⟩ cane, e girino attorno ⟨alla⟩ città.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "E tornino"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "mugolino"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "come ⟨il⟩ cane"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "e girino attorno"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "città"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:34.692845349Z",
+  "model": "glm-5.3"
+}

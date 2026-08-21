@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "che YHWH degli eserciti ha benedetto, dicendo: «Benedetto ⟨sia⟩ il mio popolo Egitto, e l'opera delle mie mani Asshur, e la mia eredità Israele».",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ha benedetto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Benedetto"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egitto"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "e l'opera"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "delle mie mani"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "e la mia eredità"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:24.666686030Z",
+  "model": "glm-5.3"
+}

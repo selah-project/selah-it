@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Voi che temete YHWH, lodatelo; tutto il seme di Giacobbe glorificatelo, e tremate davanti a lui, tutto il seme di Israele.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Voi che temete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "il seme"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "glorificatelo"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "e tremate"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "il seme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:51.196184408Z",
+  "model": "glm-5.3"
+}

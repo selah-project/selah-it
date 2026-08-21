@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E disse Yosef: «Date il vostro bestiame, e io vi darò ⟨pane⟩ in cambio del vostro bestiame, se il denaro è finito».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "date"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "il vostro bestiame"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e io darò"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "in cambio del vostro bestiame"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "è finito"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "il denaro"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:17.837093903Z",
+  "model": "glm-5.3"
+}

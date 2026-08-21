@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "jeremiah 51:50",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Sfuggiti alla spada, andatevene, non vi fermate; ricordate da lontano ⟨את⟩ YHWH, e Gerusalemme salga sul vostro cuore.",
+  "tokens": [
+    {
+      "surface": "פלטים",
+      "gloss": "sfuggiti"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "alla spada"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "andatevene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "vi fermate"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ricordate"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "da lontano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Gerusalemme"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "salga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "vostro cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:15:45.341293316Z",
+  "model": "glm-5.3"
+}

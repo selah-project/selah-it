@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Sei anni seminerai il tuo campo, e per sei anni potrà la tua vigna, e raccoglierai ⟨את⟩ il suo prodotto.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "seminerai"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "il tuo campo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e per sei"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "poterà"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "la tua vigna"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "e raccoglierai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prodotto"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "il suo prodotto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:40.746723555Z",
+  "model": "glm-5.3"
+}

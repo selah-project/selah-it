@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 47:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 47,
+  "translation": "E non ⟨c'era⟩ pane in tutto il paese, perché la fame era molto pesante, e venne meno il paese d'Egitto e il paese di Kenaan davanti alla fame.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "e pane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'era"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "il paese"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "era pesante"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la fame"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "e venne meno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "il paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e il paese"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Kenaan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la fame"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:17.836166227Z",
+  "model": "glm-5.3"
+}

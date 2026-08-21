@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E io farò visita su di lei per ⟨את⟩ i giorni dei Baalim, ai quali bruciava incenso, e si adornava ⟨con⟩ il suo anello nasale e la sua collana, e andava dietro ai suoi amanti, e ⟨את⟩ me ha dimenticato — oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "e io farò visita su"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di lei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i giorni dei Baalim"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "dei Baalim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ai quali"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "bruciava incenso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "e si adornava"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "il suo anello nasale"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "e la sua collana"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "e andava"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro a"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "ai suoi amanti"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "me (oggetto di « ha dimenticato »)"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "ha dimenticato"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:27.471777518Z",
+  "model": "glm-5.3"
+}

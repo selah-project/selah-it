@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E se uno prevale contro ⟨il solo⟩, i due gli staranno di fronte; e il filo ⟨il triplo⟩ non in fretta si strappa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "prevale"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "i due"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "staranno"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "di fronte a lui"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "e il filo"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "il triplo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "in fretta"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "si strappa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:55.446599429Z",
+  "model": "glm-5.3"
+}

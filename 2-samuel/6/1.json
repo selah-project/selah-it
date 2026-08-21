@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E di nuovo David radunò ⟨את⟩ tutti i choisi in Israele, trentamila.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "e di nuovo radunò"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "di nuovo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i choisi in Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "gli scegli"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "miglia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:09.973284037Z",
+  "model": "glm-5.3"
+}

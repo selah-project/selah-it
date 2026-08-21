@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E volse ⟨את⟩ la sua faccia verso il muro e pregò YHWH, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "E volse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua faccia"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "la sua faccia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "il muro"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "e pregò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:41:13.809278958Z",
+  "model": "glm-5.3"
+}

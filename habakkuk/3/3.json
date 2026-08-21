@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Eloah viene da Teman, e il Santo dal monte Paran. Selah. ⟨La⟩ sua maestà coprì ⟨i⟩ cieli, e ⟨la⟩ sua lode riempì la terra.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "da Teman"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "viene"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "e il Santo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dal monte"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "coprì"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "la sua maestà"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "e la sua lode"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "riempì"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:39:33.615483865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Affréttati in aiuto mio, Adonai, mia salvezza.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "affréttati"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "in aiuto mio"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "mia salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:21.643058053Z",
+  "model": "glm-5.3"
+}

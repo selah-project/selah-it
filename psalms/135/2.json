@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "voi che state nella casa di YHWH, negli atri della casa del nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "voi che state"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "negli atri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:17.474949519Z",
+  "model": "glm-5.3"
+}

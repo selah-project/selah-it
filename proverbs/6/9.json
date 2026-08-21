@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Fino a quando, o pigro, ti coricherai? Quando ti leverai dal tuo sonno?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Fino a"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "o pigro"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ti coricherai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ti leverai"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "dal tuo sonno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:32.457641249Z",
+  "model": "glm-5.3"
+}

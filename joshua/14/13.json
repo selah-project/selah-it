@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E Yehoshua lo benedisse, e diede ⟨את⟩ Chevron a Kalev figlio di Iefunneh in eredità.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "e lo benedisse"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "a Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Iefunneh"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "in eredità"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:52.531361118Z",
+  "model": "glm-5.3"
+}

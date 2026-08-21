@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Chi copre una trasgressione cerca amore, ma chi ripete una cosa separa ⟨l'⟩amico intimo.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "chi copre"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "una trasgressione"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cerca"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "amore"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ma chi ripete"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "una cosa"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "separa"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "⟨l'⟩amico intimo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:51.711204595Z",
+  "model": "glm-5.3"
+}

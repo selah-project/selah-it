@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E ogni minchah che sia cotta nel forno, e ogni cosa fatta in padella o sulla piastra: al sacerdote che la presenta ⟨את⟩ essa, a lui sarà.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah (offerta)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "sia cotta"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "nel forno"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "cosa fatta"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "in padella"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "la piastra"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "al sacerdote"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "che la presenta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "essa — la minchah offerta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:28.869601542Z",
+  "model": "glm-5.3"
+}

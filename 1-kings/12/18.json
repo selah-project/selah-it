@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 12:18",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Il re Roboamo mandò ⟨את⟩ Adoram, che ⟨era⟩ sopra la leva, e tutto Israele lo lapidò con pietre, ed egli morì; e il re Roboamo si affrettò a salire sul carro per fuggire a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mandò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Roboamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoram"
+    },
+    {
+      "surface": "אדרם",
+      "gloss": "Adoram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "המס",
+      "gloss": "la leva"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "e lapidò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "con pietre"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ed egli morì"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Roboamo"
+    },
+    {
+      "surface": "התאמץ",
+      "gloss": "si affrettò"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "a salire"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "sul carro"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "per fuggire"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:31.310619340Z",
+  "model": "glm-5.3"
+}

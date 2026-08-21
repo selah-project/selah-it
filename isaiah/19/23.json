@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "In quel giorno vi sarà una strada dall'Egitto ad Assur, e verrà Assur in Egitto e l'Egitto in Assur, e serviranno, l'Egitto ⟨את⟩ Assur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "vi sarà"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "una strada"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ad Assur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e verrà"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "e l'Egitto"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "in Assur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "e serviranno"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:53.366859702Z",
+  "model": "glm-5.3"
+}

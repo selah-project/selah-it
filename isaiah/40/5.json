@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E si rivelerà la gloria di YHWH, e ogni carne la vedrà insieme, perché la bocca di YHWH ha parlato.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "e si rivelerà"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e vedrà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:35.788925525Z",
+  "model": "glm-5.3"
+}

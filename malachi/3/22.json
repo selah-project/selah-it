@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ricordate la Torah di Moshe, mio servo, che io ho comandato ⟨את⟩ lui all'Horeb per tutto Israele: statuti e giudizi.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ricordate"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "di Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mio servo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "io ho comandato"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "lui — Moshe, mio servo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "all'Horeb"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "statuti"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "e giudizi"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:22.706372824Z",
+  "model": "glm-5.3"
+}

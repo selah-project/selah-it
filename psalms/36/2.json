@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Oracolo della rivolta al malvagio, in fondo al mio cuore: non c'è timore di Elohim davanti ai suoi occhi.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "della rivolta"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "al malvagio"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in fondo a"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "al mio cuore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "timore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:17.747527921Z",
+  "model": "glm-5.3"
+}

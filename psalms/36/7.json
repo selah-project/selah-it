@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "La tua giustizia ⟨è⟩ come i monti di El, il tuo giudizio ⟨è⟩ l'abisso grande; uomo e bestia tu salvi, YHWH.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "come i monti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "il tuo giudizio"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "l'abisso"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "e bestia"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "tu salvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:48.010438445Z",
+  "model": "glm-5.3"
+}

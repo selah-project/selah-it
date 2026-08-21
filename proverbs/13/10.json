@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Solo dall'arroganza viene contesa, ma con i consiglieri ⟨c'è⟩ la sapienza.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "solo"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "dall'arroganza"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "viene"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "contesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i consiglieri"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "i consiglieri"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sapienza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:32.492741215Z",
+  "model": "glm-5.3"
+}

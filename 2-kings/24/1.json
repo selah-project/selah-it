@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 24:1",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Ai suoi giorni salì Nevukhadnetstsar, re di Babilonia, e Iehoiakim gli fu servo tre anni; poi si volse e si ribellò contro di lui.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "ai suoi giorni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "salì"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Babilonia"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Iehoiakim"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "poi si volse"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "e si ribellò"
+    },
+    {
+      "surface": "בו",
+      "gloss": "contro di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:34.148461982Z",
+  "model": "glm-5.3"
+}

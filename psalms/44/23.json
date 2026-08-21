@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Poiché per causa tua siamo uccisi tutto il giorno, siamo reputati come pecore da macello.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "per causa tua"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "siamo uccisi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "siamo reputati"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "come pecore"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "da macello"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:33.681736027Z",
+  "model": "glm-5.3"
+}

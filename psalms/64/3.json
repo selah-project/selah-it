@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Nascondimi dal complotto dei malvagi, dal tumulto degli operatori di iniquità.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "nascondimi"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "dal complotto"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "dal tumulto"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "degli operatori"
+    },
+    {
+      "surface": "און",
+      "gloss": "di iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:42.500315032Z",
+  "model": "glm-5.3"
+}

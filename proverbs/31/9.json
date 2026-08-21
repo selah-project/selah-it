@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Apri la tua bocca, giudica ⟨con⟩ giustizia, e ⟨rendi⟩ giustizia al povero e al bisognoso.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "apri"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "la tua bocca"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "giudica"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "e giustizia"
+    },
+    {
+      "surface": "עני",
+      "gloss": "al povero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e al bisognoso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:47.478229532Z",
+  "model": "glm-5.3"
+}

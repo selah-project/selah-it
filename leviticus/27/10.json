@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Non lo scambierà e non lo sostituirà, ⟨un⟩ buono con ⟨un⟩ cattivo o un cattivo con ⟨un⟩ buono; e se sostituisce bestia con bestia, allora ⟨esso⟩ e ciò che lo sostituisce saranno ⟨cosa⟩ santa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "lo scambierà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "lo sostituirà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (la bestia data)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "con cattivo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cattivo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "con buono"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "המר",
+      "gloss": "sostituendo"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "sostituisce"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bestia"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "con bestia"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "allora sarà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "e il suo sostituto"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:52.959005418Z",
+  "model": "glm-5.3"
+}

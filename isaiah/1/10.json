@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ascoltate la parola di YHWH, capi di Sodoma; porgete l'orecchio alla Torah del nostro Elohim, popolo di Gomorra!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "capi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "di Sodoma"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "porgete l'orecchio"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "alla Torah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popolo"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "di Gomorra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:48.147154558Z",
+  "model": "glm-5.3"
+}

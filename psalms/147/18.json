@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Manda la sua parola e li scioglie; fa soffiare il suo Ruach — scorrono ⟨le⟩ acque.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "manda"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "la sua parola"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "e li scioglie"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "fa soffiare"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "il suo Ruach"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "scorrono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:02.853834372Z",
+  "model": "glm-5.3"
+}

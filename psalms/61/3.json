@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 61,
+  "translation": "Dall'estremità della terra a te io grido, quando si avvolge ⟨il⟩ mio cuore; su una rupe più alta di me tu mi guiderai.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "dall'estremità"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io grido"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "quando si avvolge"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "su una rupe"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "più alta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "di me"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tu mi guiderai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:27.770752863Z",
+  "model": "glm-5.3"
+}

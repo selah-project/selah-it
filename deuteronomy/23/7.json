@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non cercherai il loro shalom né il loro bene, tutti i tuoi giorni, per sempre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "cercherai"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "il loro shalom"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "né il loro bene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "i tuoi giorni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:55.511845851Z",
+  "model": "glm-5.3"
+}

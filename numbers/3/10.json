@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ⟨את⟩ Aharon e ⟨את⟩ i suoi figli li insedierai, ed essi custodiranno ⟨את⟩ il loro sacerdozio; e il profano che si avvicina sarà messo a morte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "insedierai"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ed essi custodiranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il loro sacerdozio"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "il loro sacerdozio"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "e il profano"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "che si avvicina"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:18.508979637Z",
+  "model": "glm-5.3"
+}

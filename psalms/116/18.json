@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "I miei voti a YHWH pagherò, davanti a lui ⟨נגדה⟩, ora ⟨נא⟩, davanti a tutto il suo popolo.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "i miei voti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "pagherò"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora ⟨נא⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:33.567053707Z",
+  "model": "glm-5.3"
+}

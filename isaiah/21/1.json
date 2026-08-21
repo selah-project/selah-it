@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Oracolo del deserto del mare. Come turbini nel Negev passano ⟨per passare⟩, esso viene dal deserto, da una terra terribile.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Oracolo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "del deserto"
+    },
+    {
+      "surface": "ים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "Come turbini"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "nel Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "passano ⟨per passare⟩"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dal deserto"
+    },
+    {
+      "surface": "בא",
+      "gloss": "esso viene"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "da una terra"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "terribile"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:43.059070083Z",
+  "model": "glm-5.3"
+}

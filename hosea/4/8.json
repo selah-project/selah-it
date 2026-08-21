@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Il peccato del mio popolo essi mangiano, e verso la loro iniquità tendono la loro nefesh.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "il peccato"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "del mio popolo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "essi mangiano"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e verso"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "la loro iniquità"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "tendono"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la loro nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:55.062370794Z",
+  "model": "glm-5.3"
+}

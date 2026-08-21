@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 70,
+  "translation": "Siano svergognati e confusi quelli che cercano ⟨la mia⟩ nefesh; indietreggiano e sono umiliati quelli che si compiacciono del mio male.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "siano svergognati"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "e confusi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "quelli che cercano"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "indietreggino"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "all'indietro"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "e siano umiliati"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "quelli che si compiacciono"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "del mio male"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:31.477574489Z",
+  "model": "glm-5.3"
+}

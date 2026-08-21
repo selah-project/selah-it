@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E tagliai ⟨את⟩ il mio bastone, il secondo, ⟨את⟩ Legami, per annullare ⟨את⟩ la fratellanza tra Yehudah e tra Israele.",
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "E tagliai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio bastone, il secondo"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "il mio bastone"
+    },
+    {
+      "surface": "השני",
+      "gloss": "il secondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Legami"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "Legami"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "per annullare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fratellanza"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "la fratellanza"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:52.318138944Z",
+  "model": "glm-5.3"
+}

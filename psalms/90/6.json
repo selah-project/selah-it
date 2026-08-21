@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Al mattino fiorisce e passa; alla sera è falciato e appassisce.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "fiorisce"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "e passa"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "è falciato"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "e appassisce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.902400446Z",
+  "model": "glm-5.3"
+}

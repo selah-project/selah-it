@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "⟨Colui che⟩ saccheggia il padre, fa fuggire la madre — ⟨è⟩ un figlio che causa vergogna e porta disonore.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "saccheggia"
+    },
+    {
+      "surface": "אב",
+      "gloss": "il padre"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "fa fuggire"
+    },
+    {
+      "surface": "אם",
+      "gloss": "la madre"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "che causa vergogna"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "e porta disonore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:55.093420141Z",
+  "model": "glm-5.3"
+}

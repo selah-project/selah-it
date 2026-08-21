@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "E li condusse per una via retta, per camminare verso una città di dimora.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "e li condusse"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per una via"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "retta"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "per camminare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "una città"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "di dimora"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:13.884058627Z",
+  "model": "glm-5.3"
+}

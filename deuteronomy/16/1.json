@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Osserva ⟨את⟩ il mese dell'Aviv e fa' la Pesach per YHWH, il tuo Elohim, perché nel mese dell'Aviv YHWH, il tuo Elohim, ti ha fatto uscire dall'Egitto di notte.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "osserva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mese dell'Aviv"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "il mese"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "dell'Aviv"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e fa'"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "la Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "nel mese"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "dell'Aviv"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ti ha fatto uscire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di notte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:00.592718100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "YHWH, Elohim degli eserciti, riportaci indietro; fa' risplendere il tuo volto e saremo salvati.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "riportaci indietro"
+    },
+    {
+      "surface": "האר",
+      "gloss": "fa' risplendere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "e saremo salvati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:20.394716318Z",
+  "model": "glm-5.3"
+}

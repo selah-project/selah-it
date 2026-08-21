@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Mi trovarono le guardie che fanno il giro della città: « ⟨Avete⟩ visto ⟨את⟩ colui che ama la mia nefesh? »",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "mi trovarono"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "le guardie"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "che fanno il giro"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "colui che ama la mia nefesh"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "che ama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "⟨avete⟩ visto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:23.802196552Z",
+  "model": "glm-5.3"
+}

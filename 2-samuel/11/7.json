@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Uria venne da lui, e Davide domandò dello shalom di Ioab, dello shalom del popolo e dello shalom della guerra.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "e domandò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "dello shalom"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "di Ioab"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "e dello shalom"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "e dello shalom"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "della guerra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:41.231172456Z",
+  "model": "glm-5.3"
+}

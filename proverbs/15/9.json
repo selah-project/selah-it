@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Abominazione per YHWH ⟨è⟩ la via del malvagio, ma chi insegue la giustizia Egli ama.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "abominazione"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ma chi insegue"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "la giustizia"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "Egli ama"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:44.727465630Z",
+  "model": "glm-5.3"
+}

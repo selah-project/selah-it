@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Davanti a te esca il mio giudizio; i tuoi occhi contemplino ⟨ciò che è⟩ retto.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Davanti a te"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "il mio giudizio"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "esca"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i tuoi occhi"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "contemplino"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "retto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:05.130981414Z",
+  "model": "glm-5.3"
+}

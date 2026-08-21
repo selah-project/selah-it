@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Colui che modella insieme il loro cuore, Colui che comprende tutte le loro opere.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "colui che modella"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "il loro cuore"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "colui che comprende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "le loro opere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:31.641457199Z",
+  "model": "glm-5.3"
+}

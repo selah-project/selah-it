@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Non piegherai il diritto del ⟨il⟩ forestiero ⟨e⟩ dell'orfano, e non prenderai in pegno la veste della vedova.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "piegherai"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il diritto"
+    },
+    {
+      "surface": "גר",
+      "gloss": "del forestiero"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "dell'orfano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "prenderai in pegno"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "la veste"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "della vedova"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:35.095808603Z",
+  "model": "glm-5.3"
+}

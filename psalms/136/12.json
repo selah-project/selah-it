@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "Con mano forte e con braccio disteso, perché per sempre ⟨dure⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "con mano"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "forte"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "e con braccio"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "disteso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:42.525008664Z",
+  "model": "glm-5.3"
+}

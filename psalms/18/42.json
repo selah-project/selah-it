@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Gridano, e non c'è chi salvi; a YHWH, ma non risponde loro.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "gridano"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "chi salvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "risponde loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:12.749924290Z",
+  "model": "glm-5.3"
+}

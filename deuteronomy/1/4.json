@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Dopo che ebbe colpito ⟨את⟩ Sichon, re degli Emorrei, che dimorava in Cheshvon, e ⟨את⟩ Og, re del Bashan, che dimorava in Ashtarot, in Edrei —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Dopo"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "che ebbe colpito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "degli Emorrei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dimorava"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "in Cheshvon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "del Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dimorava"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "in Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "in Edrei"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:51.962990793Z",
+  "model": "glm-5.3"
+}

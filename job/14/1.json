@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "L'uomo, nato da donna, è corto di giorni e sazio di agitazione.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "nato"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "da donna"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "è corto"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di giorni"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e sazio"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "di agitazione"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:53.964989909Z",
+  "model": "glm-5.3"
+}

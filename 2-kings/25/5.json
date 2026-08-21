@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E l'esercito dei Kasdi inseguì il re, e lo raggiunse ⟨את⟩ nelle steppe di Gerico; e tutte le sue truppe si dispersero lontano da lui.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "e inseguì"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "l'esercito"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "dei Kasdi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "e lo raggiunse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (il re)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "nelle steppe"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "di Gerico"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutte"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "le sue truppe"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "si dispersero"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "lontano da lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:46.676746523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E chiese Giacobbe e disse: dichiara, ti prego, il tuo nome. E disse: perché ⟨è⟩ questo, tu chiedi per il mio nome? E lo benedisse ⟨את⟩ lui là.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "e chiese"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "dichiara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "tu chiedi"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "per il mio nome"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (Giacobbe)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:16.298820319Z",
+  "model": "glm-5.3"
+}

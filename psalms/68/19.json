@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Sei salito in alto, hai condotto in schiavitù ⟨la⟩ schiavitù, hai preso doni in ⟨mezzo agli⟩ uomini — e anche i ribelli — perché Yah, Elohim, ⟨possa⟩ dimorare ⟨là⟩.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "sei salito"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "in alto"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "hai condotto in schiavitù"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "⟨la⟩ schiavitù"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hai preso"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "doni"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "in ⟨mezzo agli⟩ uomini"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "i ribelli"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "perché dimori"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:29.395708428Z",
+  "model": "glm-5.3"
+}

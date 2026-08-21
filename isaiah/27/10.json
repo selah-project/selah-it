@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Poiché la città fortificata ⟨è⟩ solitaria, dimora scacciata e abbandonata come il deserto; là pascola il vitello, e là si sdraia e divora i suoi rami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "fortificata"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "solitaria"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "dimora"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "scacciata"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "e abbandonata"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "come il deserto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "pascola"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "il vitello"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e là"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "si sdraia"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "e divora"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "i suoi rami"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:19.804418855Z",
+  "model": "glm-5.3"
+}

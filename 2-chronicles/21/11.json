@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Anche egli fece alture sui monti di Giuda, e fece prostituire gli abitanti di Gerusalemme, e traviò ⟨את⟩ Giuda.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Anche"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "במות",
+      "gloss": "alture"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "sui monti di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "e fece prostituire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli abitanti di Gerusalemme"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti di"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "e traviò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T09:58:38.543876239Z",
+  "model": "glm-5.3"
+}

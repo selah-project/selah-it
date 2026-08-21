@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E per il tuo bestiame e per la bestia che ⟨è⟩ nella tua terra: tutta la sua produzione sia per cibo.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "e per il tuo bestiame"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "e per la bestia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nella tua terra"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "la sua produzione"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "per cibo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:17.263447296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Chi ⟨è⟩ questi che nasconde un consiglio senza conoscenza? Perciò ho parlato e non comprendevo; ⟨cose⟩ troppo meravigliose per me, e non le conoscevo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Chi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "nasconde"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "un consiglio"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "conoscenza"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Perciò"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "comprendevo"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "meravigliose"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "per me"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "conoscevo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:40.821310637Z",
+  "model": "glm-5.3"
+}

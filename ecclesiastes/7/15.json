@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "⟨את⟩ tutto ho visto nei giorni del mio *hevel*: c'è un giusto che perisce nella sua giustizia, e c'è un malvagio che dura a lungo nella sua malvagità.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nei giorni"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "del mio hevel (vanità)"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "un giusto"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "che perisce"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "nella sua giustizia"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "e c'è"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "un malvagio"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "che dura a lungo"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "nella sua malvagità"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:04.905834892Z",
+  "model": "glm-5.3"
+}

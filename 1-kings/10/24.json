@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E tutta la terra cercava ⟨את⟩ il volto di Shelomoh, per ascoltare ⟨את⟩ la sapienza che Elohim aveva posto nel suo cuore.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "cercava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il volto di Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "per ascoltare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sapienza"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "la sapienza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aveva posto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nel suo cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:02.024107841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "In quella notte fuggì il sonno del re, ed egli disse di portare ⟨את⟩ il libro delle memorie, le cronache, e furono letti davanti al re.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "In quella notte"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "fuggì"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "il sonno"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ed egli disse"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "di portare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il libro delle memorie"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "il libro"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "delle memorie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le cronache"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dei giorni"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "letti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "al re"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:31.213619375Z",
+  "model": "glm-5.3"
+}

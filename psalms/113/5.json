@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 113,
+  "translation": "Chi ⟨è⟩ come YHWH, ⟨il⟩ nostro Elohim — che si fa alto per sedere ⟨in alto⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Chi"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "come YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "⟨il⟩ nostro Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "che si fa alto"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "per sedere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:40.825696092Z",
+  "model": "glm-5.3"
+}

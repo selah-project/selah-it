@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E tutto Israele si fece registrare per genealogia, ed ecco, ⟨essi⟩ sono scritti sul libro dei re di Israele e di Yehudah; essi furono deportati a Babilonia per la loro infedeltà.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "E tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "si fece registrare per genealogia"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "sono scritti"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "il libro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dei re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e di Yehudah"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "furono deportati"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "a Babilonia"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "per la loro infedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:48:45.095696453Z",
+  "model": "glm-5.3"
+}

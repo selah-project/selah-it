@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 110,
+  "translation": "Il tuo popolo ⟨è⟩ spontaneo nel giorno del tuo potere, in splendori di qodesh; dal grembo dell'aurora, a te la rugiada della tua giovinezza.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "spontaneo (offerte volontarie)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "del tuo potere"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "in splendori"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "di qodesh (santità)"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dal grembo"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "dell'aurora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "טל",
+      "gloss": "la rugiada"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "della tua giovinezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:07.189278793Z",
+  "model": "glm-5.3"
+}

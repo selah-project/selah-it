@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E ricorderò ⟨את⟩ il mio patto con Giacobbe, e anche ⟨את⟩ il mio patto con Isacco, e anche ⟨את⟩ il mio patto con Abramo ricorderò, e ⟨la⟩ terra ricorderò.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "e ricorderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio patto"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "con Giacobbe"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio patto"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "con Isacco"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio patto"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "con Abramo"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ricorderò"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e ⟨la⟩ terra"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ricorderò"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:09.072512630Z",
+  "model": "glm-5.3"
+}

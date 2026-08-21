@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 88,
+  "translation": "Mi hai posto nella fossa più bassa, nelle tenebre, negli abissi.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "mi hai posto"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "nella fossa"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "più bassa"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "nelle tenebre"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "negli abissi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:10.504072366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Sessanta sono le regine, e ottanta le concubine, e le giovani senza numero.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "sessanta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sono esse"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "le regine"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "e ottanta"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "le concubine"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "e le giovani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numero"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:20.138784441Z",
+  "model": "glm-5.3"
+}

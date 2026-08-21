@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Questo ⟨è⟩ il mare, grande e largo di spazi; là ⟨è⟩ il brulichio, e senza numero: esseri viventi piccoli insieme a grandi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Questo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "e largo"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "di spazi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "il brulichio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e senza"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numero"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "esseri viventi"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "piccoli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "insieme a"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grandi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:22.816172385Z",
+  "model": "glm-5.3"
+}

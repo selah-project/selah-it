@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Davanti a lui si piegheranno in ginocchio gli abitanti del deserto, e i suoi nemici la polvere leccheranno.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "si piegheranno in ginocchio"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "gli abitanti del deserto"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "e i suoi nemici"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la polvere"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "leccheranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:23.217805150Z",
+  "model": "glm-5.3"
+}

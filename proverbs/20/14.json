@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "« Cattivo, cattivo », dice il compratore; ma quando se n'è andato, allora si vanta.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "Cattivo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cattivo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "il compratore"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "se n'è andato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨per sé⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "si vanta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:44.263836550Z",
+  "model": "glm-5.3"
+}

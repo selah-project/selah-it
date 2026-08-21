@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E vennero all'accampamento d'Israele, e Israele si alzò e colpì ⟨את⟩ Moab, ed essi fuggirono davanti a loro; ed essi ⟨Israele⟩ entrarono in essa e colpirono ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "E vennero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "l'accampamento"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ed essi fuggirono"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "davanti a loro"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "ed essi entrarono"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa (il paese)"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:33.546440191Z",
+  "model": "glm-5.3"
+}

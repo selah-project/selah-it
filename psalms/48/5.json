@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Poiché ecco, i re si radunarono, passarono oltre insieme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "i re"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "si radunarono"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "passarono oltre"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:44.524031568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E morì Giuseppe, e tutti i suoi fratelli, e tutta quella generazione.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "E morì"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "quella generazione"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:24.982211856Z",
+  "model": "glm-5.3"
+}

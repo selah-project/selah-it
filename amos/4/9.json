@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 4:9",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Vi ho colpiti con il bruciore e con la ruggine; il moltiplicarsi dei vostri giardini e delle vostre vigne, dei vostri fichi e dei vostri ulivi — lo ha divorato il bruco; e non siete tornati a me, oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "ho colpito"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi",
+      "marks": "vi (oggetto: voi)"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "con il bruciore"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "e con la ruggine"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "il moltiplicarsi"
+    },
+    {
+      "surface": "גנותיכם",
+      "gloss": "dei vostri giardini"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "e delle vostre vigne"
+    },
+    {
+      "surface": "ותאניכם",
+      "gloss": "dei vostri fichi"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "e dei vostri ulivi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ha divorato"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "il bruco"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "siete tornati"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:55.675160302Z",
+  "model": "glm-5.3"
+}

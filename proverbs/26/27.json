@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Chi scava una fossa vi cadrà dentro, e chi rotola una pietra, essa tornerà su di lui.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "scava"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "una fossa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dentro (in essa)"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "cadrà"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "e rotola"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "una pietra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tornerà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:27.104327467Z",
+  "model": "glm-5.3"
+}

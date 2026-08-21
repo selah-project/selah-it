@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E avvenne, al loro entrare a Shomeron, che Eliseo disse: YHWH, apri ⟨את⟩ gli occhi di questi, ed essi vedano. E YHWH aprì ⟨את⟩ i loro occhi, ed essi videro, ed ecco, in mezzo a Shomeron!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "al loro entrare"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "a Shomeron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "apri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli occhi di questi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "di questi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ed essi vedano"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "e aprì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro occhi"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "i loro occhi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ed essi videro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:25.528342555Z",
+  "model": "glm-5.3"
+}

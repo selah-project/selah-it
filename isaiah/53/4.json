@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 53,
+  "translation": "In verità le nostre malattie ⟨lui⟩ ha portato, e i nostri dolori li ha sopportati; e noi lo abbiamo calcolato colpito, percosso da Elohim e afflitto.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "in verità"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "le nostre malattie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ha portato"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "e i nostri dolori"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "li ha sopportati"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "e noi"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "lo abbiamo calcolato"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "colpito"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "percosso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "da Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "e afflitto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:56.820071670Z",
+  "model": "glm-5.3"
+}

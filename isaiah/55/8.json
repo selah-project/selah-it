@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "« Poiché i miei pensieri non ⟨sono⟩ i vostri pensieri, e le vostre vie non ⟨sono⟩ le mie vie », oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "i miei pensieri"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "i vostri pensieri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "le vostre vie"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "le mie vie"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:16.375519072Z",
+  "model": "glm-5.3"
+}

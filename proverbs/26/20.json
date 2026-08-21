@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Senza legna il fuoco si spegne, e senza il mormoratore si placa la lite.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "senza"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "legna"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "si spegne"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "e senza"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "il mormoratore"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "si placa"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "la lite"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:26.409642194Z",
+  "model": "glm-5.3"
+}

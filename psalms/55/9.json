@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Affretterei la mia fuga da un vento che irrompe, da una tempesta.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "affretterei"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "la fuga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "la mia"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "da un vento"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "che irrompe"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "da una tempesta"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:56.241191137Z",
+  "model": "glm-5.3"
+}

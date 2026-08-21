@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E fece YHWH secondo la parola di Mosè, e morirono le rane dalle case, dai cortili e dai campi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo la parola di"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "e morirono"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "le rane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "le case"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "i cortili"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e da"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "i campi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:54.891314393Z",
+  "model": "glm-5.3"
+}

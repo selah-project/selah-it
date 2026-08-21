@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E il popolo non tornò a colui che lo percuoteva, e ⟨את⟩ YHWH degli eserciti non cercarono.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "e il popolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tornò"
+    },
+    {
+      "surface": "עד",
+      "gloss": "a"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "colui che lo percuoteva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "YHWH degli eserciti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "cercarono"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:44.467149609Z",
+  "model": "glm-5.3"
+}

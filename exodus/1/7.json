@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E i figli d'Israele furono fecondi, brulicarono, moltiplicarono e divennero fortissimi, oltremisura molto; e la terra si riempì di loro ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "furono fecondi"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "brulicarono"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "moltiplicarono"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "divennero fortissimi"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "oltremisura"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "e si riempì"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "di loro (i figli d'Israele)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:24.982772967Z",
+  "model": "glm-5.3"
+}

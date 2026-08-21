@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Ma ora ⟨che⟩ essa giunge fino a te, tu vieni meno; ti tocca, e tu ti sgomenti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma ora"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "giunge"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fino a te"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "tu vieni meno"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "ti tocca"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "fino a te"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "tu ti sgomenti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:56.259944867Z",
+  "model": "glm-5.3"
+}

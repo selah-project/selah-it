@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Non raccogliere con i colpevoli la mia nefesh, né con gli uomini di sangue la mia vita.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "raccogliere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "i colpevoli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "né con"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "di sangue"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "la mia vita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:19.174783420Z",
+  "model": "glm-5.3"
+}

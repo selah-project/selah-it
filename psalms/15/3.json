@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Non sparge calunnia con la sua lingua, non fa male al suo prossimo, e non solleva un disprezzo contro il suo simile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sparge calunnia"
+    },
+    {
+      "surface": "על",
+      "gloss": "con"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "la sua lingua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "al suo prossimo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "male"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "e un disprezzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "solleva"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "il suo simile"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:02.620083848Z",
+  "model": "glm-5.3"
+}

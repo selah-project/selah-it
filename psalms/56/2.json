@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "Sii grazioso con me, o Elohim, perché un mortale mi ingoia; tutto il giorno, combattendo, mi opprime.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Sii grazioso con me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "mi ingoia"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un mortale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "combattendo"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "mi opprime"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:16.265368107Z",
+  "model": "glm-5.3"
+}

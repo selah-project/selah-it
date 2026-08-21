@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Sorge il sole, essi si ritirano e si accucciano nelle loro tane.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "sorge"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "essi si ritirano"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e in"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "le loro tane"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "si accucciano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:14.248788329Z",
+  "model": "glm-5.3"
+}

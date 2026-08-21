@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Poiché YHWH giudica ⟨il⟩ suo popolo, e sui suoi servi si lascia confortare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "giudica"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "si lascia confortare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:01.388217323Z",
+  "model": "glm-5.3"
+}

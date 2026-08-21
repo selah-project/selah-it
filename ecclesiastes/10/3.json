@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E anche per ⟨la⟩ strada, mentre lo stolto cammina, ⟨il suo⟩ cuore manca, e dice a tutti ⟨che⟩ stolto ⟨è⟩ lui.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la strada"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "mentre lo stolto"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "cammina"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "il suo cuore"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "manca"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e dice"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutti"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "stolto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "è lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:41.388539578Z",
+  "model": "glm-5.3"
+}

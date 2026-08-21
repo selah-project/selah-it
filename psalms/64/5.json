@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Per tirare dai nascondigli all'integro: all'improvviso lo colpiscono, e non temono.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "per tirare"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "dai nascondigli"
+    },
+    {
+      "surface": "תם",
+      "gloss": "all'integro"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "all'improvviso"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "lo colpiscono"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "temono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:02.654924810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Rallegra la nefesh del tuo servo, perché a te, Adonai, io elevo la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Rallegra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "del tuo servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "io elevo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:48.010690432Z",
+  "model": "glm-5.3"
+}

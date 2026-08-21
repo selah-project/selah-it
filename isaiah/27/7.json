@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "⟨È⟩ come la piaga di colui che lo colpiva che ⟨lo⟩ ha colpito? O come l'uccisione dei suoi uccisi ⟨che⟩ è stato ucciso?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "come la piaga"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "di colui che lo colpiva"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "che lo ha colpito"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "come l'uccisione"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "dei suoi uccisi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "è stato ucciso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:34.414233810Z",
+  "model": "glm-5.3"
+}

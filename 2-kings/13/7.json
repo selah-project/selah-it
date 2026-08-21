@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 13:7",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Perché non gli aveva lasciato ⟨un⟩ popolo a Ieoachaz, se non cinquanta cavalieri e dieci carri e diecimila fanti, perché il re di Aram li aveva distrutti e li aveva resi come la polvere da trebbiare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "aveva lasciato"
+    },
+    {
+      "surface": "ליהואחז",
+      "gloss": "a Ieoachaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨un⟩ popolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "non"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquanta"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "cavalieri"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "e dieci"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "carri"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "e diecimila"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "(migliaia)"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fanti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אבדם",
+      "gloss": "li aveva distrutti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "e li aveva resi"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "come la polvere"
+    },
+    {
+      "surface": "לדש",
+      "gloss": "da trebbiare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:34.389568751Z",
+  "model": "glm-5.3"
+}

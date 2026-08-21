@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Terrore e tremore entrano in me, e l'orrore mi copre.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "terrore"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "e tremore"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "entrano"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in me"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "e mi copre"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "l'orrore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:55.790572582Z",
+  "model": "glm-5.3"
+}

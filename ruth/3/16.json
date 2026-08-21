@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ed ella venne da sua suocera, ed ⟨ella⟩ disse: chi sei, ⟨tu⟩ figlia mia? Ed ella le raccontò ⟨את⟩ tutto ciò che ⟨l'⟩uomo aveva fatto per lei.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "ed ella venne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "sua suocera"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ed ⟨ella⟩ disse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "figlia mia"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "sei, figlia mia"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ed ella raccontò"
+    },
+    {
+      "surface": "לה",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "לה",
+      "gloss": "per lei"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨l'⟩uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:41.292702434Z",
+  "model": "glm-5.3"
+}

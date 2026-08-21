@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "I fiori ⟨sono⟩ apparsi nella terra, il tempo del canto ⟨è⟩ giunto, e la voce della tortora si sente nella nostra terra.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "i fiori"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "sono apparsi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "il tempo"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "del canto"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "è giunto"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e la voce"
+    },
+    {
+      "surface": "התור",
+      "gloss": "della tortora"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "si sente"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "nella nostra terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:02.724486714Z",
+  "model": "glm-5.3"
+}

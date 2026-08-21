@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "dicendo: « A te darò ⟨את⟩ la terra di Canaan, corda della vostra eredità ».",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "darò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra di Canaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Canaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "corda"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "della vostra eredità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:38.927284241Z",
+  "model": "glm-5.3"
+}

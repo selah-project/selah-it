@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Le parole della bocca del saggio ⟨sono⟩ favore, ma le labbra dello stolto lo divorano.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Le parole"
+    },
+    {
+      "surface": "פי",
+      "gloss": "della bocca"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "del saggio"
+    },
+    {
+      "surface": "חן",
+      "gloss": "favore"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ma le labbra"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dello stolto"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "lo divorano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:01.874084920Z",
+  "model": "glm-5.3"
+}

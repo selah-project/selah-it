@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 22:6",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E Saul sentì che David ⟨era⟩ stato scoperto, e gli uomini che ⟨erano⟩ ⟨את⟩ con lui; e Saul sedeva a Giv'ah sotto l'eshel sulla ramah, con la lancia in mano, e tutti i suoi servi stavano in piedi attorno a lui.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "E sentì"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "era stato scoperto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "e gli uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui",
+      "marks": "gli uomini, David"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "e Saul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sedeva"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "a Giv'ah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "l'eshel"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "sulla ramah"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "e la sua lancia"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in mano sua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "stavano in piedi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "attorno a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:46.300414768Z",
+  "model": "glm-5.3"
+}

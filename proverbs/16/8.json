@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Meglio poco con giustizia che molto raccolto senza ⟨il⟩ diritto.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "poco"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "con giustizia"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "che molto"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "raccolto"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "senza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "diritto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:07.302382940Z",
+  "model": "glm-5.3"
+}

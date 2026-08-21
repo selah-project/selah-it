@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Ricordi tutte le tue offerte di minchà, e la tua olà gradisca — Sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ricordi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "le tue offerte di minchà"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "e la tua olà"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "gradisca"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:55.288118786Z",
+  "model": "glm-5.3"
+}

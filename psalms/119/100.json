@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Più degli anziani ⟨sono⟩ riflessivo, perché i tuoi precetti ho custodito.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "più degli anziani"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "sono riflessivo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "i tuoi precetti"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ho custodito"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:04.013680919Z",
+  "model": "glm-5.3"
+}

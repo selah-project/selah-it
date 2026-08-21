@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E il re volse ⟨את⟩ il suo volto e benisse ⟨את⟩ tutta l'assemblea d'Israele, e tutta l'assemblea d'Israele stava in piedi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "E volse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo volto"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta l'assemblea d'Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "stava in piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:55:14.763325004Z",
+  "model": "glm-5.3"
+}

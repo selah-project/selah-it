@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Ed ⟨egli⟩ disse a lui: «Non verrò, ma alla mia terra e al mio luogo natale io andrò».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "verrò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bensì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "alla mia terra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "al mio luogo natale"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "io andrò"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:45.500803072Z",
+  "model": "glm-5.3"
+}

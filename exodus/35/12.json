@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "⟨את⟩ l'arca e ⟨את⟩ le sue stanghe, ⟨את⟩ il propiziatorio e ⟨את⟩ il velo della cortina:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le sue stanghe"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "le sue stanghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il propiziatorio"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "il propiziatorio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il velo"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "il velo"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "della cortina"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:24.103113493Z",
+  "model": "glm-5.3"
+}

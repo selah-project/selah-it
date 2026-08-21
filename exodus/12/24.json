@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E osserverete ⟨את⟩ questa parola come statuto per te e per i tuoi figli, per sempre.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "e osserverete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa parola"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "come statuto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "e per i tuoi figli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:46.991059728Z",
+  "model": "glm-5.3"
+}

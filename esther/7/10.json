@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E impiccarono ⟨את⟩ Haman sull'albero che aveva preparato per Mordechai; e l'ira del re si acquietò.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "e impiccarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "l'albero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "aveva preparato"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "per Mordechai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "e l'ira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "si acquietò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:47.037864158Z",
+  "model": "glm-5.3"
+}

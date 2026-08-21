@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Perché non avete mangiato ⟨את⟩ l'offerta per il peccato nel luogo santo? Poiché ⟨essa⟩ è santità delle santità, e ⟨את⟩essa vi è stata data per portare ⟨את⟩ la colpa dell'assemblea, per espiare per loro davanti a YHWH.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "avete mangiato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offerta per il peccato"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "l'offerta per il peccato"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santità"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "delle santità"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e ⟨את⟩essa",
+      "marks": "essa (l'offerta)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "è stata data"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "per portare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la colpa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "la colpa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "dell'assemblea"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "per espiare"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:47.640227983Z",
+  "model": "glm-5.3"
+}

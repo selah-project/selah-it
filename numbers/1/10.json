@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Per i figli di Giuseppe: per Efraim, Elisama, figlio di Ammiud; per Manasse, Gamalièle, figlio di Pedahsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Per i figli di"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "per Efraim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elisama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammiud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "per Manasse"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamalièle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahsur"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:25.210051078Z",
+  "model": "glm-5.3"
+}

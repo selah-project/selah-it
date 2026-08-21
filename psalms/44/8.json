@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Poiché ci hai salvati dai nostri avversari, e quelli che ci odiano hai coperto di vergogna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "ci hai salvati"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "dai nostri avversari"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "e quelli che ci odiano"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "hai coperto di vergogna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:58.125153886Z",
+  "model": "glm-5.3"
+}

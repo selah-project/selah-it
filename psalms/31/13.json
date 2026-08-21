@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Sono dimenticato come un morto, lontano dal cuore; sono diventato come un recipiente perduto.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "sono dimenticato"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "come un morto"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "lontano dal cuore"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "sono diventato"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "come un recipiente"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "perduto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:58.682911257Z",
+  "model": "glm-5.3"
+}

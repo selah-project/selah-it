@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E anche io vi ho resi disprezzati e umili davanti a tutto il popolo, secondo che voi non custodite le mie vie e alzate il volto nella Torah.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho resi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi — i sacerdoti"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "disprezzati"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "e umili"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "davanti a tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "secondo che"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "voi non"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "custodite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mie vie"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "le mie vie"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "e alzate"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "nella Torah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:39.448305830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Nudi vanno senza veste, e affamati portano ⟨il⟩ covone.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "nudi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vanno"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "veste"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "e affamati"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "portano"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "⟨il⟩ covone"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:58.320270413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Celebra, Gerusalemme, ⟨את⟩ YHWH; loda, Sion, il tuo Elohim.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "celebra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "loda"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:41.177128217Z",
+  "model": "glm-5.3"
+}

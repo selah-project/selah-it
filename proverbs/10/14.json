@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "I saggi nascondono ⟨il⟩ sapere, e la bocca dello stolto ⟨è⟩ rovina vicina.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "i saggi"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "nascondono"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sapere"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "e la bocca"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dello stolto"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "rovina"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "vicina"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:42.981615428Z",
+  "model": "glm-5.3"
+}

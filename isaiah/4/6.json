@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E una sukkah sarà per ombra di giorno dal calore, e per rifugio e per riparo dalla tempesta e dalla pioggia.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "E una sukkah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "per ombra"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "di giorno"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dal calore"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "e per rifugio"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "e per riparo"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "dalla tempesta"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "e dalla pioggia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:47.478206266Z",
+  "model": "glm-5.3"
+}

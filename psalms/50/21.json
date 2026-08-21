@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Queste cose hai fatto, e io ho taciuto; hai immaginato che io fossi come te: ti convincerò e disporrò ⟨tutto⟩ davanti ai tuoi occhi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "queste cose"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "e io ho taciuto"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "hai immaginato"
+    },
+    {
+      "surface": "היות",
+      "gloss": "essere"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "io fossi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "come te"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ti convincerò"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "e disporrò"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "davanti ai tuoi occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:04.195406927Z",
+  "model": "glm-5.3"
+}

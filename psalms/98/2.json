@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 98,
+  "translation": "Ha fatto conoscere YHWH la sua salvezza; davanti agli occhi delle nazioni ha rivelato la sua giustizia.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "ha fatto conoscere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "la sua salvezza"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "davanti agli occhi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "delle nazioni"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ha rivelato (scoperto)"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "la sua giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:17.746272518Z",
+  "model": "glm-5.3"
+}

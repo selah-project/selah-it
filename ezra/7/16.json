@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 7:16",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E tutto l'argento e l'oro che troverai in tutta la provincia di Bavel, insieme con l'offerta libera del popolo e dei sacerdoti, che offrono volontariamente per la casa del loro Elah, che ⟨sta⟩ a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "l'argento"
+    },
+    {
+      "surface": "ודהב",
+      "gloss": "e l'oro"
+    },
+    {
+      "surface": "די",
+      "gloss": "che"
+    },
+    {
+      "surface": "תהשכח",
+      "gloss": "troverai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "מדינת",
+      "gloss": "la provincia"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Bavel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "insieme con"
+    },
+    {
+      "surface": "התנדבות",
+      "gloss": "l'offerta libera"
+    },
+    {
+      "surface": "עמא",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "וכהניא",
+      "gloss": "e dei sacerdoti"
+    },
+    {
+      "surface": "מתנדבין",
+      "gloss": "che offrono volontariamente"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "per la casa"
+    },
+    {
+      "surface": "אלההם",
+      "gloss": "del loro Elah"
+    },
+    {
+      "surface": "די",
+      "gloss": "che"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:40:18.732055274Z",
+  "model": "glm-5.3"
+}

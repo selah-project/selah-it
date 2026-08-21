@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E ⟨את⟩ le brecce della città di Davide avete visto, perché si sono moltiplicate, e avete raccolto ⟨את⟩ le acque della vasca inferiore.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le brecce della città di Davide"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "le brecce"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "avete visto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "si sono moltiplicate"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "e avete raccolto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le acque della vasca inferiore"
+    },
+    {
+      "surface": "מי",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "della vasca"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "inferiore"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:44.106945509Z",
+  "model": "glm-5.3"
+}

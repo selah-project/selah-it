@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Paglia non ⟨è⟩ data ai tuoi servi, e ai mattoni ⟨si⟩ dice: fate! Ed ecco, i tuoi servi sono percossi — e ⟨la colpa è⟩ del tuo popolo.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "paglia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨è⟩ data"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ai tuoi servi"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "e ai mattoni"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "⟨si⟩ dice"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "fate!"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i tuoi servi"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "sono percossi"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "e ⟨la colpa è⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "del tuo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:24.491902891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E vi si trovò un uomo povero e sapiente, ed egli liberò ⟨את⟩ la città con la sua sapienza; ma nessun uomo si ricordò ⟨את⟩ di quell'uomo povero.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "e vi si trovò"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "povero"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sapiente"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ed egli liberò"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la città"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "con la sua sapienza"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ma nessun uomo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "si ricordò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quell'uomo povero"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "di quell'uomo"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "povero"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:35.425669920Z",
+  "model": "glm-5.3"
+}

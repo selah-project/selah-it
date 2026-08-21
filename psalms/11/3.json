@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Quando le fondamenta ⟨vengono⟩ demolite, il giusto — che ha operato?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "le fondamenta"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "sono demolite"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ha operato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:18.258882812Z",
+  "model": "glm-5.3"
+}

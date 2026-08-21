@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Chi mi condurrà nella città fortificata? Chi mi guiderà fino a Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "mi condurrà"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "fortificata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "mi guiderà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:38.250998657Z",
+  "model": "glm-5.3"
+}

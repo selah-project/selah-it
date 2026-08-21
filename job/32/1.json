@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E questi tre uomini smisero di rispondere a ⟨את⟩ Giobbe, perché egli ⟨era⟩ giusto ai suoi propri occhi.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "smisero"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "questi tre"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "di rispondere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giobbe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Giobbe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ai suoi propri occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:22.819643232Z",
+  "model": "glm-5.3"
+}

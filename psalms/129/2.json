@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 129,
+  "translation": "Molto mi hanno stretto dalla mia giovinezza, ma non hanno potuto ⟨su⟩ di me.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Molto"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "mi hanno stretto"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "dalla mia giovinezza"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hanno potuto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨su⟩ di me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:03.997158463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "e i Tsidonim e Amaleq e Maon vi hanno oppressi ⟨את⟩ voi, e avete gridato a me, e io vi ho salvati ⟨את⟩ voi dalla loro mano?",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "e i Tsidonim"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "e Amaleq"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "e Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "vi hanno oppressi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "e avete gridato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "e io vi ho salvati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dalla loro mano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:32.906886185Z",
+  "model": "glm-5.3"
+}

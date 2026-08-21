@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E sarà: nel giorno in cui attraverserete ⟨את⟩ il Giordano, verso la terra che YHWH, il tuo Elohim, ti dà, allora erigerai per te pietre grandi e le intonacherai ⟨את⟩ con intonaco.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "attraverserete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti dà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "e erigerai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pietre"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "e le intonacherai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le pietre con intonaco"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "con intonaco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:57.032777463Z",
+  "model": "glm-5.3"
+}

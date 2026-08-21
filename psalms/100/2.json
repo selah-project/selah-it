@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 100,
+  "translation": "Servite ⟨את⟩ YHWH con gioia, venite davanti a lui con giubilo!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Servite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "con gioia"
+    },
+    {
+      "surface": "באו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "con giubilo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:44.167946813Z",
+  "model": "glm-5.3"
+}

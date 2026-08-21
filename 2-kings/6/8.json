@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Ora il re di Aram combatteva contro Israele, e si consigliò con i suoi servi, dicendo: In luogo tale e tale ⟨sarà⟩ il mio accampamento.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ora il re"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "combatteva"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contro Israele"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "e si consigliò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "con"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "In"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "luogo"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "tale"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "e tale"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "il mio accampamento"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:01.178337886Z",
+  "model": "glm-5.3"
+}

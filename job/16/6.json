@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Se parlo, il mio dolore non ⟨è⟩ trattenuto; e se taccio, che cosa se ne va da me?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "parlo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "trattenuto"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "il mio dolore"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "e se taccio"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "se ne va"
+    }
+  ],
+  "timestamp": "2026-08-21T09:17:15.268517423Z",
+  "model": "glm-5.3"
+}

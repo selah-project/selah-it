@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Ed egli disse: «Ti prego, non ci abbandonare, perché proprio per questo tu conosci i nostri accampamenti nel deserto, e ci sarai ⟨את⟩ come occhi».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti prego (negazione deprec.)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "non abbandonare"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "noi — «non abbandonare noi»"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "proprio questo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu conosci"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "i nostri accampamenti"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "e ci sarai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "come occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:45.500966832Z",
+  "model": "glm-5.3"
+}

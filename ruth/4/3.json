@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse al goel: «La parte di campo ⟨che era⟩ di nostro fratello Elimelech, Naomi ⟨che⟩ ⟨è⟩ tornata dal campo di Moab la sta vendendo».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "al goel"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "la parte di"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "campo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "era di nostro fratello"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimelech"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "sta vendendo"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "tornata"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "dal campo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moab"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:52.632956018Z",
+  "model": "glm-5.3"
+}

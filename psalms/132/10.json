@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "Per amore di Davide, tuo servo, non voltare le spalle al volto del tuo Mashiach.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tuo servo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "voltare le spalle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto di"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "il tuo Mashiach"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:41.610184008Z",
+  "model": "glm-5.3"
+}

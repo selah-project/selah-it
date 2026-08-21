@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Gioirà il giusto, perché ha contemplato la vendetta; laverà i suoi passi nel sangue del malvagio.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Gioirà"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ha contemplato"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "la vendetta"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "i suoi passi"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nel sangue"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "del malvagio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:13.787920542Z",
+  "model": "glm-5.3"
+}

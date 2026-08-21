@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "E i giusti si rallegrino, esultino davanti a Elohim, e gioiscano di gioia.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "E i giusti"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "si rallegrino"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "esultino"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "e gioiscano"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "di gioia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:22.395533883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Con odio perfetto li ho odiati; come nemici sono diventati per me.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "perfetto (compiuto)"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "odio"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "li ho odiati"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "come nemici"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sono diventati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:45.059014375Z",
+  "model": "glm-5.3"
+}

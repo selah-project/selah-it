@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E finì di parlare ⟨את⟩ con lui, e Elohim salì da sopra Abramo.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "e finì"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "di parlare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da sopra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:18.582122229Z",
+  "model": "glm-5.3"
+}

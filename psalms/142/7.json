@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 142,
+  "translation": "Porgi orecchio al mio grido, perché io sono molto abbattuto; strappami dai miei persecutori, perché sono più forti di me.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "pongi orecchio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "al mio grido"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "sono abbattuto"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "strappami"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "dai miei persecutori"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "sono forti"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "di me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:27.253422142Z",
+  "model": "glm-5.3"
+}

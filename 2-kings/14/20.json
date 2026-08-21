@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E lo portarono ⟨את⟩ lui sui cavalli, e fu sepolto in Gerusalemme con i suoi padri, nella città di Davide.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "e lo portarono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "i cavalli"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e fu sepolto"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Gerusalemme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:42.180409559Z",
+  "model": "glm-5.3"
+}

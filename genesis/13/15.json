@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Poiché ⟨את⟩ tutta la terra che tu vedi — a te la darò, e alla tua discendenza, per sempre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la terra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "la darò"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "e alla tua discendenza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:32.626457730Z",
+  "model": "glm-5.3"
+}

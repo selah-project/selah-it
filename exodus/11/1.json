@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E disse YHWH a Moshe: ancora un colpo ⟨uno⟩ porterò su Parò e su Mitzrajim; dopo questo vi manderà via di qui — quando vi manderà via, del tutto vi caccerà, del tutto vi caccerà di qui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "un colpo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨uno⟩"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "porterò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parò"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "vi manderà via"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vi",
+      "marks": "vi (manderà via di qui)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di qui"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "quando vi manderà via"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "del tutto"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "caccerà"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "del tutto caccerà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vi",
+      "marks": "vi (caccerà di qui)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di qui"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:23.238171140Z",
+  "model": "glm-5.3"
+}

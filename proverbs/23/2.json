@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "e metti un coltello alla tua gola, se sei uomo di appetito.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "e metti"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "un coltello"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "alla tua gola"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "uomo di"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "appetito"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sei tu"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:50.575764333Z",
+  "model": "glm-5.3"
+}

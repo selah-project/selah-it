@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E sappiate che YHWH ha distinto per sé il chassid; YHWH ascolta quando io grido a lui.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "E sappiate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ha distinto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "il chassid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "quando io grido"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:27.223249455Z",
+  "model": "glm-5.3"
+}

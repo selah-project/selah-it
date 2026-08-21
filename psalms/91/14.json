@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "«Poiché in me si è dilettato, io lo libererò; lo metterò in alto, perché ha conosciuto il mio Nome.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in me"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "si è dilettato"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "io lo libererò"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "lo metterò in alto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ha conosciuto"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio Nome"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:04.392837364Z",
+  "model": "glm-5.3"
+}

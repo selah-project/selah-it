@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E Saul prese tremila uomini scelti da tutto Israele e andò a cercare ⟨את⟩ Davide e i suoi uomini sulle rocce delle capre selvatiche.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "E prese"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tremila"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tremila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "scelti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "a cercare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "e i suoi uomini"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sui lati di (lett. « sul volto di »)"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "le rocce"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "delle capre selvatiche"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:03.356548662Z",
+  "model": "glm-5.3"
+}

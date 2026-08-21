@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E Giona pregò verso YHWH, il suo Elohim, dal ventre del pesce.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "e pregò"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Giona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "il suo Elohim"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "dal ventre"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "del pesce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:06.841298631Z",
+  "model": "glm-5.3"
+}

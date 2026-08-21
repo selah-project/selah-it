@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "YHWH ⟨è⟩ giusto in mezzo a lei, non farà torto; mattina per mattina il suo giudizio dà alla luce, non manca, e l'ingiusto non conosce vergogna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in mezzo a lei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "torto"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mattina"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "per mattina"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "il suo giudizio"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "alla luce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "manca"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "עול",
+      "gloss": "l'ingiusto"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "vergogna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:40:26.398463207Z",
+  "model": "glm-5.3"
+}

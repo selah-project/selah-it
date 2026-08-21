@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E si prostrò e disse: che ⟨è⟩ il tuo servo, che tu hai guardato verso il cane morto, che è come me?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "e si prostrò"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "hai guardato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "il cane"
+    },
+    {
+      "surface": "המת",
+      "gloss": "morto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "come me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:25.147775877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Obed generò ⟨את⟩ Iehu, e Iehu generò ⟨את⟩ Azaria.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Iehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "e Iehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:57.719367622Z",
+  "model": "glm-5.3"
+}

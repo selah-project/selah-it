@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E ⟨את⟩ Hamor e ⟨את⟩ Shekhem suo figlio uccisero al filo della spada; e presero ⟨את⟩ Dinah dalla casa di Shekhem, e uscirono.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "uccisero"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo di"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "spada"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "e presero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa di"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "e uscirono"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:51.741789743Z",
+  "model": "glm-5.3"
+}

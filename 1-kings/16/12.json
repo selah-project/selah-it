@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Così distrusse Zimri ⟨את⟩ tutta la casa di Baasha, secondo la parola di YHWH, che egli aveva parlato a Baasha per mano di Yehu il profeta.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "e così distrusse"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la casa di Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "di Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "di Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:19.036363514Z",
+  "model": "glm-5.3"
+}

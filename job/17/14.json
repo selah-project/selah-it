@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Alla fossa ho gridato: « ⟨tu sei⟩ mio padre! » — alla tomba: « mia madre e mia sorella! »",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "alla fossa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ho gridato"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "« ⟨tu sei⟩ »"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mia madre"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "e mia sorella"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "alla tomba"
+    }
+  ],
+  "timestamp": "2026-08-21T09:17:29.014875693Z",
+  "model": "glm-5.3"
+}

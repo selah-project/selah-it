@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E il popolo udì ⟨את⟩ questa parola cattiva, e fece lutto, e nessuno mise su di sé i suoi ornamenti.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa parola cattiva"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "cattiva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "e fece lutto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "mise"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nessuno"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "i suoi ornamenti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di sé"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:22.360867138Z",
+  "model": "glm-5.3"
+}

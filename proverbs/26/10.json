@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Grande è colui che tutto forma: egli ripaga lo stolto e ripaga i trasgressori.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Grande"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "colui che forma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "e ripaga"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "lo stolto"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "e ripaga"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "i trasgressori"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:07.168778098Z",
+  "model": "glm-5.3"
+}

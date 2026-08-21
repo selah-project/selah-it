@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E disse il re: fatti da parte, stattene qui. Ed ⟨egli⟩ si fece da parte e stette fermo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "סב",
+      "gloss": "fatti da parte"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "stattene"
+    },
+    {
+      "surface": "כה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "e si fece da parte"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e stette fermo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:03.855230055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E osserverete ⟨את⟩ le mie chukkot e ⟨את⟩ le mie mishpatim, che l'uomo farà ⟨אתם⟩ e vivrà in esse: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "e osserverete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mie chukkot"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "le mie chukkot (statuti)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le mie mishpatim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "le mie mishpatim (norme di diritto)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "farà"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "e vivrà"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in esse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:43.899188535Z",
+  "model": "glm-5.3"
+}

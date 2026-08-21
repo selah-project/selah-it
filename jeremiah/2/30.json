@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Invano ho colpito ⟨את⟩ i vostri figli: non hanno accolto la correzione. La vostra spada ha divorato i vostri profeti, come un leone distruttore.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "invano"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ho colpito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri figli"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "i vostri figli"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "la correzione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "hanno accolto"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ha divorato"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "la vostra spada"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "i vostri profeti"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "come un leone"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "distruttore"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:22.992868641Z",
+  "model": "glm-5.3"
+}

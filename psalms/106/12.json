@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E credettero nella sua parola, cantarono la sua lode.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "e credettero"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "nella sua parola"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "cantarono"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "la sua lode"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:32.810572104Z",
+  "model": "glm-5.3"
+}

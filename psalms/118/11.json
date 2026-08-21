@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Mi hanno circondato, sì, mi hanno circondato; nel Nome di YHWH ⟨io⟩ li reciderò ⟨da me⟩.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Mi hanno circondato"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sì"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mi hanno circondato"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨io⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "li reciderò"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:04.513182613Z",
+  "model": "glm-5.3"
+}

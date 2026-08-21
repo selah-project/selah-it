@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 17:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Ed ecco, trapiantata — prospererà? Quando il vento d'oriente la toccherà, non seccherà del tutto? Sulle aiole del suo germoglio seccherà.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "trapiantata"
+    },
+    {
+      "surface": "התצלח",
+      "gloss": "prospererà?"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non...?"
+    },
+    {
+      "surface": "כגעת",
+      "gloss": "quando toccherà"
+    },
+    {
+      "surface": "בה",
+      "gloss": "la"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il vento"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "d'oriente"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "seccherà"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "del tutto"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ערגת",
+      "gloss": "le aiole"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "del suo germoglio"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "seccherà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:20:59.838484953Z",
+  "model": "glm-5.3"
+}

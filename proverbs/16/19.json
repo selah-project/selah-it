@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Meglio ⟨essere⟩ umile di spirito con ⟨את⟩ gli umili che spartire ⟨את⟩ il bottino con ⟨את⟩ i superbi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "umile"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "di spirito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli umili"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "gli umili"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "spartire"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "il bottino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i superbi"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "i superbi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:10.919155240Z",
+  "model": "glm-5.3"
+}

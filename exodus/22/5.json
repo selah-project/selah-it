@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se esce un fuoco e trova ⟨i⟩ cardi, e ne è consumato un mucchio di grano oppure ⟨il⟩ grano in piedi oppure ⟨il⟩ campo, pieno risarcimento pagherà chi ha appiccato ⟨את⟩ l'incendio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "esce"
+    },
+    {
+      "surface": "אש",
+      "gloss": "un fuoco"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "e trova"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "cardi"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "e ne è consumato"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "un mucchio di grano"
+    },
+    {
+      "surface": "או",
+      "gloss": "oppure"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "il grano in piedi"
+    },
+    {
+      "surface": "או",
+      "gloss": "oppure"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pieno risarcimento"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pagherà"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "chi ha appiccato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'incendio"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "l'incendio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:40.066318479Z",
+  "model": "glm-5.3"
+}

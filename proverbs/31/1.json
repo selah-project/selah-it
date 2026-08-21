@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Parole di Lemuel, re: un masso ⟨che⟩ sua madre gli insegnò.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Parole"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "משא",
+      "gloss": "un masso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "gli insegnò"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:37.460711070Z",
+  "model": "glm-5.3"
+}

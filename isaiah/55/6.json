@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Cercate YHWH mentre si lascia trovare, invocatelo mentre ⟨è⟩ vicino.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Cercate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "mentre si lascia trovare"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "invocatelo"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "mentre ⟨è⟩"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "vicino"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:16.375286437Z",
+  "model": "glm-5.3"
+}

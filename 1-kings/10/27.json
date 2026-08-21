@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E il re rese ⟨את⟩ l'argento a Gerusalemme come le pietre, e ⟨את⟩ i cedri rese come i sicomori che ⟨sono⟩ nella Shefela, in abbondanza.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "rese"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'argento"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argento"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "come le pietre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i cedri"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "i cedri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rese"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "come i sicomori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "nella Shefela"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in abbondanza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:30.580649096Z",
+  "model": "glm-5.3"
+}

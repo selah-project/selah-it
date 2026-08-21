@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E mandai davanti a voi ⟨את⟩ lo tsir'a, che li scacciò davanti a voi — i due re dell'Emoreo — non con la tua spada e non con il tuo arco.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandai"
+    },
+    {
+      "surface": "וישלח-לפניכם",
+      "gloss": "davanti a voi",
+      "note": "fuso"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo tsir'a"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "lo tsir'a"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "⟨את⟩ e scacciò"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "davanti a voi"
+    },
+    {
+      "surface": "אותם-מפניכם",
+      "gloss": "davanti a voi",
+      "note": "fuso"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i due"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "re dell'"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoreo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "con la tua spada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "con il tuo arco"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:40.390551021Z",
+  "model": "glm-5.3"
+}

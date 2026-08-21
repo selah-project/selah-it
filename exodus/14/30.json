@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E YHWH salvò in quel giorno ⟨את⟩ Israele dalla mano d'Egitto; e Israele vide ⟨את⟩ l'Egitto morto sulla sponda del mare.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "E salvò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morto"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "la sponda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "del mare"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:00.251315209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Zampillino le mie labbra ⟨la⟩ lode, perché mi insegni i tuoi statuti.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "zampillino"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "le mie labbra"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lode"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "mi insegni"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i tuoi statuti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:08.355475910Z",
+  "model": "glm-5.3"
+}

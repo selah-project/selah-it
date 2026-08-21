@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Dietro e davanti mi hai cinto, e hai posto su di me il Tuo palmo.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Dietro"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "e davanti"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "mi hai cinto"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "e hai posto"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "il Tuo palmo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:59.026381262Z",
+  "model": "glm-5.3"
+}

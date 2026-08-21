@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Bat-Sheva entrò dal re, nella stanza interna; il re era molto vecchio, e Abishag la shunammita serviva ⟨את⟩ il re.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ed entrò"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "nella stanza interna"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "era vecchio"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "e Abishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "la shunammita"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "serviva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:13.146640192Z",
+  "model": "glm-5.3"
+}

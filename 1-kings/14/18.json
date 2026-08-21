@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E lo seppellirono ⟨את⟩, e fecero lutto per lui tutto Israele, secondo la parola di YHWH che aveva parlato per mano del suo servo Achiya il profeta.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "e lo seppellirono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (il ragazzo morto)"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "e fecero lutto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "del suo servo"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "il profeta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:58.532039363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Il cuore dell'uomo medita la sua via, ma YHWH rende fermo il suo passo.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "medita"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "la sua via"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ma YHWH"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "rende fermo"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "il suo passo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:53.584165636Z",
+  "model": "glm-5.3"
+}

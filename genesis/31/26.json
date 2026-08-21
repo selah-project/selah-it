@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E Lavan disse a Yaakov: che cosa hai fatto? Hai rubato ⟨את⟩ il mio cuore e hai condotto via ⟨את⟩ le mie figlie come prigioniere di spada!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "a Yaakov"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "hai rubato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio cuore"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "hai condotto via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mie figlie"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "le mie figlie"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "come prigioniere"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "di spada"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:10.078343259Z",
+  "model": "glm-5.3"
+}

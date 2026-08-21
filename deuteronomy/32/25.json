@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Di fuori la spada renderà senza figli, e nelle stanze interne ⟨c'è⟩ terrore: sia il giovane sia la vergine, il lattante insieme all'uomo dai capelli grigi.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "di fuori"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "renderà senza figli"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "e nelle stanze interne"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "terrore"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "il giovane"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "la vergine"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "il lattante"
+    },
+    {
+      "surface": "עם",
+      "gloss": "insieme a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "all'uomo"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "dai capelli grigi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:06.052489389Z",
+  "model": "glm-5.3"
+}

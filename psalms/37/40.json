@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E YHWH li aiuta e li libera, li libera dai malvagi e li salva, perché si rifugiano in lui.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "e li aiuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "e li libera"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "li libera"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "dai malvagi"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "e li salva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "si rifugiano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:28.860790782Z",
+  "model": "glm-5.3"
+}

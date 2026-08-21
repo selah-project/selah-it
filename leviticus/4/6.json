@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E il sacerdote intingerà ⟨את⟩ il suo dito nel sangue e aspergerà del sangue sette volte ⟨את⟩ davanti a YHWH, davanti alla faccia del velo del santuario.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "e intingerà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo dito"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "il suo dito"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nel sangue"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "e aspergerà"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sette"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "volte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ davanti a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "alla faccia"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "del velo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santuario"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:23.143504535Z",
+  "model": "glm-5.3"
+}

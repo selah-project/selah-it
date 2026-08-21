@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E li benedisse Elohim, dicendo: fruttificate e moltiplicatevi e riempite ⟨את⟩ le acque nei mari, e l'uccello moltiplichi sulla terra.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "e li benedisse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (i creature acquatiche e gli uccelli)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "fruttificate"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "e moltiplicatevi"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e riempite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le acque"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nei mari"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "e l'uccello"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "moltiplichi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:26.201166074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Ma io ⟨sono⟩ come un olivo verdeggiante nella casa di Elohim; ho confidato nel chesed di Elohim, per sempre e in eterno.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "come un olivo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "verdeggiante"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ho confidato"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "nel chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:23.388215431Z",
+  "model": "glm-5.3"
+}

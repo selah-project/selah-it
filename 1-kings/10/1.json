@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E la regina di Sheba udì ⟨את⟩ la fama di Shelomoh, per il Nome di YHWH, e venne per metterlo alla prova con enigmi.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "E la regina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "di Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "udì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fama"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "la fama"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "per il Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "per metterlo alla prova"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "con enigmi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:10.347019944Z",
+  "model": "glm-5.3"
+}

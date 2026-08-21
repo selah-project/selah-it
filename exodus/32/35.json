@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E colpì YHWH ⟨את⟩ il popolo, perché avevano fatto ⟨את⟩ il vitello che aveva fatto Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "avevano fatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il vitello"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "il vitello"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-21T06:06:06.464153942Z",
+  "model": "glm-5.3"
+}

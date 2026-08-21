@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E il sacerdote prenderà dal log di olio e verserà sul palmo della mano del sacerdote, la sinistra.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "e prenderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "dal log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "dell'olio"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "e verserà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כף",
+      "gloss": "il palmo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "del sacerdote"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "la sinistra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:09.715464960Z",
+  "model": "glm-5.3"
+}

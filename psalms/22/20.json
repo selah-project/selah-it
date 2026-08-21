@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E tu, YHWH, non allontanarti; mia forza, accorri in mio aiuto.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "allontanarti"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "mia forza"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "in mio aiuto"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "accorri"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:57.043011309Z",
+  "model": "glm-5.3"
+}

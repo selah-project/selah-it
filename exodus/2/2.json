@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E la donna concepì e partorì un figlio; e vide ⟨את⟩ lui, che buono ⟨era⟩, e lo nascose tre mesi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "e concepì"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨era⟩ lui"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "e lo nascose"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "mesi lunari"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:49.362696896Z",
+  "model": "glm-5.3"
+}

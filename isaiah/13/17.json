@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Ecco, io desto contro di loro i Maditi, ⟨את⟩ i Medi — che non stimano ⟨il⟩ denaro e non si dilettano dell'oro.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ecco, io"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "desto"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "contro di loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Maditi, i Medi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "i Medi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "denaro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "stimano"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e l'oro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "si dilettano"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di esso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:32.449440474Z",
+  "model": "glm-5.3"
+}

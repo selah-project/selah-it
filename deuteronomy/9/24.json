@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ribelli siete stati con YHWH, dal giorno in cui vi ho conosciuti ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "ribelli"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "siete stati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "dal giorno"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "in cui ho conosciuti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vi ⟨את⟩",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:44.229303532Z",
+  "model": "glm-5.3"
+}

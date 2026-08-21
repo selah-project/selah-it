@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Ecco, sulle palme ⟨delle mie mani⟩ ti ho inciso; le tue mura sono sempre davanti a me.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "le palme ⟨delle mie mani⟩"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "ti ho inciso"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "le tue mura"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:27.748196780Z",
+  "model": "glm-5.3"
+}

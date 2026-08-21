@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Un figlio saggio rallegra ⟨il⟩ padre, ma lo stolto disprezza sua madre.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "rallegra"
+    },
+    {
+      "surface": "אב",
+      "gloss": "padre"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ma lo stolto"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨uomo⟩"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "disprezza"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:53.792059476Z",
+  "model": "glm-5.3"
+}

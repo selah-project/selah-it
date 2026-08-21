@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Lo stoltoabbraccia ⟨את⟩ le sue mani e divora ⟨את⟩ la sua carne.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "lo stolto"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "abbraccia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue mani"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "le sue mani"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "e divora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua carne"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:21.835238809Z",
+  "model": "glm-5.3"
+}

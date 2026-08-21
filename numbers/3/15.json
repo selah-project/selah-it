@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Fa' il censimento dei figli di Levi secondo ⟨la⟩ casa dei loro padri, secondo le loro famiglie: ogni maschio dall'età di un mese e in su lo censirai.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "censisci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli di Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "secondo la casa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dei loro padri"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "secondo le loro famiglie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "dall'età di"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "un mese"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e in su"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "lo censirai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:05.786740339Z",
+  "model": "glm-5.3"
+}

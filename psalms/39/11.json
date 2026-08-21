@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Rimuovi da su di me il tuo colpo; dal contrasto della tua mano io sono finito.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "rimuovi"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "da su di me"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "il tuo colpo"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "dal contrasto"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "della tua mano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "sono finito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:52.201943926Z",
+  "model": "glm-5.3"
+}

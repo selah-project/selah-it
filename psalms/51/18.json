@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Poiché non desideri sacrificio, ⟨altrimenti⟩ lo darei; l'olà non ti compiaci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "desideri"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrificio"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "lo darei"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "l'olà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ti compiaci"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:51.465497911Z",
+  "model": "glm-5.3"
+}

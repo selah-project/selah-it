@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non arerai con bue e con asino insieme.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "arerai"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "con bue"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "e con asino"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:17.190595023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E il re d'Israele disse: prendete ⟨את⟩ Mikajahu e riportatelo ad Amon, capo della città, e a Ioash figlio del re.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikajahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "e riportatelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Ioash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:44.878162525Z",
+  "model": "glm-5.3"
+}

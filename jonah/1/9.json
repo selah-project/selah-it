@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse loro: «Ebreo sono io, e ⟨את⟩ YHWH, Elohim dei cieli, io temo — Colui che fece ⟨את⟩ il mare e ⟨את⟩ la terra asciutta».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ebreo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sono io"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "temo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Colui che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mare"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la terra asciutta"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "la terra asciutta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:23.410152648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Onora ⟨את⟩ tuo padre e ⟨את⟩ tua madre, perché si prolunghino i tuoi giorni sul suolo che YHWH ⟨il tuo⟩ Elohim ti dà.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Onora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuo padre"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tua madre"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tua madre"
+    },
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "si prolunghino"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "i tuoi giorni"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "il suolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨il tuo⟩ Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti dà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:28.745627835Z",
+  "model": "glm-5.3"
+}

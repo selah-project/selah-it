@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E queste ⟨sono⟩ le generazioni di Isacco, figlio di Abramo: Abramo generò ⟨את⟩ Isacco.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e queste"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "le generazioni di"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isacco"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isacco"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isacco"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:58.727487513Z",
+  "model": "glm-5.3"
+}

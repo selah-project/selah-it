@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E vide Giacobbe che c'era grano in Egitto, e disse Giacobbe ai suoi figli: perché vi guardate l'un l'altro?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "grano"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ai suoi figli"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "vi guardate"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:51.400302191Z",
+  "model": "glm-5.3"
+}

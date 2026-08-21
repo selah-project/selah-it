@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 16:15",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Nell'anno ventisettesimo di Asa, re di Giuda, regnò Zimri sette giorni a Tirtsah; e il popolo era accampato contro Giveton, che appartiene ai Filistei.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e sette"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "di anno"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "di Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regnò"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "a Tirtsah"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "e il popolo"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "era accampato"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Giveton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "appartiene ai Filistei"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:14.046765644Z",
+  "model": "glm-5.3"
+}

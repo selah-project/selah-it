@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "che hai custodito al tuo servo Davide, mio padre, ⟨את⟩ ciò che gli hai parlato: con la tua bocca hai parlato, e con la tua mano hai compiuto, come in questo giorno.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "hai custodito"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "al tuo servo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che gli hai parlato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "hai parlato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "e hai parlato"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "con la tua bocca"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "e con la tua mano"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "hai compiuto"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:34.506703611Z",
+  "model": "glm-5.3"
+}

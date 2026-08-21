@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E la donna prese e stese ⟨את⟩ la coperta sulla bocca del pozzo, e vi sparse sopra il grano pestato, e nulla fu conosciuto.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "E prese"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "e stese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la coperta"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "la coperta"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "del pozzo"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "e sparse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "il grano pestato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "fu conosciuto"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nulla"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:22.693355881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 147,
+  "translation": "Non nella forza del cavallo si compiace, non nelle gambe dell'uuo ha favore.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "nella forza"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "del cavallo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "si compiace"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "nelle gambe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ha favore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:41.176869272Z",
+  "model": "glm-5.3"
+}

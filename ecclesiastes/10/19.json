@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Per il riso fanno ⟨un banchetto⟩, e il vino rallegra la vita, e l'argento risponde ⟨a⟩ tutto.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "per il riso"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "fanno"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨un banchetto⟩ (pane)"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "e il vino"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "rallegra"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la vita"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "e l'argento"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "risponde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tutto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:29.260687473Z",
+  "model": "glm-5.3"
+}

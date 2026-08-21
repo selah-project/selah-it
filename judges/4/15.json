@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 4:15",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E YHWH sconfisse ⟨את⟩ Sisera e ⟨את⟩ tutti i carri e ⟨את⟩ tutto il campo, al filo della spada, davanti a Barak; e Sisera scese dal carro e fuggì a piedi.",
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "e sconfisse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i carri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "i carri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il campo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "della spada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "da"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "sul carro"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "e fuggì"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "a piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:59:10.803078142Z",
+  "model": "glm-5.3"
+}

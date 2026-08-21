@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Temete ⟨את⟩ YHWH, santi suoi, perché non v'è mancanza per quelli che lo temono.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Temete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "santi suoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non v'è"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "mancanza"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "per quelli che lo temono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:19.354059474Z",
+  "model": "glm-5.3"
+}

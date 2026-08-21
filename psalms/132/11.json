@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "YHWH ha giurato a Davide ⟨in⟩ verità, non se ne tornerà da essa: « Dal frutto del tuo grembo porrò sul trono per te ».",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ha giurato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "in verità"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se ne tornerà"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "da essa"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "dal frutto"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "del tuo grembo"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "porrò"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "sul trono"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:41.610307830Z",
+  "model": "glm-5.3"
+}

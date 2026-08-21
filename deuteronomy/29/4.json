@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E vi ho fatto camminare ⟨את⟩ quarant'anni nel deserto: ⟨i⟩ vostri vestiti non si sono consumati addosso a voi, e ⟨il⟩ vostro sandalo non si è consumato sul vostro piede.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "e vi ho fatto camminare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "quarant'anni nel deserto"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quaranta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "si sono consumati"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "i vostri vestiti"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "addosso a voi"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "e il vostro sandalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "si è consumato"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "il vostro piede"
+    }
+  ],
+  "timestamp": "2026-08-21T10:06:51.582243799Z",
+  "model": "glm-5.3"
+}

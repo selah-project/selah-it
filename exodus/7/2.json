@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Tu parlerai ⟨את⟩ tutto ciò che ti comanderò, e Aharon tuo fratello parlerà a Faraone, ed ⟨את⟩ egli manderà i figli d'Israele fuori dalla sua terra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "parlerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ti comanderò"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parlerà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "e manderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dalla sua terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:18.954369038Z",
+  "model": "glm-5.3"
+}

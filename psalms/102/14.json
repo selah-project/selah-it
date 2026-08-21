@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Tu ti leverai, avrai compassione di Tzion, perché ⟨è⟩ tempo di favorirla, perché il tempo fissato è venuto.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ti leverai"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "avrai compassione"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "di Tzion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tempo"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "di favorirla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "בא",
+      "gloss": "è venuto"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "il tempo fissato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:47.543099083Z",
+  "model": "glm-5.3"
+}

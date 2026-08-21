@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E salverà YHWH ⟨את⟩ le tende di Giuda per primo, perché la magnificenza della casa di Davide e la magnificenza di chi abita a Gerusalemme non si innalzi su Giuda.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "e salverà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le tende di Giuda"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "le tende di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "per primo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "si innalzi"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "la magnificenza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa di"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "e la magnificenza di"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "chi abita"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:48.598160753Z",
+  "model": "glm-5.3"
+}

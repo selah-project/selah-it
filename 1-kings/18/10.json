@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Vivo ⟨è⟩ YHWH, ⟨il⟩ tuo Elohim, che se c'è nazione e regno dove il mio signore non abbia mandato a cercarti, e hanno detto: non c'è; e ha fatto giurare ⟨את⟩ il regno e ⟨את⟩ la nazione che non ti avrebbero trovato —",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "vivo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "che se"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nazione"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "e regno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "abbia mandato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "il mio signore"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "a cercarti"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e hanno detto"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "e ha fatto giurare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il regno"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la nazione"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "la nazione"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "ti avrebbero trovato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:46.745757154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Figlio mio, custodisci le mie parole e i miei comandamenti nascondili presso di ⟨את⟩te.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Figlio mio"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "custodisci"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e i miei comandamenti"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "nascondili"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩te",
+      "marks": "te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:04.662922106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 98,
+  "translation": "Mizmor. Cantate a YHWH un canto nuovo, perché ha fatto meraviglie; gli ha dato vittoria la sua destra e il suo braccio santo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor (salmo strumentale)"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un canto"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuovo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "meraviglie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ha dato vittoria \/ ha salvato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "la sua destra"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "e il suo braccio"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santo (il suo)"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:17.746049914Z",
+  "model": "glm-5.3"
+}

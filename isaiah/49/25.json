@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Poiché così ha detto YHWH: perfino il prigioniero del guerriero sarà preso, e la preda del tiranno sarà liberata; e ⟨con⟩ chi contende con te ⟨io⟩ contenderò, e i tuoi figli ⟨io⟩ salverò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "perfino"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "il prigioniero"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "del guerriero"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sarà preso"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "e la preda"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "del tiranno"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sarà liberata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chi contende con te"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "chi contende con te"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "contenderò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi figli"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "i tuoi figli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "salverò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:53.480749114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 5:17",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Tutti loro furono iscritti genealogicamente nei giorni di Iotam, re di Giuda, e nei giorni di Ieroboam, re d'Israele.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tutti loro"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "furono iscritti genealogicamente"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nei giorni di"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Iotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "e nei giorni di"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Ieroboam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:46:48.904889148Z",
+  "model": "glm-5.3"
+}

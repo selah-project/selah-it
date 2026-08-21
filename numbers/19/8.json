@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E colui che la brucia laverà le sue vesti nell'acqua e bagnerà la sua carne nell'acqua, e ⟨sarà⟩ impuro fino alla sera.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "e colui che brucia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lei",
+      "marks": "la giovenca (oggetto del participio השרף)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e bagnerà"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e ⟨sarà⟩ impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "la sera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:50.416786413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "I peccati della mia giovinezza e le mie ribellioni non ricordare; secondo il tuo chesed ricordati di me, tu, per amore della tua bontà, o YHWH.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "i peccati"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "della mia giovinezza"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "e le mie ribellioni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ricordare"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "secondo il tuo chesed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ricordati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "di me"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "la tua bontà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:18.270812225Z",
+  "model": "glm-5.3"
+}

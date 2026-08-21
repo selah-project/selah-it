@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "«Perché il tuo servo ha votato un voto mentre dimoravo a Ghesur, in Aram, dicendo: se YHWH mi farà tornare — sì, mi farà tornare — a Gerusalemme, allora io servirò ⟨את⟩ YHWH».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "un voto"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ha votato"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "mentre dimoravo"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "a Ghesur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "in Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "farà tornare (sì)"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "mi farà tornare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "allora servirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:20:07.229042576Z",
+  "model": "glm-5.3"
+}

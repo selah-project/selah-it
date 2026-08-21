@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "YHWH apre ⟨gli occhi⟩ dei ciechi; YHWH rialza i curvati; YHWH ama i giusti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "apre"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "i ciechi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "rialza"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "i curvati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:14.336683814Z",
+  "model": "glm-5.3"
+}

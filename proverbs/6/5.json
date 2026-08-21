@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Liberati come la gazzella dalla mano, e come l'uccello dalla mano del fowler.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "liberati"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "come la gazzella"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "e come l'uccello"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "del cacciatore d'uccelli (fowler)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:02.929030426Z",
+  "model": "glm-5.3"
+}

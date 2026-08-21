@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Nel tuo nome esultano tutto il giorno, e nella tua giustizia ⟨sono⟩ innalzati.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "nel tuo nome"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "esultano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "e nella tua giustizia"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "sono innalzati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:16.603377541Z",
+  "model": "glm-5.3"
+}

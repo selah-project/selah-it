@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E fece salire le lampade davanti a YHWH, come YHWH aveva comandato ⟨את⟩ Mosè.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "fece salire"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "le lampade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:26.402116381Z",
+  "model": "glm-5.3"
+}

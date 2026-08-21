@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Custodisci la tua lingua dal male, e le tue labbra dal parlare inganno.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "custodisci"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "la tua lingua"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dal male"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "e le tue labbra"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dal parlare"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "inganno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:27.508164271Z",
+  "model": "glm-5.3"
+}

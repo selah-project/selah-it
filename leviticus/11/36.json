@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Soltanto fonte e pozzo, raccolta di acqua, sarà ⟨puro⟩; ma chi tocca la loro carogna sarà impuro.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "fonte"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "e pozzo"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "raccolta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "di acqua"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ma chi tocca"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "la loro carogna"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sarà impuro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:14.111608967Z",
+  "model": "glm-5.3"
+}

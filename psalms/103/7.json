@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Fa conoscere le sue vie a Mosè, ai figli d'Israele le sue opere.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "fa conoscere"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "le sue vie"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "a Mosè"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "le sue opere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:49.411474736Z",
+  "model": "glm-5.3"
+}

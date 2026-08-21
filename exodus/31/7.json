@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "⟨את⟩ la tenda del convegno, e ⟨את⟩ l'arca della testimonianza, e ⟨את⟩ il coperchio che è su di essa, e ⟨את⟩ tutti gli utensili della tenda —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tenda del convegno"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "della testimonianza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il coperchio"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "il coperchio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "è su di essa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti gli utensili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gli utensili"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "della tenda"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:44.919025227Z",
+  "model": "glm-5.3"
+}

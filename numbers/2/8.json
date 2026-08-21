@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e il suo esercito e i suoi contati: cinquantasettemila e quattrocento.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "e il suo esercito"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "e i suoi contati"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sette"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e cinquanta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "migliaia"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e quattro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centinaia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:55.604499630Z",
+  "model": "glm-5.3"
+}

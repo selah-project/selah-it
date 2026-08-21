@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E porteranno ⟨את⟩ le cortine del mishkan (tabernacolo) e ⟨את⟩ la tenda dell'incontro, la sua copertura e la copertura di tachash che ⟨è⟩ su di essa, di sopra, e ⟨את⟩ la cortina dell'ingresso della tenda dell'incontro.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "e porteranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cortine del mishkan"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "le cortine"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "del mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la tenda dell'incontro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "dell'incontro"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "la sua copertura"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "e la copertura"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "di tachash"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "di sopra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la cortina dell'ingresso"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "la cortina"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dell'ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "dell'incontro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:24:25.545448106Z",
+  "model": "glm-5.3"
+}

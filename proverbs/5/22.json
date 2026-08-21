@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Le sue iniquità lo cattureranno, ⟨l'⟩empio, e con le corde del suo peccato ⟨egli⟩ sarà trattenuto.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "le sue iniquità"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "lo cattureranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'empio"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "l'empio"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "e con le corde di"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "il suo peccato"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "sarà trattenuto"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:54.994872571Z",
+  "model": "glm-5.3"
+}

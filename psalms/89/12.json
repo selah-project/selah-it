@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": " tuoi ⟨sono⟩ i cieli, anche tua ⟨è⟩ la terra; il mondo e la sua pienezza — tu li hai fondati.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tuoi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tua"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "il mondo"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "e la sua pienezza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "li hai fondati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:33.249905029Z",
+  "model": "glm-5.3"
+}

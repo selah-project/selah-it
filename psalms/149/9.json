@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 149,
+  "translation": "per compiere su di loro ⟨il⟩ giudizio scritto: splendore, esso ⟨è⟩ per tutti i suoi fedeli. Lodate Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "per compiere"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "giudizio"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "scritto"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "splendore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "i suoi fedeli"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:33.857005075Z",
+  "model": "glm-5.3"
+}

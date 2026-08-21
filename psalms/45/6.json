@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Le tue frecce ⟨sono⟩ acute — popoli sotto di te cadranno — nel cuore dei nemici del re.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "le tue frecce"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "⟨sono⟩ acute"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoli"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sotto di te"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "cadranno"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "nel cuore"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dei nemici"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:37.214729567Z",
+  "model": "glm-5.3"
+}

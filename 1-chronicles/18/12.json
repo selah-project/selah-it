@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Avishai figlio di Tzeruyah colpì ⟨את⟩ Edom nella valle del Sale: diciottomila.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "E Avishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "di Tzeruyah"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "colpì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "nella valle"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "del Sale"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "diciotto"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "[diciotto]"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    }
+  ],
+  "timestamp": "2026-08-21T09:51:20.046088404Z",
+  "model": "glm-5.3"
+}

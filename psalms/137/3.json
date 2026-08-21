@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 137,
+  "translation": "Poiché là ci chiesero i nostri deportatori parole di canto, e i nostri devastatori ⟨ci chiesero⟩ gioia: « Cantateci un canto di Tzion ».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "ci chiesero"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "i nostri deportatori"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "parole di"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "e i nostri devastatori"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gioia"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "cantate"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci (a noi)"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "un canto di"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:14.705013231Z",
+  "model": "glm-5.3"
+}

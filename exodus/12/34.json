@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E il popolo portò su ⟨את⟩ la sua pasta prima che lievitasse, le sue madie avvolte nei loro mantelli sulle loro spalle.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "portò su"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua pasta"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "la sua pasta"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "prima che"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "lievitasse"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "le loro madie"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "avvolte"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "nei loro mantelli"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "le loro spalle"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:38.370630337Z",
+  "model": "glm-5.3"
+}

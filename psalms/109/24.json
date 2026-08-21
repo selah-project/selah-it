@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Le mie ginocchia vacillano per il digiuno, e la mia carne è dimagrita, priva di grasso.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "le mie ginocchia"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "vacillano"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "per il digiuno"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "e la mia carne"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "è dimagrita"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "di grasso"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:50.469827132Z",
+  "model": "glm-5.3"
+}

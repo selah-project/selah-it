@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse YHWH a ha-satan: «Da dove vieni?». E rispose ha-satan ⟨את⟩ YHWH e disse: «Dal percorrere la terra e dal vagare in essa».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "da dove"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "vieni"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "dal percorrere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "e dal vagare"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:23.799836822Z",
+  "model": "glm-5.3"
+}

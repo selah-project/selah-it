@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E se un uomo colpisce ⟨את⟩ l'occhio del suo schiavo o ⟨את⟩ l'occhio della sua schiava e lo distrugge, lo rimanderà libero in cambio del suo occhio.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "colpisce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'occhio del suo schiavo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'occhio"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "del suo schiavo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'occhio della sua schiava"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'occhio"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "della sua schiava"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "e lo distrugge"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "libero"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "lo rimanderà"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "del suo occhio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:02.948100951Z",
+  "model": "glm-5.3"
+}

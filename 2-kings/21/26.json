@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E lo seppellirono ⟨אתו⟩ nella sua sepoltura, nel giardino di Uzza; e regnò Gioshiahu suo figlio al posto suo.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "e lo seppellirono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lui (Amon)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "nella sua sepoltura"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nel giardino"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "di Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e regnò"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Gioshiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "al posto suo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:47.800234763Z",
+  "model": "glm-5.3"
+}

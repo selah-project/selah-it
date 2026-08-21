@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Panna e miele mangerà, per sapere rifiutare il male e scegliere il bene.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "Panna"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e miele"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "per sapere"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "rifiutare"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "il male"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "e scegliere"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "il bene"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:34.561820199Z",
+  "model": "glm-5.3"
+}

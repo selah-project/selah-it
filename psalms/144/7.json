@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "Stendi le tue mani dall'alto; strappami e liberami dalle acque grandi, dalla mano dei figli di stranieri.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "stendi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "le tue mani"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "dall'alto"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "strappami"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "e liberami"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "dalle acque"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "di stranieri"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:59.058859167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "le taglierai ⟨את⟩ la mano: il tuo occhio non avrà pietà.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "le taglierai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mano"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "avrà pietà"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "il tuo occhio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:21.405952935Z",
+  "model": "glm-5.3"
+}

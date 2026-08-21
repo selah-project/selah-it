@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Fammi udire gioia ed esultanza, esultino le ossa che hai spezzato.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "fammi udire"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gioia"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ed esultanza"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "esultino"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "le ossa"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "che hai spezzato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:27.927835693Z",
+  "model": "glm-5.3"
+}

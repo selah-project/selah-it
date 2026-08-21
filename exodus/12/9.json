@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Non ne mangiate nulla di crudo, né cotto in acqua bollita, ma arrosto al fuoco: la testa sulle sue gambe e sul suo interno.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangiate"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da esso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "crudo"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "né cotto"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "bollito"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in acqua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "arrosto"
+    },
+    {
+      "surface": "אש",
+      "gloss": "al fuoco"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "le sue gambe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "il suo interno"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:25.326205498Z",
+  "model": "glm-5.3"
+}

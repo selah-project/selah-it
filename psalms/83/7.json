@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Le tende di Edom e gli Ismaeliti, Moab e gli Hagareni,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Le tende di"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "e gli Ismaeliti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "e gli Hagareni"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:29.970687013Z",
+  "model": "glm-5.3"
+}

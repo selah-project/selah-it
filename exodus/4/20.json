@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E prese Moshe ⟨את⟩ sua moglie e ⟨את⟩ i suoi figli e li fece salire sull'asino, e tornò verso il paese d'Egitto; e prese Moshe ⟨את⟩ il bastore dell'Elohim in mano sua.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sua moglie"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "li fece salire in groppa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sull'"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "asino"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "verso il paese"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bastone"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "il bastone"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in mano sua"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:32.070960951Z",
+  "model": "glm-5.3"
+}

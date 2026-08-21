@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E disse Yehudah ai suoi fratelli: « Che guadagno ⟨c'è⟩ se uccidiamo ⟨את⟩ nostro fratello e copriamo ⟨את⟩ il suo sangue?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "guadagno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "uccidiamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nostro fratello"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "nostro fratello"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "e copriamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo sangue"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "il suo sangue"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:39.220163450Z",
+  "model": "glm-5.3"
+}

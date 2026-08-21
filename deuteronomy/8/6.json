@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E custodirai ⟨את⟩ i comandamenti di YHWH il tuo Elohim, per camminare nelle sue vie e per temere ⟨את⟩lui.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "e custodirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i comandamenti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "i comandamenti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "per camminare"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "nelle sue vie"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "e per temere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩lui",
+      "marks": "lui (YHWH)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:41.669892187Z",
+  "model": "glm-5.3"
+}

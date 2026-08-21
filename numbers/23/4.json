@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E Elohim venne incontro a Bilam, e ⟨egli⟩ gli disse: ⟨את⟩ i sette altari ho disposto, e ho fatto salire un toro e un ariete sull'altare.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "venne incontro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i sette altari"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i sette"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ho disposto"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "e ho fatto salire"
+    },
+    {
+      "surface": "פר",
+      "gloss": "un toro"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "e un ariete"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sull'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:08.889450760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E il popolo rispose e disse: «Lungi da noi abbandonare ⟨את⟩ YHWH per servire elohim altri.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "lungi da noi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "da noi"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "abbandonare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "per servire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "altri"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:43.160442081Z",
+  "model": "glm-5.3"
+}

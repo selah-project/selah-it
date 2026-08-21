@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Gli arroganti mi hanno schernito ⟨fino all'eccesso⟩, ma dalla tua Torah non mi sono deviato.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Gli arroganti"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "mi hanno schernito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨fino⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "all'eccesso"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "dalla tua Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "mi sono deviato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:21.100967311Z",
+  "model": "glm-5.3"
+}

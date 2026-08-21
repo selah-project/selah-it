@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "Lodate Yah, lodate ⟨את⟩ YHWH dai cieli, lodatelo nelle altezze.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cieli"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "nelle altezze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:07.290797352Z",
+  "model": "glm-5.3"
+}

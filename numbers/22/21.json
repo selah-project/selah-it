@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E si alzò Bilam la mattina e sellò ⟨את⟩ la sua asina e andò con i principi di Moav.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "e sellò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua asina"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "la sua asina"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i principi di"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:38.811902126Z",
+  "model": "glm-5.3"
+}

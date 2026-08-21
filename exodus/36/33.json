@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "E fece ⟨את⟩ la sbarra mediana, per attraversare in mezzo alle assi, da ⟨un⟩ capo all'⟨altro⟩ capo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sbarra mediana"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "la sbarra"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "mediana"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "per attraversare"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "le assi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "un capo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "all'"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "altro capo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:54.218716239Z",
+  "model": "glm-5.3"
+}

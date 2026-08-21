@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non ⟨c'è⟩ parola e non ⟨ci sono⟩ discorsi; senza che si oda la loro voce.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "parola"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨ci sono⟩"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "discorsi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "si oda"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "la loro voce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:22.501078197Z",
+  "model": "glm-5.3"
+}

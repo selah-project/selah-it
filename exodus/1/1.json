@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E questi ⟨sono⟩ i nomi dei figli d'Israele, i venienti in Egitto: ⟨את⟩ Giacobbe, un uomo e la sua casa, vennero.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "e questi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "i nomi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "i venienti"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giacobbe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "e la sua casa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vennero"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:00.786746813Z",
+  "model": "glm-5.3"
+}

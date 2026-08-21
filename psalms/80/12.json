@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "Ha steso i suoi rami fino al mare, e fino al fiume i suoi germogli.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ha steso"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "i suoi rami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "ים",
+      "gloss": "al mare"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "al fiume"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "i suoi germogli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:28.311467496Z",
+  "model": "glm-5.3"
+}

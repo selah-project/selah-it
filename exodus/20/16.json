@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Non risponderai come testimone falso contro ⟨il⟩ tuo prossimo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "risponderai"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "contro ⟨il⟩ tuo prossimo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "come testimone"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falso"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:09.204453977Z",
+  "model": "glm-5.3"
+}

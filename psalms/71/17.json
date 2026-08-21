@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Elohim, mi hai insegnato dalla mia giovinezza, e fino a qui io annuncio le tue meraviglie.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "mi hai insegnato"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "dalla mia giovinezza"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "io annuncio"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "le tue meraviglie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:54.464453877Z",
+  "model": "glm-5.3"
+}

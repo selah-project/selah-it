@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "I miei fratelli sono stati infedeli come un torrente, come l'alveo dei torrenti che passano oltre.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "i miei fratelli"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "sono stati infedeli"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "un torrente"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "come l'alveo di"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "torrenti"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "che passano oltre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:28.718940757Z",
+  "model": "glm-5.3"
+}

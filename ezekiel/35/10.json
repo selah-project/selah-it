@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Poiché dicesti: ⟨את⟩ i due popoli e ⟨את⟩ le due terre saranno mie, e le possiederemo — mentre YHWH era là.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "dicesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i due popoli"
+    },
+    {
+      "surface": "שני",
+      "gloss": "i due"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "popoli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le due terre"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "le due"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "terre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mie"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "saranno"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "e le possiederemo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    }
+  ],
+  "timestamp": "2026-08-21T08:27:00.034102990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "soltanto ⟨את⟩ l'oro e ⟨את⟩ l'argento, ⟨את⟩ il rame, ⟨את⟩ il ferro, ⟨את⟩ lo stagno e ⟨את⟩ il piombo:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'oro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'oro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'argento"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il rame"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "il rame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il ferro"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "il ferro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo stagno"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "lo stagno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il piombo"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "il piombo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:54.021822765Z",
+  "model": "glm-5.3"
+}

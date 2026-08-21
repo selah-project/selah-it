@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "Giudicami, Elohim, e difendi la mia causa contro una nazione non devota; da un uomo di frode e di ingiustizia liberami.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "giudicami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "e difendi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "la mia causa"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "contro una nazione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "devota"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "da un uomo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "di frode"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "e di ingiustizia"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "liberami"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:01.911063488Z",
+  "model": "glm-5.3"
+}

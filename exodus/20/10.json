@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "ma il settimo giorno ⟨è⟩ shabbat per YHWH ⟨il tuo⟩ Elohim: non farai alcun lavoro, tu, tuo figlio e tua figlia, il tuo servo e la tua serva, il tuo bestiame e il forestiero che ⟨è⟩ dentro le tue porte.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "ma il giorno"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨il tuo⟩ Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alcun"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lavoro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "tuo figlio e"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "tua figlia"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "e la tua serva"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "e il tuo bestiame"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "e il forestiero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "dentro le tue porte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:28.745234447Z",
+  "model": "glm-5.3"
+}

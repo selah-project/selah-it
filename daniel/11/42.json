@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E stenderà la sua mano sulle terre, e la terra d'Egitto non sarà per scampo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e stenderà"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sulle terre"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "per scampo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:37:11.656580664Z",
+  "model": "glm-5.3"
+}

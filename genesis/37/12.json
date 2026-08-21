@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E andarono i suoi fratelli a pascere ⟨את⟩ il gregge del loro padre a Shechem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "e andarono"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "a pascere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "del loro padre"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "a Shechem"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:52.560413611Z",
+  "model": "glm-5.3"
+}

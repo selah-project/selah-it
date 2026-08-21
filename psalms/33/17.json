@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Menzogna ⟨è⟩ il cavallo per la salvezza, e con l'abbondanza del suo vigore non metterà in salvo.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "menzogna"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "il cavallo"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "per la salvezza"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "e con l'abbondanza"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "del suo vigore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "metterà in salvo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:14.240840488Z",
+  "model": "glm-5.3"
+}

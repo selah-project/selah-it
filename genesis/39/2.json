@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "E YHWH fu ⟨את⟩ con Giuseppe, ed egli fu ⟨un⟩ uomo che prosperava; e fu nella casa del suo padrone, l'egiziano.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E fu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con Giuseppe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ed egli fu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "che prosperava"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "del suo padrone"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "l'egiziano"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:25.032051415Z",
+  "model": "glm-5.3"
+}

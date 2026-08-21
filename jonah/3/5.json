@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E gli uomini di Ninive credettero in Elohim, e proclamarono un digiuno e si vestirono di sacchi, dal più grande di loro al più piccolo.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "e credettero"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "gli uomini di"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "e proclamarono"
+    },
+    {
+      "surface": "צום",
+      "gloss": "un digiuno"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "e si vestirono"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "di sacchi"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "dal più grande di loro"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "al più piccolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:47.189400968Z",
+  "model": "glm-5.3"
+}

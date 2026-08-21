@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 6:10",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "e vi dissi: io ⟨sono⟩ YHWH, Elohim vostro; non temete ⟨את⟩ gli Elohim dell'emoreo, nella cui terra voi abitate; ma voi non avete ascoltato la mia voce.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli Elohim dell'emoreo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gli Elohim"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "dell'emoreo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nella cui"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "abitate"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "nella loro terra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "avete ascoltato"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "la mia voce"
+    }
+  ],
+  "timestamp": "2026-08-21T06:59:00.725784035Z",
+  "model": "glm-5.3"
+}

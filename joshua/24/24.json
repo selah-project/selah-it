@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E il popolo disse a Yehoshua: ⟨את⟩ YHWH, il nostro Elohim, serviremo, e alla sua voce obbediremo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH, il nostro Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "serviremo"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "e alla sua voce"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "obbediremo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:56:56.162298726Z",
+  "model": "glm-5.3"
+}

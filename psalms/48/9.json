@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Come abbiamo udito, così abbiamo visto nella città di YHWH degli eserciti, nella città del nostro Elohim: Elohim la stabilirà per sempre. Selah.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "abbiamo udito"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "abbiamo visto"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "la stabilirà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:17.139203281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E ha-satan rispose ⟨את⟩ YHWH e disse: «Pelle per pelle! E tutto ciò che ⟨l'⟩uomo ha lo darà per la sua nefesh».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "l'uomo ha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lo darà"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "per"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:35.186904001Z",
+  "model": "glm-5.3"
+}

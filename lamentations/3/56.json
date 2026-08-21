@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "La mia voce hai udito; non nascondere il tuo orecchio al mio anelito, al mio grido.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hai udito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "nascondere"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "il tuo orecchio"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "al mio anelito"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "al mio grido"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:36.097480596Z",
+  "model": "glm-5.3"
+}

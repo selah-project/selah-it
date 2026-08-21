@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E venne Hatakh e riferì a Ester ⟨את⟩ le parole di Mordekhài.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "a Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le parole"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "di Mordekhài"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:21.081997967Z",
+  "model": "glm-5.3"
+}

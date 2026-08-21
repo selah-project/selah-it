@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "I miei nemici dicono male di me: « Quando morirà e perirà il suo nome? »",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "dicono"
+    },
+    {
+      "surface": "רע",
+      "gloss": "male"
+    },
+    {
+      "surface": "לי",
+      "gloss": "di me"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "morirà"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "e perirà"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:44.240913583Z",
+  "model": "glm-5.3"
+}

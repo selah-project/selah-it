@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E non si faceva il conto con ⟨את⟩ gli uomini ai quali davano ⟨את⟩ il denaro in mano, per darlo a quelli che facevano il lavoro, perché con fedeltà ⟨essi⟩ operavano.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "si faceva il conto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli uomini"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ai quali"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "davano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il denaro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "il denaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mano loro"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per darlo"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "a quelli che facevano"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "il lavoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "con fedeltà"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "operavano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:15.249107915Z",
+  "model": "glm-5.3"
+}

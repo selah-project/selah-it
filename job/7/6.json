@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "I miei giorni ⟨sono⟩ più veloci di una spola, e si consumano senza alcun filo di speranza.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "i miei giorni"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sono veloci"
+    },
+    {
+      "surface": "מני",
+      "gloss": "di"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "una spola"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "e si consumano"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "senza alcun"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "filo di speranza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:15:25.576205392Z",
+  "model": "glm-5.3"
+}

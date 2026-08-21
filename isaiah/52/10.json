@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "YHWH ha denudato ⟨את⟩ il suo braccio santo davanti agli occhi di tutte le nazioni, e vedranno tutti i confini della terra ⟨את⟩ la salvezza del nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "ha denudato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo braccio santo"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "il braccio"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "davanti agli occhi di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e vedranno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "i confini di"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la salvezza del nostro Elohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "la salvezza"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:58.800965506Z",
+  "model": "glm-5.3"
+}

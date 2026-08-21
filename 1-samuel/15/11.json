@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "« Mi sono pentito di aver fatto regnare ⟨את⟩ Shaùl come re, perché si è voltato dall'seguirmi e ⟨את⟩ le mie parole non ha eseguito ». E ciò bruciò a Shemuèl, e gridò a YHWH tutta la notte.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "mi sono pentito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "di"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "aver fatto regnare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaùl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaùl"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "come re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שב",
+      "gloss": "si è voltato"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "dal seguirmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le mie parole"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le mie parole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ha eseguito"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "e bruciò"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "a Shemuèl"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "e gridò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "la notte"
+    }
+  ],
+  "timestamp": "2026-08-21T07:10:16.929265803Z",
+  "model": "glm-5.3"
+}

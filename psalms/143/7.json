@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "Presto, rispondimi, YHWH: il mio spirito vien meno; non nascondere la tua faccia da me, e ⟨diventerò⟩ come quelli che scendono nella fossa.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "presto"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "rispondimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "vien meno"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "il mio spirito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "nascondere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "la tua faccia"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "e ⟨diventerò⟩ come"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "quelli che scendono"
+    },
+    {
+      "surface": "בור",
+      "gloss": "nella fossa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.530102553Z",
+  "model": "glm-5.3"
+}

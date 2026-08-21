@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Ascolta, Elohim, la mia voce nel mio lamento; dal terrore del nemico custodisci la mia vita.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "nel mio lamento"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "dal terrore"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "del nemico"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "custodisci"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "la mia vita"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:42.500185950Z",
+  "model": "glm-5.3"
+}

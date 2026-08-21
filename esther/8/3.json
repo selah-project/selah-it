@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Ester aggiunse e parlò davanti al re, e cadde ai suoi piedi, e pianse e lo supplicò di far passare ⟨את⟩ il male di Haman l'Agaghita e ⟨את⟩ il suo disegno che aveva tramato contro gli ebrei.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "e aggiunse"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "e cadde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ai suoi piedi"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "e pianse"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "e supplicò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "di far passare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il male di Haman"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "il male"
+    },
+    {
+      "surface": "המן",
+      "gloss": "di Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "l'Agaghita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo disegno"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "il suo disegno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "aveva tramato"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "gli ebrei"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:17.469895027Z",
+  "model": "glm-5.3"
+}

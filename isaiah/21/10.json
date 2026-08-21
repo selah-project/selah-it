@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "O mia trebbiata, e figlio della mia aia: ciò che ho udito da ⟨את⟩ YHWH degli eserciti, Elohim d'Israele, l'ho annunciato a voi.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "mia trebbiata"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e figlio"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "della mia aia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ho udito"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH degli eserciti, Elohim d'Israele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "l'ho annunciato"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:47:31.141293874Z",
+  "model": "glm-5.3"
+}

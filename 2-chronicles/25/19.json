@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 25:19",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Hai detto: ecco, ho colpito ⟨את⟩ Edom, e ti ha esaltato il tuo cuore fino a vantarti. Ora sta' nella tua casa: perché ti provocheresti nel male, e cadresti tu e Giuda con te?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "hai detto"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ho colpito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "e ti ha esaltato"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "להכביד",
+      "gloss": "fino a vantarti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "sta'"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nella tua casa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ti provocheresti"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nel male"
+    },
+    {
+      "surface": "ונפלת",
+      "gloss": "e cadresti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Giuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T10:00:22.810224851Z",
+  "model": "glm-5.3"
+}

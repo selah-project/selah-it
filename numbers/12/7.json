@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Non così ⟨è⟩ il mio servo Moshè: in tutta la mia casa ⟨egli⟩ ⟨è⟩ fedele.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "il mio servo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "la mia casa"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "fedele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    }
+  ],
+  "timestamp": "2026-08-21T06:28:00.024098506Z",
+  "model": "glm-5.3"
+}

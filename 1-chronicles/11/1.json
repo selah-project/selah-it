@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E si radunò tutto Israele verso Davide a Chevron, per dire: ecco, ⟨siamo⟩ la tua ossa e la tua carne, noi.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "si radunò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "a Chevron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "per dire"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "la tua ossa"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "e la tua carne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "noi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:48:42.150676534Z",
+  "model": "glm-5.3"
+}

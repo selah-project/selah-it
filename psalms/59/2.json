@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Strappami dai miei nemici, Elohim mio; innalzami al sicuro da quelli che si levano contro di me.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "strappami"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "dai miei nemici"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "da quelli che si levano contro di me"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "innalzami al sicuro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:50.780842361Z",
+  "model": "glm-5.3"
+}

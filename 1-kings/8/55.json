@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E stette in piedi e benedisse ⟨את⟩ tutta l'assemblea di Israele a voce grande, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "e stette in piedi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta l'assemblea di Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:35.206116722Z",
+  "model": "glm-5.3"
+}

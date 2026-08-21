@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Sì, non hanno praticato l'iniquità; nelle sue vie hanno camminato.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "hanno praticato"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "nelle sue vie"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hanno camminato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:17.709761533Z",
+  "model": "glm-5.3"
+}

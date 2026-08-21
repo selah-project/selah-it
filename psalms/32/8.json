@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Ti renderò saggio e ti insegnerò la strada in cui camminerai; ti consiglierò, il mio occhio ⟨sarà⟩ su di te.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "ti renderò saggio"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "e ti insegnerò"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "la strada"
+    },
+    {
+      "surface": "זו",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "camminerai"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ti consiglierò"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di te"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:09.921354238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 150,
+  "translation": "Lodatelo con cembali di suono, lodatelo con cembali di acclamazione.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "con cembali di"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "suono"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "con cembali di"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "acclamazione"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:41.210809707Z",
+  "model": "glm-5.3"
+}

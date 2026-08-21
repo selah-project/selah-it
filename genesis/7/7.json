@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E Noè entrò, e i suoi figli, e sua moglie, e le mogli dei suoi figli con lui ⟨את⟩, nell'arca, davanti alle acque del diluvio.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e entrò"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noè"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e sua moglie"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "e le mogli di"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui",
+      "marks": "Noè e la sua casa che entrano nell'arca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a \/ a causa di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "le acque di"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "il diluvio"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:13.276947113Z",
+  "model": "glm-5.3"
+}

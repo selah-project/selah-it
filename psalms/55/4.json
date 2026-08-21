@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 55,
+  "translation": "Per la voce del nemico, davanti all'oppressione del malvagio: perché fanno vacillare su di me iniquità e nell'ira mi perseguitano.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Per la voce"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "del nemico"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "all'oppressione"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "fanno vacillare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "און",
+      "gloss": "iniquità"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "e nell'ira"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "mi perseguitano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:38.692411371Z",
+  "model": "glm-5.3"
+}

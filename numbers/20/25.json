@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Prendi ⟨את⟩ Aharon e ⟨את⟩ Elazar suo figlio, e falli salire ⟨את⟩ sul monte Hor.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "e falli salire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "il monte Hor"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:02.251427470Z",
+  "model": "glm-5.3"
+}

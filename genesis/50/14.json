@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E Yosef tornò in Egitto, lui e i suoi fratelli e tutti coloro che erano saliti ⟨את⟩ lui per seppellire ⟨את⟩ suo padre, dopo che ebbe seppellito ⟨את⟩ suo padre.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "e i suoi fratelli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "coloro che erano saliti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "per seppellire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre (אביו)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dopo che"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ebbe seppellito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo padre (אביו)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:38.865157817Z",
+  "model": "glm-5.3"
+}

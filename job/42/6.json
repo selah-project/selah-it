@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Perciò ⟨mi⟩ ripudio e ⟨mi⟩ consolo, su polvere e cenere.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "perciò (su)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "perciò"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ripudio"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "e mi consolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "polvere"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "e cenere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:45.490988965Z",
+  "model": "glm-5.3"
+}

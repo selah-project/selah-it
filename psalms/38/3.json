@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Perché le tue frecce sono affondate in me, e la tua mano è scesa sopra di me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "le tue frecce"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "sono affondate"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in me"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "e è scesa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sopra di me"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:25.104918497Z",
+  "model": "glm-5.3"
+}

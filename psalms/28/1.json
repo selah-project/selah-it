@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Di Davide. A te, YHWH, io grido: mia roccia, non tacere con me, perché, se taci con me, io divento ⟨come⟩ quelli che scendono nella fossa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io grido"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mia roccia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tacere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "con me"
+    },
+    {
+      "surface": "פן",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "se taci"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "con me"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "io divento ⟨come⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "quelli che"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "scendono"
+    },
+    {
+      "surface": "בור",
+      "gloss": "nella fossa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:26.415340727Z",
+  "model": "glm-5.3"
+}

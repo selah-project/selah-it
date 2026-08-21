@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Sorga Elohim, siano dispersi i suoi nemici, e fuggano davanti a lui quelli che lo odiano.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Sorga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "siano dispersi"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "i suoi nemici"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "e fuggano"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "quelli che lo odiano"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "davanti a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:22.395217757Z",
+  "model": "glm-5.3"
+}

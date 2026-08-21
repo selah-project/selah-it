@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "Tu, tu ⟨sei⟩ il tremendo; e chi starà in piedi davanti a te, appena ⟨si leverà⟩ la tua ira?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "il tremendo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "starà in piedi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "appena"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "la tua ira"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:38.289171215Z",
+  "model": "glm-5.3"
+}

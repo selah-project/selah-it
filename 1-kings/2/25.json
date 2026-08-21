@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E il re Salomone mandò per mano di Benaiàhu figlio di Yehoiadà, ed egli piombò su di lui e quegli morì.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano di"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benaiàhu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoiadà"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ed egli piombò su"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:56.406497357Z",
+  "model": "glm-5.3"
+}

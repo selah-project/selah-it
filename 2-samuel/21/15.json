@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Fu di nuovo guerra tra i Filistei e Israele; e Davide scese, e i suoi servi ⟨את⟩ con lui, e combatterono ⟨את⟩ contro i Filistei; e Davide fu stremato.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Fu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "di nuovo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "guerra"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "per i Filistei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ con",
+      "marks": "Israele (preposizione «con», non il marcatore di oggetto)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "e i suoi servi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "e combatterono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ contro",
+      "marks": "i Filistei (preposizione «contro», non il marcatore di oggetto)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "e fu stremato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:11.101277495Z",
+  "model": "glm-5.3"
+}

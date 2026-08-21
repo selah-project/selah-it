@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "sei dei loro nomi sull'una pietra e ⟨את⟩ i nomi dei sei rimanenti sulla seconda pietra, secondo le loro nascite.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "dei loro nomi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "l'una pietra"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "l'una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i nomi dei sei rimanenti"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "i nomi"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "dei sei"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "rimanenti"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "la pietra"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "seconda"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "secondo le loro nascite"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:00.610611900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "In shalom, insieme ⟨mi⟩ corico e dormo, perché tu, YHWH, da solo, al sicuro mi fai dimorare.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "in shalom"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "corico"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "e dormo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "da solo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "al sicuro"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "mi fai dimorare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:50.666410645Z",
+  "model": "glm-5.3"
+}

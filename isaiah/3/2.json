@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "il prode e l'uomo di guerra, il giudice e il profeta, l'indovino e l'anziano;",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "il prode"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "di guerra"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "il giudice"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "e il profeta"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "e l'indovino"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "e l'anziano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:19.164016795Z",
+  "model": "glm-5.3"
+}

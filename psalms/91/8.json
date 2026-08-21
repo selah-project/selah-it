@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Solo con i tuoi occhi guarderai, e vedrai la retribuzione dei malvagi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "solo"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "con i tuoi occhi"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "guarderai"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "e la retribuzione"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vedrai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:47.051551220Z",
+  "model": "glm-5.3"
+}

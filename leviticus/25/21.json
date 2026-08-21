@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E io comanderò ⟨את⟩ la mia benedizione su di voi nel sesto anno, ed essa farà ⟨את⟩ il raccolto per tre anni.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "E io comanderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia benedizione"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "la mia benedizione"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "sesto"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ed essa farà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il raccolto"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "il raccolto"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "per tre"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "anni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:38.222256536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E gli nacquero sette figli e tre figlie.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "E … nacquero"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sette"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "e tre"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "figlie"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:25.176517060Z",
+  "model": "glm-5.3"
+}

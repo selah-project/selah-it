@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E David disse: proprio per il nulla ho custodito ⟨את⟩ tutto ciò che ⟨è⟩ di costui nel deserto, e non ⟨si⟩ è perso nulla di tutto ciò che ⟨è⟩ suo; e mi ha reso male per bene.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "E David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אך",
+      "gloss": "proprio"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "per il nulla"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ho custodito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che è di costui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "di costui"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "si è perso"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "di tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "suo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nulla"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e ha reso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "male"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bene"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:50.826032755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E farai ⟨את⟩ la veste dell'efod, tutta di tchelet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la veste"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "la veste"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "dell'efod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "di tchelet"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:40.052198794Z",
+  "model": "glm-5.3"
+}

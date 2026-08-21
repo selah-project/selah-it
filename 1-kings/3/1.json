@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Salomone si imparentò con Faraone, re d'Egitto, e prese ⟨את⟩ la figlia di Faraone e la condusse nella città di Davide, finché avesse finito di costruire ⟨את⟩ la sua casa e ⟨את⟩ la casa di YHWH e ⟨את⟩ il muro di Gerusalemme tutt'intorno.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "si imparentò"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraone"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la figlia"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "e la condusse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "avesse finito"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "di costruire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua casa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la casa di YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il muro di Gerusalemme"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "il muro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tutt'intorno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:52.502595182Z",
+  "model": "glm-5.3"
+}

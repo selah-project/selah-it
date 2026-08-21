@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Iniquità — se l'avessi guardata nel mio cuore, Adonai non avrebbe ascoltato.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "iniquità"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "avessi guardata"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nel mio cuore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "avrebbe ascoltato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:08.074123952Z",
+  "model": "glm-5.3"
+}

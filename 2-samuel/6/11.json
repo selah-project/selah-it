@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E rimase l'arca di YHWH nella casa di Obed-Edom il Ghitteita tre mesi; e YHWH benedisse ⟨את⟩ Obed-Edom e ⟨את⟩ tutta la sua casa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e rimase"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "di Obed-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "il Ghitteita"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mesi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la sua casa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:35.510725326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "Che dà pane a ogni carne, perché per sempre ⟨è⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a ogni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:33.946920986Z",
+  "model": "glm-5.3"
+}

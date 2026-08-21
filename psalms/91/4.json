@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Con la sua piuma ti coprirà, e sotto le sue ali troverai rifugio; scudo e buckler la sua fedeltà.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "con la sua piuma"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ti coprirà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "e sotto"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "le sue ali"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "troverai rifugio"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "scudo"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "e buckler"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "la sua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:56.996419686Z",
+  "model": "glm-5.3"
+}

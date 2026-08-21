@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E il sacerdote ⟨l'⟩unto prenderà del sangue del toro e lo porterà ⟨את⟩ nella tenda del convegno.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "prenderà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "l'unto"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "del sangue"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "del toro"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "e porterà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (il sangue)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:23.143122719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Figlio mio, se i peccatori ti lusingano, non acconsentire.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Figlio mio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ti lusingano"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "i peccatori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "acconsentire"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:18.966557915Z",
+  "model": "glm-5.3"
+}

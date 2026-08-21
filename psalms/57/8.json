@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Fermo è il mio cuore, Elohim; fermo è il mio cuore: canterò e salmeggierò.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "fermo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "fermo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "e salmeggierò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:53.141815711Z",
+  "model": "glm-5.3"
+}

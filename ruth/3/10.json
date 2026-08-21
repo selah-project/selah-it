@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse: benedetta ⟨sei⟩ tu da YHWH, figlia mia; hai reso migliore il tuo chesed, l'ultimo del primo, a non andare dietro ai giovani, sia poveri sia ricchi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "benedetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "da YHWH"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "figlia mia"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "hai reso migliore"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "l'ultimo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "del"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "primo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "a non"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "andare"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "ai giovani"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "דל",
+      "gloss": "poveri"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sia"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ricchi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:27.734833126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Vergognati, Tzidon, perché ha parlato il mare, la fortezza del mare, dicendo: «Non ho travagliato né ho partorito, né ho allevato giovani; ho reso grandi ⟨i⟩ giovani e ⟨le⟩ vergini.»",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Vergognati"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tzidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "la fortezza"
+    },
+    {
+      "surface": "הים",
+      "gloss": "del mare"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ho travagliato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ho partorito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ho allevato"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "giovani"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ho reso grandi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "vergini"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:19.532064992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "ma scelsi Gerusalemme perché il mio Nome fosse là, e scelsi David perché fosse sul mio popolo Israele.",
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "ma scelsi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "perché fosse"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio Nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "e scelsi"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "perché fosse"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:54:37.415953617Z",
+  "model": "glm-5.3"
+}

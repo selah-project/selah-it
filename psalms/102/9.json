@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Tutto il giorno i miei nemici mi coprono di scherno; quelli che infuriano contro di me hanno giurato contro di me.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mi coprono di scherno"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "quelli che infuriano contro di me"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "hanno giurato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:35.652949690Z",
+  "model": "glm-5.3"
+}

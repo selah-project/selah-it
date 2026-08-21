@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "L'El che dà le vendette a me, che sottomette popoli sotto di me —",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "l'El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "che dà"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "le vendette"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "che sottomette"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "popoli"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "sotto di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:16.371056618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E spirò e morì Abramo in ⟨una⟩ buona vecchiaia, vecchio e sazio; e fu raccolto ⟨את⟩ il suo popolo ⟨presso di lui⟩.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "E spirò"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "in vecchiaia"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "buona"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vecchio"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e sazio"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "e fu raccolto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a\/presso"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "il suo popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:21.104019458Z",
+  "model": "glm-5.3"
+}

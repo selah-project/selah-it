@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E YHWH ascoltò Chizkiyahu e guarì ⟨את⟩ il popolo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e ascoltò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "e guarì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:01:54.009474351Z",
+  "model": "glm-5.3"
+}

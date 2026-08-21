@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E contro i suoi tre compagni arse il suo naso, perché non avevano trovato risposta e avevano dichiarato colpevole ⟨את⟩ Giobbe.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "e contro i tre"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "suoi compagni"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "arse"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "il suo naso"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "avevano trovato"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "risposta"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "e avevano dichiarato colpevole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giobbe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Giobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:22.820021206Z",
+  "model": "glm-5.3"
+}

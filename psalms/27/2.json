@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Quando si accostano contro di me i malvagi per divorare ⟨את⟩ la mia carne — i miei avversari e i miei nemici contro di me — essi inciampano e cadono.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Quando si accostano"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "per divorare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia carne"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "la mia carne"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "i miei avversari"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "e i miei nemici"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "inciampano"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "e cadono"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:20.217172532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Poiché si inaspriva il mio cuore, e nei miei reni ⟨ero⟩ trafitto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "si inaspriva"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "e nei miei reni"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "⟨ero⟩ trafitto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:02.971543160Z",
+  "model": "glm-5.3"
+}

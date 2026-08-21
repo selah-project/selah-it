@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E custodirete di fare come ha comandato YHWH, ⟨il vostro⟩ Elohim vostro, ⟨את⟩ voi; non devierete a destra né a sinistra.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "e custodirete"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "devierete"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "a destra"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "né a sinistra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:59.301295975Z",
+  "model": "glm-5.3"
+}

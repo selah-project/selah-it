@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Preghiera di Davide. Ascolta, YHWH, ⟨la⟩ giustizia; porgi l'orecchio al mio grido; dai orecchio alla mia preghiera — non da labbra di frode.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Preghiera"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Ascolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "porgi l'orecchio"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "al mio grido"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "dai orecchio"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "alla mia preghiera"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "non da"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "labbra"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "di frode"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:05.130798699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "YHWH, Elohim mio, tu ⟨sei⟩: io ti esalterò, celebrerò il tuo nome, perché hai fatto un prodigio: consigli da lontano, fedeltà, certezza.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "io ti esalterò"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "celebrerò"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "un prodigio"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "consigli"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "da lontano"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "fedeltà"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "certezza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:05.841330614Z",
+  "model": "glm-5.3"
+}

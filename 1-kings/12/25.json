@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Ieroboamo costruì ⟨את⟩ Sichem sul monte di Efraim e vi dimorò; e uscì di là e costruì ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Ieroboamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sichem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "di Efraim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e dimorò"
+    },
+    {
+      "surface": "בה",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:44.009406986Z",
+  "model": "glm-5.3"
+}

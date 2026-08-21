@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Perché il tuo piede bagni nel sangue, ⟨ e ⟩ la lingua dei tuoi cani ⟨ si sazi ⟩ dei nemici — di esso.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "bagni\/pesti"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "il tuo piede"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nel sangue"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "la lingua"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "dei tuoi cani"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "dei nemici"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "di esso"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:02.495758752Z",
+  "model": "glm-5.3"
+}

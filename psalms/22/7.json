@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E io ⟨sono⟩ un verme, e non un uomo: obbrobrio d'uomo e disprezzato dal popolo.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "un verme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "obbrobrio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "e disprezzato"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dal popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:59.578388792Z",
+  "model": "glm-5.3"
+}

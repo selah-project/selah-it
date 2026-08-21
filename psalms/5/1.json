@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Al maestro del coro, sui flauti (ha-nechilòt). Mizmor di Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al maestro del coro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sui"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "flauti (ha-nechilòt)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:58.462968924Z",
+  "model": "glm-5.3"
+}

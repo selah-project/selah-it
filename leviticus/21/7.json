@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Una donna prostituta e una profanata non prenderanno ⟨in moglie⟩, e una donna ripudiata dal suo marito non prenderanno, perché santo ⟨è⟩ lui per il suo Elohim.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "prostituta"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "e una profanata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "prenderanno"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "e una donna"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "ripudiata"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "dal suo marito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "prenderanno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "per il suo Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:19.215462801Z",
+  "model": "glm-5.3"
+}

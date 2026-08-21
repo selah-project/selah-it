@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Ma il giorno in cui si vedrà in lui carne viva, sarà impuro.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ma il giorno"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "in cui si vedrà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "חי",
+      "gloss": "viva"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sarà impuro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:21.265023815Z",
+  "model": "glm-5.3"
+}

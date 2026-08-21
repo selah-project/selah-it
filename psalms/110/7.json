@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 110,
+  "translation": "Dal torrente per via berrà; per questo alzerà il capo.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Dal torrente"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per via"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "berrà"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "כן",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "alzerà"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "il capo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:33.501944291Z",
+  "model": "glm-5.3"
+}

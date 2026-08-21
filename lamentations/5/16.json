@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "È caduta la corona del nostro capo. Ahi, ⟨ora⟩, a noi, perché abbiamo peccato.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "è caduta"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "la corona"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "del nostro capo"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ahi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ora⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "abbiamo peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:37.071571780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Al maestro del coro. Di Davide. Mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al maestro del coro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:00.554811480Z",
+  "model": "glm-5.3"
+}

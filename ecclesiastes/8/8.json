@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Non c'è uomo che domini sul soffio per trattenere ⟨את⟩ il soffio; e non c'è potestà nel giorno della morte; e non c'è congedo in guerra; e la malvagità non libererà ⟨את⟩ i suoi padroni.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "che domini"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "sul soffio"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "per trattenere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il soffio"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "il soffio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "potestà"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "המות",
+      "gloss": "della morte"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "congedo"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in guerra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "libererà"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "la malvagità"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi padroni"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "i suoi padroni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:55.232002691Z",
+  "model": "glm-5.3"
+}

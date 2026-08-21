@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E prese ⟨את⟩ tutto l'oro e l'argento e ⟨את⟩ tutti gli oggetti che si trovarono nella casa di YHWH e nei tesori della casa del re, e ⟨את⟩ i figli degli ostaggi, e tornò a Samaria.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto l'oro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'oro"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "e l'argento"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti gli oggetti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "gli oggetti"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "che si trovarono"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "e nei tesori"
+    },
+    {
+      "surface": "בית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i figli degli ostaggi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "degli ostaggi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "a Samaria"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:43.558569271Z",
+  "model": "glm-5.3"
+}

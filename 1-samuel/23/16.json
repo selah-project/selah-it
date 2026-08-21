@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E si alzò Yehonatan figlio di Saul e andò da Davide a Chorsha, e rafforzò ⟨את⟩ la sua mano in Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "E si alzò"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "a Chorsha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "e rafforzò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:39.929978761Z",
+  "model": "glm-5.3"
+}

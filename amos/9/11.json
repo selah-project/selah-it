@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "In quel giorno rialzerò ⟨את⟩ la sukka di Davide caduta, e ne chiuderò ⟨את⟩ le brecce; le sue rovine rialzerò, e la ricostruirò come nei giorni antichi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "rialzerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sukka di Davide caduta"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "la sukka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "caduta"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "e ne chiuderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le brecce"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "le brecce"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "le sue rovine"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "rialzerò"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "e la ricostruirò"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "come nei giorni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "antichi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:21.363437125Z",
+  "model": "glm-5.3"
+}

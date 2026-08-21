@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 63:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Il tino io l'ho pigiato da solo, e dei popoli non c'era nessuno con ⟨את⟩ me; li ho calpestati nella mia ira e li ho pestati nel mio furore, e il loro mosto è schizzato sulle mie vesti, e tutto il mio abbigliamento ho sporcato.",
+  "tokens": [
+    {
+      "surface": "פורה",
+      "gloss": "il tino"
+    },
+    {
+      "surface": "דרכתי",
+      "gloss": "ho pigiato"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "da solo"
+    },
+    {
+      "surface": "ומעמים",
+      "gloss": "e dei popoli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'era"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nessuno"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "con me — preposizione et (« con »), non il marcatore di oggetto; segna l'assenza solenne: nessuno « con » lui"
+    },
+    {
+      "surface": "ואדרכם",
+      "gloss": "e li ho calpestati"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "nella mia ira"
+    },
+    {
+      "surface": "וארמסם",
+      "gloss": "e li ho pestati"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "nel mio furore"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "e è schizzato"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "il loro mosto"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le mie vesti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "מלבושי",
+      "gloss": "il mio abbigliamento"
+    },
+    {
+      "surface": "אגאלתי",
+      "gloss": "ho sporcato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:02.447122630Z",
+  "model": "glm-5.3"
+}

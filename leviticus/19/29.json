@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non profanare ⟨את⟩ tua figlia per farla prostituire, e non si prostituisca ⟨la⟩ terra, e si riempia ⟨la⟩ terra di zimmà ⟨depravazione⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "profanare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tua figlia"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tua figlia"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "per farla prostituire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "si prostituisca"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "e si riempia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimmà (depravazione)"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:20.451569173Z",
+  "model": "glm-5.3"
+}

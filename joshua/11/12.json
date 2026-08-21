@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E ⟨את⟩ tutte le città di questi re e ⟨את⟩ tutti i loro re catturò Yehoshua, e li colpì al filo della spada, li votò allo cherem, come aveva comandato Moshe, servo di YHWH.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutte le città"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "le città"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "di questi re"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti i loro re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "i loro re"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "catturò"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "e li colpì"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "della spada"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "votò allo cherem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:52.857951040Z",
+  "model": "glm-5.3"
+}

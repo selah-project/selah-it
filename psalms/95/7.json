@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "Poiché ⟨egli⟩ ⟨è⟩ il nostro Elohim, e noi ⟨siamo⟩ il popolo del suo pascolo e il gregge della sua mano: oggi, se alla sua voce udrete —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "e noi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "del suo pascolo"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "e il gregge"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "della sua mano"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "alla sua voce"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "udrete"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:49.113852631Z",
+  "model": "glm-5.3"
+}

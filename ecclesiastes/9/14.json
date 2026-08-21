@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Una città piccola, e uomini in essa pochi; e venne contro di essa un re grande, e la circondò ⟨את⟩-essa, e costruì contro di essa grandi fortificazioni.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "una città"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "piccola"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "e uomini"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pochi"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "contro di essa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "e la circondò"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "essa — la città"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contro di essa"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "fortificazioni d'assedio"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:35.425510718Z",
+  "model": "glm-5.3"
+}

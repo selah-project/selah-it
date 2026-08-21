@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E disse YHWH verso di lui: « Va', torna sulla tua strada, verso il deserto di Damasco; e arriverai e ungerai ⟨את⟩ Chazael come re su Aram ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "verso di lui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "torna"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "sulla tua strada"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "verso il deserto"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "di Damasco"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "e arriverai"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "e ungerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "come re"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:16.369040084Z",
+  "model": "glm-5.3"
+}

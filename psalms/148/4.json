@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "Lodatelo, cieli dei cieli, e ⟨le⟩ acque che ⟨sono⟩ sopra i cieli.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "cieli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "e le acque"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:07.291230328Z",
+  "model": "glm-5.3"
+}

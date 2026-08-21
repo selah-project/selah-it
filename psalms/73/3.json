@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "perché provai invidia verso i dissoluti, vedendo la prosperità dei malvagi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "provai invidia"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "verso i dissoluti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la prosperità"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "vedendo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:18.111337210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "Poiché hanno complottato ⟨con⟩ un cuore insieme, contro di te un patto stringono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "hanno complottato"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨con⟩ un cuore"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "un patto"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "stringono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:29.970480219Z",
+  "model": "glm-5.3"
+}

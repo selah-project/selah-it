@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E se non riscatta il campo, o se ha venduto il campo a un altro uomo, non sarà più riscattato.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "riscatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il campo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o se"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ha venduto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il campo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a un uomo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "sarà riscattato"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:13.309262065Z",
+  "model": "glm-5.3"
+}

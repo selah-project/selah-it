@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "« Saliamo contro Yehudah, sconvolggiamola, apriamovi una breccia per noi, e poniamo un re in mezzo ad essa, ⟨את⟩ il figlio di Tav'el ».",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "saliamo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "contro Yehudah"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "sconvolggiamola"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "apriamole una breccia"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "e poniamo come re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "in mezzo ad essa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il figlio di Tav'el"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "di Tav'el"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:28.136721037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E portarono ⟨את⟩ l'arca dell'Elohim e la collocarono ⟨אתו⟩ in mezzo alla tenda che Davide aveva teso per essa; e offersero olà (olocausti) e offerte di pace davanti a ⟨il⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "e portarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca dell'Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "e la collocarono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "essa (l'arca)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "aveva teso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per essa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "e offersero"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "olà"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "e offerte di pace"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨il⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T09:50:10.286182998Z",
+  "model": "glm-5.3"
+}

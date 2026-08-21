@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E avvenne alla fine di quaranta giorni, e Noach aprì ⟨את⟩ la finestra dell'arca che aveva fatto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "alla fine di"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quaranta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "e aprì"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la finestra dell'arca"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "la finestra"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "dell'arca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:52.115110737Z",
+  "model": "glm-5.3"
+}

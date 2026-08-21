@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E morì Elimelekh, marito di Naomi, e rimasero lei e i suoi due figli.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelekh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "marito"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "di Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "e rimasero"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e i suoi due"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "figli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:48.200750349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "E morì Giuseppe, figlio di cento e dieci anni; e lo imbalsamarono ⟨אתו⟩ e lo misero in una bara in Egitto.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e dieci"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "e lo imbalsamarono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lo (Giuseppe)"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "e lo misero"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in una bara"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:56.310755577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Come le nazioni che YHWH fa perire davanti a voi, così perirete; perché non ascolterete la voce di YHWH, il vostro Elohim.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "Come le nazioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "fa perire"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "perirete"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "ascolterete"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:16.453450706Z",
+  "model": "glm-5.3"
+}

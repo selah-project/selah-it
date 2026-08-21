@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Egli disse, e venne la locusta, e il bruco, senza numero.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Egli disse"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "la locusta"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "e il bruco"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "senza (non c'è)"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numero"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:52.497230692Z",
+  "model": "glm-5.3"
+}

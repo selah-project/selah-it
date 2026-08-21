@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Il malvagio brama la rete dei malvagi, ma ⟨la⟩ radice dei giusti dà ⟨frutto⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "brama"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "la rete"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ma la radice"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:58.123975664Z",
+  "model": "glm-5.3"
+}

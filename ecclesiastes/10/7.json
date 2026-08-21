@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Ho visto schiavi a cavallo e principi che camminano a piedi come schiavi sulla terra.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "schiavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "cavalli"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "e principi"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "che camminano"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "come schiavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:54.124910443Z",
+  "model": "glm-5.3"
+}

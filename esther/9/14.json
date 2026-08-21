@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E il re disse di fare così, e fu emesso un decreto in Susa; e i dieci figli di Haman furono appesi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "e fu emesso"
+    },
+    {
+      "surface": "דת",
+      "gloss": "un decreto"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Susa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "עשרת בני המן — i dieci figli di Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "i dieci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "furono appesi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:32:54.970667931Z",
+  "model": "glm-5.3"
+}

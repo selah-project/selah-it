@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E YHWH si rincrespè di aver fatto ⟨את⟩ l'uomo sulla terra, e si addolorò fino al suo cuore.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "e si rincrespè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "e si addolorò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "al suo cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:36.029952804Z",
+  "model": "glm-5.3"
+}

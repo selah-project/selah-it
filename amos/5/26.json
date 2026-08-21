@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E portaste ⟨את⟩ Sikkut, vostro re, e ⟨את⟩ Kiyyun, le vostre immagini, la stella dei vostri dèi, che vi eravate fatti per voi.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "e portaste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut, vostro re"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "vostro re"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiyyun, le vostre immagini"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "le vostre immagini"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "la stella"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "dei vostri dèi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "vi eravate fatti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:16.116317561Z",
+  "model": "glm-5.3"
+}

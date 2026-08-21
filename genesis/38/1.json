@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Avvenne in quel tempo: Yehudah scese dai suoi fratelli e si volse verso un uomo di Adullam, il cui nome ⟨era⟩ Chirà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "avvenne"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in quel tempo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "scese"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "dai suoi fratelli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i suoi fratelli"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "e si volse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "verso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "di Adullam"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "e il suo nome"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Chirà"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:58.168995966Z",
+  "model": "glm-5.3"
+}

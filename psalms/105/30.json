@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Pullulò la loro terra di rane, fino nelle stanze dei loro re.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "pullulò"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "la loro terra"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "di rane"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "nelle stanze"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dei loro re"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:37.384865214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E Faraone chiamò Mosè e Aharon e disse: andate, sacrificate al vostro Elohim nella terra.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "e ad Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "andate"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sacrificate"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "al vostro Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:51.672998304Z",
+  "model": "glm-5.3"
+}

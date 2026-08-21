@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Siano svergognati ⟨i⟩ superbi, perché con menzogna mi hanno pervertito; io medito sui tuoi precetti.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "siano svergognati"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "superbi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "con menzogna"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "mi hanno pervertito"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "medito"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "sui tuoi precetti"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:39.848804946Z",
+  "model": "glm-5.3"
+}

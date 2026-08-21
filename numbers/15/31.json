@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 15:31",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "poiché la parola di YHWH ha disprezzato e ⟨את⟩ il suo comandamento ha infranto — sterminata sarà sterminata quella nefesh: la sua colpa ⟨è⟩ su di lei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ha disprezzato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo comandamento"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "il suo comandamento"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ha infranto"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "sterminata"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "sarà sterminata"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "quella nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "la sua colpa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "su di lei"
+    }
+  ],
+  "timestamp": "2026-08-21T06:29:24.602754105Z",
+  "model": "glm-5.3"
+}

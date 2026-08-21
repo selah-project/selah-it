@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Tu conosci il mio disonore e la mia vergogna e la mia confusione; davanti a te ⟨sono⟩ tutti i miei avversari.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "conosci"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "il mio disonore"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "e la mia vergogna"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "e la mia confusione"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "i miei avversari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:41.347825338Z",
+  "model": "glm-5.3"
+}

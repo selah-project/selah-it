@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E io insegnai a camminare a Efraim, li presi per le loro braccia, ma essi non seppero che io li avevo guariti.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "insegnai a camminare"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "a Efraim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "li presi"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "le loro braccia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "seppero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "io li avevo guariti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:45.726200324Z",
+  "model": "glm-5.3"
+}

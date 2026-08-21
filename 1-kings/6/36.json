@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E costruì ⟨את⟩ il cortile interno: tre filari di pietra squadrata e un filare di travi di cedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cortile interno"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "il cortile"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "interno"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "filari"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "di pietra squadrata"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "e un filare"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "di travi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "di cedro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:10.978250683Z",
+  "model": "glm-5.3"
+}

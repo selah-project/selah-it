@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Ricorda le tue compassioni, YHWH, e i tuoi chesed, perché da sempre ⟨sono⟩ essi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ricorda"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "le tue compassioni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "e i tuoi chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "da sempre"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:18.270693404Z",
+  "model": "glm-5.3"
+}

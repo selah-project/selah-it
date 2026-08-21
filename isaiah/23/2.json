@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Ammutoliti, abitanti dell'isola! ⟨Il⟩ mercante di Tzidon, che attraversa il mare, ⟨ti⟩ ha riempito.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Ammutoliti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abitanti"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dell'isola"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "mercante"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "di Tzidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "attraversa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "ti ha riempito"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:19.531807978Z",
+  "model": "glm-5.3"
+}

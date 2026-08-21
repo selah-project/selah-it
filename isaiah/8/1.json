@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E disse YHWH a me: prendi per te una tavoletta grande e scrivi su di essa con lo stilo di un uomo: «Maher-Shalal-Chash-Baz».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "una tavoletta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "e scrivi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "con lo stilo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher («presto»)"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal («bottino»)"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Chash («corri»)"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz («preda»)"
+    }
+  ],
+  "timestamp": "2026-08-21T07:45:16.845905410Z",
+  "model": "glm-5.3"
+}

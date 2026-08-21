@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ciò che ⟨è⟩ stato, esso ⟨è⟩ ciò che sarà; e ciò che è stato fatto, esso ⟨è⟩ ciò che sarà fatto; e non ⟨c'è⟩ nulla di nuovo sotto il sole.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "è stato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ciò che sarà"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e ciò che"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "è stato fatto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "sarà fatto"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nulla"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "di nuovo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:00.786689375Z",
+  "model": "glm-5.3"
+}

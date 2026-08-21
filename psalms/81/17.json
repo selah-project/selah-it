@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "E lo avrebbe saziato ⟨con⟩ il grasso del grano, e con miele dalla roccia ti avrei saziato.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "e lo avrebbe nutrito"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dal grasso"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "del grano"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "e dalla roccia"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "miele"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "ti avrei saziato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:24.968603937Z",
+  "model": "glm-5.3"
+}

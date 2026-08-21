@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "YHWH manderà contro di te ⟨את⟩ la maledizione, ⟨את⟩ la confusione e ⟨את⟩ la minaccia, in ogni impresa delle tue mani che farai, finché tu sia distrutto e finché tu perisca in fretta, a causa della malvagità delle tue azioni, perché mi hai abbandonato.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "manderà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בך",
+      "gloss": "contro di te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maledizione"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "la maledizione"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la confusione"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "la confusione"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la minaccia"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "la minaccia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ogni"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "impresa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "delle tue mani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "tu sia distrutto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e finché"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "tu perisca"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "in fretta"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "a causa della"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malvagità"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "delle tue azioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "mi hai abbandonato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:02.136603243Z",
+  "model": "glm-5.3"
+}

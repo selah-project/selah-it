@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E YHWH si mostrò a Salomone di notte e gli disse: Ho ascoltato ⟨את⟩ la tua preghiera, e ho scelto questo luogo per me, come casa di sacrificio.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "si mostrò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ho ascoltato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua preghiera"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "la tua preghiera"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "e ho scelto"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "questo luogo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "come casa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "di sacrificio"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:50.443755050Z",
+  "model": "glm-5.3"
+}

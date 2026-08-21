@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Quelli che mangiavano le prelibatezze sono rimasti storditi nelle strade; quelli allevati sulla porpora hanno abbracciato i mucchi di spazzatura.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "Quelli che mangiavano"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "le prelibatezze"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "sono rimasti storditi"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "nelle strade"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "quelli allevati"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sulla"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "porpora (tola)"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "hanno abbracciato"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "i mucchi di spazzatura"
+    }
+  ],
+  "timestamp": "2026-08-21T09:26:53.708833660Z",
+  "model": "glm-5.3"
+}

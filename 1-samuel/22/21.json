@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E Abiathar riferì a Davide che Saul aveva ucciso ⟨את⟩ i sacerdoti di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "aveva ucciso"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i sacerdoti"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:12:32.808479634Z",
+  "model": "glm-5.3"
+}

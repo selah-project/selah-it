@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Poni fine, ti prego, al male dei malvagi, e rendi saldo il giusto; e provatore di cuori e reni ⟨è⟩ Elohim, il giusto.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "poni fine"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "רע",
+      "gloss": "al male"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "e rendi saldo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "e provatore"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "di cuori"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "e reni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:47.309313289Z",
+  "model": "glm-5.3"
+}

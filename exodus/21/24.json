@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "occhio in cambio di occhio, dente in cambio di dente, mano in cambio di mano, piede in cambio di piede.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dente"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dente"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mano"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mano"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "piede"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "piede"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:12.170985618Z",
+  "model": "glm-5.3"
+}

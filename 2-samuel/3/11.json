@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E non poté più rispondere ⟨את⟩ ad Avner una parola, per timore di ⟨את⟩ lui.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "poté"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "rispondere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ad Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ad Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "per timore di lui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:26.797609694Z",
+  "model": "glm-5.3"
+}

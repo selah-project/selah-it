@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 28:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "YHWH aprirà per te ⟨את⟩ il suo buon tesoro, ⟨את⟩ i cieli, per dare la pioggia alla tua terra nel suo tempo, e per benedire ⟨את⟩ ogni opera delle tue mani; e presterai a molte nazioni, ma tu non prenderai ⟨in prestito⟩.",
+  "tokens": [
+    {
+      "surface": "יפתח",
+      "gloss": "aprira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo buon tesoro"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "il suo tesoro"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cieli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per dare"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "alla tua terra"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "nel suo tempo"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "e per benedire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni opera delle tue mani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "opera"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "delle tue mani"
+    },
+    {
+      "surface": "והלוית",
+      "gloss": "e presterai"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a nazioni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molte"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "prenderai in prestito"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:06.103870067Z",
+  "model": "glm-5.3"
+}

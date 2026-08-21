@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Quanto a me, dicevo nella mia quiete: « mai sarò scosso, per sempre ».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "quanto a me"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dicevo"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "nella mia quiete"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarò scosso"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:41.425029158Z",
+  "model": "glm-5.3"
+}

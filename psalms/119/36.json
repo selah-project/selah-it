@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Inclina il mio cuore alle tue testimonianze, e non al guadagno ⟨disonesto⟩.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "inclina"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "alle tue testimonianze"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "guadagno ⟨disonesto⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:35.705273132Z",
+  "model": "glm-5.3"
+}

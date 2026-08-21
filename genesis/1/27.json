@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E creò Elohim ⟨את⟩ l'umano a sua immagine; a immagine di Elohim lo creò ⟨את⟩; maschio e femmina li creò ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "e creò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'umano"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'umano"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "a sua immagine"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "a immagine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "creò"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "maschio e femmina — lo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "e femmina"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "creò"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:16.081928639Z",
+  "model": "glm-5.3"
+}

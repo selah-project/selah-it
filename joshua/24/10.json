@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E non volli ascoltare Balaam, e vi benedisse benedicendo, e vi liberai dalla sua mano.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "volli"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ascoltare"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Balaam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "benedicendo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "e liberai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "dalla sua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:40.390219352Z",
+  "model": "glm-5.3"
+}

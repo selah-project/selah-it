@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Ed Elqana andò a Rama, alla sua casa; e il ragazzo era ministro di ⟨את⟩ YHWH, davanti a ⟨את⟩ il volto di Eli, il sacerdote.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ed andò"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "a Rama"
+    },
+    {
+      "surface": "על",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "e il ragazzo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ministro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il volto di Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto di"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:12.340609754Z",
+  "model": "glm-5.3"
+}

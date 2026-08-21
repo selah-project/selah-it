@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E disse Faraone: ecco, io vi mando via ⟨את⟩voi, e sacrificherete a YHWH vostro Elohim nel deserto; soltanto, allontanandovi, non vi allontanate troppo per andare; pregate per me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mando via"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩voi",
+      "marks": "voi (Mosè e Aharon)"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "e sacrificherete"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "רק",
+      "gloss": "soltanto"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "allontanandovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "vi allontanate troppo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "per andare"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "pregate"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:51.673999334Z",
+  "model": "glm-5.3"
+}

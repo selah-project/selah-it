@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Egli custodisce tutte le sue ossa; una di esse non ⟨è⟩ stata spezzata.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "custodisce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "le sue ossa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "di esse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "⟨è⟩ stata spezzata"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:30.792726437Z",
+  "model": "glm-5.3"
+}

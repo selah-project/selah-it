@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E nel secondo mese, il ventisettesimo giorno del mese, la terra ⟨era⟩ asciutta.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "e nel mese"
+    },
+    {
+      "surface": "השני",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "il sette"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e venti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "asciutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:33.585927039Z",
+  "model": "glm-5.3"
+}

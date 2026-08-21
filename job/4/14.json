@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 4:14",
+  "book": "job",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Un terrore mi ha incontrato, e un tremito, e la massa delle mie ossa ⟨ha⟩ spaventato.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "un terrore"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "mi ha incontrato"
+    },
+    {
+      "surface": "ורעדה",
+      "gloss": "e un tremito"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e la massa"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "delle mie ossa"
+    },
+    {
+      "surface": "הפחיד",
+      "gloss": "ha spaventato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:00.486366378Z",
+  "model": "glm-5.3"
+}

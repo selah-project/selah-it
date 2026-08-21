@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E YHWH diede ⟨את⟩ il favore del popolo agli occhi degli Egizi; anche l'uomo Moshe ⟨era⟩ molto grande nella terra di Mitzrajim, agli occhi dei servi di Parò e agli occhi del popolo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "E diede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il favore del popolo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "il favore"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "degli Egizi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra di"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi di"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dei servi di"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parò"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "e agli occhi di"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:23.238650354Z",
+  "model": "glm-5.3"
+}

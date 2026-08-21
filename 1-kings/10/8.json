@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Beati i tuoi uomini, beati questi tuoi servi, che stanno davanti a te costantemente, ⟨coloro⟩ che odono ⟨את⟩ la tua sapienza!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beati"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "i tuoi uomini"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "beati"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "questi tuoi servi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "che stanno"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "costantemente"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "⟨coloro⟩ che odono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua sapienza"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "la tua sapienza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:48.328157896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E si alzarono di buon mattino, e il sole brillò sulle acque, e Moab vide di fronte ⟨את⟩ le acque rosse come sangue.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "e si alzarono di buon mattino"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "e il sole"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "brillò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "di fronte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le acque"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "rosse"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "come sangue"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:33.546168517Z",
+  "model": "glm-5.3"
+}

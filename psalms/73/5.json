@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Nella fatica dei mortali non ⟨sono⟩, e con gli uomini non sono colpiti.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "nella fatica"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dei mortali"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "non ⟨sono⟩"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e con"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "sono colpiti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:29.909380610Z",
+  "model": "glm-5.3"
+}

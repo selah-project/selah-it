@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "La tua malvagità ⟨raggiunge⟩ un uomo come te, e la tua giustizia un figlio d'uomo.",
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "come te"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "la tua malvagità"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "e un figlio"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'uomo"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:24.725472199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Ecco, io farò di Gerusalemme una coppa di barcollamento ⟨את⟩ Gerusalemme per tutti i popoli dintorno; anche su Giuda sarà nell'assedio contro Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "שם",
+      "gloss": "farò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "סף",
+      "gloss": "una coppa"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "di barcollamento"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dintorno"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "nell'assedio"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:18.539265456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E il sacerdote aspergerà ⟨את⟩ il sangue sull'altare di YHWH, all'ingresso della tenda del convegno, e farà salire in fumo il grasso, in profumo di quiete per YHWH.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "e aspergerà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il sangue"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "il sangue"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "e farà salire in fumo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "in profumo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "di quiete"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:31.244527565Z",
+  "model": "glm-5.3"
+}

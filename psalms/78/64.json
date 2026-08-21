@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "I suoi sacerdoti caddero di spada, e le sue vedove non fecero lutto.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "i suoi sacerdoti"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "di spada"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "caddero"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "e le sue vedove"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "fecero lutto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:53.397851067Z",
+  "model": "glm-5.3"
+}

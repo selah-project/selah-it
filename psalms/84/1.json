@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 84,
+  "translation": "Al direttore del coro, sul modo di Gat ⟨הגתית⟩, per i figli di Korach, salmo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "il modo di Gat"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:05.876725018Z",
+  "model": "glm-5.3"
+}

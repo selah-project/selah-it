@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "La casa del giusto ⟨ha⟩ grande ricchezza, ma nell'entrata dei malvagi ⟨c'è⟩ sconvolgimento.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "del giusto"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ricchezza"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "ma nell'entrata (rendita)"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "⟨c'è⟩ sconvolgimento"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:41.454674984Z",
+  "model": "glm-5.3"
+}

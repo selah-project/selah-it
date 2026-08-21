@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Dimentica una vergine il suo ornamento, una sposa le sue fasce? E il mio popolo mi ha dimenticato, giorni senza numero.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "dimentica"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "una vergine"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "il suo ornamento"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "una sposa"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "le sue fasce"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "e il mio popolo"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "mi ha dimenticato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "senza"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "numero"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:24.280393349Z",
+  "model": "glm-5.3"
+}

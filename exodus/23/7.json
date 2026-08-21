@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Da parola menzognera ti terrai lontano, e l'innocente e il giusto non ucciderai, perché non giustificherò il malvagio.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "da parola"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "menzognera"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ti terrai lontano"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "e l'innocente"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "e il giusto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ucciderai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "giustificherò"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:42.973559657Z",
+  "model": "glm-5.3"
+}

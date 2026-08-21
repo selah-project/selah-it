@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 62,
+  "translation": "Solo Lui ⟨è⟩ la mia roccia e la mia salvezza, la mia fortezza; non sarò smosso.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Lui"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "la mia roccia"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "e la mia salvezza"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "la mia fortezza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarò smosso"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:29.488159067Z",
+  "model": "glm-5.3"
+}

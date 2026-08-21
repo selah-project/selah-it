@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Rispose il mio dodo e mi disse: àlzati, va', mia amata, mia bella, e vieni, va'!",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "rispose"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "il mio dodo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "àlzati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mia amata"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "mia bella"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "e vieni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:02.724197616Z",
+  "model": "glm-5.3"
+}

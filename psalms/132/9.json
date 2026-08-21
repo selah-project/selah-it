@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "I tuoi sacerdoti si vestano di giustizia, e i tuoi chassidim cantino di gioia.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "i tuoi sacerdoti"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "si vestano"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "di giustizia"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "e i tuoi chassidim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "cantino di gioia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:41.610010369Z",
+  "model": "glm-5.3"
+}

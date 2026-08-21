@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "lodate Yah, perché buono ⟨è⟩ YHWH; salmodiate al suo Nome, perché ⟨il suo Nome è⟩ soave:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "salmodiate"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "al suo Nome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "soave"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:17.475052771Z",
+  "model": "glm-5.3"
+}

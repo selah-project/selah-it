@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E perirete fra le nazioni, e vi divorerà ⟨את⟩ voi la terra dei vostri nemici.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "e perirete"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra le nazioni"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "e divorerà"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dei vostri nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:31.642621157Z",
+  "model": "glm-5.3"
+}

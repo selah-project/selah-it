@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Non accenderete fuoco in nessuna delle vostre dimore nel giorno dello shabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "accenderete"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in nessuna"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "delle vostre dimore"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dello shabbat"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:15.546679702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Essi custodiranno ⟨את⟩ la mia custodia, e non porteranno su di essa peccato, e moriranno per essa, se la profanano: io ⟨sono⟩ YHWH, che li santifico.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "essi custodiranno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia custodia"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "la mia custodia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "porteranno"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "peccato"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "e moriranno"
+    },
+    {
+      "surface": "בו",
+      "gloss": "per essa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "la profanano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "li santifico"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:50.918649903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E sono stato integro con lui, e mi sono custodito dalla mia colpa.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "e sono stato"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "integro"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "e mi sono custodito"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "dalla mia colpa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:48.072458678Z",
+  "model": "glm-5.3"
+}

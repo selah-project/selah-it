@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E se rivelerai ⟨את⟩ questa nostra parola, ⟨saremo⟩ innocenti dal tuo giuramento che ci hai fatto giurare.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "rivelerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa nostra parola"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "nostra parola"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "e saremo"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "innocenti"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "dal tuo giuramento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ci hai fatto giurare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:35.758423350Z",
+  "model": "glm-5.3"
+}

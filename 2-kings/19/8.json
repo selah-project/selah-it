@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E tornò Rav Shaqèh e trovò ⟨את⟩ il re di Ashshur che combatteva contro Livnàh, perché aveva udito che era partito da Lakhìsh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shaqèh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "e trovò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re di Ashshur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashshur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "che combatteva"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnàh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aveva udito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "era partito"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "da Lakhìsh"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:31.151249381Z",
+  "model": "glm-5.3"
+}

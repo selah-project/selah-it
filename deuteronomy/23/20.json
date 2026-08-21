@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non imporrai interesse al tuo fratello: interesse di denaro, interesse di cibo, interesse di ogni cosa che si presta a interesse.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "imporrai interesse"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "al tuo fratello"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interesse"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "di denaro"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interesse"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "di cibo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "interesse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di ogni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "si presta a interesse"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:58.121321202Z",
+  "model": "glm-5.3"
+}

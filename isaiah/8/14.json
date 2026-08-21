@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E sar ⟨egli⟩ per santuario, e per pietra d'inciampo e per rupe di trappola per le due case d'Israele, per laccio e per trappola per gli abitanti di Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "per santuario"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "e per pietra"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "d'inciampo"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "e per rupe"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "di trappola"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "per le due"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "case"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "per laccio"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "e per trappola"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "per gli abitanti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:58.835469718Z",
+  "model": "glm-5.3"
+}

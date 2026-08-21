@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 85,
+  "translation": "Forse per sempre ti adirerai con noi? Tirerai ⟨il tuo furore⟩ per generazione e generazione?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Forse per sempre"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ti adirerai"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con noi"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Tirerai"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "⟨il tuo furore⟩"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "per generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e generazione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:47.739745013Z",
+  "model": "glm-5.3"
+}

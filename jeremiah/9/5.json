@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "La tua dimora ⟨è⟩ in mezzo all'inganno; per inganno hanno rifiutato di conoscere ⟨את⟩ me», oracolo di YHWH.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "la tua dimora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "inganno"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "per inganno"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "hanno rifiutato"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "di conoscere"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "me (oggetto di conoscere)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:01:36.225582649Z",
+  "model": "glm-5.3"
+}

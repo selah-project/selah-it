@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "YHWH, Elohim dei vostri padri, aggiunga su di voi come voi ⟨ancora⟩ mille volte, e vi benedica ⟨את⟩ voi, come ha parlato a voi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "dei vostri padri"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "aggiunga"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "come voi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "volte"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e vi benedica"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:53.170260032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Ma tu, YHWH, abbi grazia di me e rialzami, e io li ripagherò.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "abbi grazia di me"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "e rialzami"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "e io li ripagherò"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:25.766633875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E ordinò su di lui il Faraone ⟨uomini⟩, e lo scortarono fuori, lui e ⟨את⟩ sua moglie e ⟨את⟩ tutto ciò che aveva.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "e ordinò"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "il Faraone"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "e scortarono fuori"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sua moglie"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto ciò che aveva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aveva"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:05.676774451Z",
+  "model": "glm-5.3"
+}

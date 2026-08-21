@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E andò Rechav'am a Sichem, perché a Sichem era venuto tutto Israele per farlo re ⟨את⟩ lui.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechav'am"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "a Sichem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "a Sichem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "era venuto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "per farlo re"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:23.387268138Z",
+  "model": "glm-5.3"
+}

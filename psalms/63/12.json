@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Ma il re gioirà in Elohim; si glorierà chiunque giura in lui, perché sarà chiusa la bocca dei parlatori di menzogna.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ma il re"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gioirà"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "si glorierà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "giura"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "sarà chiusa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "dei parlatori"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "di menzogna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:46.789219210Z",
+  "model": "glm-5.3"
+}

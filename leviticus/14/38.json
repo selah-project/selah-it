@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "e uscirà il sacerdote dalla casa all'ingresso della casa, e chiuderà ⟨את⟩ la casa per sette giorni.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "e uscirà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'ingresso"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "e chiuderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:37.548635853Z",
+  "model": "glm-5.3"
+}

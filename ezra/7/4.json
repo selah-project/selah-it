@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "figlio di Zerachià, figlio di Uzzi, figlio di Bukki.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachià"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    }
+  ],
+  "timestamp": "2026-08-21T09:38:46.296710462Z",
+  "model": "glm-5.3"
+}

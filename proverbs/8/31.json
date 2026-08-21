@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "giocando sulla sua terra abitata, e le mie delizie ⟨erano⟩ con ⟨את⟩ i figli dell'uomo",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "giocando"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "sulla terra abitata"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sua"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "e le mie delizie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli dell'uomo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dell'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:20.123420420Z",
+  "model": "glm-5.3"
+}

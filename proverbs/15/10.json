@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Correzione grave per chi abbandona la via; chi odia il rimprovero morirà.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "correzione"
+    },
+    {
+      "surface": "רע",
+      "gloss": "grave"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "per chi abbandona"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "la via"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "chi odia"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "il rimprovero"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "morirà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:44.727694287Z",
+  "model": "glm-5.3"
+}

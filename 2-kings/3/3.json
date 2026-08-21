@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Solo, ai peccati di Yarovam figlio di Nevat, con cui fece peccare ⟨את⟩ Israele, si attaccò; non se ne allontanò.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "ai peccati"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "di Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "di Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con cui"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "fece peccare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "si attaccò"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "סר",
+      "gloss": "se ne allontanò"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "da essi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:12.437872776Z",
+  "model": "glm-5.3"
+}

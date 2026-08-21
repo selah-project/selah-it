@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E disse Aharon: non si accenda l'ira del mio signore; tu conosci ⟨את⟩ il popolo, che nel male ⟨esso sta⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "si accenda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "l'ira (lett. «narice»)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "del mio signore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "conosci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nel male"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso ⟨sta⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:05.804241501Z",
+  "model": "glm-5.3"
+}

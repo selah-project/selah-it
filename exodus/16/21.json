@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E lo raccoglievano ⟨את⟩ mattina per mattina, ciascuno secondo quanto ne mangiava; e quando il sole scaldava, si scioglieva.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "e raccoglievano"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo (il man)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mattina"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "per mattina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "secondo la misura di"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "quanto ne mangiava"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "e scaldava"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "si scioglieva"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:25.099722277Z",
+  "model": "glm-5.3"
+}

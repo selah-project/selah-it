@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E il sacerdote intingerà ⟨את⟩ il suo dito destro nell'olio che ⟨è⟩ sul suo palmo sinistro, e aspergerà dell'olio con il suo dito sette volte davanti a YHWH.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "e intingerà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo dito destro"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "il suo dito"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "destro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "nell'olio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "il suo palmo"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sinistro"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "e aspergerà"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dell'"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "con il suo dito"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sette"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "volte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:15:09.715655683Z",
+  "model": "glm-5.3"
+}

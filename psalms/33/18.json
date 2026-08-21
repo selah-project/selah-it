@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Ecco, l'occhio di YHWH ⟨è⟩ verso quelli che lo temono, verso quelli che sperano nel suo chesed,",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'occhio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "quelli che lo temono"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "verso quelli che sperano"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "nel suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:14.241033003Z",
+  "model": "glm-5.3"
+}

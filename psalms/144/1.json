@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "Di Davide. Benedetto ⟨sia⟩ YHWH, mia rupe, che addestra le mie mani alla battaglia, le mie dita alla guerra.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di Davide"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Benedetto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mia rupe"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "che addestra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "le mie mani"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "alla battaglia"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "le mie dita"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "alla guerra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:14.549081639Z",
+  "model": "glm-5.3"
+}

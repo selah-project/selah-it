@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Quando ti avvicini a una città per combattere contro di essa, le proclamerai la pace.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ti avvicini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "una città"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "per combattere"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contro di essa"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "le proclamerai"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "a essa"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "la pace"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:51.253383532Z",
+  "model": "glm-5.3"
+}

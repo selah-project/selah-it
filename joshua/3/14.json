@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E avvenne, quando il popolo levò le tende dalle proprie dimore per attraversare ⟨את⟩ il Giordano, che i sacerdoti portatori dell'arca del patto ⟨camminavano⟩ davanti al popolo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "quando levò le tende"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "dalle proprie dimore"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "per attraversare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "e i sacerdoti"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "portatori"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "dell'arca"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "del patto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "al popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:51:23.388995759Z",
+  "model": "glm-5.3"
+}

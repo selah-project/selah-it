@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 59,
+  "translation": "Ecco, non ⟨è⟩ corta la mano di YHWH dal salvare, e non ⟨è⟩ resa pesante la sua orecchia dal sentire.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "⟨è⟩ corta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "dal salvare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "resa pesante"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "la sua orecchia"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "dal sentire"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:36.594500618Z",
+  "model": "glm-5.3"
+}

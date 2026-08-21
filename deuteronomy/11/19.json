@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ le insegnerete ai vostri figli, parlando di esse quando siedi in casa tua, cammini per la strada, e quando ti corichi e quando ti alzi.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "e insegnerete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i vostri figli"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "i vostri figli"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "per parlare"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di esse"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "quando siedi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in casa tua"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "e quando cammini"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per la strada"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "e quando ti corichi"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "e quando ti alzi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:07.882715316Z",
+  "model": "glm-5.3"
+}

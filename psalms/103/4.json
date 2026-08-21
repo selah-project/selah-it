@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Colui che riscatta dalla fossa la tua vita, che ti incorona di chesed e di tenerezze.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Colui che riscatta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "dalla fossa"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "la tua vita"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "che ti incorona"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "di chesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "e di tenerezze"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:01.128691423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Come per un amico, come per un fratello mio, così andavo in giro; come chi fa lutto per una madre, rannuvolato mi prostravo.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "come per un amico"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "come per un fratello"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mio"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "così andavo in giro"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "come chi fa lutto"
+    },
+    {
+      "surface": "אם",
+      "gloss": "per una madre"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "rannuvolato"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "mi prostravo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:09.861233282Z",
+  "model": "glm-5.3"
+}

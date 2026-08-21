@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E ⟨את⟩ i bracieri e ⟨את⟩ le coppe libatorie — quelle d'oro, ⟨in⟩ oro, e quelle d'argento, ⟨in⟩ argento — prese il capo dei carnefici.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i bracieri"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "i bracieri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le coppe libatorie"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "le coppe libatorie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e che"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argento"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argento"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "רב",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "dei carnefici"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:33.647057529Z",
+  "model": "glm-5.3"
+}

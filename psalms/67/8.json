@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 67,
+  "translation": "Ci benedica Elohim, e lo temano ⟨את⟩ tutti i confini della terra.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "ci benedica"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "e lo temano"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i confini della terra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "i confini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:10.171322200Z",
+  "model": "glm-5.3"
+}

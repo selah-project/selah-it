@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E pose ⟨את⟩ la tavola nella tenda di convegno, sul lato del mishkan, a nord, al di fuori del parokhet.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tavola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nella tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "di convegno"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lato"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "del mishkan"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "a nord"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "al di fuori"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "del parokhet"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:51.850692161Z",
+  "model": "glm-5.3"
+}

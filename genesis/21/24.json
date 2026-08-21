@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E disse Avraham: io giurerò.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "giurerò"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:00.051829660Z",
+  "model": "glm-5.3"
+}

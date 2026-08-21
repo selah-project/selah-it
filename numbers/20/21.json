@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Edom rifiutò di lasciare passare Israele ⟨את⟩ attraverso il suo confine, e Israele si scostò da lui.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "rifiutò"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di lasciare passare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passare attraverso"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "il suo confine"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "e si scostò"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "da lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:17.039546036Z",
+  "model": "glm-5.3"
+}

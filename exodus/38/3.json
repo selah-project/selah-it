@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "E fece ⟨את⟩ tutti gli utensili dell'altare: ⟨את⟩ le caldaie e ⟨את⟩ le pale e ⟨את⟩ i bacini, ⟨את⟩ le forche e ⟨את⟩ i bracieri; tutti i suoi utensili fece di rame.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti gli utensili dell'altare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gli utensili"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dell'altare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le caldaie"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "le caldaie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le pale"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "le pale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i bacini"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "i bacini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le forche"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "le forche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i bracieri"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "i bracieri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i suoi utensili"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "di rame"
+    }
+  ],
+  "timestamp": "2026-08-21T06:08:06.829422574Z",
+  "model": "glm-5.3"
+}

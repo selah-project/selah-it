@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Poiché ⟨Egli⟩ ha abbassato gli abitanti dell'alto, la città eccelsa; l'abbassa, l'abbassa fino a terra, la fa arrivare fino alla polvere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ha abbassato"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "dell'alto"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "la città"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "eccelsa"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "l'abbassa"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "l'abbassa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "la fa arrivare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alla polvere"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:52.345282414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E guardò il filisteo e vide ⟨את⟩ Davide e lo disprezzò, perché ⟨era⟩ un ragazzo, rossiccio, e di bell'aspetto.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "e guardò"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "e lo disprezzò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un ragazzo"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "rossiccio"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e con"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bello"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "aspetto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:24.872272383Z",
+  "model": "glm-5.3"
+}

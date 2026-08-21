@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 21:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Perché vivono i malvagi, invecchiano, e per giunta crescono in forza?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "vivono"
+    },
+    {
+      "surface": "עתקו",
+      "gloss": "invecchiano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "e per giunta"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "crescono in forza"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "in forza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:18:43.654449842Z",
+  "model": "glm-5.3"
+}

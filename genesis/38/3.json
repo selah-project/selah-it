@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Ed ella concepì e partorì un figlio, ed egli chiamò ⟨את⟩ il suo nome Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ed ella concepì"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ed egli chiamò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo nome"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:58.169489402Z",
+  "model": "glm-5.3"
+}

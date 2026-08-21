@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "E la donna vide ⟨את⟩ Shemu'el, e gridò a gran voce; e la donna disse a Sha'ul, dicendo: «Perché mi hai ingannata? E tu ⟨sei⟩ Sha'ul!».",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "e gridò"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "a voce"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "mi hai ingannata"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:44.552221738Z",
+  "model": "glm-5.3"
+}

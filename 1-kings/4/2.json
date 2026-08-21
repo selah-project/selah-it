@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E questi ⟨furono⟩ i capi che ⟨aveva⟩: Azariahu figlio di Tsadok, ⟨il⟩ sacerdote.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "E questi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "i capi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aveva"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azariahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:55.433726154Z",
+  "model": "glm-5.3"
+}

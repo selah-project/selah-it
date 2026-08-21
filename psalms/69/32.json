@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "E ⟨ciò⟩ sarà più gradito a YHWH di un giovenco, di un bue dalle corna e dagli zoccoli.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "e sarà più gradito"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "משור",
+      "gloss": "di un giovenco"
+    },
+    {
+      "surface": "פר",
+      "gloss": "di un bue"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "dalle corna"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "e dagli zoccoli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:07.751364800Z",
+  "model": "glm-5.3"
+}

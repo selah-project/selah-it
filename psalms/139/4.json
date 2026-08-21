@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Poiché non ⟨vi è⟩ parola sulla mia lingua — ecco, YHWH, la conosci tutta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "parola"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "sulla mia lingua"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "la conosci"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tutta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:05.706110016Z",
+  "model": "glm-5.3"
+}

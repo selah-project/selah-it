@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E Aharon stese ⟨את⟩ la sua mano sulle acque d'Egitto, e salirono le rane e coprirono ⟨את⟩ la terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "e stese"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "e salirono"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "le rane"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "e coprirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:52.899949446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Allora mi invocheranno, ma io non risponderò; mi cercheranno di buon mattino, ma non mi troveranno.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "mi invocheranno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "risponderò"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "mi cercheranno di buon mattino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "mi troveranno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:30.995453581Z",
+  "model": "glm-5.3"
+}

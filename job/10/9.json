@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Ricorda, ti prego, che come argilla mi hai fatto, e alla polvere mi riporti.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ricorda"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "come argilla"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "mi hai fatto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "polvere"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "mi riporti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:01.548916909Z",
+  "model": "glm-5.3"
+}

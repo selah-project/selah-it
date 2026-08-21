@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "E sappiano che tu — il tuo nome ⟨è⟩ YHWH — ⟨sei⟩ tu solo ⟨l⟩Altissimo su tutta la terra.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "e sappiano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tu solo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Altissimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:27.383697633Z",
+  "model": "glm-5.3"
+}

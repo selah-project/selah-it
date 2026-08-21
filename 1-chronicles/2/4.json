@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E Tamar, sua nuora, gli partorì ⟨את⟩ Peretz e ⟨את⟩ Zerach; tutti i figli di Yehudah: cinque.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "E Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "sua nuora"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gli partorì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretz"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinque"
+    }
+  ],
+  "timestamp": "2026-08-21T09:45:18.356409388Z",
+  "model": "glm-5.3"
+}

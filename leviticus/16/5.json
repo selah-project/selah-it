@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E dall'assemblea dei figli d'Israele prenderà ⟨את⟩ due capri per il sacrificio di espiazione, e un ariete per l'olà (olocausto).",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "dall'assemblea dei figli d'Israele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "assemblea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prenderà"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "capri"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "di capre"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "per il sacrificio di espiazione"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "e un ariete"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "per l'olà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:26.340800951Z",
+  "model": "glm-5.3"
+}

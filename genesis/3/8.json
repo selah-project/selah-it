@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E udirono ⟨את⟩ la voce di YHWH Elohim che camminava nel giardino al soffio ⟨della brezza⟩ del giorno; e l'uomo e sua moglie si nascosero dalla presenza di YHWH Elohim in mezzo ⟨agli⟩ alberi del giardino.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "E udirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voce di YHWH Elohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "che camminava"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nel giardino"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "al soffio"
+    },
+    {
+      "surface": "היום",
+      "gloss": "del giorno"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "e si nascosero"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e sua moglie"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dalla presenza di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "alberi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "del giardino"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:37.988022834Z",
+  "model": "glm-5.3"
+}

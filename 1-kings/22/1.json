@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E rimasero seduti tre anni, non c'era guerra tra Aram e tra Israele.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "E rimasero seduti"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'era"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "guerra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:24.079289972Z",
+  "model": "glm-5.3"
+}

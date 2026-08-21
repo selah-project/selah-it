@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Colui che guarda la terra e trema, che tocca i monti ed essi fumano.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "che guarda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "e trema"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "tocca"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ed essi fumano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.542268060Z",
+  "model": "glm-5.3"
+}

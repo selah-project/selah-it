@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Poiché YHWH ama il giudizio e non abbandona ⟨את⟩ i suoi fedeli: per sempre sono custoditi, ma la discendenza degli empi sarà recisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "il giudizio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "abbandona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi fedeli"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "i suoi fedeli"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "sono custoditi"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ma la discendenza"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "degli empi"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "sarà recisa"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:05.821118812Z",
+  "model": "glm-5.3"
+}

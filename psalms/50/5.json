@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Radunate ⟨a⟩ me i miei fedeli, quelli che hanno tagliato il mio patto sopra ⟨il⟩ sacrificio.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Radunate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "i miei fedeli"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "hanno tagliato"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrificio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:11.994250866Z",
+  "model": "glm-5.3"
+}

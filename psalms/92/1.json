@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "Mizmor, canto, per il giorno dello shabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "canto"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per il giorno"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "dello shabbat"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.687137700Z",
+  "model": "glm-5.3"
+}

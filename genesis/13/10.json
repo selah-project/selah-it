@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 13:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E Lot alzò ⟨את⟩ i suoi occhi e vide ⟨את⟩ tutto il circondario del Giordano, che tutto ⟨era⟩ irrigato — davanti a quando YHWH distrusse ⟨את⟩ Sdom e ⟨את⟩ Amora — come il giardino di YHWH, come la terra d'Egitto, venendo a Zoar.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "e alzò"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi occhi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il circondario del Giordano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "il circondario"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "del Giordano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "irrigato"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "distrusse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sdom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sdom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "come il giardino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "come la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "venendo"
+    },
+    {
+      "surface": "צער",
+      "gloss": "a Zoar"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:21.775561194Z",
+  "model": "glm-5.3"
+}

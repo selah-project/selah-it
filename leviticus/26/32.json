@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E ridurrò io ⟨את⟩ la terra a deserto, e su di essa resteranno desolati i vostri nemici che vi abitano.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "e ridurrò a deserto"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "e resteranno desolati"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "su di essa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "i vostri nemici"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "che vi abitano"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:20.946370482Z",
+  "model": "glm-5.3"
+}

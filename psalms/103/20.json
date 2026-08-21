@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Benedite YHWH, voi suoi messaggeri, potenti di forza, che fate la sua parola, obbedendo alla voce della sua parola!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Benedite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "voi suoi messaggeri"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "potenti"
+    },
+    {
+      "surface": "כח",
+      "gloss": "di forza"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "che fate"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "la sua parola"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "obbedendo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "alla voce"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "della sua parola"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:01.125411269Z",
+  "model": "glm-5.3"
+}

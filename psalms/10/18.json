@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "per far giustizia all'orfano e all'oppresso, perché l'uomo ⟨dalla⟩ terra non aggiunga ⟨terrore⟩ mai più.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "per far giustizia"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "all'orfano"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "e all'oppresso"
+    },
+    {
+      "surface": "בל",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "aggiunga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mai più"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "a incutere terrore"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "l'uomo mortale"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:00.830222804Z",
+  "model": "glm-5.3"
+}

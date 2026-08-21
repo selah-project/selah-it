@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 75,
+  "translation": "Al maestro del coro. Al-tashchet — « Non distruggere ». Mizmor di Asaf. Canto.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al maestro del coro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tashchet — « Non distruggere »"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:04.879140139Z",
+  "model": "glm-5.3"
+}

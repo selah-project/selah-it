@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Non temerò miriadi di popolo che intorno si sono schierati contro di me.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "temerò"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "miriadi di"
+    },
+    {
+      "surface": "עם",
+      "gloss": "popolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "intorno"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "si sono schierati"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:02.930286966Z",
+  "model": "glm-5.3"
+}

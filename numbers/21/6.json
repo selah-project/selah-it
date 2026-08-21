@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E YHWH mandò contro il popolo ⟨את⟩ i serpenti, i serafici, e morsero ⟨את⟩ il popolo, e morì molta gente d'Israele.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "contro il popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i serpenti, i serafici"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "i serpenti"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "i serafici"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "e morsero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gente"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molta"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:32:36.353219913Z",
+  "model": "glm-5.3"
+}

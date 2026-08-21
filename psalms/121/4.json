@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 121,
+  "translation": "Ecco, non sonnecchia e non dorme il custode d'Israele.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sonnecchia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "dorme"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "il custode"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:27.777653962Z",
+  "model": "glm-5.3"
+}

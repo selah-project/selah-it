@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Per tutti i peccati di Baasha e per i peccati di Elah suo figlio, che essi commisero e con cui fecero peccare ⟨את⟩ Israele, per provocare ⟨את⟩ YHWH, Elohim di Israele, con le loro vanità.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "per"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "i peccati"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "di Baasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "e per i peccati"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "di Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "commisero"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e con cui"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "fecero peccare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "per provocare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "con le loro vanità"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:14.046331013Z",
+  "model": "glm-5.3"
+}

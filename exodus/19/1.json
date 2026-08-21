@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Nel terzo mese dall'uscita dei figli d'Israele dalla terra d'Egitto, in questo giorno vennero nel deserto del Sinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "nel mese"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "terzo"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "dall'uscita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vennero"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "del Sinai"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:31.911898536Z",
+  "model": "glm-5.3"
+}

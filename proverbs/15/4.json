@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Una lingua che guarisce ⟨è⟩ albero di vita, ma la perversità in essa ⟨è⟩ frattura nello spirito.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "che guarisce"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "Una lingua"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "albero"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "di vita"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ma la perversità"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "frattura"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "nello spirito"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:48.710691433Z",
+  "model": "glm-5.3"
+}

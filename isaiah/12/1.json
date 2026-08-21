@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E dirai in quel giorno: «Ti loderò, YHWH, perché ti sei adirato con me; si volga indietro la tua ira, e tu mi consolerai».",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "e dirai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in ⟨il⟩ giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ti loderò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "ti sei adirato"
+    },
+    {
+      "surface": "בי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "si volge indietro"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "la tua ira (lett. il tuo naso)"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "e mi consoli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:46:29.725502707Z",
+  "model": "glm-5.3"
+}

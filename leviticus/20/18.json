@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E un uomo che giaccia con ⟨את⟩ una donna malata e scopra ⟨את⟩ la sua nudità — ⟨את⟩ la sua sorgente ha denudato, e lei ha scoperto ⟨את⟩ la sorgente del suo sangue — ed entrambi saranno sterminati dal mezzo del loro popolo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e un uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "giaccia"
+    },
+    {
+      "surface": "את",
+      "gloss": "con ⟨את⟩",
+      "marks": "una donna malata"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "malata"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "e scopra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua nudità"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "la sua nudità"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua sorgente"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "la sua sorgente"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "ha denudato"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "e lei"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "ha scoperto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sorgente del suo sangue"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "la sorgente"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "del suo sangue"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "e saranno sterminati"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "entrambi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dal mezzo"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "del loro popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:07.865242714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Perché il Nome di YHWH io proclamo: date grandezza al nostro Elohim!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io proclamo"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "date"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "grandezza"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "al nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:49:12.774632665Z",
+  "model": "glm-5.3"
+}

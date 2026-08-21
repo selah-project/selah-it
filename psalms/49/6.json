@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Perché temerei nei giorni di ra', l'offesa ⟨che⟩ ai miei talloni mi circonda?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "temerei"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "nei giorni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "di ra'"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'offesa"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "ai miei talloni"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mi circonda"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:55.648571024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Anche il tuo servo è reso avveduto ⟨da essi⟩; nel custodirli ⟨vi è⟩ grande ricompensa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "è reso avveduto"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨da essi⟩"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "nel custodirli"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ricompensa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:39.845708337Z",
+  "model": "glm-5.3"
+}

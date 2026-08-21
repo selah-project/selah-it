@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 16:12",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E Mosè mandò a chiamare Datan e Abiram, figli di Eliav; ma essi dissero: non saliremo!",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "a chiamare"
+    },
+    {
+      "surface": "לדתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ולאבירם",
+      "gloss": "e Abiram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "di Eliav"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ma essi dissero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "saliremo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:30:06.286780969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Si secca l'erba, appassisce il fiore, ma il Davar del nostro Elohim sorge per sempre.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "si secca"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "l'erba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "apparrisce"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "il fiore"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ma il Davar"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sorge"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:35.789452627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Poiché ecco, l'inverno ⟨è⟩ passato, la pioggia è trascorsa, se n'⟨è⟩ andata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "l'inverno"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨è⟩ passato"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "è trascorsa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "se n'è andata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨riflessivo⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:02.724329204Z",
+  "model": "glm-5.3"
+}

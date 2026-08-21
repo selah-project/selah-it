@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse YHWH: Yehudà salirà; ecco, ho dato ⟨את⟩ la terra nella sua mano.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudà"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "salirà"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nella sua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:03.707696705Z",
+  "model": "glm-5.3"
+}

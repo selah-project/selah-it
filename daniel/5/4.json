@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Bevvero il vino e lodarono gli dèi d'oro e d'argento, di rame, di ferro, di legno e di pietra.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "bevvero"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "il vino"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "e lodarono"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "gli dèi"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "e d'argento"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "di rame"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "di ferro"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "di legno"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "e di pietra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:34:28.543145881Z",
+  "model": "glm-5.3"
+}

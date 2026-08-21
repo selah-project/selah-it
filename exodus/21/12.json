@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Chi colpisce un uomo ed egli muore, di morte sarà messo a morte.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Chi colpisce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ed egli muore"
+    },
+    {
+      "surface": "מות",
+      "gloss": "di morte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:05.552002943Z",
+  "model": "glm-5.3"
+}

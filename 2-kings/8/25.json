@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 8:25",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Nell'anno dodicesimo di Joram figlio di Achab, re d'Israele, divenne re Achaziahu figlio di Jehoram, re di Giuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Nell'anno"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dodici"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(decina)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "di anno"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "di Joram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "di Achab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "divenne re"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achaziahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "di Jehoram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:47.021615918Z",
+  "model": "glm-5.3"
+}

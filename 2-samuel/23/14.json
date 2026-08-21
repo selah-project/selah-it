@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E David era allora nella fortezza, mentre il presidio dei filistei era allora a Bet-Lèchem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "e David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "nella fortezza"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "e il presidio di"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistei"
+    },
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lèchem"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:32.836050022Z",
+  "model": "glm-5.3"
+}

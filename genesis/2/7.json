@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E formò YHWH Elohim ⟨את⟩ l'uomo — polvere dal suolo — e soffiò nelle sue narici un soffio di vita, e l'uomo divenne una nefesh vivente.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "formò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "polvere"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "il suolo"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "soffiò"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "nelle sue narici"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "soffio"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "di vita"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "divenne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "una nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "vivente"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:49.194506310Z",
+  "model": "glm-5.3"
+}

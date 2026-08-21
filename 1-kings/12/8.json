@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E abbandonò ⟨את⟩ il consiglio degli anziani che lo avevano consigliato, e si consultò con ⟨את⟩ i giovani che erano cresciuti ⟨את⟩ con lui, che stavano in piedi davanti a lui.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "e abbandonò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il consiglio"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "il consiglio"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "degli anziani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "lo avevano consigliato"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "e si consultò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i giovani"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "i giovani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "erano cresciuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stavano in piedi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:17.485084686Z",
+  "model": "glm-5.3"
+}

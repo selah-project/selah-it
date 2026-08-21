@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "e suo marito sentì e tacque verso di lei, non la annullò: allora tutti i suoi voti sorgono, e ogni vincolo che essa vinse sulla sua nefesh sussiste.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "e sentì"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "suo marito"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "e tacque"
+    },
+    {
+      "surface": "לה",
+      "gloss": "verso di lei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "annullò"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lei",
+      "marks": "lei (oggetto di הניא)"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "sorgono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "i suoi voti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ogni"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "vincolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "essa vinse"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sussiste"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:25.962261764Z",
+  "model": "glm-5.3"
+}

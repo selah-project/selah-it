@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E morì Eliseo, e lo seppellirono. E le bande di Moav entravano ⟨nella⟩ terra al venir dell'anno.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseo"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "e lo seppellirono"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "e le bande"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "di Moav"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entravano"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨nella⟩ terra"
+    },
+    {
+      "surface": "בא",
+      "gloss": "al venir"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dell'anno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:48.576652655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Chi lavora la sua terra si sazia di pane, ma chi insegue cose vuote ⟨è⟩ privo di cuore.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "chi lavora"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "la sua terra"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "si sazia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "di pane"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ma chi insegue"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "cose vuote"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "privo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:58.123868375Z",
+  "model": "glm-5.3"
+}

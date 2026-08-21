@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Perché così disse Adonai YHWH: in Egitto scese all'inizio il mio popolo, per dimorare là; e Assur — senza motivo ⟨lo⟩ oppresso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scelse"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "all'inizio"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "per dimorare"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "e Assur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "senza motivo"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "oppresso"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:15.196179425Z",
+  "model": "glm-5.3"
+}

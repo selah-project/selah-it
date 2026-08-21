@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E Canaan generò ⟨את⟩ Sidon il suo primogenito, e ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "E Canaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "il suo primogenito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:02.778906751Z",
+  "model": "glm-5.3"
+}

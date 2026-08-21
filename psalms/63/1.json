@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Mizmor di Davide, quand'era nel deserto di Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "quand'era"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:03.492485047Z",
+  "model": "glm-5.3"
+}

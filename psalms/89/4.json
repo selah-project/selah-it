@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Ho tagliato ⟨un⟩ patto col mio eletto, ho giurato a Davide, mio servo:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ho tagliato"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨un⟩ patto"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "col mio eletto"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ho giurato"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mio servo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:34.373976022Z",
+  "model": "glm-5.3"
+}

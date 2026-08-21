@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "«Tuo padre ha reso duro ⟨את⟩ il nostro giogo; e tu, ora, alleggerisci dalla dura servitù di tuo padre e dal suo giogo pesante che ha posto su di noi, e noi ti serviremo».",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ha reso duro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il nostro giogo"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "il nostro giogo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "alleggerisci"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "dalla servitù di"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "dura"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "e dal suo giogo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pesante"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha posto"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "e noi ti serviremo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:23.387992777Z",
+  "model": "glm-5.3"
+}

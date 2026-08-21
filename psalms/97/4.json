@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 97,
+  "translation": "I suoi fulmini illuminarono ⟨la⟩ terra abitata; la terra vide e fu travolta.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "illuminarono"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "i suoi fulmini"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "la terra abitata"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "vide"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "e fu travolta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:25.968765782Z",
+  "model": "glm-5.3"
+}

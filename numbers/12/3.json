@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E l'uomo Mosè ⟨era⟩ umilissimo, più di ogni ⟨uomo⟩ che ⟨è⟩ sulla faccia della terra.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "umilissimo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "più di ogni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨uomo⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "sulla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faccia"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:33.788308272Z",
+  "model": "glm-5.3"
+}

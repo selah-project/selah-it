@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Ho amato, perché YHWH ascolta la mia voce, ⟨le⟩ mie suppliche.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "ho amato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia voce"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "la mia voce"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "le mie suppliche"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:23.575172244Z",
+  "model": "glm-5.3"
+}

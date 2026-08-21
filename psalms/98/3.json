@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 98,
+  "translation": "Ha ricordato il suo chesed e la sua fedeltà alla casa d'Israele; hanno visto tutti i confini della terra ⟨את⟩ la salvezza del nostro Elohim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ha ricordato"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "e la sua fedeltà"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "alla casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hanno visto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "i confini\/le estremità"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la salvezza del nostro Elohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "la salvezza"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "del nostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:17.746414255Z",
+  "model": "glm-5.3"
+}

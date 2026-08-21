@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Figli di Manasse: Asriel, che partorì la sua concubina, l'aramaea; essa partorì ⟨את⟩ Machir, padre di Gilead.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "figli di"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "la sua concubina"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "l'aramaea"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Machir"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre di"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-08-21T09:47:48.789009875Z",
+  "model": "glm-5.3"
+}

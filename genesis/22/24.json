@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E la sua concubina — e il suo nome ⟨era⟩ Reumà — partorì anche lei ⟨את⟩ Tevach e ⟨את⟩ Gacham e ⟨את⟩ Tachash e ⟨את⟩ Maachà.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "E la sua concubina"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e il suo nome"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumà"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "partorì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevach"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Gacham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gacham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tachash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Maachà"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maachà"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:03.325996350Z",
+  "model": "glm-5.3"
+}

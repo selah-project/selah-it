@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 83,
+  "translation": "furono distrutti a En-Dor, divennero concime per il suolo.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "furono distrutti"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "a En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "divennero"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "concime"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "per il suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:14.323724748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 101,
+  "translation": "Sarò saggio nella via ⟨della⟩ integrità. Quando verrai a me? Camminerò nell'integrità del mio cuore, in mezzo alla mia casa.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "sarò saggio"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nella via"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "integrità"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "verrai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "camminerò"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "nell'integrità"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "del mio cuore"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "la mia casa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:44.285623327Z",
+  "model": "glm-5.3"
+}

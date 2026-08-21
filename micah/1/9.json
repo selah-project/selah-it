@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Perché incurabile ⟨è⟩ la sua ferita; perché ⟨essa⟩ è giunta fino a Giuda, ha toccato la porta del mio popolo, fino a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "incurabile"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "la sua ferita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "באה",
+      "gloss": "è giunta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ha toccato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la porta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "del mio popolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:42.342525896Z",
+  "model": "glm-5.3"
+}

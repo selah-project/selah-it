@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E venne fin davanti alla porta del re, perché non ⟨si poteva⟩ entrare alla porta del re con indosso il sacco.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "E venne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "alla porta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨si poteva⟩"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "entrare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "con indosso"
+    },
+    {
+      "surface": "שק",
+      "gloss": "il sacco"
+    }
+  ],
+  "timestamp": "2026-08-21T09:31:21.418365648Z",
+  "model": "glm-5.3"
+}

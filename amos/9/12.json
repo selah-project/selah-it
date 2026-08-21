@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 9:12",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Affinché possiedano ⟨את⟩ il resto di Edom e tutte le nazioni sulle quali ⟨è⟩ invocato il mio nome — oracolo di YHWH, colui che fa questo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "possiedano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il resto di Edom"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "il resto"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "di Edom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutte"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sulle quali"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "⟨è⟩ invocato"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio nome"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di esse"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "colui che fa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:21.363599022Z",
+  "model": "glm-5.3"
+}

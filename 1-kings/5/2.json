@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E il cibo di Shlomoh per un giorno: trenta cor di fior di farina e sessanta cor di farina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E fu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il cibo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "di Shlomoh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un giorno"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "כר",
+      "gloss": "cor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fior di farina"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "e sessanta"
+    },
+    {
+      "surface": "כר",
+      "gloss": "cor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "farina"
+    }
+  ],
+  "timestamp": "2026-08-21T07:26:26.523749912Z",
+  "model": "glm-5.3"
+}

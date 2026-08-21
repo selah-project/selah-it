@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Elohim mio, io grido di giorno e non rispondi, e di notte, e non v'è ⟨è⟩ silenzio per me.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io grido"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "di giorno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "rispondi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e di notte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "silenzio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:59.032072182Z",
+  "model": "glm-5.3"
+}

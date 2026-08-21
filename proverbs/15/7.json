@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Le labbra dei sapienti spargono ⟨il⟩ sapere, ma il cuore degli stolti non ⟨fa⟩ così.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "le labbra"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dei sapienti"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "spargono (vagliano)"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sapere"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ma il cuore"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "degli stolti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:41.454804687Z",
+  "model": "glm-5.3"
+}

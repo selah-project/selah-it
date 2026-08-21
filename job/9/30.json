@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Se mi lavassi con ⟨la⟩ neve, e purificassi le mie mani nel borace,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "mi lavassi"
+    },
+    {
+      "surface": "במו",
+      "gloss": "con"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "neve"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "e purificassi"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "nel borace"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "le mie mani"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:03.196002737Z",
+  "model": "glm-5.3"
+}

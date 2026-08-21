@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E chiamò Elohim il firmamento cieli; e fu sera e fu mattina: giorno secondo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "e chiamò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "il firmamento"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cieli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sera"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mattina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "שני",
+      "gloss": "secondo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:32.277762964Z",
+  "model": "glm-5.3"
+}

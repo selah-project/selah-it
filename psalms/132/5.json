@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "finché io trovi un luogo per YHWH, dimore (mishkan) per il Potente di Giacobbe.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "io trovi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un luogo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "dimore"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "per il Potente"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Giacobbe"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:44.050466189Z",
+  "model": "glm-5.3"
+}

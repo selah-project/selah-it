@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E disse: «Ho udito ⟨את⟩ la tua voce nel giardino e ho avuto paura, perché sono nudo, e mi sono nascosto».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua voce"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "la tua voce"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ho udito"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "nel giardino"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "e ho avuto paura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nudo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "sono io"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "e mi sono nascosto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:02.320101105Z",
+  "model": "glm-5.3"
+}

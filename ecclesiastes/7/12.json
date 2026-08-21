@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Perché all'ombra ⟨sta⟩ la chokhmà, all'ombra ⟨sta⟩ il denaro, ma il vantaggio della conoscenza ⟨è questo⟩: la chokhmà dà vita ai suoi padroni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "all'ombra"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "la chokhmà"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "all'ombra"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "il denaro"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ma il vantaggio"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "della conoscenza"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "la chokhmà"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "dà vita"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "ai suoi padroni"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:58.264489084Z",
+  "model": "glm-5.3"
+}

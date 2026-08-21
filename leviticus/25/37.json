@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "⟨את⟩ il tuo denaro non dare a lui a interesse, e a incremento non dare il tuo cibo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo denaro"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "il tuo denaro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dare"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "a interesse"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "e a incremento"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dare"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "il tuo cibo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:49.138698386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 126,
+  "translation": "Andrà camminando e piangendo, portando la semente da spargere; tornerà, verrà con grida di gioia, portando le sue mannelle.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "andrà camminando"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "camminando"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "e piangendo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "portando"
+    },
+    {
+      "surface": "משך",
+      "gloss": "la semente da spargere"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "il seme"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tornerà"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "verrà"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "con grida di gioia"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "portando"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "le sue mannelle"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:41.162025508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 82,
+  "translation": "Mizmor di Asaf. Elohim sta in piedi nell'assemblea di El, in mezzo agli elohim giudica.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "sta in piedi"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "nell'assemblea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "agli elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "giudica"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:15.105284421Z",
+  "model": "glm-5.3"
+}

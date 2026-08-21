@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Prima che si spezzi la corda d'argento, e si frantumi ⟨la⟩ sfera d'oro, e si rompa la brocca sulla sorgente, e vada in pezzi la ruota verso la cisterna —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "prima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "si spezzi"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "la corda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "d'argento"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "e si frantumi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "la sfera"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "e si rompa"
+    },
+    {
+      "surface": "כד",
+      "gloss": "la brocca"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "la sorgente"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "e vada in pezzi"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "la ruota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "la cisterna"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:32.255864866Z",
+  "model": "glm-5.3"
+}

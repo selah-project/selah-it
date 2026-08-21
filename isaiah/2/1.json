@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "La parola che vide Yeshaiahu figlio di Amots su Giuda e Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "vide"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "di Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:21.328091944Z",
+  "model": "glm-5.3"
+}

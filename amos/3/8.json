@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Il leone ha ruggito — chi non temerà? Adonai YHWH ha parlato — chi non profetizzerà?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "il leone"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "ha ruggito"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "temerà"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "profetizzerà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:51.041911958Z",
+  "model": "glm-5.3"
+}

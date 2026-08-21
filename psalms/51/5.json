@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Poiché le mie ribellioni io conosco, e il mio peccato ⟨è⟩ davanti a me sempre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "le mie ribellioni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "conosco"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "e il mio peccato"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "davanti a me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:33.006879649Z",
+  "model": "glm-5.3"
+}

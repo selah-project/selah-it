@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Anche ⟨il filo⟩ della sua spada hai voltato indietro, e non lo hai fatto reggere in battaglia.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "anche"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "hai voltato indietro"
+    },
+    {
+      "surface": "צור",
+      "gloss": "il filo"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "della sua spada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "lo hai fatto reggere"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in battaglia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:29.272925329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Una terra in cui non in povertà mangerai pane, non ti mancherà nulla in essa; una terra le cui pietre ⟨sono⟩ ferro, e dalle sue montagne scaverai rame.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "in povertà"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangerai"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "ti mancherà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nulla"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in essa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le cui"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "le sue pietre"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ferro"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "e dalle sue montagne"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "scaverai"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rame"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:50.678827275Z",
+  "model": "glm-5.3"
+}

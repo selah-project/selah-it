@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Lo fai dominare sulle opere delle tue mani; tutto hai posto sotto i suoi piedi:",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "lo fai dominare"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "sulle opere"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "delle tue mani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "hai posto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "i suoi piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:05.830576288Z",
+  "model": "glm-5.3"
+}

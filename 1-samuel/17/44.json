@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E disse il filisteo a Davide: « Vieni a me, e darò ⟨את⟩ la tua carne agli uccelli del cielo e alle bestie del campo. »",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "il filisteo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "vieni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "e darò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua carne"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "la tua carne"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "agli uccelli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "del cielo"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "e alle bestie"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "del campo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:24.872598262Z",
+  "model": "glm-5.3"
+}

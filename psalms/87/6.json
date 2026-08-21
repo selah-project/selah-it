@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 87,
+  "translation": "YHWH conterà, quando scrive ⟨il registro de⟩i popoli: questo è nato là. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "conterà"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "scrivendo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "è nato"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:49.589656303Z",
+  "model": "glm-5.3"
+}

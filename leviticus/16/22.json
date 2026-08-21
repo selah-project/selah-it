@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E porterà il capro su di sé ⟨את⟩ tutte le loro iniquità verso una terra separata; e manderà ⟨את⟩ il capro nel deserto.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "e porterà"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "il capro"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di sé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le loro iniquità"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "le loro iniquità"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "separata"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "e manderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il capro"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "il capro"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:50.618820586Z",
+  "model": "glm-5.3"
+}

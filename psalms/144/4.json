@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "L'umano ⟨è⟩ simile a un soffio-vano; i suoi giorni come un'ombra che passa.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "L'umano"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "a un soffio-vano"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "⟨è⟩ simile"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "i suoi giorni"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "come un'ombra"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "che passa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:14.549638157Z",
+  "model": "glm-5.3"
+}

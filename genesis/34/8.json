@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E Camor parlò ⟨con⟩ loro, dicendo: « Sichem, mio figlio — la sua nefesh si è aggrappata alla vostra figlia; vi prego, datela ⟨את⟩ lei a lui in moglie ».",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E parlò"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Camor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ loro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sichem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mio figlio"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "si è aggrappata"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "alla vostra figlia"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "date"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vi prego"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lei",
+      "marks": "a lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "in moglie"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:10.036515374Z",
+  "model": "glm-5.3"
+}

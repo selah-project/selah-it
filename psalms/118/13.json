@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Spingendo mi hai spinto per farmi cadere, ma YHWH mi ha aiutato.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "spingendo"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "mi hai spinto"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "per farmi cadere"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ma YHWH"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "mi ha aiutato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:02.422141305Z",
+  "model": "glm-5.3"
+}

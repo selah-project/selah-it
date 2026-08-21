@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E Sarah concepì e partorì ad Avraham un figlio per la sua vecchiaia, al tempo fissato di cui aveva parlato ⟨אתו⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "E concepì"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ad Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "per la sua vecchiaia"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "al tempo fissato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di cui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T05:41:04.140011612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Ma se non fa pace con te e fa guerra con te, allora l'assedierai.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "fa pace"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "e fa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "guerra"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "l'assedierai"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contro di essa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:51.253706684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E fece entrare ⟨את⟩ i sacerdoti e ⟨את⟩ i leviti, e li radunò nella piazza orientale.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e fece entrare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i sacerdoti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "i sacerdoti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i leviti"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "i leviti"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "e li radunò"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "nella piazza"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "orientale"
+    }
+  ],
+  "timestamp": "2026-08-21T10:01:02.708943078Z",
+  "model": "glm-5.3"
+}

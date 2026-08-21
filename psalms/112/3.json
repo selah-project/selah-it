@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Ricchezza e beni ⟨sono⟩ nella sua casa, e la sua giustizia sta salda per sempre.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Ricchezza"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e beni"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nella sua casa"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "e la sua giustizia"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sta salda"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:54.521039691Z",
+  "model": "glm-5.3"
+}

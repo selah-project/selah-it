@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Poiché ci hai messi alla prova, Elohim, ci hai raffinati come si raffina l'argento.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "ci hai messi alla prova"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "ci hai raffinati"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "come si raffina"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "l'argento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:45.040451787Z",
+  "model": "glm-5.3"
+}

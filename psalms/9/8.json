@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E YHWH siede per sempre, ha stabilito per il giudizio il suo trono.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "siede"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ha stabilito"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "per il giudizio"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "il suo trono"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:56.542956311Z",
+  "model": "glm-5.3"
+}

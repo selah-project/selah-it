@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Non dare sonno ai tuoi occhi, né sonnolenza alle tue palpebre.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "da' (negativo)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sonno"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ai tuoi occhi"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "né sonnolenza"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "alle tue palpebre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:24.602238878Z",
+  "model": "glm-5.3"
+}

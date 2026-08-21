@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E si avvicinò Jaakob a Itzchak suo padre, ed egli lo palpò, e disse: la voce ⟨è⟩ voce di Jaakob, ma le mani ⟨sono⟩ mani di Esav.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "e si avvicinò"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itzchak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "e lo palpò"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "voce"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Jaakob"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "ma le mani"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di Esav"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:53.048795674Z",
+  "model": "glm-5.3"
+}

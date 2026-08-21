@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Il suo argento non dà a interesse, e una mazzetta contro l'innocente non prende. Chi fa queste cose non vacillerà mai.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "il suo argento"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "a interesse"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "e una mazzetta"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "l'innocente"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prende"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "queste cose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "vacillerà"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:57.274073649Z",
+  "model": "glm-5.3"
+}

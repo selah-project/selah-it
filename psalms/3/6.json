@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Io mi sono coricato e ho dormito, mi sono svegliato, perché YHWH mi sostiene.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "mi sono coricato"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "e ho dormito"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "mi sono svegliato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "mi sostiene"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:02.930138137Z",
+  "model": "glm-5.3"
+}

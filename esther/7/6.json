@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E disse Ester: «Un uomo, avversario e nemico: Haman ⟨il⟩ malvagio questo». E Haman fu preso da terrore davanti al re e alla regina.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "avversario"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "e nemico"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "e Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "fu preso da terrore"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "e alla regina"
+    }
+  ],
+  "timestamp": "2026-08-21T09:33:04.733633811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "YHWH, Adonai nostro, quanto ⟨è⟩ maestoso il tuo Nome su tutta ⟨la⟩ terra!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai nostro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "maestoso"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "su tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:58.814556222Z",
+  "model": "glm-5.3"
+}

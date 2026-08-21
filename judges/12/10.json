@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E morì Ivtzan, e fu sepolto a Bet-Lèchem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtzan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e fu sepolto"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lèchem"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:53.293099753Z",
+  "model": "glm-5.3"
+}

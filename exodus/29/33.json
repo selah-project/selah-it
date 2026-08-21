@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Essi mangeranno ⟨את⟩ quelle ⟨את⟩ cose con cui si è fatto espiazione, per riempire ⟨את⟩ la loro mano, per consacrarle; e lo straniero non ne mangerà, perché sante sono.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "essi mangeranno"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "quelle cose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "si è fatto espiazione"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "con esse"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "per riempire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro mano"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "la loro mano"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "per consacrare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "e lo straniero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sante"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sono"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:41.346865416Z",
+  "model": "glm-5.3"
+}

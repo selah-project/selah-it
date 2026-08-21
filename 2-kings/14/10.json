@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Hai colpito ⟨את⟩ Edom, e il tuo cuore ti ha esaltato — gloriati di questo e resta a casa tua. Perché ti provochi nel male, e cadresti tu e Giuda con te?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "hai colpito"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "certo colpito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "e ti ha esaltato"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "gloriati"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "e resta"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a casa tua"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e perché"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ti provochi"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nel male"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "e cadresti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Giuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:56.964247186Z",
+  "model": "glm-5.3"
+}

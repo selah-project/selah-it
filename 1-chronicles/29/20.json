@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E disse David a tutta l'assemblea: benedite ora ⟨את⟩ YHWH, ⟨il⟩ vostro Elohim. E tutta l'assemblea benedisse YHWH, Elohim dei loro padri, e si prostrarono e si chinarono davanti a YHWH e davanti al re.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutta"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "benedite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH, il vostro Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "il vostro Elohim"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblea"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "dei loro padri"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "e si prostrarono"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "si chinarono"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "davanti a YHWH"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "e davanti al re",
+      "marks": "surface corretta: ולמלך"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:45.086493743Z",
+  "model": "glm-5.3"
+}

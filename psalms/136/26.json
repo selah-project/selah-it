@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 136,
+  "translation": "Rendete grazie al El dei cieli, perché per sempre ⟨è⟩ il suo chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "rendete grazie"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "al El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:33.947163691Z",
+  "model": "glm-5.3"
+}

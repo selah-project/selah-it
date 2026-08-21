@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E il re Salomone amò donne straniere, numerose, e ⟨את⟩ la figlia del Faraone: moabite, ammonite, edomite, sidonie, ittite.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "e il re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "amò"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "donne"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "straniere"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "numerose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la figlia del Faraone"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la figlia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "del Faraone"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "moabite"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ammonite"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "edomite"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "sidonie"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "ittite"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:58.285274849Z",
+  "model": "glm-5.3"
+}

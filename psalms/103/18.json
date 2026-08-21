@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "a quelli che custodiscono il suo patto e a quelli che ricordano i suoi precetti per metterli in pratica.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "a quelli che custodiscono"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il suo patto"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "e a quelli che ricordano"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "i suoi precetti"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "per metterli in pratica"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:01.125145460Z",
+  "model": "glm-5.3"
+}

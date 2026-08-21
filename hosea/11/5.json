@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Non tornerà ⟨nella⟩ terra d'Egitto, ma Assur ⟨sarà⟩ il suo re, perché hanno rifiutato di tornare.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tornerà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨in⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egitto"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ma Assur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "il suo re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "hanno rifiutato"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "di tornare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:11.257889073Z",
+  "model": "glm-5.3"
+}

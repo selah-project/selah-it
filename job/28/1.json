@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Poiché c'è per l'argento una fonte, e un luogo per l'oro che vi si raffina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'è"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "per l'argento"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "una fonte"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "e un luogo"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "per l'oro"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "che vi si raffina"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:04.893541484Z",
+  "model": "glm-5.3"
+}

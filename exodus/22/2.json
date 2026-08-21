@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se il sole è sorto su di lui, vi ⟨è⟩ per lui colpa di sangue: risarcirà, risarcirà del tutto; se non ha nulla, sarà venduto per il suo furto.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "è sorto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "colpa di sangue"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "risarcirà"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "risarcirà del tutto"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nulla"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "sarà venduto"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "per il suo furto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:24.227738417Z",
+  "model": "glm-5.3"
+}

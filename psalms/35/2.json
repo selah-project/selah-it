@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Afferra scudo e brocchiere, e alzati in aiuto mio.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "afferra"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "scudo"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "e brocchiere"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "e alzati"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "in aiuto mio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:54.108135422Z",
+  "model": "glm-5.3"
+}

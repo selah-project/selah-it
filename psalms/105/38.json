@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Egitto si rallegrò alla loro partenza, perché il loro terrore era caduto su di loro.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "si rallegrò"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egitto"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "alla loro partenza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "era caduto"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "il loro terrore"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "su di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:47.777568592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E tutto Israele seppe, da Dan fino a Beer-Sheva, che Samuele ⟨era⟩ stabilito come profeta davanti a YHWH.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "e seppe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "da Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "stabilito"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "come profeta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "davanti a YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:30.859578612Z",
+  "model": "glm-5.3"
+}

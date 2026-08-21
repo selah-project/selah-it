@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Hai visto un uomo frettoloso nelle sue parole? Più speranza c'è per lo stolto che per lui.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "hai visto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "frettoloso"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "nelle sue parole"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "speranza"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "per lo stolto"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "che per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:51.358185280Z",
+  "model": "glm-5.3"
+}

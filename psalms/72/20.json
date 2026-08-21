@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Sono finite le preghiere di Davide, figlio di Iesse.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "sono finite"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "le preghiere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Iesse"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:18.016532541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Il desiderio di quelli che lo temono egli lo compie, e ⟨את⟩ il loro grido ascolta, e li salva.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Il desiderio"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "di quelli che lo temono"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "egli lo compie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il loro grido"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "il loro grido"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "e li salva"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:09.631844604Z",
+  "model": "glm-5.3"
+}

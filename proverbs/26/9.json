@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Come una spina sale nella mano di un ubriaco, così ⟨è⟩ un proverbio nella bocca degli stolti.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "spina"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sale"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nella mano"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "di un ubriaco"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "così un proverbio"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nella bocca"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "degli stolti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:07.168513110Z",
+  "model": "glm-5.3"
+}

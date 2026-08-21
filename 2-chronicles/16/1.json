@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 16:1",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Nell'anno trenta e sei del regno di Asa, salì Baasha, re d'Israele, contro Giuda, e costruì ⟨את⟩ Rama, per non lasciare a nessuno uscire né entrare ad Asa, re di Giuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Nell'anno"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e sei"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "del regno"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "di Asa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "salì"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "per non"
+    },
+    {
+      "surface": "תת",
+      "gloss": "lasciare"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "uscire"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "né entrare"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ad Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T09:58:35.932278555Z",
+  "model": "glm-5.3"
+}

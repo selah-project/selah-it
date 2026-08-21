@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E Davide cercò ⟨את⟩ Elohim per il fanciullo; e Davide digiunò un digiuno, ed entrò e pernottò e giacque a terra.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "e cercò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "per"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "il fanciullo"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "e digiunò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "צום",
+      "gloss": "un digiuno"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ed entrò"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "e pernottò"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "e giacque"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a terra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:38.178307772Z",
+  "model": "glm-5.3"
+}

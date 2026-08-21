@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Non derubare il povero, perché ⟨è⟩ povero lui, e non schiacciare l'afflitto nella porta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "derubare"
+    },
+    {
+      "surface": "דל",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "דל",
+      "gloss": "povero"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "schiacciare"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'afflitto"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nella porta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:33.987070827Z",
+  "model": "glm-5.3"
+}

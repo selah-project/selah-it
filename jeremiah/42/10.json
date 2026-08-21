@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Se tornando tornerete ad abitare in questa terra, vi edificherò ⟨את⟩ e non demolirò; vi pianterò ⟨את⟩ e non sradicherò, perché mi sono pentito riguardo al male che ho fatto a voi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tornando"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "tornerete ad abitare"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in questa terra (in-terra)"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "vi edificherò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vi",
+      "marks": "vi (edificare)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "demolirò"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "vi pianterò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vi",
+      "marks": "vi (piantare)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "sradicherò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "mi sono pentito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "riguardo a"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ho fatto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:12:28.168705907Z",
+  "model": "glm-5.3"
+}

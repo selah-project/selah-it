@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "Davanti a YHWH tuo Elohim lo mangerai, anno per anno, nel luogo che sceglierà YHWH — tu e la tua casa.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "lo mangerai"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anno"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "per anno"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nel luogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "sceglierà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "e la tua casa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:51.788578924Z",
+  "model": "glm-5.3"
+}

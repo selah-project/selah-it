@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "La mia bocca parlerà cose di Chokhmà, e il meditare del mio cuore ⟨sarà⟩ di discernimento.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parlerà"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "cose di Chokhmà"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "e il meditare"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "del mio cuore"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "di discernimento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:14.945904534Z",
+  "model": "glm-5.3"
+}

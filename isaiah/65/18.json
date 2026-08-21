@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 65:18",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Anzi esultate e gioite per sempre in ciò che io creo; perché ecco, io sto creando ⟨את⟩ Gerusalemme [come] esultanza e il suo popolo [come] gioia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Anzi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anzi (particella avversativa)"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "esultate"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "e gioite"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "per"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sempre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in ciò che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "creo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ecco, io"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "sto creando"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "גילה",
+      "gloss": "esultanza"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "e il suo popolo"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "gioia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:59.243812851Z",
+  "model": "glm-5.3"
+}

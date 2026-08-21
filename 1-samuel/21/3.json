@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E disse David ad Achimelech il sacerdote: il re mi ha ordinato una cosa, e mi ha detto: nessuno sappia nulla di ⟨את⟩ la cosa che io ti mando ⟨a fare⟩ e che ti ho comandato; e ⟨את⟩ i giovani ho fatto sapere ⟨di trovarsi⟩ al luogo tal dei tali e tal altro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "ad Achimelech"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "mi ha ordinato"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una cosa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e ha detto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nessuno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sappia"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nulla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cosa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la cosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ti mando"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e che"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ti ho comandato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i giovani"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "i giovani"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "ho fatto sapere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "il luogo"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "tal dei tali"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "e tal altro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:18.140578925Z",
+  "model": "glm-5.3"
+}

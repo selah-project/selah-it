@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E ora la mia testa si innalzerà sopra i miei nemici che mi circondano; e sacrificherò nella sua tenda sacrifici di acclamazione; canterò e salmeggerò a YHWH.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E ora"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "si innalzerà"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "la mia testa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "i miei nemici"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "che mi circondano"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "e sacrificherò"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "nella sua tenda"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sacrifici di"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "acclamazione"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "e salmeggerò"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:03.674019281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "YHWH non lo abbandonerà nella sua mano, e non lo dichiarerà colpevole quando sarà giudicato.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "lo abbandonerà"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "nella sua mano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "lo dichiarerà colpevole"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "quando sarà giudicato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:43.777427230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "e disse loro: io vedo ⟨את⟩ il volto di vostro padre, che non ⟨è⟩ verso di me come ieri e l'altro ieri; e l'Elohim di mio padre è stato con me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "להן",
+      "gloss": "loro"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vedo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il volto"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "di vostro padre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "non è"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "come ieri"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "e l'altro ieri"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e l'Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "di mio padre"
+    },
+    {
+      "surface": "היה",
+      "gloss": "è stato"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:44.463379051Z",
+  "model": "glm-5.3"
+}

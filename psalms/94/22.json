@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "E YHWH ⟨è stato⟩ per me una rocca alta, e il mio Elohim ⟨è⟩ una rupe, rifugio mio.",
+  "tokens": [
+    {
+      "surface": "וה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "è stato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "una rocca alta"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e il mio Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "una rupe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "rifugio mio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.706459296Z",
+  "model": "glm-5.3"
+}

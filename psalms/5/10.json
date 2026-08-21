@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Poiché non ⟨vi⟩ è nulla di saldo nella loro bocca, il loro interno ⟨è⟩ rovina, ⟨un⟩ sepolcro aperto la loro gola; la loro lingua rendono liscia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨vi⟩ è"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "nella loro bocca"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "nulla di saldo"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "il loro interno"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "rovina"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sepolcro"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "aperto"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "la loro gola"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "la loro lingua"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "rendono liscia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:40.399847751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Perché non dilani come un leone la mia nefesh, sbranando, senza che vi ⟨sia⟩ chi liberi.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "perché non"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "dilani"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "come un leone"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "sbranando"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "senza che vi sia"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "chi liberi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:15.081422529Z",
+  "model": "glm-5.3"
+}

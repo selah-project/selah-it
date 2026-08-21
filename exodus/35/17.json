@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "⟨את⟩ le cortine del cortile, ⟨את⟩ le sue colonne e ⟨את⟩ le sue basi, e ⟨את⟩ la cortina della porta del cortile.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cortine del cortile"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "le cortine"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "del cortile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue colonne"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "le sue colonne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le sue basi"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "le sue basi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la cortina della porta"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "la cortina"
+    },
+    {
+      "surface": "שער",
+      "gloss": "della porta"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "del cortile"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:26.182193311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Tendevano l'arco, destri e manci ⟨con⟩ pietre e con frecce ⟨dall⟩'arco, dai fratelli di Shaúl, da Beniamino.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "tendevano"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "l'arco"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "destri"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "e manci"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "con pietre"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "e con frecce"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "con l'arco"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "dai fratelli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Shaúl"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "da Beniamino"
+    }
+  ],
+  "timestamp": "2026-08-21T09:48:55.591177130Z",
+  "model": "glm-5.3"
+}

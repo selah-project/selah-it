@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E li oppressero i loro nemici, ed essi si umiliarono sotto la loro mano.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "e li oppressero"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "i loro nemici"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "e si umiliarono"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "la loro mano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:18.460954814Z",
+  "model": "glm-5.3"
+}

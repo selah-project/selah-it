@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E scambiarono ⟨את⟩ la loro gloria con la figura di un bue che mangia erba.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "e scambiarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro gloria"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "la loro gloria"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "con la figura"
+    },
+    {
+      "surface": "שור",
+      "gloss": "di un bue"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "che mangia"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "erba"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:47.169880923Z",
+  "model": "glm-5.3"
+}

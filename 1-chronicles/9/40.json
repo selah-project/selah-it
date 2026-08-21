@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E il figlio di Gionatan ⟨fu⟩ Merib-Baal; e Meri-Baal generò ⟨את⟩ Mica.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "E il figlio"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "di Gionatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "e Meri-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "generò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mica"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mica"
+    }
+  ],
+  "timestamp": "2026-08-21T10:12:31.628354716Z",
+  "model": "glm-5.3"
+}

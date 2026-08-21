@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 20:6",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E chi ⟨è⟩ l'uomo che ha piantato una vigna e non ne ha goduto il frutto? Vada e torni alla sua casa, che non muoia in battaglia e un altro uomo ne goda il frutto.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "E chi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ha piantato"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "una vigna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ne ha goduto il frutto"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "Vada"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e torni"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "alla sua casa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "che non"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "muoia"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in battaglia"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e un altro uomo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "altro"
+    },
+    {
+      "surface": "יחללנו",
+      "gloss": "ne goda il frutto"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:51.047422164Z",
+  "model": "glm-5.3"
+}

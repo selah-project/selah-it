@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "poiché questi ⟨è⟩ Elohim, il nostro Elohim, per sempre e in eterno; Egli ci guiderà oltre la morte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Egli"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ci guiderà"
+    },
+    {
+      "surface": "על",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la morte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:08.063558851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E avvenne al tornare dell'anno, che Ben-Hadad passò in rassegna ⟨את⟩ Aram e salì ad Afek, per la guerra contro Israele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "al tornare"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "dell'anno"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "passò in rassegna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ad Afek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "per la guerra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:33:27.168001681Z",
+  "model": "glm-5.3"
+}

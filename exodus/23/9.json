@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E un ger non opprimerai: voi conoscete ⟨את⟩ la nefesh del ger, perché gerim foste nella terra di Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "e un ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "opprimerai"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "conoscete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nefesh del ger"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "del ger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "gerim"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "foste"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:08.382014900Z",
+  "model": "glm-5.3"
+}

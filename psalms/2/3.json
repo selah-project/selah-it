@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "« Strappiamo ⟨את⟩ i loro legami e gettiamo via da noi le loro corde ».",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "strappiamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i loro legami"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "i loro legami"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "e gettiamo via"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "da noi"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "le loro corde"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:10.895342388Z",
+  "model": "glm-5.3"
+}

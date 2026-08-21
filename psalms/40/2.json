@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Ho sperato, sì ho sperato in YHWH, ed ⟨egli⟩ si è chinato verso di me e ha udito il mio grido.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "sperato"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "sì ho sperato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ed ⟨egli⟩ si è chinato"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e ha udito"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "il mio grido"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:00.554990128Z",
+  "model": "glm-5.3"
+}

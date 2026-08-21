@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Poiché ho detto: non si rallegrino su di me; quando il mio piede vacilla, su di me si sono fatti grandi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "פן",
+      "gloss": "non… (affinché non)"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "si rallegrino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "quando vacilla"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "il mio piede"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "si sono fatti grandi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:27.456144312Z",
+  "model": "glm-5.3"
+}

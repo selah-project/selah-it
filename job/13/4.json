@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Quanto a voi, voi imbiancate ⟨di⟩ menzogna, medici da nulla, tutti voi.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "quanto a voi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "imbiancate"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "⟨di⟩ menzogna"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "medici"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "da nulla"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "tutti voi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:40.810892262Z",
+  "model": "glm-5.3"
+}

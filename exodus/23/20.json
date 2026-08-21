@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Ecco, io mando un messaggero davanti a te, per custodirti nella via e per portarti al luogo che ho preparato.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mando"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "un messaggero"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "per custodirti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nella via"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "e per portarti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "il luogo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "ho preparato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:54.342497454Z",
+  "model": "glm-5.3"
+}

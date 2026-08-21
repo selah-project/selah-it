@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Poiché verserò acque su ⟨chi ha⟩ sete, e torrenti sulla terra arida; verserò il mio Ruach sul tuo seme e la mia benedizione sui tuoi discendenti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "verserò"
+    },
+    {
+      "surface": "מים",
+      "gloss": "acque"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "chi ha sete"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "e torrenti"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "terra arida"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "verserò"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "il mio Ruach"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "il tuo seme"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "e la mia benedizione"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "sui tuoi discendenti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:19.094530993Z",
+  "model": "glm-5.3"
+}

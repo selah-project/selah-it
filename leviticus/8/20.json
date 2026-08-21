@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ il montone squartò in quarti, e Mosè fece salire in fumo ⟨את⟩ la testa e ⟨את⟩ i quarti e ⟨את⟩ il grasso.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il montone"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "il montone"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "squartò"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "in quarti"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "fece salire in fumo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la testa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i quarti"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "i quarti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il grasso"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "il grasso"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:19.695173101Z",
+  "model": "glm-5.3"
+}

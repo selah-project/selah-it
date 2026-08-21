@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Ed essi gioiscono perché ⟨si⟩ acquietano, ed Egli li guida al porto del loro desiderio.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Ed essi gioiscono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "acquietano"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ed Egli li guida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "porto"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "del loro desiderio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:35.163987222Z",
+  "model": "glm-5.3"
+}

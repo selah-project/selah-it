@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Essi edificano Sion con ⟨i⟩ sanguini e Gerusalemme con l'iniquità.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "edificano"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "con sanguini"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Gerusalemme"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "con l'iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:17.598394986Z",
+  "model": "glm-5.3"
+}

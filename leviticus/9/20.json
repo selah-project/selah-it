@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E posero ⟨את⟩ i grassi sui petti, e fece fumare i grassi sull'altare.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "e posero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i grassi"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "i grassi"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "i petti"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "e fece fumare"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "i grassi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:08.669656588Z",
+  "model": "glm-5.3"
+}

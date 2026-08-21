@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 14:2",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Giuda è in lutto ⟨e⟩ le sue porte languiscono; si fanno scure fino a terra, e il grido di Gerusalemme sale.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "è in lutto"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "e le sue porte"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "languiscono"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "si fanno scure"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fino a terra"
+    },
+    {
+      "surface": "וצוחת",
+      "gloss": "e il grido"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "sale"
+    }
+  ],
+  "timestamp": "2026-08-21T08:02:59.604612971Z",
+  "model": "glm-5.3"
+}

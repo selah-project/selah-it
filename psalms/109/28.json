@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Maledicano essi, ma tu benedici; si levino e siano svergognati, e il tuo servo gioisca.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "maledicano"
+    },
+    {
+      "surface": "המה",
+      "gloss": "essi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "benedici"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "si levino"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "e siano svergognati"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "e il tuo servo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gioisca"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:04.868061582Z",
+  "model": "glm-5.3"
+}

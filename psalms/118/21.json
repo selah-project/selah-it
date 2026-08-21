@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Ti loderò, perché mi hai risposto e sei divenuto per me salvezza.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ti loderò"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "mi hai risposto"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e sei divenuto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:55.822685142Z",
+  "model": "glm-5.3"
+}

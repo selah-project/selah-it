@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "E si prostreranno davanti a lui tutti i re, tutte le nazioni lo serviranno.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "e si prostreranno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "i re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "lo serviranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:23.218149862Z",
+  "model": "glm-5.3"
+}

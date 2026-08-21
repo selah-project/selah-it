@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Il loro interno ⟨pensa⟩: le loro case ⟨saranno⟩ per sempre, le loro dimore per generazione e generazione; hanno chiamato le terre con i loro nomi.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "il loro interno"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "le loro case"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "le loro dimore"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "per generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e generazione"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hanno chiamato"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "con i loro nomi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "terre"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:00.278058317Z",
+  "model": "glm-5.3"
+}

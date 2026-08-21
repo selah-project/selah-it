@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "Colui che dà salvezza ai re, che libera ⟨את⟩ Davide suo servo dalla spada malvagia.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Colui che dà"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "salvezza"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ai re"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "che libera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "suo servo"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dalla spada"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "malvagia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:48.505002417Z",
+  "model": "glm-5.3"
+}

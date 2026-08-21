@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E osserverete ⟨את⟩ i miei statuti e ⟨את⟩ li metterete in pratica: Io sono YHWH, che vi santifica.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "E osserverete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i miei statuti"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "i miei statuti"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "e metterete in pratica"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "che vi santifica"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:20.363239134Z",
+  "model": "glm-5.3"
+}

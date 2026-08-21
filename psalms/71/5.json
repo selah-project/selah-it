@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 71,
+  "translation": "Poiché tu sei la mia speranza, Adonai YHWH, la mia fiducia fin dalla mia giovinezza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "la mia speranza"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "la mia fiducia"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "fin dalla mia giovinezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:36.942582725Z",
+  "model": "glm-5.3"
+}

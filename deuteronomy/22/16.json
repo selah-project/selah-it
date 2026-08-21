@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "e dice il padre della giovane agli anziani: ⟨את⟩ mia figlia ho dato a quest'uomo perché ⟨sia⟩ sua moglie, ed egli la odia;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dice"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "il padre"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "della giovane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agli"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "anziani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mia figlia"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mia figlia"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a quest'uomo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "per moglie"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ed egli la odia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:02.673910110Z",
+  "model": "glm-5.3"
+}

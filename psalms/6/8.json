@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Si consuma di cordoglio il mio occhio, si affievolisce per tutti i miei avversari.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "Si consuma"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "di cordoglio"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "si affievolisce"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "per tutti"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "i miei avversari"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:57.461795565Z",
+  "model": "glm-5.3"
+}

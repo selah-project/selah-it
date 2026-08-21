@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E gli disse: vieni con ⟨את⟩ me fino a casa, e mangia pane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vieni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "con me ⟨את⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "fino a casa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "e mangia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:57.978935198Z",
+  "model": "glm-5.3"
+}

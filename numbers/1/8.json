@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Per Yissachar, Netanel figlio di Tsuar.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Per Yissachar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "di Tsuar"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:06.704471113Z",
+  "model": "glm-5.3"
+}

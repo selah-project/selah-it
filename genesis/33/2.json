@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E pose ⟨את⟩ le serve e ⟨את⟩ i loro bambini per prime, e ⟨את⟩ Lea e i suoi bambini dopo, e ⟨את⟩ Rachele e ⟨את⟩ Giuseppe per ultimi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le serve"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "le serve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i loro bambini"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "i loro bambini"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "per prime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "e i suoi bambini"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "dopo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rachele"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Giuseppe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Giuseppe"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "per ultimi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:46.020861417Z",
+  "model": "glm-5.3"
+}

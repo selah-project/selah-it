@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "⟨את⟩ i picchetti del mishkan e ⟨את⟩ i picchetti del cortile, e ⟨את⟩ le loro corde.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i picchetti del mishkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "i picchetti"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "del mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i picchetti del cortile"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "i picchetti"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "del cortile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le loro corde"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "le loro corde"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:26.182424373Z",
+  "model": "glm-5.3"
+}

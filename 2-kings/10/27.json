@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E demolirono ⟨את⟩ la stele del Baal, e demolirono ⟨את⟩ la casa del Baal, e la fecero latrine fino a questo giorno.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "E demolirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la stele del Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "la stele"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "del Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "e demolirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa del Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "del Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "e la fecero"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "latrine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:40.684710405Z",
+  "model": "glm-5.3"
+}

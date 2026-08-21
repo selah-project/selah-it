@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E la figlia di un sacerdote, se diventa ⟨moglie⟩ di un uomo estraneo, essa non mangerà ⟨dalle⟩ offerte delle cose sante.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "e la figlia"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "di un sacerdote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "diventa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "estraneo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "dalle offerte (terumà)"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "delle cose sante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangerà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:50.919209978Z",
+  "model": "glm-5.3"
+}

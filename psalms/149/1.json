@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 149,
+  "translation": "Lodate Yah! Cantate a YHWH un canto nuovo, ⟨sia⟩ la sua lode nell'assemblea dei fedeli.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lodate"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Cantate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un canto"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuovo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "la sua lode"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "nell'assemblea"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "dei fedeli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:18.841831884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E un uomo che giaccia con ⟨את⟩ un maschio, giacendo di una donna: abominio hanno fatto entrambi; morte saranno messi a morte, il loro sangue è su di loro.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "E un uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "giaccia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un maschio"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "un maschio"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "giacendo di"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "abominio"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hanno fatto"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "entrambi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "saranno messi a morte"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "il loro sangue"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:53.370335010Z",
+  "model": "glm-5.3"
+}

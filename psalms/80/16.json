@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 80,
+  "translation": "e ⟨il tralcio⟩ che la tua destra ha piantato, e sul figlio che hai reso forte per te.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "e ⟨il tralcio⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ha piantato"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "hai reso forte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:17.106191164Z",
+  "model": "glm-5.3"
+}

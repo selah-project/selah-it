@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Padre degli orfani e giudice delle vedove — Elohim nella dimora della sua santità.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Padre"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "degli orfani"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "e giudice"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "delle vedove"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "nella dimora"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "della sua santità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.786929849Z",
+  "model": "glm-5.3"
+}

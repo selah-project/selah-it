@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "e ⟨את⟩ l'iscrizione genealogica dei sacerdoti secondo ⟨la⟩ casa dei loro padri, e dei leviti dall'età di vent'anni e oltre, nei loro servizi e nelle loro divisioni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'iscrizione genealogica"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "l'iscrizione genealogica"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dei sacerdoti"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "secondo ⟨la⟩ casa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "dei loro padri"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e dei leviti"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "dall'età di"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "venti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anni"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "e oltre"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "nei loro servizi"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "nelle loro divisioni"
+    }
+  ],
+  "timestamp": "2026-08-21T10:02:14.062007954Z",
+  "model": "glm-5.3"
+}

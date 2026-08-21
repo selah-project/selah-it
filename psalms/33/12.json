@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Beata ⟨la⟩ nazione il cui ⟨Elohim⟩ ⟨è⟩ YHWH, il popolo che ha scelto come eredità per sé.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beata"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨la⟩ nazione"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "il cui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "che ha scelto"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "come eredità"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:28.231837736Z",
+  "model": "glm-5.3"
+}

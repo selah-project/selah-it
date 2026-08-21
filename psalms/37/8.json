@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Desisti dall'ira e lascia la furia; non accalorarti: porta solo al male.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Desisti"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "dall'ira"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "e lascia"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "la furia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "accalorarti"
+    },
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "al male"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:47.642836030Z",
+  "model": "glm-5.3"
+}

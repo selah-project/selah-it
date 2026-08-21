@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E chi siede sull'oggetto sul quale si sarà seduto ⟨il⟩zav, laverà le sue vesti e si laverà nell'acqua, e sarà impuro fino alla sera.",
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "e chi siede"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "l'oggetto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "si sarà seduto"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di esso"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "⟨il⟩zav"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e si laverà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nell'acqua"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "alla sera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:39.455024808Z",
+  "model": "glm-5.3"
+}

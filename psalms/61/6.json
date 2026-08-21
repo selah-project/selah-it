@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 61,
+  "translation": "Poiché tu, Elohim, hai ascoltato i miei voti; hai dato l'eredità a quelli che temono il tuo Nome.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hai ascoltato"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "i miei voti"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "hai dato"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "l'eredità"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "a quelli che temono"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo Nome"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:08.728747719Z",
+  "model": "glm-5.3"
+}

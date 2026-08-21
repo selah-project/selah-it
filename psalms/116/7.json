@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Torna, anima mia, al tuo riposo, perché YHWH ⟨ti⟩ ha beneficiato.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "torna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "anima mia"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "al tuo riposo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ha beneficiato"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "⟨ti⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:22.227510577Z",
+  "model": "glm-5.3"
+}

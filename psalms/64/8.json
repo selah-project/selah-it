@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Ma Elohim scaglierà ⟨su di loro⟩ una freccia: all'improvviso ⟨saranno⟩ le loro piaghe.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "scaglierà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "una freccia"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "all'improvviso"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨saranno⟩"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "le loro piaghe"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:02.655336072Z",
+  "model": "glm-5.3"
+}

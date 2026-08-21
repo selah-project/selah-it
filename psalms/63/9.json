@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Si tiene stretta a te la mia nefesh; la tua destra mi sostiene.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "si tiene stretta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "sostiene"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la tua destra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:46.788652145Z",
+  "model": "glm-5.3"
+}

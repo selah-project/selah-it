@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E consacrarono ⟨את⟩ Kedesh nella Galilea, nel monte di Naftali, e ⟨את⟩ Shechem nel monte di Efrayim, e ⟨את⟩ Kiryat-Arba — essa ⟨è⟩ Chevron — nel monte di Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "e consacrarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "nella Galilea"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nel monte"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "di Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shechem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nel monte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "di Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "nel monte"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-21T06:56:29.409062166Z",
+  "model": "glm-5.3"
+}

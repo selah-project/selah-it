@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 72,
+  "translation": "Egli giudicherà il tuo popolo con giustizia, e i tuoi poveri con retto giudizio.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "giudicherà"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "con giustizia"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "e i tuoi poveri"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "con retto giudizio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:34.171622841Z",
+  "model": "glm-5.3"
+}

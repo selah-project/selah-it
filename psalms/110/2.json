@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 110,
+  "translation": "Lo scettro della tua forza manderà YHWH da Tzion: domina in mezzo ai tuoi nemici.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "lo scettro"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "della tua forza"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "manda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "da Tzion"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "domina"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:07.189156624Z",
+  "model": "glm-5.3"
+}

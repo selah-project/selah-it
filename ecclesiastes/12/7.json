@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E la polvere torni sulla terra com'era, e il Ruach torni a Elohim che lo diede.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e torni"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "la polvere"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "com'era"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "e il Ruach"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "torni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "lo diede"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:32.256057423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "Si aprì la terra e inghiottì Datan, e coprì la comunità di Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "si aprì"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "e inghiottì"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "e coprì"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "la comunità"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "di Aviram"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:47.169461905Z",
+  "model": "glm-5.3"
+}

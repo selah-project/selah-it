@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E disse Mosè davanti a YHWH: «Ecco, io ho le labbra non circoncise, e come mi ascolterà Paroh?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "non circoncise"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "le labbra"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "e come"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ascolterà"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:50.347920644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Sii grazioso con me, Adonai, perché a te io grido tutto il giorno.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Sii grazioso con me"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "io grido"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:48.010581569Z",
+  "model": "glm-5.3"
+}

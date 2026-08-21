@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Tre volte all'anno comparirà ogni tuo maschio davanti ⟨את⟩ alla faccia del Signore ⟨ha-Adon⟩ YHWH, Elohim d'Israele.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "volte"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "all'anno"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "comparirà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "tuo maschio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la faccia"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "del Signore ⟨ha-Adon⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:17.210170135Z",
+  "model": "glm-5.3"
+}

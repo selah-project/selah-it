@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "Dalla tua rampogna, Elohim di Yaakov, sono tramortiti ⟨sia⟩ ⟨il⟩ carro ⟨che⟩ ⟨il⟩ cavallo.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Dalla tua rampogna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "sono tramortiti"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "e carro"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "e cavallo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:38.289064397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Si vestì di maledizione come di una veste, ed essa entrò come acqua nel suo interno, e come olio nelle sue ossa.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "si vestì"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "di maledizione"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "come di una veste"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ed essa entrò"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "come acqua"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nel suo interno"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "e come olio"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "nelle sue ossa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:02.762605561Z",
+  "model": "glm-5.3"
+}

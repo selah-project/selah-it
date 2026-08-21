@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E giunse Saul fino alla città di Amalek, e tese agguato nella valle.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e giunse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "di Amalek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "e tese agguato"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "nella valle"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:36.174128862Z",
+  "model": "glm-5.3"
+}

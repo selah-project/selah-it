@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E i saggi risplenderanno come lo splendore del firmamento, e quelli che giustificano i molti ⟨risplenderanno⟩ come le stelle, per ⟨olam⟩ e sempre.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "E i saggi"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "risplenderanno"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "come lo splendore"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "del firmamento"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "e quelli che giustificano"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "i molti"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "come le stelle"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per ⟨olam⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:37:50.381431176Z",
+  "model": "glm-5.3"
+}

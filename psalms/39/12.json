@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Con rimproveri, per colpa, tu correggi ⟨l'⟩uomo, e fai struggere come tignuola ciò che ⟨egli⟩ brama; solo hevel ⟨è⟩ ogni uomo. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "con rimproveri"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "עון",
+      "gloss": "colpa"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "correggi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "e fai struggere"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "come tignuola"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "ciò che egli brama"
+    },
+    {
+      "surface": "אך",
+      "gloss": "solo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:52.202106904Z",
+  "model": "glm-5.3"
+}

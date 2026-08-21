@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "Loderò YHWH durante la mia vita, canterò al mio Elohim finché ⟨io⟩ esisto.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Loderò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "durante la mia vita"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "canterò"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "al mio Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "finché io esisto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.899471762Z",
+  "model": "glm-5.3"
+}

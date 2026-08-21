@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Voi sapete ⟨את⟩ come abitammo nella terra d'Egitto e ⟨את⟩ come passammo in mezzo alle nazioni che voi attraversaste.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "sapete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "come abitammo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "abitammo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "come passammo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "passammo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "voi attraversaste"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:05.232443490Z",
+  "model": "glm-5.3"
+}

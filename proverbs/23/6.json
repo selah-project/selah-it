@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non mangiare ⟨את⟩ il pane dell'occhio cattivo, e non desiderare le sue prelibatezze.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "mangiare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il pane"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cattivo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "occhio"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "desiderare"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "le sue prelibatezze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:08.358706736Z",
+  "model": "glm-5.3"
+}

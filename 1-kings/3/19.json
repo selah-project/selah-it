@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E morì il figlio di questa donna di notte, perché lei si era addormentata su di lui.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "della donna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "si era addormentata"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:26.985795875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "E gli umili erediteranno ⟨la⟩ terra, e si delizzeranno dell'abbondanza di shalom.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "e gli umili"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "erediteranno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "e si delizzeranno"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dell'abbondanza"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:30.712808079Z",
+  "model": "glm-5.3"
+}

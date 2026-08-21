@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 122,
+  "translation": "Canzone delle salite, di Davide. Mi sono rallegrato quando mi dissero: « Alla casa di YHWH andiamo ».",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canzone"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Mi sono rallegrato"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "quando dissero"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "andiamo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:44.425577212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E David mandò messaggeri a Ish-Boshet, figlio di Shaul, dicendo: « Dammi ⟨את⟩ mia moglie, ⟨את⟩ Mikal, che io mi fidanzai a me per cento prepuzi di Filistei ».",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messaggeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "dà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mia moglie"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mia moglie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "mi fidanzai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "per cento"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "prepuzi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "di Filistei"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:01.600580012Z",
+  "model": "glm-5.3"
+}

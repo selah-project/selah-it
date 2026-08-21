@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Giunge fino alla generazione dei suoi padri, fino al ⟨termine⟩: non vedranno mai la luce.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Giunge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "דור",
+      "gloss": "alla generazione"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "dei suoi padri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino al"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "⟨termine⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vedranno"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mai la luce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:58.232903401Z",
+  "model": "glm-5.3"
+}

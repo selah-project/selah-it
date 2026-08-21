@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E porrò il mio patto (berit) tra me e ⟨את⟩ te, e ti moltiplicherò ⟨ אותך ⟩ oltremisura, moltissimo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "E porrò"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "il mio patto"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tra me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e te"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "e ti moltiplicherò"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ te",
+      "marks": "ti"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "oltremisura"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "moltissimo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:38:45.278198437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 74,
+  "translation": "Tu con la tua forza hai spezzato ⟨il⟩ mare, hai frantumato le teste dei taninìm sulle acque.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "hai spezzato"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "con la tua forza"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "hai frantumato"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "le teste"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "dei taninìm"
+    },
+    {
+      "surface": "על",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "acque"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:36.579409840Z",
+  "model": "glm-5.3"
+}

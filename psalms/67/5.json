@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 67,
+  "translation": "Esultino e gridino di giubilo i popoli, perché tu giudichi i popoli con equità, e le nazioni sulla terra tu guidi. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "esultino"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "e gridino di giubilo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "tu giudichi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i popoli"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "con equità"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "e le nazioni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "tu guidi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:10.170737991Z",
+  "model": "glm-5.3"
+}

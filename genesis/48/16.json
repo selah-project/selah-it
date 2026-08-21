@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "il malach che mi riscatta ⟨את⟩ da ogni male, benedica ⟨את⟩ i ragazzi, e si chiami su di loro il mio nome e il nome dei miei padri Abramo e Isacco, e moltiplichino ⟨come pesci⟩ in abbondanza in mezzo alla terra.",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "il malach"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "che riscatta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da ogni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "male"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "benedica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ragazzi"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "i ragazzi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "e si chiami"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "su di loro"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "il mio nome"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e il nome"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "dei miei padri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "e Isacco"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "e moltiplichino come pesci"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in abbondanza"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:51.916100054Z",
+  "model": "glm-5.3"
+}

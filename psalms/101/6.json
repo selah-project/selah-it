@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 101,
+  "translation": "I miei occhi ⟨sono⟩ sui fedeli del paese, perché dimorino con me; chi cammina nella via integra, lui mi servirà.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sui fedeli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "del paese"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "perché dimorino"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chi cammina"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nella via"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "integra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "mi servirà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:53.322402695Z",
+  "model": "glm-5.3"
+}

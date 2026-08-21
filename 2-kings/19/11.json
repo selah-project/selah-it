@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Ecco, tu hai udito ⟨את⟩ ciò che hanno fatto i re di Ashshur a tutte le terre, per votarle allo sterminio; e tu saresti salvato?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hai udito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che hanno fatto i re di Ashshur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hanno fatto"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "i re di"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutte"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "le terre"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "per votarle allo sterminio"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "sarei salvato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:36.331760008Z",
+  "model": "glm-5.3"
+}

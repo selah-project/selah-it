@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Quando uscirai ⟨un⟩ accampamento contro i tuoi nemici, allora ti guarderai da ogni cosa malvagia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uscirai"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "accampamento"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ti guarderai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da ogni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cosa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malvagia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:45.182557390Z",
+  "model": "glm-5.3"
+}

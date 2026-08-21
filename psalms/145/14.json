@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Sostiene YHWH tutti i caduti e raddrizza tutti i curvati.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "sostiene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tutti i"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "caduti"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "e raddrizza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tutti i"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "curvati"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:01.309658802Z",
+  "model": "glm-5.3"
+}

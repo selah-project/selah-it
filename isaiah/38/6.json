@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "e dalla mano del re di Ashur ti strapperò, ⟨io⟩ e ⟨את⟩ questa città, e proteggerò questa città.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "e dalla mano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ti strapperò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "questa città"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "e proteggerò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    }
+  ],
+  "timestamp": "2026-08-21T07:51:52.844135183Z",
+  "model": "glm-5.3"
+}

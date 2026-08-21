@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Poiché i monti gli portano il loro prodotto, e tutte le bestie del campo giocano là.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בול",
+      "gloss": "il prodotto"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "portano"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutte"
+    },
+    {
+      "surface": "חית",
+      "gloss": "le bestie"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "del campo"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "giocano"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:17.893156808Z",
+  "model": "glm-5.3"
+}

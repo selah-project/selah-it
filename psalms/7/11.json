@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Scudo mio ⟨è⟩ presso Elohim, salvatore dei retti di cuore.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "scudo mio"
+    },
+    {
+      "surface": "על",
+      "gloss": "presso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "salvatore"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "dei retti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:47.309421138Z",
+  "model": "glm-5.3"
+}

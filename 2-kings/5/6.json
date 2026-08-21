@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E portò la lettera al re di Israele, dicendo: e ora, quando questa lettera ti sarà giunta, ecco, io ti ho mandato ⟨את⟩ Naaman, mio servo: e tu lo guarirai dalla sua tsaraat.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "e portò"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "la lettera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "quando sarà giunta"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "la lettera"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "io ho mandato"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mio servo"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "e tu lo guarirai"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "dalla sua tsaraat"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:39.982916442Z",
+  "model": "glm-5.3"
+}

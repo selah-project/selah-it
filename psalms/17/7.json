@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Rendi mirabili i tuoi chesed, tu che salvi chi si rifugia ⟨in te⟩, dai ribelli, con la tua destra.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "rendi mirabili"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "i tuoi chesed"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "tu che salvi"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "chi si rifugia"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "dai ribelli"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "con la tua destra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:49.005627286Z",
+  "model": "glm-5.3"
+}

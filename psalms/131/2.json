@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 131,
+  "translation": "Se non ho reso calma e quieta la mia nefesh, come un bimbo svezzato presso sua madre; come un bimbo svezzato è su di me la mia nefesh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ho reso (level,livellato)"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "e resa quieta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "come un bimbo svezzato"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "presso"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "come un bimbo svezzato"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "su di me"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:42.609488866Z",
+  "model": "glm-5.3"
+}

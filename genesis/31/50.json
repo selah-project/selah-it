@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Se affliggerai ⟨את⟩ le mie figlie, e se prenderai donne oltre le mie figlie — non ⟨c'è⟩ uomo con noi — vedi: Elohim ⟨è⟩ testimone tra me e te.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "affliggerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mie figlie"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "le mie figlie"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prenderai"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "donne"
+    },
+    {
+      "surface": "על",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "le mie figlie"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨c'è⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "con noi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "testimone"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tra me"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e te"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:51.756409910Z",
+  "model": "glm-5.3"
+}

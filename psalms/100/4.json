@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 100,
+  "translation": "Entrate nei suoi cancelli con todà, nei suoi atri con tehillà; rendete grazie a lui, benedite il suo nome!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Entrate"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "nei suoi cancelli"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "con todà"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "nei suoi atri"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "con tehillà"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "rendete grazie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "benedite"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:44.168198184Z",
+  "model": "glm-5.3"
+}

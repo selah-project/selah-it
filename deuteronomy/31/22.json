@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E scrisse Mosè ⟨את⟩ questa canzione in quel giorno, e la insegnò ⟨את⟩ ai figli d'Israele.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "E scrisse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa canzone"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "la canzone"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "stesso"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "e la insegnò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ai figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:48:50.556934089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Poiché hanno divorato ⟨את⟩ Giacobbe e ⟨את⟩ la sua dimora hanno reso desolata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hanno divorato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giacobbe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua dimora"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "la sua dimora"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "hanno reso desolata"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:07.197942732Z",
+  "model": "glm-5.3"
+}

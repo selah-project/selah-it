@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "E disse ⟨lui⟩, e fece levare un vento di tempesta, ed esso innalzò i suoi flutti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e fece levare"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un vento"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "di tempesta"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "ed esso innalzò"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "i suoi flutti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:37.214997210Z",
+  "model": "glm-5.3"
+}

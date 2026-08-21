@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 110,
+  "translation": "Adonai alla tua destra: schianta re nel giorno del suo furore.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tua destra"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "schianta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "del suo furore"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "re"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:33.501412743Z",
+  "model": "glm-5.3"
+}

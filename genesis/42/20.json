@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E ⟨את⟩ vostro fratello, il più piccolo, porterete a me, e le vostre parole saranno verificate, e non morirete». E fecero così.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "vostro fratello"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vostro fratello"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "il più piccolo"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "porterete"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "e saranno verificate"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "le vostre parole"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "morirete"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "e fecero"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:24.242016639Z",
+  "model": "glm-5.3"
+}

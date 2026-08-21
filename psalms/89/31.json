@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Se i suoi figli abbandonano la mia Torah e nelle mie norme non camminano,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "abbandonano"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "la mia Torah"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "e nelle mie norme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "camminano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:24.629127126Z",
+  "model": "glm-5.3"
+}

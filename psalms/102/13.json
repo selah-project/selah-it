@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Ma tu, YHWH, per sempre siedi ⟨in trono⟩, e il tuo ricordo per generazione e generazione.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "siedi ⟨in trono⟩"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "e il tuo ricordo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "per generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e generazione"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:47.542897890Z",
+  "model": "glm-5.3"
+}

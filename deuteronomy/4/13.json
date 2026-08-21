@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 4:13",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E vi dichiarò ⟨את⟩ il suo patto, che vi comandò di fare: le Dieci Parole; e le scrisse su due tavole di pietra.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "e vi dichiarò"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo patto"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il suo patto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "comandò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "di fare"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "le Dieci"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "Parole"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "e le scrisse"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שני",
+      "gloss": "due"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "tavole"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "di pietra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:44.861798931Z",
+  "model": "glm-5.3"
+}

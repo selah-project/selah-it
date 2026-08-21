@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E vi dispose in ordine la fila dei pani davanti a YHWH, come YHWH aveva comandato ⟨את⟩ Mosè.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "disse in ordine"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "la fila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dei pani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:51.850842464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E disse a Giuda di cercare ⟨את⟩ YHWH, Elohim dei loro padri, e di fare la Torah e il comandamento.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "a Giuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "di cercare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim di"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "i loro padri"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "e di fare"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "e il comandamento"
+    }
+  ],
+  "timestamp": "2026-08-21T09:57:26.503644117Z",
+  "model": "glm-5.3"
+}

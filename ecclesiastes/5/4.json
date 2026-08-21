@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Meglio che tu non faccia voto, piuttosto che fare voto e non adempiere.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "tu faccia voto"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "piuttosto che fare voto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "adempiere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:42.821720814Z",
+  "model": "glm-5.3"
+}

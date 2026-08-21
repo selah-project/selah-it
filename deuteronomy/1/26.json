@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E non voleste salire, e vi ribellaste ⟨את⟩ alla bocca di YHWH vostro Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "voleste"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "salire"
+    },
+    {
+      "surface": "ויתמרו",
+      "gloss": "e vi ribellaste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla bocca di YHWH"
+    },
+    {
+      "surface": "פי",
+      "gloss": "alla bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:46.738245272Z",
+  "model": "glm-5.3"
+}

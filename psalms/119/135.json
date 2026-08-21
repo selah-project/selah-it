@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Fa' risplendere il tuo volto sul tuo servo, e insegnami ⟨את⟩ i tuoi statuti.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "האר",
+      "gloss": "fa' risplendere"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "sul tuo servo"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "e insegnami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi statuti"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i tuoi statuti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:07.761479360Z",
+  "model": "glm-5.3"
+}

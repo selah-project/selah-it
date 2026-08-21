@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Sulla mano di ogni uomo mette un sigillo, perché ogni uomo conosca la sua opera.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "sulla mano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di ogni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "mette un sigillo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "perché conosca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "la sua opera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:22:21.099447799Z",
+  "model": "glm-5.3"
+}

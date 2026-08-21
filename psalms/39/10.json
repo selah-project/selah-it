@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "Sono ammutolito, non apro ⟨la mia⟩ bocca, perché ⟨sei⟩ tu ⟨che⟩ hai fatto ⟨questo⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "sono ammutolito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "apro"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bocca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:52.201814945Z",
+  "model": "glm-5.3"
+}

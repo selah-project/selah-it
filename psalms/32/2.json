@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Beato l'uomo a cui YHWH non mette in conto l'iniquità, e nel cui ruach non c'è inganno.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Beato"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "mette in conto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a cui"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'iniquità"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "nel suo ruach"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "inganno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:38.694472756Z",
+  "model": "glm-5.3"
+}

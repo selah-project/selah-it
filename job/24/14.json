@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 24:14",
+  "book": "job",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Alla luce si leva l'assassino: uccide il povero e il bisognoso, e di notte è come il ladro.",
+  "tokens": [
+    {
+      "surface": "לאור",
+      "gloss": "Alla luce"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "si leva"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "l'assassino"
+    },
+    {
+      "surface": "יקטל",
+      "gloss": "uccide"
+    },
+    {
+      "surface": "עני",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e il bisognoso"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "e di notte"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "è"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "come il ladro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:20:04.859596969Z",
+  "model": "glm-5.3"
+}

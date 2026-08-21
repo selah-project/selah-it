@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "Mizmor di Davide. YHWH, ascolta la mia preghiera, porgi l'orecchio alle mie suppliche; nella tua fedeltà rispondimi, nella tua giustizia.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascolta"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "porgi l'orecchio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "alle mie suppliche"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "nella tua fedeltà"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "rispondimi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nella tua giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.858600712Z",
+  "model": "glm-5.3"
+}

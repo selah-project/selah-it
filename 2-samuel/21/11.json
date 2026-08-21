@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E fu riferito a Davide ⟨את⟩ ciò che aveva fatto Ritspah figlia di Aia, concubina di Saul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "fu riferito"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che aveva fatto Ritspah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di Aia"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "concubina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Saul"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:59.483544628Z",
+  "model": "glm-5.3"
+}

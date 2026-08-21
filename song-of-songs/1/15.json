@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Ecco, tu sei bella, mia compagna; ecco, tu sei bella; i tuoi occhi ⟨sono⟩ colombe.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ecco, tu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bella"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mia compagna"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ecco, tu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bella"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i tuoi occhi"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "colombe"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:44.509444450Z",
+  "model": "glm-5.3"
+}

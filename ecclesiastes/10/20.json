@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Anche nel tuo pensiero non maledire il re, e nelle camere del tuo giaciglio non maledire il ricco, perché l'uccello dei cieli porterà la voce, e chi ha ali riferirà la parola.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "nel tuo pensiero"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "maledire"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "e nelle camere"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "del tuo giaciglio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "maledire"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "il ricco"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "l'uccello"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "porterà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voce"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "e chi ha"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "ali"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "riferirà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:29.260842698Z",
+  "model": "glm-5.3"
+}

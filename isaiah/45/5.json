@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Io ⟨sono⟩ YHWH, e non ve n'è ⟨un⟩ altro; fuori di me non c'è Elohim: io ti cingo, e tu non mi hai conosciuto.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'è"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "altro"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "fuori di me"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "io ti cingo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "mi hai conosciuto"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:07.731707075Z",
+  "model": "glm-5.3"
+}

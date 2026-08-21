@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E ora, mio padre vi ha caricati di un giogo pesante, ma io aggiungo al vostro giogo: mio padre vi ha castigati ⟨את⟩ con flagelli, ma io vi castigherò ⟨את⟩ con scorpioni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "ha caricato"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "על",
+      "gloss": "un giogo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "pesante"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "aggiungo"
+    },
+    {
+      "surface": "על",
+      "gloss": "al"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "vostro giogo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ha castigato"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "con flagelli"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "castigherò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "con scorpioni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:06.677893060Z",
+  "model": "glm-5.3"
+}

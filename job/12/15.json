@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Ecco, trattiene le acque e si seccano; le rimanda e sovvertono la terra.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "trattiene"
+    },
+    {
+      "surface": "במים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "e si seccano"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "le rimanda"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "e sovvertono"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:16:35.508103068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Poiché alla neve dice: sii sulla terra; e alla pioggia dell'acqua, e alle piogge della sua forza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "alla neve"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sulla terra"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "e alla pioggia"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "dell'acqua (pioggia)"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "e alle piogge"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "delle piogge"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "della sua forza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:22:21.099314627Z",
+  "model": "glm-5.3"
+}

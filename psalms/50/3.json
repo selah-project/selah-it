@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Verrà ⟨il⟩ nostro Elohim e non tacerà: fuoco davanti a lui divorerà, e attorno a lui ⟨sarà⟩ tempesta violenta.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Verrà"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "⟨il⟩ nostro Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "tacerà"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "davanti a lui"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "divorerà"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "e attorno a lui"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "⟨sarà⟩ tempesta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "violentemente"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:10.082956222Z",
+  "model": "glm-5.3"
+}

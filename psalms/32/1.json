@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Di David. Maskil. Beato colui cui è sollevata la rivolta, cui è coperta la colpa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Di David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil (poema didattico)"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Beato"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "è sollevata"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "la rivolta"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "è coperta"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "la colpa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:38.694249251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Elohim ⟨è⟩ per noi rifugio e forza, aiuto nelle angustie trovato oltremodo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "rifugio"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e forza"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "aiuto"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "nelle angustie"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "trovato"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "oltremodo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:45.252187022Z",
+  "model": "glm-5.3"
+}

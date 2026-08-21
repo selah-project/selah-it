@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Il fieno è scoperto, e appare l'erba tenera, e si raccolgono le erbe dei monti.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "è scoperto"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "il fieno"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "e appare"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "l'erba tenera"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "e si raccolgono"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "le erbe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dei monti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:27.845724390Z",
+  "model": "glm-5.3"
+}

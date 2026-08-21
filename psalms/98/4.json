@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 98,
+  "translation": "Acclamate a YHWH, tutta la terra; prorompete, gridate di gioia e cantate!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "acclamate (levate il grido)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "prorompete"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "e gridate di gioia"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "e cantate"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:17.746544409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Sul mio letto, nelle notti, cercavo ⟨את⟩ colui che ama la mia nefesh; l'ho cercato e non l'ho trovato.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "il mio letto"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nelle notti"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "cercavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "colui che ama la mia nefesh"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "che ama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "l'ho cercato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "l'ho trovato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:23.801838478Z",
+  "model": "glm-5.3"
+}

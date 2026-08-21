@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 4:42",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "perché vi fugga l'omicida che uccide ⟨את⟩ il suo prossimo senza saperlo, e che non lo odiava da ieri e dall'altro ieri — e fugga a una di queste città e viva:",
+  "tokens": [
+    {
+      "surface": "לנס",
+      "gloss": "perché fugga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "vi"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "l'omicida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "uccide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "senza"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "saperlo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "odiava"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "da ieri"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "e dall'altro ieri"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "e fugga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "queste città"
+    },
+    {
+      "surface": "האל",
+      "gloss": "queste"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "e viva"
+    }
+  ],
+  "timestamp": "2026-08-21T06:40:54.708936702Z",
+  "model": "glm-5.3"
+}

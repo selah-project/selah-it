@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "Glariatevi nel suo santo nome; si rallegri il cuore di quelli che cercano YHWH.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "glariatevi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nel nome"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suo santo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "si rallegri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "di quelli che cercano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:59.800712973Z",
+  "model": "glm-5.3"
+}

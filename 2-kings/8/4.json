@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E il re stava parlando con Ghechazi, il servo dell'uomo di Elohim, dicendo: «Raccontami, ti prego, ⟨את⟩ tutte le grandi cose che Eliscea ha fatto».",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "E il re"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "stava parlando"
+    },
+    {
+      "surface": "אל",
+      "gloss": "con"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Ghechazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "il servo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Racconta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le grandi cose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "le grandi cose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliscea"
+    }
+  ],
+  "timestamp": "2026-08-21T07:37:01.000452977Z",
+  "model": "glm-5.3"
+}

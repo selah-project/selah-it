@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Egli vede ⟨את⟩ ogni alto, ⟨lui⟩ è re su tutti i figli dell'orgoglio.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni alto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "alto"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vede"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "è re"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "orgoglio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:23:26.724946243Z",
+  "model": "glm-5.3"
+}

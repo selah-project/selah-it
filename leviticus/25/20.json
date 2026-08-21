@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E se direte: che mangeremo nell'anno settimo? Ecco, non semineremo e non raccoglieremo ⟨את⟩ il nostro raccolto;",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "direte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mangeremo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nell'anno"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "settimo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "semineremo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "raccoglieremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il nostro raccolto"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "il nostro raccolto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:29.697756735Z",
+  "model": "glm-5.3"
+}

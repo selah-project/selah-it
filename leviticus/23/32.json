@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Shabbat di shabbaton ⟨esso è⟩ per voi, e vi affliggerete ⟨את⟩ le vostre nefashot; il nove del mese, alla sera, da sera a sera celebrerete il vostro shabbat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "di shabbaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso è"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "e vi affliggerete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vostre nefashot"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "le vostre nefashot"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "il nove"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "da sera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "a"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sera"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "celebrerete"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "il vostro shabbat"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:20.229159631Z",
+  "model": "glm-5.3"
+}

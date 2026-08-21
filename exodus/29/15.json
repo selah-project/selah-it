@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E prenderai ⟨את⟩ l'ariete, il primo; e Aharon e i suoi figli appoggeranno ⟨את⟩ le loro mani sulla testa dell'ariete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'ariete"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "l'ariete"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "il primo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prenderai"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "e appoggeranno"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e i suoi figli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro mani"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "le loro mani"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la testa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dell'ariete"
+    }
+  ],
+  "timestamp": "2026-08-21T06:05:30.521465480Z",
+  "model": "glm-5.3"
+}

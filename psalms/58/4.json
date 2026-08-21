@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "Si sono allontanati gli empi dal grembo; dal ventre hanno errato, parlatori di menzogna.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "si sono allontanati"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gli empi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dal grembo"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "hanno errato"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dal ventre"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "parlatori di"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "menzogna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:02.837012771Z",
+  "model": "glm-5.3"
+}

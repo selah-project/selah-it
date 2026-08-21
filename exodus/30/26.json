@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E ungerai con esso ⟨את⟩ la tenda della convocazione e ⟨את⟩ l'arca della testimonianza,",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "e ungerai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "con esso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tenda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "della convocazione"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "della testimonianza"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:56.114796063Z",
+  "model": "glm-5.3"
+}

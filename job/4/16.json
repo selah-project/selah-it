@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Sta fermo, ma io non ne riconosco l'aspetto; una figura davanti ai miei occhi; silenzio — e una voce odo.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "sta fermo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "io riconosco"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "l'aspetto"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "una figura"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i miei occhi"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "silenzio"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e una voce"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "odo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:14:00.486648299Z",
+  "model": "glm-5.3"
+}

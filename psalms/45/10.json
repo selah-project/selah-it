@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Figlie di re ⟨sono⟩ tra le tue preziose; alla tua destra sta ⟨la⟩ regina in oro puro di Ofir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "figlie"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "di re"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "tra le tue preziose"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "sta"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "la regina"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "alla tua destra"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "in oro puro"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "di Ofir"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:32.162064413Z",
+  "model": "glm-5.3"
+}

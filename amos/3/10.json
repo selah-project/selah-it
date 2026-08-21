@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E non sanno fare ciò che ⟨è⟩ retto — oracolo di YHWH — quelli che ammassano violenza e saccheggio nei loro palazzi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "E non"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "fare"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ciò che ⟨è⟩ retto"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "quelli che ammassano"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violenza"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "e saccheggio"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "nei loro palazzi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:53.380070333Z",
+  "model": "glm-5.3"
+}

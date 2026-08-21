@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 135,
+  "translation": "Egli percosse i primogeniti di Egitto, dall'uomo fino al bestiame.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "egli percosse"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "i primogeniti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Egitto"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dall'uomo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "al bestiame"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:16.572386922Z",
+  "model": "glm-5.3"
+}

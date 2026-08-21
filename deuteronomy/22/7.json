@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Manda pure via la madre, e i figli prendi per te, perché ti sia bene e tu prolunghi ⟨i tuoi⟩ giorni.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Manda"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "pure via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la madre"
+    },
+    {
+      "surface": "האם",
+      "gloss": "la madre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i figli"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prendi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "למען",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ti sia bene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "e tu prolunghi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:38.177827987Z",
+  "model": "glm-5.3"
+}

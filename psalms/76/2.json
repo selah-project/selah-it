@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 76,
+  "translation": "Noto ⟨è⟩ Elohim in Yehudah, in Israele grande ⟨è⟩ il suo nome.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "noto"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Yehudah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:02.523643172Z",
+  "model": "glm-5.3"
+}

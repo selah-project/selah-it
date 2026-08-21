@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Quanto a me, ⟨sono⟩ povero e bisognoso; Adonai pensa ⟨a me⟩. ⟨Sei⟩ tu il mio aiuto e il mio liberatore: Elohim mio, non tardare!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "quanto a me"
+    },
+    {
+      "surface": "עני",
+      "gloss": "povero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e bisognoso"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "pensa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "il mio aiuto"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "e il mio liberatore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tardare"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:49.138947223Z",
+  "model": "glm-5.3"
+}

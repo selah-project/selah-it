@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Tu dai a loro — essi raccolgono; apri la tua mano — si saziano di bene.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Tu dai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "essi raccolgono"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "apri"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "si saziano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "di bene"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:22.816673092Z",
+  "model": "glm-5.3"
+}

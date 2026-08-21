@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 85,
+  "translation": "Certo, vicino a quelli che lo temono ⟨è⟩ la sua salvezza, perché ⟨la⟩ gloria dimori nella nostra terra.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "certo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "vicino"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "a quelli che lo temono"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "la sua salvezza"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "perché dimori"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloria"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "nella nostra terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:00.409954327Z",
+  "model": "glm-5.3"
+}

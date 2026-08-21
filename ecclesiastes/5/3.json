@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Quando farai un voto a Elohim, non tardare a soddisfarlo, perché non ⟨c'è⟩ piacere negli stolti: ⟨את⟩ ciò che hai votato, adempilo.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "farai un voto"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "un voto"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tardare"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "a soddisfarlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "piacere"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "negli stolti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che hai votato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "hai votato"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "adempilo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:42.821570499Z",
+  "model": "glm-5.3"
+}

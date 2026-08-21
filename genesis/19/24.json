@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E YHWH fece piovere su Sedom e su Amorah zolfo e fuoco, da ⟨את⟩ YHWH, dai cieli.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "E YHWH"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "fece piovere"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "zolfo"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "e fuoco"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:06.770801190Z",
+  "model": "glm-5.3"
+}

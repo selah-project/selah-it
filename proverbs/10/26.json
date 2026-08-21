@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 10:26",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Come l'aceto per i denti e come il fumo per gli occhi, così ⟨è⟩ ⟨l'⟩indolente per chi lo manda.",
+  "tokens": [
+    {
+      "surface": "כחמץ",
+      "gloss": "come l'aceto"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "per i denti"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "e come il fumo"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "per gli occhi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "העצל",
+      "gloss": "l'indolente"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "per chi lo manda"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:29.110097896Z",
+  "model": "glm-5.3"
+}

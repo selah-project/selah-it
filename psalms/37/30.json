@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "La bocca del giusto mormora Chokhmà, e la sua lingua parla giustizia.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "la bocca di"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mormora"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Chokhmà"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "e la sua lingua"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:23.434747433Z",
+  "model": "glm-5.3"
+}

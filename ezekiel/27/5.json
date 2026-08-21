@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 27:5",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Di cipressi del Senir ti hanno costruito ⟨את⟩ tutte le tue tavole; cedro del Libano hanno preso per fare l'albero ⟨su di te⟩.",
+  "tokens": [
+    {
+      "surface": "ברושים",
+      "gloss": "cipressi"
+    },
+    {
+      "surface": "משניר",
+      "gloss": "del Senir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hanno costruito"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le tue tavole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "לחתים",
+      "gloss": "le tue tavole"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedro"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "del Libano"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "hanno preso"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "per fare"
+    },
+    {
+      "surface": "תרן",
+      "gloss": "l'albero (maestro)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨su di te⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:24:30.894812937Z",
+  "model": "glm-5.3"
+}

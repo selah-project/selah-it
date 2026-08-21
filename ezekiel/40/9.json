@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E misurò ⟨את⟩ l'ulam della porta: otto cubiti; e i suoi pilastri: due cubiti; e l'ulam della porta ⟨era⟩ verso ⟨la⟩ casa.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "e misurò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'ulam della porta"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "l'ulam (il vestibolo)"
+    },
+    {
+      "surface": "השער",
+      "gloss": "della porta"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "otto"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubiti"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "e i suoi pilastri"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "due"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubiti"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "e l'ulam"
+    },
+    {
+      "surface": "השער",
+      "gloss": "della porta"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "verso ⟨la⟩ casa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:29:18.135826308Z",
+  "model": "glm-5.3"
+}

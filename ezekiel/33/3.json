@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "e ⟨egli⟩ vede ⟨את⟩ la spada venire sulla terra, e suona nello shofar e avverte ⟨את⟩ il popolo —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "e vede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la spada"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "באה",
+      "gloss": "venire"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "e suona"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "nello shofar"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "e avverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:25:25.414094544Z",
+  "model": "glm-5.3"
+}

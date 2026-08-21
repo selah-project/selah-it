@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Parla ad Aharon e digli: quando farai salire ⟨את⟩ le lampade, davanti alla faccia della menorah faranno luce le sette lampade.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "e dirai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "quando farai salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le lampade"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "le lampade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מול",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia di"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "la menorah"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "faranno luce"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "le sette"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lampade"
+    }
+  ],
+  "timestamp": "2026-08-21T06:26:33.692843162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Il boccone che hai mangiato lo vomiterai, e rovinerai le tue parole piacevoli.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "il tuo boccone"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "hai mangiato"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "lo vomiterai"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "e rovinerai"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "le tue parole"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "piacevoli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:08.358999789Z",
+  "model": "glm-5.3"
+}

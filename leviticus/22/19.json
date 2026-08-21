@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 22:19",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "per il vostro gradimento: senza difetto, maschio, tra i buoi, tra le pecore o tra le capre.",
+  "tokens": [
+    {
+      "surface": "לרצנכם",
+      "gloss": "per il vostro gradimento"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "senza difetto"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tra i buoi"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "tra le pecore"
+    },
+    {
+      "surface": "ובעזים",
+      "gloss": "o tra le capre"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:19.598639114Z",
+  "model": "glm-5.3"
+}

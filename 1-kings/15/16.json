@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "E vi fu guerra tra Asa e tra Baasha, re di Israele, tutti i loro giorni.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "e guerra"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "vi fu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "i loro giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:30:52.502185662Z",
+  "model": "glm-5.3"
+}

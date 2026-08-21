@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "alzerà ⟨la voce⟩ in quel giorno, dicendo: «Non sarò medico, e in casa mia non c'è pane né mantello; non fatemi capo del popolo».",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "alzerà"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sarò"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "medico"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "e in casa mia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non c'è"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "né"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "mantello"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "fatemi"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "capo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "del popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:41.262025391Z",
+  "model": "glm-5.3"
+}

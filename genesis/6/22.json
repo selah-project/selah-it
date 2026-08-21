@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E fece Noach secondo tutto ciò che gli aveva comandato Elohim ⟨את⟩ lui; così fece.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "E fece"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "Elohim aveva comandato lui (Noach)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fece"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:17.623300654Z",
+  "model": "glm-5.3"
+}

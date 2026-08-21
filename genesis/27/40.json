@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E sulla tua spada vivrai, e ⟨את⟩ tuo fratello servirai; e avverrà che, quando scoterai ⟨il giogo⟩, spezzerai il suo giogo dal tuo collo.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "e sulla"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "tua spada"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "vivrai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tuo fratello"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "servirai"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e avverrà"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "scoterai ⟨il giogo⟩"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "spezzerai"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "il suo giogo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dal"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "tuo collo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:00.501014605Z",
+  "model": "glm-5.3"
+}

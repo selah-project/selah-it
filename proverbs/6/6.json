@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Va' dall'umile formica, o pigro; guarda le sue vie e sii saggio.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "va'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "formica"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "o pigro"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "guarda"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "le sue vie"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "e sii saggio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:02.929250296Z",
+  "model": "glm-5.3"
+}

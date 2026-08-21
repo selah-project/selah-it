@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "E disse Israele a Yosef: vedere il tuo volto io non speravo, ed ecco, Elohim mi ha fatto vedere ⟨את⟩ anche ⟨את⟩ la tua discendenza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vedere (l'infinito davanti: «il vedere»)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "io speravo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ha fatto vedere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi (Israele, oggetto mostrato)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua discendenza"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "la tua discendenza"
+    }
+  ],
+  "timestamp": "2026-08-21T05:52:28.621716736Z",
+  "model": "glm-5.3"
+}

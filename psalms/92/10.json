@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "Poiché ecco, i tuoi nemici, YHWH, poiché ecco, i tuoi nemici periranno, si disperderanno tutti gli operatori di iniquità.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "i tuoi nemici"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "periranno"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "si disperderanno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gli operatori di"
+    },
+    {
+      "surface": "און",
+      "gloss": "iniquità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:05.159929241Z",
+  "model": "glm-5.3"
+}

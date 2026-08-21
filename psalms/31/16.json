@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Nella Tua mano ⟨sono⟩ i miei tempi: strappami dalla mano dei miei nemici e dai miei inseguitori.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "nella Tua mano"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "i miei tempi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "strappami"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dei miei nemici"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "e dai miei inseguitori"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:58.683545401Z",
+  "model": "glm-5.3"
+}

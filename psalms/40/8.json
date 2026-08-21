@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "Allora ho detto: ecco, io vengo; nel rotolo del libro ⟨è⟩ scritto di me.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "io vengo"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "nel rotolo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "del libro"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "⟨è⟩ scritto"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:07.256578138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Guardarono verso di lui e furono ⟨irraggianti⟩, e i loro volti non saranno svergognati.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "guardarono"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "verso di lui"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "e furono ⟨irraggianti⟩"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "e i loro volti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "saranno svergognati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:29.612045964Z",
+  "model": "glm-5.3"
+}

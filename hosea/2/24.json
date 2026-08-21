@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e la terra risponderà a ⟨את⟩ il grano e a ⟨את⟩ il mosto e a ⟨את⟩ l'olio, ed essi risponderanno a ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "e la terra"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "risponderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il grano"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "il grano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il mosto"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "il mosto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'olio"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "l'olio"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ed essi"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "risponderanno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:36.048551267Z",
+  "model": "glm-5.3"
+}

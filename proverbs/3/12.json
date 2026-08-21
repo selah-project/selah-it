@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Perché ⟨את⟩ colui che ama, YHWH lo corregge, e come un padre ⟨את⟩ un figlio in cui si compiace.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "colui che ama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "colui che"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "corregge"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "e come un padre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un figlio"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "in cui si compiace"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:47.909774743Z",
+  "model": "glm-5.3"
+}

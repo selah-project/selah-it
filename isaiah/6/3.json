@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E uno chiamava l'altro e diceva: «Santo, santo, santo ⟨è⟩ YHWH degli eserciti; piena di la sua gloria ⟨è⟩ tutta la terra».",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "e chiamava"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "l'altro"
+    },
+    {
+      "surface": "זה",
+      "gloss": "(chiamava)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "e diceva"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Santo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "piena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "di la sua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:31.551925026Z",
+  "model": "glm-5.3"
+}

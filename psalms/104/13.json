@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Che abbeveri i monti dalle tue alte camere — dal frutto delle tue opere ⟨si⟩ sazia la terra.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "abbeveri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "i monti"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "dalle sue alte camere"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "dal frutto"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "delle tue opere"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "si sazia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:18.037904799Z",
+  "model": "glm-5.3"
+}

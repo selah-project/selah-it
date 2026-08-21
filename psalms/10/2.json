@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Nell'orgoglio del malvagio il povero ⟨è braccato⟩; siano presi nei tranelli che hanno tramato.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "Nell'orgoglio"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "del malvagio"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "⟨è braccato⟩"
+    },
+    {
+      "surface": "עני",
+      "gloss": "il povero"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "siano presi"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "nei tranelli"
+    },
+    {
+      "surface": "זו",
+      "gloss": "che"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "hanno tramato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:38.522198175Z",
+  "model": "glm-5.3"
+}

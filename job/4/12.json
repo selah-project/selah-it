@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E a me una parola fu portata di nascosto, e il mio orecchio ne colse ⟨un⟩ sussurro.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "e a me"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "una parola"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "fu portata di nascosto"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "e colse"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "il mio orecchio"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "sussurro"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ne (di esso)"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:50.863299896Z",
+  "model": "glm-5.3"
+}

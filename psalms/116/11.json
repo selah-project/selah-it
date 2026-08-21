@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Io ho detto, nel mio turbarmi: ogni ⟨uomo⟩ ⟨è⟩ menzognero.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "nel mio turbarmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨uomo⟩"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "⟨è⟩ menzognero"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:35.452155764Z",
+  "model": "glm-5.3"
+}

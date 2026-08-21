@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 111,
+  "translation": "Principio della sapienza ⟨è⟩ il timore di YHWH; buon discernimento hanno tutti quelli che li praticano; la sua lode sta in piedi per sempre.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "principio"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "della sapienza"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "il timore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "discernimento"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a tutti"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "quelli che li praticano"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "la sua lode"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sta in piedi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:31.032285521Z",
+  "model": "glm-5.3"
+}

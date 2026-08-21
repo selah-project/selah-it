@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Io ⟨sono⟩ YHWH, il tuo Elohim, che ti ho fatto uscire dalla terra di Mitsrayim, dalla casa degli schiavi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ti ho fatto uscire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "degli schiavi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:59:18.513107779Z",
+  "model": "glm-5.3"
+}

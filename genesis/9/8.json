@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E parlò Elohim a Noach e ai suoi figli con lui, dicendo:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ai suoi figli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "con lui ⟨את⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:36:18.968334182Z",
+  "model": "glm-5.3"
+}

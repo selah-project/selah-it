@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "In quel giorno l'uomo getterà ⟨את⟩ gli idoli del suo argento e ⟨את⟩ gli idoli del suo oro, che si erano fatti per prostrarsi ⟨davanti⟩ ai ratti-talpa e ai pipistrelli.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "getterà"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli idoli del suo argento"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "gli idoli"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "del suo argento"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gli idoli del suo oro"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "gli idoli"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "del suo oro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si erano fatti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "per prostrarsi"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "ai ratti-talpa"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ai ratti-talpa"
+    },
+    {
+      "surface": "ו לעטלפים",
+      "gloss": "e ai pipistrelli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:43:25.863450695Z",
+  "model": "glm-5.3"
+}

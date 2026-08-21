@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E YHWH fece ⟨את⟩ questa cosa il giorno dopo, e morì tutto il bestiame di Mitzrayim; e del bestiame dei figli d'Israele non ne morì ⟨uno⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questa cosa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "questa cosa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "il giorno dopo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "e morì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "di Mitzrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "e del bestiame"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morì"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T05:56:18.070501004Z",
+  "model": "glm-5.3"
+}

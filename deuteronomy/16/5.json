@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Non potrai sacrificare ⟨את⟩ il Pesach in nessuna delle tue porte, che YHWH ⟨il tuo⟩ Elohim ti dà;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "potrai"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sacrificare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "il Pesach"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "in nessuna"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "delle tue porte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:56.544327988Z",
+  "model": "glm-5.3"
+}

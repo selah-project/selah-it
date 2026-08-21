@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "E io ti sostenterò ⟨את⟩ là, perché ancora cinque anni ⟨sono⟩ carestia, affinché tu non sia spogliato, tu e la tua casa e tutto ciò che ⟨è⟩ tuo.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "e io ti sostenterò"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ti (il sostenuto)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "anni"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "carestia"
+    },
+    {
+      "surface": "פן",
+      "gloss": "affinché non"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "tu sia spogliato"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "e la tua casa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tuo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:09.151149362Z",
+  "model": "glm-5.3"
+}

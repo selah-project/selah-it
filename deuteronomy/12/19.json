@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Guardati di non abbandonare ⟨את⟩ il levita tutti i tuoi giorni sul tuo suolo.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "guardati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "פן",
+      "gloss": "di non"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "abbandonare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il levita"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "il levita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "i tuoi giorni"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "il tuo suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:10.576028469Z",
+  "model": "glm-5.3"
+}

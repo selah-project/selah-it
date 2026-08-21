@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Eli udì ⟨את⟩ il suono del lamento e disse: «Che ⟨cosa⟩ è questo suono di tumulto?» E l'uomo si affrettò, venne e riferì a Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e udì"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suono del lamento"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il suono"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "del lamento"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che ⟨cosa⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suono"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "di tumulto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "si affrettò"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "venne"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "a Eli"
+    }
+  ],
+  "timestamp": "2026-08-21T07:06:50.291263369Z",
+  "model": "glm-5.3"
+}

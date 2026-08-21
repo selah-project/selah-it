@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Cantate con gli strumenti a YHWH, o suoi fedeli, e rendete grazie al memoriale della sua santità.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "cantate con gli strumenti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "suoi fedeli"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "e rendete grazie"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "al memoriale"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "della sua santità"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:41.424729025Z",
+  "model": "glm-5.3"
+}

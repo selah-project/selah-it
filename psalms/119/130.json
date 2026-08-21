@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "L'aprirsi delle tue parole fa luce, dà intendimento ai semplici.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "l'aprirsi"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "delle tue parole"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "fa luce"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "dà intendimento"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "ai semplici"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:37.986113886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E YHWH colpì ⟨את⟩ i Kushiti davanti ad Asa e davanti a Yehudah, e i Kushiti fuggirono.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "e colpì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Kushiti"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "i Kushiti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e davanti a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "e fuggirono"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "i Kushiti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:57:44.416642223Z",
+  "model": "glm-5.3"
+}

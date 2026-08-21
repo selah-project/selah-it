@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "«Guarda giù dalla dimora della tua santità, dai cieli, e benedici ⟨את⟩ il tuo popolo, ⟨את⟩ Israele, e ⟨את⟩ la terra che hai dato a noi, come hai giurato ai nostri padri: una terra che fluisce latte e miele».",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "guarda giù"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "dalla dimora"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "della tua santità"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "e benedici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo popolo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "il tuo popolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "hai dato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "hai giurato"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ai nostri padri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "una terra"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "che fluisce"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "latte"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e miele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:10.911493253Z",
+  "model": "glm-5.3"
+}

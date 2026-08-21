@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "olio per la lucerna, aromi per l'olio dell'unzione e per l'incenso dei profumi",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "olio"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "per la lucerna"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "aromi"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "per l'olio di"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "l'unzione"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "e per l'incenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dei profumi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:50.336910491Z",
+  "model": "glm-5.3"
+}

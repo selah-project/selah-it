@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Poiché giusto ⟨è⟩ YHWH, le giustizie ⟨egli⟩ ama; gli integri contempleranno il suo volto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "le giustizie"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "gli integri"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "contempleranno"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "il suo volto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:16.440464353Z",
+  "model": "glm-5.3"
+}

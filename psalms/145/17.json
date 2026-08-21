@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "Giusto ⟨è⟩ YHWH in tutte le sue vie, e pietoso in tutte le sue opere.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Giusto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "le sue vie"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "e pietoso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "le sue opere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:09.631435806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 86,
+  "translation": "Porgi l'orecchio, YHWH, alla mia preghiera, e sta' attento alla voce delle mie suppliche.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "pongi l'orecchio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "alla mia preghiera"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "e sta' attento"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "alla voce"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "delle mie suppliche"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:54.223394666Z",
+  "model": "glm-5.3"
+}

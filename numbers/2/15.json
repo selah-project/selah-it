@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "e il suo esercito e i suoi recensiti: cinque e quaranta ⟨mila⟩ e seicento e cinquanta.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "e il suo esercito"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "e i loro recensiti"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e quaranta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e sei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e cinquanta"
+    }
+  ],
+  "timestamp": "2026-08-21T06:23:19.776007036Z",
+  "model": "glm-5.3"
+}

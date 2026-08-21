@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Ahimè per te, o terra, se il tuo re ⟨è⟩ un ragazzo e i tuoi principi mangiano al mattino!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Ahimè"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o terra"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "se il tuo re"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un ragazzo"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "e i tuoi principi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "al mattino"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangiano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:10.111573453Z",
+  "model": "glm-5.3"
+}

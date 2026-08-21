@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 132,
+  "translation": "Se entrerò nella tenda della mia casa, se salirò sul letto del mio giaciglio —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "entrerò"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nella tenda"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "della mia casa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "salirò"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "il letto"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "del mio giaciglio"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:55.310649938Z",
+  "model": "glm-5.3"
+}

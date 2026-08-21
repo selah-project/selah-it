@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "La stoltezza di un uomo stravolge la sua via, e contro YHWH si infiamma il suo cuore.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "La stoltezza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "stravolge"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "la sua via"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "si infiamma"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "il suo cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:52.349215493Z",
+  "model": "glm-5.3"
+}

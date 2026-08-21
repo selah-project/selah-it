@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "fecero guerra ⟨את⟩ Bera re di Sodom ⟨ואת⟩ Birsha re di Gomorrah, Shinav re di Admah e Shemever re di Tsevoim, e il re di Bela — essa ⟨è⟩ Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "fecero"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "guerra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera re di Sodom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Birsha re di Gomorrah"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomorrah"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "e Shemever"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re di"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e il re di"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-21T05:37:13.834631088Z",
+  "model": "glm-5.3"
+}

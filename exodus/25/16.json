@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E porrai nell'aron ⟨את⟩ la testimonianza che io ti darò.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "E porrai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "nell'aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la testimonianza"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "la testimonianza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "io darò"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:50.626161992Z",
+  "model": "glm-5.3"
+}

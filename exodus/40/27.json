@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E fece salire il fumo dell'incenso aromatico su di esso, come YHWH aveva comandato ⟨את⟩ Mosè.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "fece salire il fumo dell'incenso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di esso"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "incenso"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "aromatico"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:26.402519709Z",
+  "model": "glm-5.3"
+}

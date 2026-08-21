@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Sulla mia destra si leva ⟨la⟩ progenie; scacciano i miei piedi, e innalzano contro di me le vie della loro rovina.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la mia destra"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "la progenie"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "si leva"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i miei piedi"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "scacciano"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "e innalzano"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "le vie"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "della loro rovina"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:50.680138002Z",
+  "model": "glm-5.3"
+}

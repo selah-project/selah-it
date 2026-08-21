@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E Davide mandò a dire a Tamar, a casa: «Va', ti prego, a casa di Amnon, tuo fratello, e preparagli ⟨את⟩ la pietanza».",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "a casa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "va'"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a casa"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "di Amnon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tuo fratello"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "e prepara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "⟨את⟩ la pietanza"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:40.647649924Z",
+  "model": "glm-5.3"
+}

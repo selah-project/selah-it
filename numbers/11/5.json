@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "Ci ricordiamo ⟨את⟩ il pesce che mangiavamo in Egitto gratuitamente: ⟨את⟩ i cetrioli e ⟨את⟩ i poponi e ⟨את⟩ il porro e ⟨את⟩ le cipolle e ⟨את⟩ l'aglio.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "ci ricordiamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il pesce"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "il pesce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mangiavamo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "gratuitamente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cetrioli"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "i cetrioli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i poponi"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "i poponi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il porro"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "il porro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le cipolle"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "le cipolle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'aglio"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "l'aglio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:51.652446613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Conosce il giusto il diritto dei poveri, il malvagio non comprende la conoscenza.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "il giusto"
+    },
+    {
+      "surface": "דין",
+      "gloss": "il diritto"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "dei poveri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "il malvagio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "comprende"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la conoscenza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:03.629714283Z",
+  "model": "glm-5.3"
+}

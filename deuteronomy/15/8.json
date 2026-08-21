@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "anzi, aprendo aprirai ⟨את⟩ la tua mano a lui, e prestando gli presterai quanto basta al suo bisogno, ciò che gli manca",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "anzi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aprendo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "aprirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua mano"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "e prestando"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "gli presterai"
+    },
+    {
+      "surface": "די",
+      "gloss": "quanto basta"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "al suo bisogno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "gli manca"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:08.429908623Z",
+  "model": "glm-5.3"
+}

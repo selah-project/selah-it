@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E Assalonne, che abbiamo unto su di noi, ⟨è⟩ morto in battaglia; e ora perché voi tacete sul riportare ⟨את⟩ il re?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "E Assalonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "abbiamo unto"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "morto"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in battaglia"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "למה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "tacete"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "riportare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    }
+  ],
+  "timestamp": "2026-08-21T10:07:45.994147504Z",
+  "model": "glm-5.3"
+}

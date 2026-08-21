@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": " Alla spada cadrete; sul confine di Israele vi giudicherò, e conoscerete che io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "Alla spada"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "cadrete"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "il confine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "vi giudicherò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "«vi» — oggetto del giudizio"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "e conoscerete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:18:15.881183230Z",
+  "model": "glm-5.3"
+}

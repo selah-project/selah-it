@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 13:25",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E il sacerdote la vedrà ⟨את⟩, ed ecco: se il pelo nella macchia luminosa si è mutato in bianco e il suo aspetto ⟨è⟩ più profondo della pelle — è tsara'at, è sbocciata nella bruciatura — e il sacerdote dichiarerà impuro lui ⟨את⟩: è una piaga di tsara'at.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "e vedrà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "la (la macchia)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "si è mutato"
+    },
+    {
+      "surface": "שער",
+      "gloss": "il pelo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "in bianco"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "nella macchia luminosa"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "e il suo aspetto"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "più profondo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "di"
+    },
+    {
+      "surface": "העור",
+      "gloss": "la pelle"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "è"
+    },
+    {
+      "surface": "במכוה",
+      "gloss": "nella bruciatura"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "è sbocciata"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e dichiarerà impuro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (l'uomo colpito)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "una piaga"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "di tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "è"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:06.677126695Z",
+  "model": "glm-5.3"
+}

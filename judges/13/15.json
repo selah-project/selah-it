@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 13:15",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E disse Manoach al messaggero di YHWH: «Tratteniamo ⟨את⟩ te, ti prego, e prepariamo davanti a te un capretto di capre».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "il messaggero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "tratteniamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "e prepariamo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "un capretto"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "di capre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:02:02.301038072Z",
+  "model": "glm-5.3"
+}

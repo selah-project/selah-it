@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Fulano — io sono ⟨un⟩ forestiero sulla terra: non nascondermi le tue mitzvot.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "forestiero"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "nascondere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "le tue mitzvot"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:41.609856616Z",
+  "model": "glm-5.3"
+}

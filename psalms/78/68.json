@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "E scelse ⟨את⟩ la tribù di Yehudah, ⟨את⟩ il monte Tziyon che amava.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "e scelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tribù di Yehudah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "la tribù di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il monte Tziyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "amava"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:54.348069840Z",
+  "model": "glm-5.3"
+}

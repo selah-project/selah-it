@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 90,
+  "translation": "Poiché tutti i nostri giorni volgono via nella tua ira; finiamo i nostri anni come un sospiro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "i nostri giorni"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "volgono via"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "nella tua ira"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "finiamo"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "i nostri anni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "un sospiro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:46.607246423Z",
+  "model": "glm-5.3"
+}

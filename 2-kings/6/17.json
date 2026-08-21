@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 6:17",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Ed Eliseo pregò e disse: YHWH, apri ⟨את⟩ i suoi occhi, ti prego, ed egli veda. E YHWH aprì ⟨את⟩ gli occhi del giovane, ed egli vide, ed ecco, il monte era pieno di cavalli e carri di fuoco tutto intorno a Eliseo.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "pregò"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "apri"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi occhi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "i suoi occhi"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ed egli veda"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "e aprì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli occhi del giovane"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "del giovane"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ed egli vide"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "era pieno"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "di cavalli"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "e carri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "di fuoco"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "tutto intorno"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "a Eliseo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:36:25.527754991Z",
+  "model": "glm-5.3"
+}

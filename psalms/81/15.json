@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "In poco tempo piegherei i loro nemici, e contro i loro avversari rivolgerei la mia mano.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "in poco tempo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "i loro nemici"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "piegherei"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "i loro avversari"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "rivolgerei"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:40.075896213Z",
+  "model": "glm-5.3"
+}

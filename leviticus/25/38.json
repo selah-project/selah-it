@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Io ⟨sono⟩ YHWH, Elohim vostro, che ⟨את⟩ vi ho fatti uscire dalla terra d'Egitto, per dare a voi ⟨את⟩ la terra di Kenaan, per essere a voi per Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ho fatti uscire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per dare"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra di Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "per essere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "per Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:20:49.139071125Z",
+  "model": "glm-5.3"
+}

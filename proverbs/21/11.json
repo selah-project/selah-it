@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Quando il beffardo ⟨è punito⟩, l'ingenuo diventa saggio; e quando si istruisce il saggio, egli riceve conoscenza.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "quando ⟨è punito⟩"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "il beffardo"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "diventa saggio"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "l'ingenuo"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "e quando si istruisce"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "il saggio"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "riceve"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "conoscenza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:07.606004337Z",
+  "model": "glm-5.3"
+}

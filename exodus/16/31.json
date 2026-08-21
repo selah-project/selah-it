@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E la casa d'Israele chiamò ⟨את⟩ il suo nome: man. Ed ⟨esso⟩ era come seme di coriandolo, bianco, e il suo sapore come una focaccia con miele.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "E chiamò"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo nome"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo nome"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Ed esso"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "come seme"
+    },
+    {
+      "surface": "גד",
+      "gloss": "di coriandolo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bianco"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "e il suo sapore"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "come una focaccia"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "con miele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:07.876220494Z",
+  "model": "glm-5.3"
+}

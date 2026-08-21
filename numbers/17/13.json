@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E si fermò tra i morti e tra i vivi, e la piaga fu trattenuta.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "e si fermò"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "i morti"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "i vivi"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "e fu trattenuta"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "la piaga"
+    }
+  ],
+  "timestamp": "2026-08-21T06:30:17.427506833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "YHWH, Elohim degli eserciti, chi ⟨è⟩ come te? ⟨Tu sei⟩ potente, Yah, e la tua fedeltà ⟨sta⟩ intorno a te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "come te"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "potente"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "e la tua fedeltà"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "intorno a te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:33.249344846Z",
+  "model": "glm-5.3"
+}

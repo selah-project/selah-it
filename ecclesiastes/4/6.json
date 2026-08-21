@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Meglio un palmo di quiete che due pugni di fatica e affanno di ⟨spirito⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "meglio"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "il pieno"
+    },
+    {
+      "surface": "כף",
+      "gloss": "di palmo (cavo della mano)"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "di quiete"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "che il pieno"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "di due pugni"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "di fatica"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e affanno"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "di ⟨spirito⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:21.835470564Z",
+  "model": "glm-5.3"
+}

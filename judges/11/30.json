@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Iftach fece un voto a YHWH e disse: se darai davvero ⟨את⟩ i figli di Ammon in mia mano,",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "fece un voto"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Iftach"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "un voto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "dando"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "darai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli di Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in mia mano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:02:40.104965492Z",
+  "model": "glm-5.3"
+}

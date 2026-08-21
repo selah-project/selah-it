@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 105,
+  "translation": "E rese ⟨il suo⟩ popolo molto fecondo, e lo rese più forte dei suoi avversari.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "e rese molto fecondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo popolo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "e lo rese più forte"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "dei suoi avversari"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:55.898187150Z",
+  "model": "glm-5.3"
+}

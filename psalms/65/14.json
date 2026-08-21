@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Si vestono di greggi i prati, e le valli si avvolgono di grano; acclamano, sì, cantano.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "Si vestono"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "i prati"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di greggi"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "e le valli"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "si avvolgono"
+    },
+    {
+      "surface": "בר",
+      "gloss": "di grano"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "acclamano"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sì"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "cantano"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:30.852093695Z",
+  "model": "glm-5.3"
+}

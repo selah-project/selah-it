@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "Non sarà più chiamato nobile il vile, e all'avaro non si dirà « potente ».",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sarà chiamato"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "più"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "il vile"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "nobile"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "e all'avaro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "si dirà"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "« potente »"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:06.844042741Z",
+  "model": "glm-5.3"
+}

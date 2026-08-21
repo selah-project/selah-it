@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 138,
+  "translation": "Ti loderanno, YHWH, tutti i re della terra, perché hanno udito le parole della tua bocca.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Ti loderanno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "i re"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hanno udito"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "della tua bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:07.237808026Z",
+  "model": "glm-5.3"
+}

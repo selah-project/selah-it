@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Perché così disse YHWH: per niente foste venduti, e non con argento sarete riscattati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "per niente"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "foste venduti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "con argento"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "sarete riscattati"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:15.196035884Z",
+  "model": "glm-5.3"
+}

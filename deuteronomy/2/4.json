@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E ⟨את⟩ il popolo comanda, dicendo: voi state attraversando ⟨il⟩ confine dei vostri fratelli, i figli di Esav, che abitano in Seir; ed essi avranno timore di voi, e voi guardatevevi molto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "comanda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "state attraversando"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "il confine di"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "i vostri fratelli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "che abitano"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "in Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ed essi avranno timore"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "di voi"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "e voi guardatevevi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:43.160984725Z",
+  "model": "glm-5.3"
+}

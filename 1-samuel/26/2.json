@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E si alzò Shaùl e scese verso il deserto di Zif, e con lui ⟨את⟩ tremila uomini, scelti d'Israele, per cercare ⟨את⟩ Davide nel deserto di Zif.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "e si alzò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaùl"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "il deserto"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "di Zif"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ e con lui",
+      "marks": "tremila uomini scelti d'Israele"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "scelti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "per cercare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "di Zif"
+    }
+  ],
+  "timestamp": "2026-08-21T07:14:26.099688155Z",
+  "model": "glm-5.3"
+}

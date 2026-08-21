@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E udì Toi, re di Hamat, che Davide aveva colpito ⟨את⟩ tutto l'esercito di Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "E udì"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "di Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "aveva colpito"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto l'esercito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "l'esercito"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "di Hadadezer"
+    }
+  ],
+  "timestamp": "2026-08-21T07:18:05.375997466Z",
+  "model": "glm-5.3"
+}

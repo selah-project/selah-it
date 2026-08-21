@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Hanno posto nei cieli la loro bocca, e la loro lingua cammina sulla terra.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "hanno posto"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "la loro bocca"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "e la loro lingua"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "cammina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:04.767892736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E andò Ovadiahu incontro ad Ajab e glielo riferì; e andò Ajab incontro a Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadiahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "incontro a"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "glielo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "incontro a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "a Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:39.354542202Z",
+  "model": "glm-5.3"
+}

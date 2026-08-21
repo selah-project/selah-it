@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Tutta la comunità di Israele lo farà ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "la comunità"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "lo farà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "il pesach (lo fare)"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:36.384259885Z",
+  "model": "glm-5.3"
+}

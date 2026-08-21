@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Tutte le mie ossa diranno: YHWH, chi ⟨è⟩ come te, che liberi l'oppresso da chi è più forte di lui, l'oppresso e il povero da chi lo spoglia?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "le mie ossa"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "diranno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "come te"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "che liberi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'oppresso"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "da chi è più forte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "di lui"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "e l'oppresso"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e il povero"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "da chi lo spoglia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:16.008898508Z",
+  "model": "glm-5.3"
+}

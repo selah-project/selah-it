@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Un fiume — i suoi ruscelli rallegrano la città di Elohim, il santuario delle dimore di El Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "un fiume"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "i suoi ruscelli"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "rallegrano"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "il santuario"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "delle dimore"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "di El Elyon"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:41.986126869Z",
+  "model": "glm-5.3"
+}

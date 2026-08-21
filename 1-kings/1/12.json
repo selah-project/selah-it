@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E ora, va', ti darò ⟨io⟩ un consiglio: salva la tua ⟨nefesh⟩ e ⟨את⟩ la ⟨nefesh⟩ di tuo figlio Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "va'"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ti consiglierò"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "un consiglio"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "e salva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua nefesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la nefesh di tuo figlio Shelomoh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "di tuo figlio"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:17.714194301Z",
+  "model": "glm-5.3"
+}

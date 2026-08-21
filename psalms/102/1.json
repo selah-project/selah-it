@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Preghiera dell'afflitto, quando vien meno, e davanti a YHWH sparge la sua lamentela.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "preghiera"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "dell'afflitto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "vien meno"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "sparge"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "la sua lamentela"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:41.939995001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Dite ai vostri fratelli: Ammi (« mio popolo »), e alle vostre sorelle: Ruchamà (« amata »).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dite"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ai vostri fratelli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "e alle vostre sorelle"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruchamà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:58.632864920Z",
+  "model": "glm-5.3"
+}

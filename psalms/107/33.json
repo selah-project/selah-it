@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Egli muta i fiumi in deserto e le sorgenti d'acqua in terra assetata.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "muta"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "i fiumi"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "in deserto"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "e le sorgenti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "in terra assetata"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:46.127280080Z",
+  "model": "glm-5.3"
+}

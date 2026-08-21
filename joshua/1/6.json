@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Sii forte e coraggioso, perché tu farai ereditare a questo popolo ⟨את⟩ la terra che ho giurato ai loro padri di dare a loro.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "sii forte"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "e coraggioso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "farai ereditare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ho giurato"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ai loro padri"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "di dare"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:35.808046246Z",
+  "model": "glm-5.3"
+}

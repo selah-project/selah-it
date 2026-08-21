@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Poiché cenere come pane ho mangiato, e la mia bevanda con il pianto ho mescolato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "cenere"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "come pane"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ho mangiato"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "e la mia bevanda"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "con il pianto"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ho mescolato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:35.653124791Z",
+  "model": "glm-5.3"
+}

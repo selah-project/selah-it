@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E se vi ⟨sarà⟩ danno, darai nefesh in cambio di nefesh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "danno"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vi ⟨sarà⟩"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "darai"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in cambio di"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:12.170790047Z",
+  "model": "glm-5.3"
+}

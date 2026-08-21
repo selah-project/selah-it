@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "che hanno detto: «Con la nostra lingua prevarremo; le nostre labbra sono ⟨את⟩ con noi: chi ⟨è⟩ signore su di noi?»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hanno detto"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "con la nostra lingua"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "prevarremo"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "le nostre labbra"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ con noi",
+      "marks": "le nostre labbra"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "signore"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "su di noi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:43.365796191Z",
+  "model": "glm-5.3"
+}

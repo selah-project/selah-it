@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Una generazione che maledice il proprio padre, e ⟨את⟩ la propria madre non benedice.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "una generazione"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "il proprio padre"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "maledice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la propria madre"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la propria madre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "benedice"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:01.738660579Z",
+  "model": "glm-5.3"
+}

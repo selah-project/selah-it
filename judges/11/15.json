@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "e gli disse: «Così ha detto Iftach: non prese Israele ⟨את⟩ la terra di Moab né ⟨את⟩ la terra dei figli di Ammon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "כה",
+      "gloss": "così"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Iftach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra di Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra di"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la terra dei figli di Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra di"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli di"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:56.864886768Z",
+  "model": "glm-5.3"
+}

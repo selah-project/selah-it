@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Ma se non ascoltate la voce di YHWH e ribellate ⟨את⟩ la bocca di YHWH, allora la mano di YHWH sarà contro di voi e contro i vostri padri.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "e ribellate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bocca di YHWH"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contro di voi"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "e contro i vostri padri"
+    }
+  ],
+  "timestamp": "2026-08-21T07:08:44.424724592Z",
+  "model": "glm-5.3"
+}

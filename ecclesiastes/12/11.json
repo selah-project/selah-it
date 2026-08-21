@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Le parole dei saggi ⟨sono⟩ come pungoli, e come piante conficcate — ⟨i detti⟩ dei maestri di raccolte; furono date da un solo pastore.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "dei saggi"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "come pungoli"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "e come piante conficcate"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "conficcati"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "dei maestri"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "di raccolte"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "furono date"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "da un pastore"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:24.476442052Z",
+  "model": "glm-5.3"
+}

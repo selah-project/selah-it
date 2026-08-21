@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Poiché i loro piedi corrono verso il male e si affrettano a versare sangue.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "i loro piedi"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "verso il male"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "corrono"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "e si affrettano"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "a versare"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sangue"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:23.727084385Z",
+  "model": "glm-5.3"
+}

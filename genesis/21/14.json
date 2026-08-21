@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 21:14",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E si alzò Abramo la mattina presto e prese pane e un otre d'acqua e li diede ad Hagar, ponendoli sulla sua spalla, e ⟨את⟩ il ragazzo, e la mandò via; ed ella andò e si smarrì nel deserto di Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "si alzò presto"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abramo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "la mattina"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "prese"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "e un otre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'acqua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ponendoli"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "la sua spalla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il ragazzo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il ragazzo"
+    },
+    {
+      "surface": "וישלחה",
+      "gloss": "la mandò via"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ella andò"
+    },
+    {
+      "surface": "ותתע",
+      "gloss": "si smarrì"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:13.957701306Z",
+  "model": "glm-5.3"
+}

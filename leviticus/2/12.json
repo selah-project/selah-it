@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Come qorban di primizie li presenterete ⟨את⟩ a YHWH; ma sull'altare non saliranno, per profumo soave.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "qorban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "di primizie"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "presenterete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (le primizie)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma su"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "saliranno"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "per profumo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "soave"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:04.531963442Z",
+  "model": "glm-5.3"
+}

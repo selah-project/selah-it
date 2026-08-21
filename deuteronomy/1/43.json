@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E io parlai a voi, ma non ascoltaste; e vi ribellaste a ⟨את⟩ la bocca di YHWH, e agiste con presunzione, e saliste la montagna.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "E io parlai"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ascoltaste"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "vi ribellaste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bocca di YHWH"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "agiste con presunzione"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "e saliste"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "la montagna"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:09.465563704Z",
+  "model": "glm-5.3"
+}

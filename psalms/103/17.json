@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "Ma il chesed di YHWH ⟨è⟩ da sempre e per sempre su quelli che lo temono, e la sua giustizia per i figli dei figli,",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Ma il chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "da sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a sempre"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "quelli che lo temono"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "e la sua giustizia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "dei figli"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:01.124775809Z",
+  "model": "glm-5.3"
+}

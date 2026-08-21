@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Preziosa agli occhi di YHWH ⟨è⟩ la morte dei suoi fedeli.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Preziosa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "agli occhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "la morte"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "dei suoi fedeli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:09.443204630Z",
+  "model": "glm-5.3"
+}

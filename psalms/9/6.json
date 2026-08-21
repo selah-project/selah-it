@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Hai rimproverato le nazioni, hai fatto perire l'empio, il loro nome hai cancellato per sempre e in eterno.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "hai rimproverato"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "hai fatto perire"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "l'empio"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "il loro nome"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "hai cancellato"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:45:56.542705153Z",
+  "model": "glm-5.3"
+}

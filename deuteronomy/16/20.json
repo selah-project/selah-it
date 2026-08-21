@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Giustizia, giustizia perseguirai, affinché tu viva e possieda ⟨את⟩ la terra che YHWH, tuo Elohim, ti dà.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Giustizia"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "perseguirai"
+    },
+    {
+      "surface": "למען",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "tu viva"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "e possieda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti dà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te"
+    }
+  ],
+  "timestamp": "2026-08-21T06:44:12.496174130Z",
+  "model": "glm-5.3"
+}

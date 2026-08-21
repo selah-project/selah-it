@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Se ⟨con⟩ il suo corpo entra, ⟨con⟩ il suo corpo uscirà; se ⟨è⟩ padrone di una donna ⟨lui⟩, allora uscirà sua moglie con lui.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Se"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "⟨con⟩ il suo corpo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "entra"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "⟨con⟩ il suo corpo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uscirà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "padrone di"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "allora uscirà"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sua moglie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:05.214185652Z",
+  "model": "glm-5.3"
+}

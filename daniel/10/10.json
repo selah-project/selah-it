@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Ed ecco, una mano mi toccò e mi mise su ginocchia e palmi delle mani.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "יד",
+      "gloss": "una mano"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "toccò"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "e mi mise"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ginocchia"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "e palmi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "delle mani"
+    }
+  ],
+  "timestamp": "2026-08-21T09:35:49.613941826Z",
+  "model": "glm-5.3"
+}

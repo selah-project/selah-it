@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E colui che manda fuori ⟨את⟩ il capro per Azazel laverà le sue vesti e laverà ⟨את⟩ la sua carne nelle acque, e dopo ciò entrerà nell'accampamento.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "e colui che manda fuori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il capro"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "il capro"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "per Azazel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "e laverà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua carne"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nelle acque"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entrerà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "l'accampamento"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:21.460095991Z",
+  "model": "glm-5.3"
+}

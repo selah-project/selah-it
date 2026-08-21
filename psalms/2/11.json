@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Servite ⟨את⟩ YHWH con timore, ed esultate con tremore.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Servite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "con timore"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ed esultate"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "con tremore"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:59.649019223Z",
+  "model": "glm-5.3"
+}

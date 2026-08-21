@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 145,
+  "translation": "La lode di YHWH parlerà la mia bocca, e benedica ogni carne il suo santo Nome, per sempre e in eterno.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "la lode di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parlerà"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la mia bocca"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "e benedica"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "carne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il Nome"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "il suo santo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e in eterno"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:32.230474984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "In principio creò Elohim ⟨את⟩ i cieli e ⟨את⟩ la terra.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "In principio"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "creò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cieli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T05:33:36.730059186Z",
+  "model": "glm-5.3"
+}

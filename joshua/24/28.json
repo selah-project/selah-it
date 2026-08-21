@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E Giosuè congedò ⟨את⟩ il popolo, ciascuno alla sua eredità.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e congedò"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Giosuè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "alla sua eredità"
+    }
+  ],
+  "timestamp": "2026-08-21T06:57:10.797254154Z",
+  "model": "glm-5.3"
+}

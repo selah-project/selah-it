@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Ogni maschio tra i sacerdoti la mangerà ⟨את⟩; santità delle santità ⟨è⟩ essa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "maschio"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "tra i sacerdoti"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangerà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "la mangerà — l'offerta (femminile)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santità"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "delle santità"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "essa"
+    }
+  ],
+  "timestamp": "2026-08-21T06:11:44.372113770Z",
+  "model": "glm-5.3"
+}

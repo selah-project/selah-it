@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "nelle cui mani ⟨sta⟩ il complotto, e la loro destra ⟨è⟩ piena di tangenti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nelle cui"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "mani"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "il complotto"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "e la loro destra"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "piena"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "di tangenti"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:19.175046492Z",
+  "model": "glm-5.3"
+}

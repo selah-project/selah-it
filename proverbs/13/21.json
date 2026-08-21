@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Il male insegue i peccatori, e ai giusti ⟨את⟩ egli rende il bene.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "peccatori"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "insegue"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "il male"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i giusti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "rende"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:54.524607640Z",
+  "model": "glm-5.3"
+}

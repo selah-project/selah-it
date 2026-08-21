@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Chi sono questi che volano come una nube, e come colombe verso le loro finestre?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sono questi"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "come una nube"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "che volano"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "e come colombe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "le loro finestre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:16.817238447Z",
+  "model": "glm-5.3"
+}

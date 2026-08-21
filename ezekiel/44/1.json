@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E mi fece ritornare ⟨את⟩ per la via della porta esterna del santuario, quella voltata a oriente, ed essa era chiusa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "e mi fece ritornare"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me — la via percorsa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "per la via"
+    },
+    {
+      "surface": "שער",
+      "gloss": "della porta"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "del santuario"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "esterna"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "quella voltata"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "a oriente"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed essa"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "era chiusa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:30:08.969297314Z",
+  "model": "glm-5.3"
+}

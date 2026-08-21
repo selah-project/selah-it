@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "La giara della farina non venne meno e la brocca dell'olio non si esaurì, secondo la parola di YHWH che aveva parlato per mano di Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "la giara"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "della farina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "venne meno"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "e la brocca"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "dell'olio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "si esaurì"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "secondo la parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per mano"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "di Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:37.845319268Z",
+  "model": "glm-5.3"
+}

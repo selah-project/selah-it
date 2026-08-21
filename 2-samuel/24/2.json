@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E disse il re a Ioab, capo dell'esercito che ⟨era⟩ ⟨את⟩ con lui: percorri ora tutte le tribù di Israele, da Dan fino a Beer-Sheva, e contate ⟨את⟩ il popolo, e io conoscerò ⟨את⟩ il numero del popolo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "dell'esercito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ con lui"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "percorri"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tutte le"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tribù di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "da Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "e contate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "e conoscerò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il numero"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "il numero"
+    },
+    {
+      "surface": "העם",
+      "gloss": "del popolo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:24:19.139891397Z",
+  "model": "glm-5.3"
+}

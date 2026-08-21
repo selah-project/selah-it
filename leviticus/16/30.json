@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Poiché in questo giorno si farà il kippur su di voi, per purificarvi ⟨את⟩ da tutti i vostri peccati; davanti a YHWH sarete puri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "si farà il kippur"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "su di voi"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "per purificare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutti"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "i vostri peccati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "sarete puri"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:59.174003130Z",
+  "model": "glm-5.3"
+}

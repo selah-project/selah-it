@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "In quel giorno Adonai toglierà ⟨את⟩ lo splendore dei sonagli ⟨per⟩ i piedi, e le reticelle, e le mezzelune.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "In ⟨il⟩ giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quello"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "toglierà"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo splendore"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "lo splendore"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "dei sonagli"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "e le reticelle"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "e le mezzelune"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:03.076023121Z",
+  "model": "glm-5.3"
+}

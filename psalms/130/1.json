@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 130,
+  "translation": "Canto delle salite. Dalle profondità ti ho chiamato, YHWH.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canto"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Dalle profondità"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ti ho chiamato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:51.590530601Z",
+  "model": "glm-5.3"
+}

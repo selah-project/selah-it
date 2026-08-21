@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Poiché ai suoi messaggeri darà comando riguardo a te, di custodirti in tutte le tue vie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ai suoi messaggeri"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "darà comando"
+    },
+    {
+      "surface": "לך",
+      "gloss": "riguardo a te"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "di custodirti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "le tue vie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.467073263Z",
+  "model": "glm-5.3"
+}

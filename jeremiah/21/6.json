@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E colpirò ⟨את⟩ gli abitanti di questa città, ⟨את⟩ l'uomo e ⟨את⟩ il bestiame: di una grande pestilenza moriranno.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "e colpirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli abitanti di questa città"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "gli abitanti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "di questa città"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il bestiame"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "di pestilenza"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "moriranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:04:30.906803414Z",
+  "model": "glm-5.3"
+}

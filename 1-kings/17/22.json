@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E YHWH ascoltò la voce di Eliahu, e la nefesh del bambino tornò dentro di lui, e ⟨il bambino⟩ visse.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "E ascoltò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce di"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "e tornò"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "del bambino"
+    },
+    {
+      "surface": "על",
+      "gloss": "dentro"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "di lui"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "e visse"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:44.305909608Z",
+  "model": "glm-5.3"
+}

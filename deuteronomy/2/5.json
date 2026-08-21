@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Non li provocate, perché non darò a voi della loro terra nemmeno quanto ⟨un⟩ soffio di pianta di piede, perché in eredità a Esau ho dato ⟨את⟩ il monte Seir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "provocate"
+    },
+    {
+      "surface": "בם",
+      "gloss": "li"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "darò"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "della loro terra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nemmeno quanto"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "soffio di pianta"
+    },
+    {
+      "surface": "כף",
+      "gloss": "pianta"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "di piede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "in eredità"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "a Esau"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ho dato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il monte Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:39.393130157Z",
+  "model": "glm-5.3"
+}

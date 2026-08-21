@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E il popolo benedisse tutti gli uomini che si offrirono volontariamente ad abitare a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "e benedisse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "che si offrirono volontariamente"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ad abitare"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:44:24.724314489Z",
+  "model": "glm-5.3"
+}

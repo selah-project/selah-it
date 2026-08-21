@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E dodici leoni stavano in piedi lì sui sei gradini, di qua e di là: ⟨il⟩ simile non ⟨era⟩ stato fatto per nessun regno.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "e dodici"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dodici"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "leoni"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stavano in piedi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lì"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sei"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "gradini"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di qua"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "e di là"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "era stato fatto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "il simile"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "per nessuno"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "regno"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:13.532182494Z",
+  "model": "glm-5.3"
+}

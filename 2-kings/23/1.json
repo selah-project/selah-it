@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E il re mandò, e si radunarono presso di lui tutti gli anziani di Yehudah e di Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e si radunarono"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "presso di lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani di"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e di Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:35.643285824Z",
+  "model": "glm-5.3"
+}

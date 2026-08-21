@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 60,
+  "translation": "Poiché la nazione e il regno che non ti serviranno periranno, e le nazioni saranno del tutto desolate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "la nazione"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "e il regno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "ti serviranno"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "periranno"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "e le nazioni"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "del tutto"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "saranno desolate"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:28.672170165Z",
+  "model": "glm-5.3"
+}

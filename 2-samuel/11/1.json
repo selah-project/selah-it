@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 11:1",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E avvenne, al ritorno dell'anno, al tempo dell'uscire dei re, che Davide mandò ⟨את⟩ Ioab e ⟨את⟩ i suoi servi con lui e ⟨את⟩ tutto Israele; e devastarono ⟨את⟩ i figli di Ammon e assediarono Rabbah. E Davide sedeva a Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "al ritorno"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "dell'anno"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "al tempo"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "dell'uscire"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "dei re"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ioab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ioab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi servi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "con lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutto Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "וישחתו",
+      "gloss": "e devastarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli di Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "e assediarono"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e Davide"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sedeva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "a Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T07:19:12.482754572Z",
+  "model": "glm-5.3"
+}

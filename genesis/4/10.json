@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E disse: che hai fatto? La voce dei sangui del tuo fratello grida a me dalla ⟨la⟩ terra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hai fatto"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dei sangui"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "del tuo fratello"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "grida"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T10:15:41.699509901Z",
+  "model": "glm-5.3"
+}

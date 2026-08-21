@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Il sole si muterà in tenebra e la luna in sangue, prima che venga il giorno di YHWH, il grande e il terribile.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "si muterà"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "in tenebra"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "e la luna"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "in sangue"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prima"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "venire"
+    },
+    {
+      "surface": "יום",
+      "gloss": "giorno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "il grande"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "e il terribile"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:02.192883276Z",
+  "model": "glm-5.3"
+}

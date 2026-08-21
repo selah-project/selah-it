@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 137,
+  "translation": "Si attacchi la mia lingua al mio palato, se non ti ricordo, se non innalzo Gerusalemme ⟨את⟩ sopra ⟨il⟩ capo della mia gioia.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "si attacchi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "la mia lingua"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "al mio palato"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ti ricordo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "innalzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "il capo"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "della mia gioia"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.371187289Z",
+  "model": "glm-5.3"
+}

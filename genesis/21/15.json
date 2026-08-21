@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E vennero meno le acque dell'otre, ed ella gettò ⟨את⟩ il ragazzo sotto uno degli arbusti.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "vennero meno"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "l'otre"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ed ella gettò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il ragazzo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il ragazzo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "degli arbusti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:40:13.957973408Z",
+  "model": "glm-5.3"
+}

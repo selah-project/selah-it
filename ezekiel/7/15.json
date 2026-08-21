@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "La spada ⟨è⟩ di fuori, e la peste e la fame dentro casa; chi ⟨è⟩ nel campo morirà di spada, e chi ⟨è⟩ in città la fame e la peste lo divoreranno.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di fuori"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "e la peste"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "e la fame"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dentro casa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nel campo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "di spada"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "morirà"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e chi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in città"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "la fame"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e la peste"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "lo divoreranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:18:05.134490026Z",
+  "model": "glm-5.3"
+}

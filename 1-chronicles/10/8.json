@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E avvenne il giorno dopo che i Filistei vennero a spogliare ⟨את⟩ i cadaveri, e trovarono ⟨את⟩ Sha'ul e ⟨את⟩ i suoi figli caduti sul monte Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "il giorno dopo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "che vennero"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "a spogliare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i cadaveri"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "i cadaveri"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "e trovarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "i suoi figli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i suoi figli"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "caduti"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sul monte"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-21T09:48:54.852129273Z",
+  "model": "glm-5.3"
+}

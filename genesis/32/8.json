@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E Giacobbe temette molto e fu in angustia; e divise ⟨את⟩ il popolo che ⟨את⟩ ⟨era⟩ con lui, e ⟨את⟩ il gregge, e ⟨את⟩ il bestiame e i cammelli, in due accampamenti.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "e temette"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Giacobbe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "e fu in angustia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "in lui"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "e divise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨era⟩ con lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "il bestiame"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "e i cammelli"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "in due"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "accampamenti"
+    }
+  ],
+  "timestamp": "2026-08-21T05:45:54.496901482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 31:42",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Se non fosse stato per ⟨l'⟩Elohim di mio padre, l'Elohim di Avraham, e il Terrore di Yitzchak, tu mi avresti ora mandato via a vuoto: ⟨את⟩ la mia afflizione e ⟨את⟩ la fatica delle mie mani ha veduto Elohim, e ha giudicato la notte scorsa.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "se non fosse stato per"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim di"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Elohim di"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "e il Terrore di"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzchak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fosse stato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨sicuramente⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "a vuoto"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "mi avresti mandato via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia afflizione"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "la mia afflizione"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la fatica delle mie mani"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "la fatica di"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "le mie mani\/palme"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ha veduto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "e ha giudicato"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "la notte scorsa"
+    }
+  ],
+  "timestamp": "2026-08-21T05:46:36.267202996Z",
+  "model": "glm-5.3"
+}

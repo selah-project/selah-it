@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "L'ha legata il vento nelle sue ali, e si vergogneranno dei loro sacrifici.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "l'ha legata"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il vento"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "lei (Efraim-israele, il soggetto femminile del versetto)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "nelle sue ali"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "e si vergogneranno"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "dei loro sacrifici"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:41.616834447Z",
+  "model": "glm-5.3"
+}

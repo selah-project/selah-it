@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Benedetto sia YHWH per sempre. Amen, e amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Benedetto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "e amen"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:33.116810361Z",
+  "model": "glm-5.3"
+}

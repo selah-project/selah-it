@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Come il fumo ⟨è⟩ disperso, così li disperdi; come la cera si scioglie davanti al fuoco, periscano i malvagi davanti a Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Come il fumo ⟨è⟩ disperso"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "fumo"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨è⟩ disperso"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "come si scioglie"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "la cera"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אש",
+      "gloss": "al fuoco"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "periscano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:22.395388440Z",
+  "model": "glm-5.3"
+}

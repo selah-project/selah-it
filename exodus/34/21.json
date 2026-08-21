@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Sei giorni lavorerai, ma nel settimo giorno farai shabbat; nell'aratura e nella mietitura farai shabbat.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sei"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "lavorerai"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "e nel"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "settimo giorno"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "farai shabbat"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "nell'aratura"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "e nella mietitura"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "farai shabbat"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:17.209692853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E dissi: Non vi pascerò ⟨את⟩; la morente muoia, e la nascosta sia nascosta, e le rimanenti mangino, ciascuna ⟨את⟩ la carne della sua compagna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dissi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "vi pascerò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "la morente"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "muoia"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "e la nascosta"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "sia nascosta"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "e le rimanenti"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "mangino"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ciascuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la carne della sua compagna"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "della sua compagna"
+    }
+  ],
+  "timestamp": "2026-08-21T08:42:37.604417352Z",
+  "model": "glm-5.3"
+}

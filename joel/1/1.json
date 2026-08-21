@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Parola di YHWH che fu a Yoel, figlio di Petuèl.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "parola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuèl"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:36.614229014Z",
+  "model": "glm-5.3"
+}

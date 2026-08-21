@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Allora daremo ⟨את⟩ nostre figlie a voi e ⟨את⟩ vostre figlie prenderemo per noi; abiteremo ⟨את⟩ voi e diventeremo un popolo solo.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "allora daremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nostre figlie"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "nostre figlie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a voi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "vostre figlie"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "vostre figlie"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "prenderemo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "per noi"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "abiteremo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "qui את è preposizione «con», non il marcatore di oggetto; reso «con voi»"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "e diventeremo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "un popolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "solo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:02.085074748Z",
+  "model": "glm-5.3"
+}

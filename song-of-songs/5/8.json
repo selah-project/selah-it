@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Vi ho fatto giurare ⟨את⟩ voi, figlie di Gerusalemme: se trovate ⟨את⟩ il mio diletto, che gli direte? — che sono malata d'amore.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Vi ho fatto giurare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "figlie di Gerusalemme"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "figlie"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "trovate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio diletto"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "il mio diletto"
+    },
+    {
+      "surface": "מה",
+      "gloss": "che cosa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "direte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "malata"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "d'amore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sono io"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:36.551688761Z",
+  "model": "glm-5.3"
+}

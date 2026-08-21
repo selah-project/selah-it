@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E presero ⟨את⟩ Giona e lo scagliarono nel mare, e il mare si fermò dalla sua furia.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "e presero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Giona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "e lo scagliarono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mare"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e si fermò"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "dalla sua furia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:36:39.836636766Z",
+  "model": "glm-5.3"
+}

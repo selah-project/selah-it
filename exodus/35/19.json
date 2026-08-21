@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "⟨את⟩ le vesti tessute per servire nel santuario, ⟨את⟩ le vesti sacre per Aharon il sacerdote, e ⟨את⟩ le vesti dei suoi figli per esercitare il sacerdozio.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vesti tessute"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le vesti"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tessute"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "per servire"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nel santuario"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vesti sacre"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le vesti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sacre"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "per Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le vesti dei suoi figli"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le vesti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dei suoi figli"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "per esercitare il sacerdozio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:26.182578664Z",
+  "model": "glm-5.3"
+}

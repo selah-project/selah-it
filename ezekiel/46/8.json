@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "E nell'entrare del principe: per la via del portico ⟨del⟩ portone egli entrerà, e per la sua via uscirà.",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "e nell'entrare"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "del principe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "per la via"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "del portico"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨del⟩ portone"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "egli entrerà"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "e per la sua via"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uscirà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:30:26.882100975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 45:20",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "E così farai il sette del mese, per chi sbaglia per errore e per chi ⟨è⟩ ingenuo; così espiate ⟨את⟩ la casa.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "E così"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "il sette ⟨del mese⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "per chi"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "sbaglia per errore"
+    },
+    {
+      "surface": "ומפתי",
+      "gloss": "e per l'ingenuo"
+    },
+    {
+      "surface": "וכפרתם",
+      "gloss": "e espiate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:30:20.737123203Z",
+  "model": "glm-5.3"
+}

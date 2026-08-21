@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Naomi prese ⟨את⟩ il bambino e lo pose sul suo grembo, e fu per lui una nutrice.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il bambino"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "il bambino"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "e lo pose"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sul suo grembo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e fu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "una nutrice"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:41.583824541Z",
+  "model": "glm-5.3"
+}

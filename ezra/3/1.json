@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E giunse il settimo mese, e i figli d'Israele ⟨erano⟩ nelle città; e il popolo si raccolse come un uomo solo verso Gerusalemme.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "e giunse"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "il mese"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "il settimo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "nelle città"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e si raccolse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "come un uomo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno solo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    }
+  ],
+  "timestamp": "2026-08-21T09:38:45.867250841Z",
+  "model": "glm-5.3"
+}

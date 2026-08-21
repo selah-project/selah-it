@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E ⟨את⟩ voi io disperderò fra le nazioni, e sguainerò dietro a voi la spada; e la vostra terra sarà ⟨⟨the⟩⟩ una desolazione e le vostre città saranno un deserto.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ voi",
+      "marks": "voi (i destinatari dispersi)"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "disperderò"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "fra le nazioni"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "sguainerò"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "dietro a voi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "la spada"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "la vostra terra"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "una desolazione"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "e le vostre città"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saranno"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "un deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:07.409504686Z",
+  "model": "glm-5.3"
+}

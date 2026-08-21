@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Anche, se due dormono insieme, hanno calore; ma per uno solo, come si scalderà?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "dormono"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "due"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "hanno calore"
+    },
+    {
+      "surface": "להם",
+      "gloss": "per loro"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ma per uno solo"
+    },
+    {
+      "surface": "איך",
+      "gloss": "come"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "si scalderà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:27:55.446457981Z",
+  "model": "glm-5.3"
+}

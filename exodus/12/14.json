@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E questo giorno sarà per voi un memoriale, e celebrerete ⟨אתו⟩ come festa per YHWH; per le vostre generazioni, statuto perpetuo: lo celebrerete.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "un memoriale"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "e celebrerete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "esso (il giorno di festa)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "per le vostre generazioni"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "statuto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpetuo"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "lo celebrerete"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:07.025721957Z",
+  "model": "glm-5.3"
+}

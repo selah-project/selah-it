@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 91,
+  "translation": "Di lunghezza di giorni lo sazierò, e gli farò vedere la mia salvezza.»",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "lunghezza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "di giorni"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "lo sazierò"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "e gli farò vedere"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "la mia salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:04.393049267Z",
+  "model": "glm-5.3"
+}

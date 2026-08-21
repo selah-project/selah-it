@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E essa svezzò ⟨את⟩ Lo-Ruhamà, e concepì e partorì un figlio.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "ed essa svezzò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamà"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "e concepì"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "e partorì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:31:17.808695977Z",
+  "model": "glm-5.3"
+}

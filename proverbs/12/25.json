@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "L'ansia nel cuore di un uomo lo deprime, ma una parola buona lo rallegra.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "l'ansia"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "nel cuore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "lo deprime"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ma una parola"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buona"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "lo rallegra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:52.597213567Z",
+  "model": "glm-5.3"
+}

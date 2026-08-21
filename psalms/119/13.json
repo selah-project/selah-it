@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Con le mie labbra ho raccontato tutti i giudizi della tua bocca.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "con le mie labbra"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ho raccontato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "i giudizi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "della tua bocca"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:53.028270762Z",
+  "model": "glm-5.3"
+}

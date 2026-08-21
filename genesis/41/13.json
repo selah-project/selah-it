@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "E avvenne: come egli interpretò a noi, così fu: ⟨את⟩ me rimise sul mio posto, e ⟨את⟩ lui impiccò.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "interpretò"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "rimise"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כני",
+      "gloss": "il mio posto"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "impiccò"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:48.752437446Z",
+  "model": "glm-5.3"
+}

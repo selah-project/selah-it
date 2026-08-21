@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "Le sue sentinelle ⟨sono⟩ tutte cieche, non sanno nulla; tutte ⟨come⟩ cani muti, non possono abbaiare; sognano, stanno sdraiati, amano sonnecchiare.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "le sue sentinelle"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "cieche"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sanno"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "cani"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "muti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "possono"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "abbaiare"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "sognano"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "stanno sdraiati"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "amano"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "sonnecchiare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:00.237346388Z",
+  "model": "glm-5.3"
+}

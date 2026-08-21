@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 129,
+  "translation": "YHWH ⟨è⟩ giusto: ha tagliato le corde dei malvagi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "giusto"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ha tagliato"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "le corde"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dei malvagi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:03.997430705Z",
+  "model": "glm-5.3"
+}

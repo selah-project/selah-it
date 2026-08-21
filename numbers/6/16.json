@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E il sacerdote presenterà ⟨davanti⟩ a YHWH, e farà ⟨את⟩ il suo sacrificio per il peccato e ⟨את⟩ la sua olà.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "e presenterà"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e farà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo sacrificio per il peccato"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "il suo sacrificio per il peccato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la sua olà"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "la sua olà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:24:44.915597160Z",
+  "model": "glm-5.3"
+}

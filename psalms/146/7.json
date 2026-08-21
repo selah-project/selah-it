@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "che fa giustizia agli oppressi, che dà pane agli affamati; YHWH scioglie i prigionieri.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "che fa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "agli oppressi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "che dà"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "agli affamati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "scioglie"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "i prigionieri"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:14.336535444Z",
+  "model": "glm-5.3"
+}

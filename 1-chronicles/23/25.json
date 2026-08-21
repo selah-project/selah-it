@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Poiché Davide disse: YHWH, Elohim d'Israele, ha dato riposo al suo popolo, ed ⟨egli⟩ dimora in Gerusalemme per sempre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disse"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ha dato riposo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "al suo popolo"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ed ⟨egli⟩ dimora"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Gerusalemme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:52:05.086761595Z",
+  "model": "glm-5.3"
+}

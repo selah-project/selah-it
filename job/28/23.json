@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Elohim ne ha inteso la via, e ⟨lui⟩ conosce ⟨את⟩ il suo luogo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ha inteso"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "la via di essa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "e ⟨lui⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "conosce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo luogo"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "il suo luogo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:19:41.934038080Z",
+  "model": "glm-5.3"
+}

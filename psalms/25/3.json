@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Anche tutti quelli che sperano in te non saranno svergognati; svergognati ⟨siano⟩ i traditori, ⟨senza causa⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "quelli che sperano in te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "saranno svergognati"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "svergognati"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "i traditori"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "senza causa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:32.979846765Z",
+  "model": "glm-5.3"
+}

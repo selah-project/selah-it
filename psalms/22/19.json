@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Dividono tra loro le mie vesti, e sulla mia veste fanno cadere ⟨la⟩ sorte.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "dividono"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "le mie vesti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tra loro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "la mia veste"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "fanno cadere"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "la sorte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:57.042864674Z",
+  "model": "glm-5.3"
+}

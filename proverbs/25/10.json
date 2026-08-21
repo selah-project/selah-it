@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "perché chi ode non ti copra di vergogna, e la tua cattiva fama non si allontani.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "perché... non"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "ti copra di vergogna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "chi ode"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "e la tua cattiva fama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "si allontani"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:37.349435313Z",
+  "model": "glm-5.3"
+}

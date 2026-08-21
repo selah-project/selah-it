@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 137,
+  "translation": "Figlia di Babilonia, la devastata: beato chi ripagherà te ⟨את⟩ della tua retribuzione, che tu hai reso a noi.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "figlia"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "di Babilonia"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "la devastata"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "beato"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "chi ripagherà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "della tua retribuzione"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "della tua retribuzione"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "tu hai reso"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.371440644Z",
+  "model": "glm-5.3"
+}

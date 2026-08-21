@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Stendi il tuo chesed su quelli che ti conoscono, e la tua giustizia sui retti di cuore.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "stendi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "su quelli che ti conoscono"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "e la tua giustizia"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sui retti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "di cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:52.120115554Z",
+  "model": "glm-5.3"
+}

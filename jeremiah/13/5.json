@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E andai e lo nascosi al Perath, come YHWH ⟨את⟩ mi aveva comandato.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "e andai"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "e lo nascosi"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "al Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mi",
+      "marks": "comandato (oggetto: me)"
+    }
+  ],
+  "timestamp": "2026-08-21T08:02:23.487962334Z",
+  "model": "glm-5.3"
+}

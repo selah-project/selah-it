@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Mizmor di Davide, quando fuggì dalla presenza di Assalonne, suo figlio.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "quando fuggì"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dalla presenza di"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Assalonne"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:43:55.106213633Z",
+  "model": "glm-5.3"
+}

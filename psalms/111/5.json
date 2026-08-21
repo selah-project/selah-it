@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 111,
+  "translation": "Cibo ha dato a quelli che lo temono; ricorderà per sempre il suo patto.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "cibo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "a quelli che lo temono"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ricorderà"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il suo patto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:55.747824264Z",
+  "model": "glm-5.3"
+}

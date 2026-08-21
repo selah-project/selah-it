@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Egli sgrida il mare e lo inaridisce, e fa seccare tutti i fiumi: avvizziscono il Bashan e il Carmelo, e il fiore del Libano avvizzisce.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "sgrida"
+    },
+    {
+      "surface": "בים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "e lo inaridisce"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "i fiumi"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "fa seccare"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "avvizzisce"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "il Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "e il Carmelo"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "e il fiore"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "del Libano"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "avvizzisce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:38:11.620912002Z",
+  "model": "glm-5.3"
+}

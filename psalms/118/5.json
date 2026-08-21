@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 118,
+  "translation": "Dalla strettezza ho chiamato Yah, Yah mi ha risposto ⟨in⟩ ⟨un⟩ luogo ampio.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "strettezza"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ho chiamato"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mi ha risposto"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "in luogo ampio"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:44.593598190Z",
+  "model": "glm-5.3"
+}

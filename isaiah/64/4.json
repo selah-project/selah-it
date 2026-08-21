@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 64,
+  "translation": "Hai incontrato ⟨את⟩ chi gioisce e opera giustizia; nei tuoi cammini si ricordano di te. Ecco, ti sei adirato ⟨e⟩ noi abbiamo peccato; in esse ⟨siamo⟩ da sempre, e saremo salvati.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "hai incontrato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi gioisce e opera giustizia"
+    },
+    {
+      "surface": "שש",
+      "gloss": "chi gioisce"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e opera"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "giustizia"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "nei tuoi cammini"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "si ricordano di te"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "ti sei adirato"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "e abbiamo peccato"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in esse"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "da sempre"
+    },
+    {
+      "surface": "וושע",
+      "gloss": "e saremo salvati"
+    }
+  ],
+  "timestamp": "2026-08-21T07:57:48.601086534Z",
+  "model": "glm-5.3"
+}

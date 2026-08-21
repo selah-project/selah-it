@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "sui dieci ⟨corde⟩ e sulla nevel, sul mormorio ⟨della meditazione⟩ con il kinnor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sui"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dieci ⟨corde⟩"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "e sulla"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sul"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "mormorio ⟨della meditazione⟩"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "con il kinnor"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:50.687597257Z",
+  "model": "glm-5.3"
+}

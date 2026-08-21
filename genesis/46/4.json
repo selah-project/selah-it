@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 46:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 46,
+  "translation": "Io scenderò con te in Egitto, e io ti farò ⟨anch'io⟩ salire, ⟨certo⟩ salire; e Giuseppe poserà la sua mano sui tuoi occhi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "scenderò"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "con te"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "e io"
+    },
+    {
+      "surface": "אעלך",
+      "gloss": "ti farò salire"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨anch'io⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "salire"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "e Giuseppe"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "poserà"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i tuoi occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:51:32.521419408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "E sappiano che ⟨la⟩ ⟨tua⟩ mano ⟨è⟩ questa: tu, YHWH, l'hai fatta.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "e sappiano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "l'hai fatta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:04.867950264Z",
+  "model": "glm-5.3"
+}

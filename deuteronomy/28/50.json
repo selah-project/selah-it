@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "una nazione dal volto feroce, che non alzerà ⟨il⟩ volto davanti al vecchio né userà grazia al giovane.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "una nazione"
+    },
+    {
+      "surface": "עז",
+      "gloss": "feroce"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "volto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "alzerà"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "volto"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "al vecchio"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "né al giovane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "userà grazia"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:38.479475811Z",
+  "model": "glm-5.3"
+}

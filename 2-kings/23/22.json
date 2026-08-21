@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Poiché non era stata fatta una Pesach come questa dai giorni dei giudici che giudicarono ⟨את⟩ Israele, e ⟨per⟩ tutti i giorni dei re di Israele e dei re di Giuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "era stata fatta"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "come Pesach"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questa"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "dai giorni"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "dei giudici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "giudicarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dei re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "e dei re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    }
+  ],
+  "timestamp": "2026-08-21T07:42:01.515166307Z",
+  "model": "glm-5.3"
+}

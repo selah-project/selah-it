@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Su di esse dimora ⟨l'⟩uccello dei cieli; tra i rami dà la voce.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "su di esse"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "l'uccello"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "dimora"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "i rami"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "dà"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:15.633354371Z",
+  "model": "glm-5.3"
+}

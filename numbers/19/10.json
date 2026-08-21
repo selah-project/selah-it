@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E colui che raccoglie ⟨את⟩ la cenere della giovenca laverà ⟨את⟩ le proprie vesti e sarà impuro fino alla sera; e sarà per i figli d'Israele e per il forestiero che dimora in mezzo a loro uno statuto perpetuo.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "e laverà"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "colui che raccoglie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cenere"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "la cenere"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "della giovenca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le proprie vesti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "le proprie vesti"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "e sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "e per il forestiero"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "che dimora"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in mezzo a loro"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "per uno statuto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpetuo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:27.582721817Z",
+  "model": "glm-5.3"
+}

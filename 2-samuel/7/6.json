@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Poiché non ho abitato in ⟨una⟩ casa dal giorno in cui feci salire ⟨את⟩ i figli d'Israele dall'Egitto fino a questo giorno, e sono stato come uno che va e viene, in tenda e in mishkan (tabernacolo).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ho abitato"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in ⟨una⟩ casa"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "dal giorno"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "in cui feci salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i figli d'Israele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "e sono stato"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "come uno che va e viene"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in tenda"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "e in mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:39.350376674Z",
+  "model": "glm-5.3"
+}

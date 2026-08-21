@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "E Faraone mandò a chiamare ⟨את⟩ Yossef, e lo fecero correre fuori dalla fossa; egli si rasò, cambiò le sue vesti e venne da Faraone.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e mandò"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a chiamare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yossef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "lo fecero correre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fuori da"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "la fossa"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "si rasò"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "cambiò"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "le sue vesti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraone"
+    }
+  ],
+  "timestamp": "2026-08-21T05:48:48.752723576Z",
+  "model": "glm-5.3"
+}

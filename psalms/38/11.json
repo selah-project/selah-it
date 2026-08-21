@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "Il mio cuore palpita, la mia forza mi ha abbandonato, e la luce dei miei occhi — anch'essa non è più con me ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "palpita"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "mi ha abbandonato"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "la mia forza"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "e la luce"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dei miei occhi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anch'essa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "essi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non è più"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ con me",
+      "marks": "la luce dei miei occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:41.847002456Z",
+  "model": "glm-5.3"
+}

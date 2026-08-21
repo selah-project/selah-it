@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "E fece salire di là ⟨את⟩ le ossa di Saul e ⟨את⟩ le ossa di Yehonatan suo figlio; e raccolsero ⟨את⟩ le ossa degli impiccati.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "E fece salire"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ossa di Saul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "le ossa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "di Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le ossa di Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "le ossa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "di Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "suo figlio"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "e raccolsero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ossa degli impiccati"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "le ossa"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "degli impiccati"
+    }
+  ],
+  "timestamp": "2026-08-21T07:23:11.100577945Z",
+  "model": "glm-5.3"
+}

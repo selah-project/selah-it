@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E ⟨את⟩ il grasso dell'offerta per il peccato farà fumare sull'altare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il grasso"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dell'offerta per il peccato"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "farà fumare"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:21.459859509Z",
+  "model": "glm-5.3"
+}

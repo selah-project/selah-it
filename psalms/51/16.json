@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Strappami dai sanguinamenti, Elohim, Elohim della mia salvezza; la mia lengua canterà la tua giustizia.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "strappami"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "dai sanguinamenti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim (di)"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "della mia salvezza"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "canterà"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "la mia lengua"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "la tua giustizia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:55.146683095Z",
+  "model": "glm-5.3"
+}

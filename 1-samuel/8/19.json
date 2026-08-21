@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Ma il popolo rifiutò di ascoltare la voce di Shemuel, e disse: No, ma un re sarà su di noi.",
+  "tokens": [
+    {
+      "surface": "וימאנו",
+      "gloss": "ma rifiutò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "di ascoltare"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "di Shemuel"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un re"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:39.732524402Z",
+  "model": "glm-5.3"
+}

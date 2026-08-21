@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Poiché la bocca dell'empio e la bocca dell'inganno si sono aperte contro di me; mi hanno parlato ⟨את⟩ lingua di menzogna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Poiché"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dell'empio"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "e la bocca"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "dell'inganno"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "si sono aperte"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hanno parlato"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ con me",
+      "marks": "lingua di menzogna"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lingua"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "di menzogna"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:40.748103725Z",
+  "model": "glm-5.3"
+}

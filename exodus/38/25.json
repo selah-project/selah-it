@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "E l'argento di quelli che furono contati della comunità fu ⟨il⟩ cento talenti, e mille e settecento ⟨e⟩ settantacinque sicli, secondo il siclo del ⟨santuario⟩ — del qodesh.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "e l'argento"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "di quelli che furono contati"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "della comunità"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "cento"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenti"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "e mille"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e sette"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "centinaia"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "e cinque"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "e settanta"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sicli"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "secondo il siclo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "del santuario"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:16.943615481Z",
+  "model": "glm-5.3"
+}

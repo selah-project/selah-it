@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Ma tu, se ti sei deviata sotto tuo marito, e se ti sei contaminata, e un uomo ha dato in te ⟨את⟩ il suo giacere, oltre tuo marito —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ma tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "ti sei deviata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "tuo marito"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e se"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "ti sei contaminata"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e ha dato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo giacere"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "il suo giacere"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "tuo marito"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:10.714604134Z",
+  "model": "glm-5.3"
+}

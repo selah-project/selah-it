@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Quando farai al tuo prossimo un prestito di qualsiasi cosa, non entrerai in casa sua per prendere il suo pegno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quando"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "farai un prestito"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "al tuo prossimo"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "un prestito"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "di qualsiasi cosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "entrerai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "casa sua"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "per prendere il pegno"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "il suo pegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:16.186506643Z",
+  "model": "glm-5.3"
+}

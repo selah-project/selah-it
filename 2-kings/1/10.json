@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E rispose Elia e parlò al capitano dei cinquanta: «Se io sono un uomo dell'Elohim, scenda fuoco dai cieli e ti divori ⟨את⟩ e ⟨את⟩ i tuoi cinquanta». E scese fuoco dai cieli ⟨את⟩ e divorò ⟨את⟩ lui e ⟨את⟩ i suoi cinquanta.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "E rispose"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capitano"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "dei cinquanta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sono io",
+      "marks": ""
+    },
+    {
+      "surface": "תרד",
+      "gloss": "scenda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "⟨את⟩ e divori"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "te (il capitano)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi cinquanta"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "i tuoi cinquanta"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "E scese"
+    },
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "⟨את⟩ e divorò"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (il capitano)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi cinquanta"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "i suoi cinquanta"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:21.548256429Z",
+  "model": "glm-5.3"
+}

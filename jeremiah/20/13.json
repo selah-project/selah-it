@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Cantate a YHWH, lodate ⟨את⟩ YHWH, perché ha strappato ⟨את⟩ la vita del povero dalla mano dei malfattori.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Cantate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lodate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ha strappato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vita del povero"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la vita"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "del povero"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dei malfattori"
+    }
+  ],
+  "timestamp": "2026-08-21T08:05:13.727883491Z",
+  "model": "glm-5.3"
+}

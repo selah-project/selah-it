@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "⟨È⟩ stritolata la mia nefesh dal desiderio dei tuoi giudizi in ogni tempo.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "stritolata"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "dal desiderio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "per"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "i tuoi giudizi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in ogni"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tempo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:41.609984195Z",
+  "model": "glm-5.3"
+}

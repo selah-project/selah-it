@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 106,
+  "translation": "E mormorarono nelle loro tende, non ascoltarono la voce di YHWH.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "e mormorarono"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "nelle loro tende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltarono"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:58.644802915Z",
+  "model": "glm-5.3"
+}

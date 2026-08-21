@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "E dicesti ai tuoi servi: se non scenderà il vostro fratello, il piccolo, ⟨את⟩-con-voi, non aggiungerete a vedere la mia faccia.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "e dicesti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ai tuoi servi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "scenderà"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "il vostro fratello"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "il piccolo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ con voi",
+      "marks": "con voi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "aggiungerete"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a vedere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la mia faccia"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:39.352743504Z",
+  "model": "glm-5.3"
+}

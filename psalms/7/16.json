@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Una fossa ha scavato e l'ha approfondita, e cade nella cisterna ⟨che ha fatto lui stesso⟩.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "una fossa"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ha scavato"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "e l'ha approfondita"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "e cade"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "nella cisterna"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "che ha fatto lui stesso"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:38.567319662Z",
+  "model": "glm-5.3"
+}

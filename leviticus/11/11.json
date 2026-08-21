@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E cosa abominevole saranno per voi: della loro carne non mangerete, e ⟨את⟩ le loro carogne avrete in abominio.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "e cosa abominevole"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saranno"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "della loro carne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le loro carogne"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "le loro carogne"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "avrete in abominio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:32.539982621Z",
+  "model": "glm-5.3"
+}

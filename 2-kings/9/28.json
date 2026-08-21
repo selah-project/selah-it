@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E i suoi servi lo misero ⟨su ⟨את⟩⟩ di lui ⟨את⟩ — lo trasportarono su un carro a Gerusalemme, e lo seppellirono ⟨את⟩ nella sua tomba con i suoi padri nella città di Davide.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "e lo trasportarono (in carro)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (Acazia)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "e lo seppellirono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (Acazia)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "nella sua tomba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "i suoi padri"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nella città"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "di Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:11.724666435Z",
+  "model": "glm-5.3"
+}

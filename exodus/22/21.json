@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Ogni vedova e orfano voi non affiggerete.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vedova"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "e orfano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "voi affiggerete"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:30.376256508Z",
+  "model": "glm-5.3"
+}

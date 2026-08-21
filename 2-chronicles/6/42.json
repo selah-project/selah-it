@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "YHWH Elohim, non respingere il volto del tuo Mashiach; ricordati dei chesed di Davide, tuo servo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "respingere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "del tuo Mashiach"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "ricordati"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "dei chesed"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "di Davide"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tuo servo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:54:25.248672726Z",
+  "model": "glm-5.3"
+}

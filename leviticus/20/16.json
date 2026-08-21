@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E una donna che si avvicina a qualunque bestia per accoppiarsi con essa ⟨את⟩: ucciderai la donna e ⟨את⟩ la bestia; morte saranno messi a morte, il loro sangue è su di loro.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "E una donna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "si avvicina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qualunque"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bestia"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "per accoppiarsi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ con essa",
+      "marks": "con essa"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "ucciderai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la donna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la bestia"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "la bestia"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "saranno messi a morte"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "il loro sangue"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su di loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:53.370888672Z",
+  "model": "glm-5.3"
+}

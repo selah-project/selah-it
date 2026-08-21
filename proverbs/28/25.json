@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Chi ha ⟨la⟩ nefesh larga suscita contese, ma chi confida in YHWH sarà ingrassato.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "larga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "suscita"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "contese"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ma chi confida"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "sarà ingrassato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:18.110142055Z",
+  "model": "glm-5.3"
+}

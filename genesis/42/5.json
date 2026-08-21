@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E vennero i figli d'Israele a comprare ⟨grano⟩ in mezzo ai venienti, perché ⟨era⟩ la carestia nella terra di Canaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "e vennero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "a comprare"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ai venienti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la carestia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra di"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Canaan"
+    }
+  ],
+  "timestamp": "2026-08-21T05:49:50.607353433Z",
+  "model": "glm-5.3"
+}

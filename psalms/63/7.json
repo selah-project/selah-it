@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 63,
+  "translation": "Quando mi ricordo di te sul mio giaciglio, nelle veglie notturne medito su di te.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "quando"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "mi ricordo di te"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "il mio giaciglio"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "nelle veglie notturne"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "medito"
+    },
+    {
+      "surface": "בך",
+      "gloss": "su di te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:06.305622691Z",
+  "model": "glm-5.3"
+}

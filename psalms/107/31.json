@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Rendano grazie a YHWH per il suo chesed, e le sue meraviglie per i figli di Adamo:",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Rendano grazie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le sue meraviglie"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:35.164105193Z",
+  "model": "glm-5.3"
+}

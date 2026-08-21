@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 36,
+  "translation": "Questi ⟨sono⟩ i nomi dei figli di Esav: Elifaz, figlio di Adah, moglie di Esav; Reuel, figlio di Basemat, moglie di Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Questi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "i nomi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "di Adah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moglie"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "di Basemat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moglie"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di Esav"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:03.222571947Z",
+  "model": "glm-5.3"
+}

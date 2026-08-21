@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "YHWH lo sosterrà sul letto di dolore: tutto il suo giaciglio hai trasformato nella sua malattia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "lo sosterrà"
+    },
+    {
+      "surface": "על",
+      "gloss": "sul"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "letto"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "di dolore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "il suo giaciglio"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "hai trasformato"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "nella sua malattia"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:19.204276019Z",
+  "model": "glm-5.3"
+}

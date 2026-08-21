@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 122,
+  "translation": "Perché là salgono le tribù, le tribù di Yah, testimonianza per Israele, per rendere grazie al Nome di YHWH.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Perché là"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "salgono"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "le tribù"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "le tribù"
+    },
+    {
+      "surface": "יה",
+      "gloss": "di Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "testimonianza"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "per Israele"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "per rendere grazie"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "al Nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:44.426050246Z",
+  "model": "glm-5.3"
+}

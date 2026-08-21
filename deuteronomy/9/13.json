@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E parlò YHWH con me, dicendo: ho visto ⟨את⟩ questo popolo, ed ecco, è un popolo di dura cervice.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e parlò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "con me"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho visto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "questo popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ed ecco"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un popolo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "di dura"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "cervice"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso è"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:12.931380844Z",
+  "model": "glm-5.3"
+}

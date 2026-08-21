@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 115,
+  "translation": "Orecchie hanno e non odono; naso hanno e non odorano:",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "orecchie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hanno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "odono"
+    },
+    {
+      "surface": "אף",
+      "gloss": "naso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hanno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "odorano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:57.781262506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E Ierico era chiusa, sbarrata davanti ai figli d'Israele: nessuno usciva e nessuno entrava.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "E Ierico"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "era chiusa"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "sbarrata"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ai figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nessuno"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "usciva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e nessuno"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entrava"
+    }
+  ],
+  "timestamp": "2026-08-21T06:50:44.419018404Z",
+  "model": "glm-5.3"
+}

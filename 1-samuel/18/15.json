@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Saul vide che ⟨egli⟩ era molto saggio, e ⟨cominciò⟩ a temerlo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "saggio"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "e temette"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "per lui"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:22.261162013Z",
+  "model": "glm-5.3"
+}

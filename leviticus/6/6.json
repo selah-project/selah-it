@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Fuoco perenne arderà sull'altare, non si spegnerà.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "fuoco"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "perenne"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "arderà"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "si spegnerà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:12:02.869601033Z",
+  "model": "glm-5.3"
+}

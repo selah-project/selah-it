@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "il re di Libnah, uno; il re di Adullam, uno;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "di Libnah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "di Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:05.048983273Z",
+  "model": "glm-5.3"
+}

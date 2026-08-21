@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Perché ti affondi, nefesh mia, e gemi dentro di me? Spera in Elohim, perché ancora lo celebrerò: le salvezze del suo volto.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ti affondi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh mia"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "e gemi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dentro di me"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Spera"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ancora"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "lo celebrerò"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "le salvezze"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "del suo volto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:17.074238061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E l'oro di quella terra ⟨è⟩ buono; là si trovano il bedolach e la pietra di shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "e l'oro"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "il bedolach"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "e la pietra"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "di shoham"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:24.498214005Z",
+  "model": "glm-5.3"
+}

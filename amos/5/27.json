@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E vi deporterò ⟨את⟩ oltre Damasco, dice YHWH; Elohim degli eserciti ⟨è⟩ il suo Nome.",
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "e vi deporterò"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi (voi, oggetto della deportazione)"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Damasco"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "degli eserciti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "il suo Nome"
+    }
+  ],
+  "timestamp": "2026-08-21T08:35:16.116436223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Ammicca con gli occhi, parla con i piedi, indica con le dita;",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ammicca"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "con gli occhi"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "parla"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "con i piedi"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "indica"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "con le dita"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:38.505321947Z",
+  "model": "glm-5.3"
+}

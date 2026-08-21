@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E YHWH benedisse ⟨את⟩ la fine di Giobbe più del suo principio; e gli furono quattordicimila pecore e seimila cammelli e mille paia di buoi e mille asine.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "e YHWH"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "benedisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fine di Giobbe"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "la fine"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "di Giobbe"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "più del suo principio"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e furono"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "quattor­di"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "­cimila"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mila"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pecore"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "e sei"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mila"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "cammelli"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "e mille"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "paia"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "di buoi"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "e mille"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "asine"
+    }
+  ],
+  "timestamp": "2026-08-21T09:24:26.857477505Z",
+  "model": "glm-5.3"
+}

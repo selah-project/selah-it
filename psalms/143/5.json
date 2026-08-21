@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 143,
+  "translation": "Ho ricordato i giorni dell'antico tempo, ho riflettuto su ogni tua opera, sull'operato delle tue mani ho meditato.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ho ricordato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dell'antico tempo"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ho riflettuto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "su ogni"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "tua opera"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "sull'operato"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "delle tue mani"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ho meditato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:21.529725546Z",
+  "model": "glm-5.3"
+}

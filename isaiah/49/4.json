@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "E io dissi: per il vuoto ho faticato, per nulla e vanità ho consumato la mia forza; ma il mio diritto ⟨è⟩ con ⟨את⟩ YHWH, e la mia ricompensa ⟨è⟩ con ⟨את⟩ il mio Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "e io"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dissi"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "per il vuoto"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ho faticato"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "per nulla"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "e vanità"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "la mia forza"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ho consumato"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ma certamente"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "il mio diritto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "e la mia ricompensa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "il mio Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T07:54:36.551214229Z",
+  "model": "glm-5.3"
+}

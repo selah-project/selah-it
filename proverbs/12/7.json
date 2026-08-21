@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "Rovesciati ⟨sono⟩ i malvagi e non ⟨sono⟩ più, ma la casa dei giusti starà ⟨in piedi⟩.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "rovesciati"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "e non sono più"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ma la casa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "dei giusti"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "starà in piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:39.906205428Z",
+  "model": "glm-5.3"
+}

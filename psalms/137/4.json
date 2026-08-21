@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 137,
+  "translation": "Come canteremo ⟨את⟩ il canto di YHWH su terra straniera?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "come"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "canteremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il canto di YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "il canto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "terra"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "straniera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:14.705142824Z",
+  "model": "glm-5.3"
+}

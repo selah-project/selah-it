@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E andò di là al monte del Karmel, e di là tornò a Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "al monte"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "del Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "e di là"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tornò"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "a Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T07:33:42.203324008Z",
+  "model": "glm-5.3"
+}

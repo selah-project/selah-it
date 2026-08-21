@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E tutto il popolo vedeva ⟨את⟩ le voci e ⟨את⟩ le fiaccole e ⟨את⟩ il suono dello shofar e ⟨את⟩ il monte fumante; e il popolo vide, e tremò, e si tenne ⟨a⟩ distanza.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "vedeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le voci"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "le voci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le fiaccole"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "le fiaccole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suono dello shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il suono"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "dello shofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il monte fumante"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "fumante"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "e tremò"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "e si tenne"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "a distanza"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:25.990786488Z",
+  "model": "glm-5.3"
+}

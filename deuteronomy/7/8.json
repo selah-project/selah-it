@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Ma perché YHWH vi amava ⟨את⟩ voi e perché custodiva ⟨את⟩ il giuramento che aveva giurato ai vostri padri, YHWH vi ha fatti uscire ⟨את⟩ voi con mano forte e vi ha riscattati dalla casa degli schiavi, dalla mano di Faraone, re d'Egitto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma perché"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "per amore di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "e perché custodiva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giuramento"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "il giuramento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "aveva giurato"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ai vostri padri"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ha fatti uscire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "voi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "con mano"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "forte"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "e vi ha riscattati"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "degli schiavi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Faraone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:54.532720985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "che vi ha fatti uscire ⟨את⟩ dalla terra d'Egitto per essere per voi da Elohim: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "che vi ha fatti uscire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vi — l'oggetto è il pronome suffisso, punto verso di voi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "per essere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "da Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:27.764467409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ho custodito i tuoi statuti e ⟨le⟩ tue testimonianze, perché tutte le mie vie ⟨sono⟩ davanti a te.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "ho custodito"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "i tuoi statuti"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "e le tue testimonianze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "le mie vie"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "davanti a te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:54.225927914Z",
+  "model": "glm-5.3"
+}

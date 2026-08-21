@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "Poiché YHWH ha edificato Tziyon, ⟨si⟩ è mostrato nella sua gloria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ha edificato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "si è mostrato"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "nella sua gloria"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:58.820897695Z",
+  "model": "glm-5.3"
+}

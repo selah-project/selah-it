@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Allora grideranno verso YHWH, ma ⟨egli⟩ non risponderà ⟨את⟩ loro; e nasconderà il suo volto da loro in quel tempo, come hanno reso malvagie le loro opere.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "grideranno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma non"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "risponderà"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "loro"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "e nasconderà"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "da loro"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "quel tempo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "hanno reso malvagie"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "le loro opere"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:40.361662461Z",
+  "model": "glm-5.3"
+}

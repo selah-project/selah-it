@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Ed ⟨egli⟩ si alzò e andò, e Yonatan entrò nella città.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "si alzò"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entrò"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:18.140113123Z",
+  "model": "glm-5.3"
+}

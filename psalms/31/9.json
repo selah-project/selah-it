@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E non mi hai consegnato in mano al nemico; hai fatto stare i miei piedi in un luogo largo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "mi hai chiuso\/consegnato"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in mano"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "al nemico"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "hai fatto stare"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "in un luogo largo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "i miei piedi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:59.079262786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E uno entrò e riferì al suo signore, dicendo: «Così e così ha parlato la ragazza che è dalla terra di Israele».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E uno entrò"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "al suo signore"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Così"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "e così"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "ha parlato"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "la ragazza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "è dalla terra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:21.712963318Z",
+  "model": "glm-5.3"
+}

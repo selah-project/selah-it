@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E ⟨את⟩ il montone dell'investitura prenderai, e cuocerai ⟨את⟩ la sua carne in luogo santo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il montone dell'investitura"
+    },
+    {
+      "surface": "איל",
+      "gloss": "il montone"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "dell'investitura"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prenderai"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "e cuocerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua carne"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "la sua carne"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "in luogo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:20.230435995Z",
+  "model": "glm-5.3"
+}

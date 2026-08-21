@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "A te ha detto il mio cuore: «Cercate il mio volto». ⟨את⟩ il tuo volto, YHWH, io cercherò.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "A te"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "il mio cuore"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Cercate"
+    },
+    {
+      "surface": "פני",
+      "gloss": "il mio volto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo volto"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "il tuo volto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "io cercherò"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:03.674235572Z",
+  "model": "glm-5.3"
+}

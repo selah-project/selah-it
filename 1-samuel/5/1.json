@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E i Filistei presero ⟨את⟩ l'arca di Elohim e la portarono da Eben-ha-Ezer ad Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "E i Filistei"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "presero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca di Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "e la portarono"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "da Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ad Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-21T07:07:07.555015030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Poiché Egli ha saziato ⟨la⟩ nefesh assetata, e ⟨la⟩ nefesh affamata ha riempito di bene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ha saziato"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "assetata"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "e ⟨la⟩ nefesh"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "affamata"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ha riempito"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "di bene"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.625312543Z",
+  "model": "glm-5.3"
+}

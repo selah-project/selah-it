@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "che hai custodito al tuo servo Dawid, mio padre, ⟨את⟩ ciò che gli hai parlato: e hai parlato con la tua bocca e con la tua mano hai colmato, come questo giorno.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "hai custodito"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "al tuo servo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che gli hai parlato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "hai parlato"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "e hai parlato"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "con la tua bocca"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "e con la tua mano"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "hai colmato"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come questo giorno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:55:20.211428893Z",
+  "model": "glm-5.3"
+}

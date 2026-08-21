@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Poiché Iyyov ha detto: « io sono giusto », ed El ha allontanato il mio diritto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "io sono giusto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ed El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ha allontanato"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "il mio diritto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:21:28.628820408Z",
+  "model": "glm-5.3"
+}

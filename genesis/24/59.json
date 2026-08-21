@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "E mandarono via ⟨את⟩ Rivqa loro sorella, e ⟨את⟩ la sua nutrice, e ⟨את⟩ il servo di Avraham e ⟨את⟩ i suoi uomini.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "e mandarono via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivqa loro sorella"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivqa"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "loro sorella"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la sua nutrice"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "la sua nutrice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il servo di Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "il servo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "di Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi uomini"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "i suoi uomini"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:06.832322405Z",
+  "model": "glm-5.3"
+}

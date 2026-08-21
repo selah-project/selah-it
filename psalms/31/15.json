@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Ma io su di Te ho confidato, YHWH; ho detto: Elohim mio ⟨sei⟩ Tu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su di Te"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ho confidato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ho detto"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:58.683406430Z",
+  "model": "glm-5.3"
+}

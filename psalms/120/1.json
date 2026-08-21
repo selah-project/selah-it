@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 120,
+  "translation": "Canzone delle salite. A YHWH nella mia stretta ho chiamato, ed egli mi ha risposto.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Canzone"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "delle salite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "nella stretta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mia"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ho chiamato"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ed egli mi ha risposto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:25.361595065Z",
+  "model": "glm-5.3"
+}

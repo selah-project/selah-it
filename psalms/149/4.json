@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 149,
+  "translation": "Perché YHWH si compiace del suo popolo, adorna gli umili con salvezza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "si compiace"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "del suo popolo"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "adorna"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "gli umili"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "con salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:18.842258318Z",
+  "model": "glm-5.3"
+}

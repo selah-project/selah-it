@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 148,
+  "translation": "Lodatelo, tutti i suoi messaggeri, lodatelo, tutte le sue schiere.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "i suoi messaggeri"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lodatelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "le sue schiere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:07.291005799Z",
+  "model": "glm-5.3"
+}

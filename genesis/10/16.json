@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "e ⟨את⟩ lo Iebuseo e ⟨את⟩ l'Emoreo e ⟨את⟩ il Ghirgashita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "lo Iebuseo"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "lo Iebuseo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'Emoreo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'Emoreo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il Ghirgashita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "il Ghirgashita"
+    }
+  ],
+  "timestamp": "2026-08-21T10:04:02.779121231Z",
+  "model": "glm-5.3"
+}

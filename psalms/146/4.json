@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "Esce il suo Ruach, egli ritorna alla sua terra; in quel giorno periscono i suoi pensieri.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Esce"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "il suo Ruach"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "egli ritorna"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "alla sua terra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(quello)"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "periscono"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "i suoi pensieri"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:55.899749966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Sordi, ascoltate; e ciechi, guardate per vedere!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "sordi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "e ciechi"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "guardate"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "per vedere"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:42.496639719Z",
+  "model": "glm-5.3"
+}

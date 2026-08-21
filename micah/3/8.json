@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Ma io, ⟨sono⟩ pieno di forza, ⟨את⟩ il Ruach di YHWH, di giustizia e di potenza, per dichiarare a Yaakov la sua ribellione e a Israele il suo peccato.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "sono pieno"
+    },
+    {
+      "surface": "כח",
+      "gloss": "di forza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Ruach di YHWH"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "il Ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e di giustizia"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "e di potenza"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "per dichiarare"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "a Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "la sua ribellione"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "e a Israele"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "il suo peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T08:37:37.024827631Z",
+  "model": "glm-5.3"
+}

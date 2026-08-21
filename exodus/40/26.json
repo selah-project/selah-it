@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E pose ⟨את⟩ l'altare d'oro nella tenda di convegno, davanti al paròchet.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "pose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare d'oro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'oro"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nella tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "di convegno"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "al paròchet"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:26.402358865Z",
+  "model": "glm-5.3"
+}

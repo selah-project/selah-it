@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 146,
+  "translation": "Regna YHWH per sempre, il tuo Elohim, o Tziyon, per generazione e generazione. Hallelu Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "Regna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "o Tziyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "per generazione"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e generazione"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:36.740222532Z",
+  "model": "glm-5.3"
+}

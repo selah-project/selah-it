@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ecco, ho desiderato i tuoi precetti; nella tua giustizia fammi vivere.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "ho desiderato"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "i tuoi precetti"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nella tua giustizia"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "fammi vivere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:01:59.729554737Z",
+  "model": "glm-5.3"
+}

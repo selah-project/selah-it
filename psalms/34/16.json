@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Gli occhi di YHWH ⟨sono⟩ verso i giusti, e le sue orecchie verso il loro grido.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i giusti"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "e le sue orecchie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "il loro grido"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:27.508370963Z",
+  "model": "glm-5.3"
+}

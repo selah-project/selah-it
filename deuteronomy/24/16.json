@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Non saranno messi a morte i padri per i figli, e i figli non saranno messi a morte per i padri; ciascuno nel suo peccato sarà messo a morte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "saranno messi a morte"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "i padri"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "e i figli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "saranno messi a morte"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "i padri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "nel suo peccato"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "sarà messo a morte"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:41.813413141Z",
+  "model": "glm-5.3"
+}

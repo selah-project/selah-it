@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Fai germogliare l'erba per il bestiame e la vegetazione per il servizio dell'umano, per far uscire il pane dalla terra,",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "fai germogliare"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "l'erba"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "per il bestiame"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "e la vegetazione"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "per il servizio"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "dell'umano"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "per far uscire"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il pane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:18.038151410Z",
+  "model": "glm-5.3"
+}

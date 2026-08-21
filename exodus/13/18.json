@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "E fece girare Elohim ⟨את⟩ il popolo per la via del deserto, ⟨verso⟩ il Mare dei Giunchi; e armati salirono i figli d'Israele dalla terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "e fece girare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "per la via"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "del deserto"
+    },
+    {
+      "surface": "ים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "dei Giunchi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e armati (in cinque)"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "salirono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:58.903379518Z",
+  "model": "glm-5.3"
+}

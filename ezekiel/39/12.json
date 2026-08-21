@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "E li seppellirà la casa d'Israele, per purificare ⟨את⟩ la terra — sette mesi.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "e li seppellirà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "purificare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sette"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mesi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:27:55.860871777Z",
+  "model": "glm-5.3"
+}

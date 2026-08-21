@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "e verrà meno invano la vostra forza, e la vostra terra non rendering ⟨את⟩ il suo raccolto, e l'albero della terra non rendering il suo frutto.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "e verrà meno"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "invano"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "la vostra forza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "rendering"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "la vostra terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo raccolto"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "il suo raccolto"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "e l'albero"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "rendering"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "il suo frutto"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:20.548554509Z",
+  "model": "glm-5.3"
+}

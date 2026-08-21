@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "E gli uomini stesero ⟨את⟩ la loro mano e trassero ⟨את⟩ Lot presso di sé, in casa; e ⟨את⟩ la porta chiusero.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "e stesero"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "gli uomini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro mano"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "la loro mano"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "e trassero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "presso di sé"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "in casa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la porta"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "la porta"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "chiusero"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:12.196485829Z",
+  "model": "glm-5.3"
+}

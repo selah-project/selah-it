@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Quelli che scendono al mare sulle navi, che fanno lavoro nelle acque grandi:",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "quelli che scendono"
+    },
+    {
+      "surface": "הים",
+      "gloss": "al mare"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "sulle navi"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "che fanno"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lavoro"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nelle acque"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "grandi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.839474171Z",
+  "model": "glm-5.3"
+}

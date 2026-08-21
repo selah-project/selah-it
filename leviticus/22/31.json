@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E osserverete i miei comandamenti e li farete ⟨את⟩: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "e osserverete"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "i miei comandamenti"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "e farete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i miei comandamenti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:19:10.828941381Z",
+  "model": "glm-5.3"
+}

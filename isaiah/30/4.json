@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "poiché i suoi principi sono a Tzoan e i suoi messaggeri sono giunti a Chanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sono"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "a Tzoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "i suoi principi"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "e i suoi messaggeri"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "a Chanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "sono giunti"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:43.402360325Z",
+  "model": "glm-5.3"
+}

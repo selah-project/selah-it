@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E parlò Mosè al popolo, dicendo: «Armate ⟨di⟩ voi ⟨את⟩ uomini per la guerra, e siano contro Madian, per eseguire la vendetta di YHWH su Madian.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "E parlò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "popolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "Armate"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩",
+      "marks": "uomini, da voi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "per la guerra"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "e siano"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Madian"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per eseguire"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "la vendetta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "su Madian"
+    }
+  ],
+  "timestamp": "2026-08-21T06:36:17.302323889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Se un uomo giace con ⟨את⟩ una donna con un giaciglio di seme, ed ⟨essa⟩ è una schiava promessa a un uomo, e non è stata riscattata né le è stata data la libertà, ci sarà un esame ⟨di punizione⟩; non saranno messi a morte, perché non era libera.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "se un uomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "giace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una donna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "una donna"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "con un giaciglio"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "di seme"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ed"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "una schiava"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "promessa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a un uomo"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "e riscattata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "è stata riscattata"
+    },
+    {
+      "surface": "או",
+      "gloss": "né"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "la libertà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "è stata data"
+    },
+    {
+      "surface": "לה",
+      "gloss": "le"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "un esame ⟨di punizione⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ci sarà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "saranno messi a morte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "era libera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:51.284899604Z",
+  "model": "glm-5.3"
+}

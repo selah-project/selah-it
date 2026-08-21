@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "per narrare in Tzion ⟨il⟩ nome ⟨di⟩ YHWH, e la sua lode in Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "per narrare"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tzion"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "e la sua lode"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:13.530492842Z",
+  "model": "glm-5.3"
+}

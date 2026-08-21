@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E ho posto là ⟨את⟩ l'arca, dove ⟨sta⟩ il patto di YHWH, che egli ha tagliato con i figli d'Israele.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "e ho posto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dove"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "il patto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ha tagliato"
+    },
+    {
+      "surface": "עם",
+      "gloss": "con"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T09:54:38.298318041Z",
+  "model": "glm-5.3"
+}

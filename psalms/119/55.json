@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ho ricordato nella notte il tuo nome, YHWH, e ho custodito la tua Torah.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ho ricordato"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nella notte"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "il tuo nome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "e ho custodito"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "la tua Torah"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:09.341203587Z",
+  "model": "glm-5.3"
+}

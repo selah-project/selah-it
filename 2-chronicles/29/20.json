@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "Il re Chizkiyahu si alzò di buon mattino e radunò ⟨את⟩ i capi della città, e salì alla casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "si alzò di buon mattino"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "e radunò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i capi della città"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i capi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "בית",
+      "gloss": "alla casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T10:01:07.233482296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Un'ora per uccidere e un'ora per guarire, un'ora per demolire e un'ora per edificare.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un'ora"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "per uccidere"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un'ora"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "per guarire"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un'ora"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "per demolire"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e un'ora"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "per edificare"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:18.952526609Z",
+  "model": "glm-5.3"
+}

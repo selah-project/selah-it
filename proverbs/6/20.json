@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Custodisci, figlio mio, il comandamento di tuo padre, e non abbandonare la Torah di tua madre",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Custodisci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "il comandamento"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "di tuo padre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "abbandonare"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "di tua madre"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:47.642867700Z",
+  "model": "glm-5.3"
+}

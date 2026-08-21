@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Si unirà forse a te il trono di rovina, che plasma fatica sopra un decreto?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "si unirà forse a te"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "il trono"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "di rovina"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "che plasma"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fatica"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "חק",
+      "gloss": "un decreto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:14.219018891Z",
+  "model": "glm-5.3"
+}

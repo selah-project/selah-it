@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E il giorno in cui fu eretto ⟨את⟩ il mishkan (tabernacolo), la nube coprì ⟨את⟩ il mishkan, ⟨cioè⟩ la tenda della Testimonianza; e alla sera era sul mishkan come l'aspetto di un fuoco, fino al mattino.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "e il giorno"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "in cui fu eretto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "coprì"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nube"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "della Testimonianza"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "e alla sera"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "era"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "come l'aspetto"
+    },
+    {
+      "surface": "אש",
+      "gloss": "di un fuoco"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "al mattino"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:13.647421386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E Mosè finì di parlare ⟨את⟩-loro, e pose sul suo volto un velo.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "finì"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "di parlare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro (i figli d'Israele)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "e pose"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "un velo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:00.761544964Z",
+  "model": "glm-5.3"
+}

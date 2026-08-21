@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E disse YHWH a me: vedi, ho cominciato a dare davanti a te ⟨את⟩ Sichon e ⟨את⟩ la sua terra; comincia a prendere possesso per possedere ⟨את⟩ la sua terra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "ho cominciato"
+    },
+    {
+      "surface": "תת",
+      "gloss": "a dare"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua terra"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "la sua terra"
+    },
+    {
+      "surface": "החל",
+      "gloss": "comincia"
+    },
+    {
+      "surface": "רש",
+      "gloss": "a prendere possesso"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "per possedere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua terra"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "la sua terra"
+    }
+  ],
+  "timestamp": "2026-08-21T10:06:01.777417494Z",
+  "model": "glm-5.3"
+}

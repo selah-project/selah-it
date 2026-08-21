@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E avvenne, quando il regno fu saldo su di lui, che uccise ⟨את⟩ i suoi servi che avevano colpito ⟨את⟩ il re suo padre.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e avvenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fu saldo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "uccise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi servi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i suoi servi"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "che avevano colpito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il re suo padre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    }
+  ],
+  "timestamp": "2026-08-21T10:00:27.796158896Z",
+  "model": "glm-5.3"
+}

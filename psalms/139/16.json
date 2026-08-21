@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Il mio ⟨golem⟩ videro i tuoi occhi, e sul tuo libro tutti ⟨saranno scritti⟩; i giorni furono formati, e non uno fra loro.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "il mio golem"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "videro"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "i tuoi occhi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sul"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "tuo libro"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "saranno scritti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "i giorni"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "furono formati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "uno"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fra loro"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:01.700422100Z",
+  "model": "glm-5.3"
+}

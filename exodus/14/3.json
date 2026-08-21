@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E dirà il Faraone dei figli d'Israele: ⟨sono⟩ sperduti nel paese, il deserto li ha chiusi dentro.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "e dirà"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "il Faraone"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "sperduti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sono⟩ essi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nel paese"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ha chiuso"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "li… dentro"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "il deserto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:35.761503629Z",
+  "model": "glm-5.3"
+}

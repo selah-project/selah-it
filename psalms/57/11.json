@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Poiché grande fino ai cieli ⟨è⟩ il tuo chesed, e fino alle nubi la tua fedeltà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "grande"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e fino a"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "le nubi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "la tua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:07.567896203Z",
+  "model": "glm-5.3"
+}

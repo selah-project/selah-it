@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E Davide si alzò di buon mattino e lasciò ⟨את⟩ il gregge a un guardiano, e prese e andò come aveva comandato Ishai; e giunse al recinto, mentre l'esercito usciva allo schieramento e lanciava il grido di guerra.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "si alzò di buon mattino"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di mattina"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "e lasciò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "un guardiano"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ishai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e giunse"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "al recinto"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "e l'esercito"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "usciva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "allo"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "schieramento"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "e lanciava il grido"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "di guerra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:11:05.526640974Z",
+  "model": "glm-5.3"
+}

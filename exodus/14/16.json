@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E tu alza ⟨את⟩ il tuo bastone e stendi ⟨את⟩ la tua mano sul mare e dividilo, e i figli d'Israele entrino in mezzo al mare sull'asciutto.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "E tu"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "alza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo bastone"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "il tuo bastone"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "e stendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tua mano"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "e dividilo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "e entrino"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in mezzo a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "il mare"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sull'asciutto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:02.865762424Z",
+  "model": "glm-5.3"
+}

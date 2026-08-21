@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Una foglia sospinta ⟨vuoi⟩ spaventare? E ⟨את⟩ la paglia secca inseguire?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "la foglia"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "sospinta"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "spaventare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la paglia secca"
+    },
+    {
+      "surface": "קש",
+      "gloss": "la paglia"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "secca"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "inseguire"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:16.098918151Z",
+  "model": "glm-5.3"
+}

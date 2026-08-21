@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 13:14",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Ed Elisha si ammalò della ⟨sua⟩ malattia di cui sarebbe morto, e Ioash re di Israele scese da lui e pianse sul suo volto, e disse: padre mio, padre mio, carro di Israele e i suoi cavalieri!",
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "ed Elisha"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "si ammalò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "della sua malattia"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "la sua malattia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "di cui"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sarebbe morto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "con essa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "e scese"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Ioash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "e pianse"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "il suo volto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre mio"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "padre mio"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "carro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "e i suoi cavalieri"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:26.861057394Z",
+  "model": "glm-5.3"
+}

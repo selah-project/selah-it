@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E per questi diverrete impuri: chiunque tocca la loro carogna sarà impuro fino alla sera.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "e per questi"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "diverrete impuri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chiunque"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tocca"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "la loro carogna"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sarà impuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "la sera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:11.235063323Z",
+  "model": "glm-5.3"
+}

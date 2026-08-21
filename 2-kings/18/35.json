@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Chi, fra tutti gli dèi dei paesi, ha liberato ⟨את⟩ il suo paese dalla mia mano, perché YHWH libererebbe ⟨את⟩ Gerusalemme dalla mia mano?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Chi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fra tutti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gli dèi"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dei paesi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ha liberato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo paese"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "il suo paese"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dalla mia mano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "libererebbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dalla mia mano"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:49.421903179Z",
+  "model": "glm-5.3"
+}

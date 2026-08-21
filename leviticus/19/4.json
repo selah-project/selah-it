@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Non vi volgete agli elilim, né dèi di fusione vi fate per voi; io ⟨sono⟩ YHWH Elohim vostro.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "vi volgete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agli"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "elilim"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "né dèi"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "di fusione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vi fate"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:25.935305183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "YHWH ha fatto uscire ⟨את⟩ la nostra giustizia; venite, e raccontiamo in Tzion ⟨את⟩ l'opera di YHWH, Elohim nostro.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ha fatto uscire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nostra giustizia"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "la nostra giustizia"
+    },
+    {
+      "surface": "באו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "e raccontiamo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tzion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'opera"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nostro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:15:57.457258481Z",
+  "model": "glm-5.3"
+}

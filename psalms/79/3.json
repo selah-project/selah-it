@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 79,
+  "translation": "Hanno versato il loro sangue come acqua attorno a Gerusalemme, e non ⟨vi era⟩ chi seppellisse.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Hanno versato"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "il loro sangue"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "come acqua"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "attorno"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non ⟨vi era⟩"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "chi seppellisse"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:12.486208218Z",
+  "model": "glm-5.3"
+}

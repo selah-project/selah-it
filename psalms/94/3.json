@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 94,
+  "translation": "Fino a quando, i malvagi, YHWH? Fino a quando i malvagi esulteranno?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "a quando"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "a quando"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "esulteranno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:03.079308186Z",
+  "model": "glm-5.3"
+}

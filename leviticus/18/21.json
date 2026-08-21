@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E del tuo seme non darai per farlo passare a Molech, e non profanerai ⟨את⟩ il nome del tuo Elohim: io ⟨sono⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "e del tuo seme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "darai"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "per farlo passare"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a Molech"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "profanerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il nome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il nome"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "del tuo Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:17:12.520365992Z",
+  "model": "glm-5.3"
+}

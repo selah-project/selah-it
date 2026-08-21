@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E disse: tu ⟨sei⟩ questo, figlio mio Esav? E disse: io ⟨sono⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-21T05:43:53.052543209Z",
+  "model": "glm-5.3"
+}

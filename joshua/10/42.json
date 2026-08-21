@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E ⟨את⟩ tutti questi re e ⟨את⟩ le loro terre catturò Yehoshua in una sola volta, perché YHWH, Elohim d'Israele, combatteva per Israele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti questi re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "questi re"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le loro terre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "le loro terre"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "catturò"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "in una volta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "una sola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "combatteva"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "per Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:53:06.798656293Z",
+  "model": "glm-5.3"
+}

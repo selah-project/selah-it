@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Figlio mio, se hai fatto da garante ⟨al⟩ tuo prossimo, se hai colpito il palmo della tua mano ⟨per⟩ uno straniero,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Figlio mio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "hai fatto da garante"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "⟨al⟩ tuo prossimo"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "hai colpito"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "⟨per⟩ uno straniero"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "il palmo della tua mano"
+    }
+  ],
+  "timestamp": "2026-08-21T09:07:24.601687410Z",
+  "model": "glm-5.3"
+}

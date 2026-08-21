@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "Chi fra voi porge orecchio a questo, presta attenzione e ascolta per l'avvenire?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "fra voi"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "porge orecchio"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "a questo"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "presta attenzione"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "e ascolta"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "per l'avvenire"
+    }
+  ],
+  "timestamp": "2026-08-21T07:53:01.692100330Z",
+  "model": "glm-5.3"
+}

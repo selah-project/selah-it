@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "Dolce ⟨il⟩ sonno del lavoratore, sia che mangi poco sia che ⟨mangi⟩ molto; ma la sazietà del ricco non lo lascia dormire.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "dolce"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "il sonno"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "del lavoratore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sia che"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "poco"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sia che"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "molto"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangi"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "ma la sazietà"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "del ricco"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "non"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "lascia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lo"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "dormire"
+    }
+  ],
+  "timestamp": "2026-08-21T09:29:21.887691756Z",
+  "model": "glm-5.3"
+}

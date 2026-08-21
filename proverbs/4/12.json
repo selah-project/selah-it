@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Quando cammini, il tuo passo non sarà ristretto; e se corri, non inciamperai.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "quando cammini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "sarà ristretto"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "il tuo passo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "corri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "inciamperai"
+    }
+  ],
+  "timestamp": "2026-08-21T09:06:48.702349981Z",
+  "model": "glm-5.3"
+}

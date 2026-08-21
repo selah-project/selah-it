@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Si ergono i re della terra e i principi si consigliano insieme, contro YHWH e contro il suo Mashiach:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "si ergono"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "i re"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "e i principi"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "si consigliano insieme"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "insieme"
+    },
+    {
+      "surface": "על",
+      "gloss": "contro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "il suo Mashiach"
+    }
+  ],
+  "timestamp": "2026-08-21T08:44:10.895208058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "Il sole e la luna si sono oscurati, e le stelle hanno ritirato il loro splendore.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "e la luna"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "si sono oscurati"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "e le stelle"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "hanno ritirato"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "il loro splendore"
+    }
+  ],
+  "timestamp": "2026-08-21T10:09:56.826597286Z",
+  "model": "glm-5.3"
+}

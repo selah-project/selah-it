@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "YHWH tuo Elohim circonderà ⟨את⟩ il tuo cuore e ⟨את⟩ il cuore della tua discendenza, per amare ⟨את⟩ YHWH tuo Elohim con tutto il tuo cuore e con tutta la tua nefesh, per il bene della tua vita.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "e circonderà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo cuore"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il cuore della tua discendenza"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "della tua discendenza"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "per amare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH tuo Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuo Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutto"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "il tuo cuore"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e con tutta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "la tua nefesh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per il bene di"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "la tua vita"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:46.648424647Z",
+  "model": "glm-5.3"
+}

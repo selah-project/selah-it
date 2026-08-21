@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Il vento del nord fa nascere la pioggia, e ⟨un⟩ volto indignato ⟨fa tacere⟩ una lingua nascosta.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "il vento"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "del nord"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "fa nascere"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "la pioggia"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "e ⟨un⟩ volto"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "indignato"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "una lingua"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "nascosta"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:49.954256136Z",
+  "model": "glm-5.3"
+}

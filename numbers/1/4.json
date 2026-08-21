@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E con ⟨את⟩ voi ci siano: un uomo per tribù, ognuno capo della casa dei suoi padri, egli ⟨stesso⟩.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "e ⟨את⟩ voi",
+      "marks": "voi (Moshe e Aharon)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ci siano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "per"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "tribù"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ognuno"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "capo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dei suoi padri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli ⟨stesso⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T06:22:28.426940368Z",
+  "model": "glm-5.3"
+}

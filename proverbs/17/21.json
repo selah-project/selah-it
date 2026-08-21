@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "Chi genera uno stolto, ⟨lo genera⟩ per il proprio dolore; e il padre di un insensato non gioisce.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "genera"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "uno stolto"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "per il dolore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gioisce"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "il padre di"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "un insensato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:55.323688155Z",
+  "model": "glm-5.3"
+}

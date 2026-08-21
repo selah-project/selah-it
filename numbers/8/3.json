@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E fece così Aharon: davanti alla faccia della menorah fece salire ⟨את⟩ le sue lampade, come aveva comandato YHWH ⟨את⟩ Mosè.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "מול",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la faccia di"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "la menorah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fece salire"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "le sue lampade"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    }
+  ],
+  "timestamp": "2026-08-21T06:26:33.692992183Z",
+  "model": "glm-5.3"
+}

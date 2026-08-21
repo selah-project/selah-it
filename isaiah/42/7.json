@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "per aprire gli occhi dei ciechi, per far uscire dal carcere il prigioniero, dalla casa di detenzione quelli che siedono nelle tenebre:",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "per aprire"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "dei ciechi"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "per far uscire"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "dal carcere"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "il prigioniero"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dalla casa"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "di detenzione"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "quelli che siedono"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nelle tenebre"
+    }
+  ],
+  "timestamp": "2026-08-21T07:52:47.566549471Z",
+  "model": "glm-5.3"
+}

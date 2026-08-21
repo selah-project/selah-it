@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 37,
+  "translation": "Non saranno confusi nel tempo ⟨della⟩ calamità, e nei giorni di carestia saranno saziati.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "saranno confusi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nel tempo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "di calamità"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "e nei giorni"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "di carestia"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "saranno saziati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:24.494457762Z",
+  "model": "glm-5.3"
+}

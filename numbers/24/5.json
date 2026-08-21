@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Quanto sono belli i tuoi tendoni, o Giacobbe, le tue dimore, o Israele!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "quanto"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "sono belli"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "i tuoi tendoni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "o Giacobbe"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "le tue dimore"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T06:33:37.865004213Z",
+  "model": "glm-5.3"
+}

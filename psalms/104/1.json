@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 104,
+  "translation": "Benedici, anima mia, ⟨את⟩ YHWH: YHWH, Elohim mio, ⟨tu⟩ sei grandissimo, ⟨di⟩ maestà e splendore ⟨ti⟩ sei vestito.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Benedici"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "anima mia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "sei grandissimo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "somma"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "maestà"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "e splendore"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ti sei vestito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:10.203518752Z",
+  "model": "glm-5.3"
+}

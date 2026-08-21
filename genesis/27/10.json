@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "E le porterai a tuo padre ed egli mangerà, affinché ti benedica prima della sua morte.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "e porterai"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "a tuo padre"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ed egli mangerà"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "affinché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ti benedica"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prima di"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "la sua morte"
+    }
+  ],
+  "timestamp": "2026-08-21T05:44:25.255039723Z",
+  "model": "glm-5.3"
+}

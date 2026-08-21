@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E per mezzo di un profeta YHWH fece salire ⟨את⟩ Israele dall'Egitto, e per mezzo di un profeta fu custodito.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "e per mezzo di un profeta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fece salire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "e per mezzo di un profeta"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "fu custodito"
+    }
+  ],
+  "timestamp": "2026-08-21T08:32:45.716861086Z",
+  "model": "glm-5.3"
+}

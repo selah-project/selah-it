@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 73,
+  "translation": "Ecco, questi sono i malvagi, e ⟨gli⟩ spensierati per sempre hanno accumulato ⟨potenza e⟩ ricchezza.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "e gli spensierati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "hanno accumulato"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ricchezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:04.768411628Z",
+  "model": "glm-5.3"
+}

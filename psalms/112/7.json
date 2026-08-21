@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Di una notizia cattiva non avrà paura; fermo ⟨è⟩ il suo cuore, confida in YHWH.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "di una notizia"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "cattiva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "avrà paura"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "fermo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "il suo cuore"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "confida"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:46.587038148Z",
+  "model": "glm-5.3"
+}

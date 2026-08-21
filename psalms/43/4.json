@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "E verrò all'altare di Elohim, a El, gioia del mio giubilo; e ti loderò con la cetra, Elohim, Elohim mio.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "e verrò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "all'altare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "di Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "gioia"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "del mio giubilo"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "e ti loderò"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "con la cetra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:01.911547982Z",
+  "model": "glm-5.3"
+}

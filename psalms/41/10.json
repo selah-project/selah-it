@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 41,
+  "translation": "Anche l'uomo della mia pace, in cui mi sono rifugiato, colui che mangiava il mio pane, ha levato contro di me il tallone.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "della mia pace"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi sono rifugiato"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in lui"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mangiava"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "il mio pane"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ha levato grande"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "il tallone"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:25.766510154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "dei quali giurai nella mia ira: se entreranno nel mio riposo!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dei quali"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "giurai"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "nella mia ira"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "entreranno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nel"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "mio riposo"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:52.966960533Z",
+  "model": "glm-5.3"
+}

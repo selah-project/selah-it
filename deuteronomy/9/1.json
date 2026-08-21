@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Ascolta, Israele: tu passi oggi ⟨את⟩ il Giordano, per entrare a prendere possesso di nazioni grandi e possenti più di te, città grandi e fortificate fino al cielo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ascolta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il Giordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "il Giordano"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "per entrare"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "a prendere possesso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nazioni"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "e possenti"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "più di te"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "città"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "grandi"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "e fortificate"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "fino al cielo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:42:01.374575099Z",
+  "model": "glm-5.3"
+}

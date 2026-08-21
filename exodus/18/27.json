@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Moshe congedò ⟨את⟩ suo suocero, ed ⟨egli⟩ se ne andò verso la sua terra.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "e congedò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suo suocero"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "suo suocero"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e se ne andò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨per sé⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "la sua terra"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:29.687948754Z",
+  "model": "glm-5.3"
+}

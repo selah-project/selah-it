@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Accanto ⟨ai⟩ cancelli, all'ingresso ⟨della⟩ città, all'entrata delle porte, ⟨essa⟩ grida.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "Accanto"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "⟨ai⟩ cancelli"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "⟨della⟩ città"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "all'entrata"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "delle porte"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "⟨essa⟩ grida"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:13.484212831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 109,
+  "translation": "Perché io sono povero e bisognoso, e il mio cuore ⟨è⟩ ferito dentro di me.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "עני",
+      "gloss": "povero"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e bisognoso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "e il mio cuore"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ferito"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "dentro di me"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:50.469570070Z",
+  "model": "glm-5.3"
+}

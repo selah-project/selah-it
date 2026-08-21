@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "e cinque di voi ne inseguiranno cento, e cento di voi ne inseguiranno diecimila; e i vostri nemici cadranno davanti a voi per la spada.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "e inseguiranno"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "di voi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinque"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cento"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "e cento"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "di voi"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "diecimila"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "inseguiranno"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "e cadranno"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "i vostri nemici"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "davanti a voi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "per la spada"
+    }
+  ],
+  "timestamp": "2026-08-21T06:21:22.924045034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Poiché il re confida in YHWH, e nel chesed dell'Altissimo non vacillerà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "confida"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in YHWH"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "e nel chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "dell'Altissimo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "vacillerà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:39.573125829Z",
+  "model": "glm-5.3"
+}

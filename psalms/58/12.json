@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 58,
+  "translation": "E dirà l'uomo: « Certo, c'è frutto per il giusto; certo, c'⟨è⟩ Elohim che giudica sulla terra ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E dirà"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Certo,"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frutto"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "per il giusto"
+    },
+    {
+      "surface": "אך",
+      "gloss": "certo,"
+    },
+    {
+      "surface": "יש",
+      "gloss": "c'⟨è⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "che giudica"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:13.788029835Z",
+  "model": "glm-5.3"
+}

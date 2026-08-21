@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 15,
+  "translation": "I carri di Paroh e il suo esercito ha scagliato nel mare, e il fiore dei suoi comandanti fu sommerso nel Mare delle Canne.",
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "i carri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "di Paroh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "e il suo esercito"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "ha scagliato"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nel mare"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "e il fiore"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "dei suoi comandanti"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "fu sommerso"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nel Mare"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "delle Canne"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:58.709333292Z",
+  "model": "glm-5.3"
+}

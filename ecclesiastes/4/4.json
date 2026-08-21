@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E vidi io ⟨את⟩ ogni fatica e ⟨את⟩ ogni riuscita di opera: essa è invidia dell'uomo verso il suo prossimo. Anche questo è hevel e un brancolare di vento.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "E vidi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni fatica"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fatica"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogni riuscita di opera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "riuscita"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "di opera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "היא",
+      "gloss": "essa è"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "invidia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "verso il suo prossimo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Anche"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel (vapore)"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e un brancolare"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "di vento"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:40.118345635Z",
+  "model": "glm-5.3"
+}

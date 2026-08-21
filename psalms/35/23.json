@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Svegliati, destati per il mio giudizio, Elohim mio e Adonai mio, per la mia causa.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Svegliati"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "destati"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "per il mio giudizio"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim mio"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "e Adonai mio"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "per la mia causa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:44.833976068Z",
+  "model": "glm-5.3"
+}

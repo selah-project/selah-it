@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "e ⟨את⟩ le basi, dieci, e ⟨את⟩ le conche, dieci, sopra le basi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le basi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "le basi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "le conche"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "le conche"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dieci"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "le basi"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:13.563526996Z",
+  "model": "glm-5.3"
+}

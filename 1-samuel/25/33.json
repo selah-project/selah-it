@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 25:33",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "e benedetto il tuo discernimento, e benedetta ⟨את⟩, che mi hai trattenuto quest'oggi dal venire con sangue, e hai trattenuto la mia mano per me.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "e benedetto"
+    },
+    {
+      "surface": "טעמך",
+      "gloss": "il tuo discernimento"
+    },
+    {
+      "surface": "וברוכה",
+      "gloss": "e benedetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "che mi hai trattenuto quest'oggi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כלתני",
+      "gloss": "mi hai trattenuto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "quest'oggi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "dal venire"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "con sangue"
+    },
+    {
+      "surface": "והשע",
+      "gloss": "e hai trattenuto"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:05.297807932Z",
+  "model": "glm-5.3"
+}

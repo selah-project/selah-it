@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "E radunò Mosè ⟨את⟩ tutta la comunità dei figli d'Israele, e disse loro: questi sono i davarim che YHWH ha comandato di fare ⟨את⟩:",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "e radunò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta la comunità dei figli d'Israele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "la comunità"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sono i davarim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ha comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "di fare"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i davarim comandati"
+    }
+  ],
+  "timestamp": "2026-08-21T06:07:15.546082495Z",
+  "model": "glm-5.3"
+}

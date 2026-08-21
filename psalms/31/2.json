@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "In te, YHWH, mi sono rifugiato; mai io sia deluso, per sempre; nella tua giustizia liberami.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi sono rifugiato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "io sia deluso"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "nella tua giustizia"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "liberami"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:00.450760998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 113,
+  "translation": "che si abbassa per guardare nei cieli e sulla terra —",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "che si abbassa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "per guardare"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nei cieli"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "e sulla terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:40.825884801Z",
+  "model": "glm-5.3"
+}

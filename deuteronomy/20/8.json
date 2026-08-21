@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E gli ufficiali aggiungeranno a parlare al popolo e diranno: chi ⟨è⟩ l'uomo pauroso e dal cuore tenero? vada e torni alla sua casa, e non sciolga ⟨את⟩ il cuore dei suoi fratelli come il suo cuore.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "E aggiungeranno"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "gli ufficiali"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a parlare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "e diranno"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "pauroso"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "e dal cuore tenero"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "vada"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e torni"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "alla sua casa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "sciolga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il cuore dei suoi fratelli"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "il cuore"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dei suoi fratelli"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "come il suo cuore"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:46.671338461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E farai entrare ⟨את⟩ la tavola e disporrai ⟨את⟩ la sua disposizione; e farai entrare ⟨את⟩ la menorah e accenderai ⟨את⟩ le sue lampade.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "e farai entrare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tavola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "e disporrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua disposizione"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "la sua disposizione"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "e farai entrare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "la menorah"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "e accenderai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue lampade"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "le sue lampade"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:28.494902561Z",
+  "model": "glm-5.3"
+}

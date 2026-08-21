@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 19,
+  "translation": "Ciascuno ⟨⟨את⟩ tema⟩ sua madre e suo padre, e ⟨את⟩ i miei shabbat custodite; io ⟨sono⟩ YHWH Elohim vostro.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sua madre"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "e suo padre"
+    },
+    {
+      "surface": "תיראאו",
+      "gloss": ""
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "⟨את⟩ tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i miei shabbat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "i miei shabbat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "custodite"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim vostro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:16:25.935132115Z",
+  "model": "glm-5.3"
+}

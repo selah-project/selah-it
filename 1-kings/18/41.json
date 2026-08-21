@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Elia disse ad Ajab: sali, mangia e bevi, perché ⟨c'è⟩ il rumore di un fragore di pioggia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ad Ajab"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sali"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangia"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "e bevi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il rumore"
+    },
+    {
+      "surface": "המון",
+      "gloss": "di un fragore"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "della pioggia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:15.045074061Z",
+  "model": "glm-5.3"
+}

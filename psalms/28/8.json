@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "YHWH ⟨è⟩ la forza del suo popolo, ⟨ed è⟩ una roccaforte di salvezze per il suo Mashiach.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עז",
+      "gloss": "la forza"
+    },
+    {
+      "surface": "למו",
+      "gloss": "del suo popolo"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "e una roccaforte"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "di salvezze"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "per il suo Mashiach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨egli⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:51.200729378Z",
+  "model": "glm-5.3"
+}

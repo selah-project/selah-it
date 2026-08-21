@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 50,
+  "translation": "Mio padre mi fece giurare, dicendo: Ecco, io muoio: nel mio sepolcro, che ho scavato per me nella terra di Kenaan, là mi seppellirai. E ora salirò, ti prego, e seppellirò ⟨את⟩ mio padre, e tornerò.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Mio padre"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "mi fece giurare"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dicendo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ecco"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מת",
+      "gloss": "muoio"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "nel mio sepolcro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "ho scavato"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nella terra"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "di Kenaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "mi seppellirai"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "E ora"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "salirò"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "e seppellirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mio padre"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mio padre"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "e tornerò"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:15.430342054Z",
+  "model": "glm-5.3"
+}

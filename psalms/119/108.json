@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Le offerte volontarie della mia bocca ti piacciano, ti prego, YHWH, e i tuoi giudizi insegnami.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "le offerte volontarie"
+    },
+    {
+      "surface": "פי",
+      "gloss": "della mia bocca"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ti piacciano \/ accetta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ti prego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "e i tuoi giudizi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "insegnami"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:38.307309092Z",
+  "model": "glm-5.3"
+}

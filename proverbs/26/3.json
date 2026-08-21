@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Frusta per il cavallo, morso per l'asino, e verga per la schiena degli stolti.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "frusta"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "per il cavallo"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "morso"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "per l'asino"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "e verga"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "per la schiena"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "degli stolti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:25.328798865Z",
+  "model": "glm-5.3"
+}

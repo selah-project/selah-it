@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Resi grandi le mie opere: mi costruii case, mi piantai vigneti.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Resi grandi"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "le mie opere"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mi costruii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "case"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "mi piantai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vigneti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:19.542190569Z",
+  "model": "glm-5.3"
+}

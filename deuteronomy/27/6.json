@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 27,
+  "translation": "Di pietre intatte costruirai ⟨את⟩ l'altare di YHWH, il tuo Elohim, e farai salire su di esso olà ⟨offerte di elevazione⟩ per YHWH, il tuo Elohim.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "di pietre"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "intatte"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "costruirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'altare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "e farai salire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "su di esso"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "olà (offerte di elevazione)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "il tuo Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T06:46:40.575129268Z",
+  "model": "glm-5.3"
+}

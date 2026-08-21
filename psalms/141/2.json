@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 141,
+  "translation": "Stia ferma la mia preghiera come incenso davanti a te, l'elevazione delle mie palme come offerta della sera.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "stia ferma"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "come incenso"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "davanti a te"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "l'elevazione"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "delle mie palme"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "come offerta"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "della sera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:27.388692790Z",
+  "model": "glm-5.3"
+}

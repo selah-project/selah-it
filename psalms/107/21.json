@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 107,
+  "translation": "Rendano grazie a YHWH per il suo chesed, e per le sue meraviglie ai figli dell'uomo.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "rendano grazie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "il suo chesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "e per le sue meraviglie"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'uomo"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:03.839098227Z",
+  "model": "glm-5.3"
+}

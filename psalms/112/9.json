@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 112,
+  "translation": "Ha sparso, ha dato ai bisognosi; la sua giustizia sta in piedi per sempre; la sua corna si innalzerà con onore.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "ha sparso"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ha dato"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ai bisognosi"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "la sua giustizia"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sta in piedi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "la sua corna"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "si innalzerà"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "con onore"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:24.064619974Z",
+  "model": "glm-5.3"
+}

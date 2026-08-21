@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Porgete l'orecchio a me, popolo mio, e nazione mia, a me ascoltate: perché una Torah da ⟨את⟩ me uscirà, e il mio giudizio a luce dei popoli lo farò riposare.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Porgete l'orecchio"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popolo mio"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "e nazione mia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ascoltate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "una Torah"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "da ⟨את⟩ me",
+      "marks": "me"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uscirà"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "e il mio giudizio"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "a luce"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dei popoli"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "lo farò riposare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:43.750082470Z",
+  "model": "glm-5.3"
+}

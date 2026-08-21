@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 57,
+  "translation": "Io creo il frutto delle labbra: shalom, shalom al lontano e al vicino, dice YHWH; e io lo guarirò.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "io creo"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "il frutto"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "delle labbra"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "al lontano"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "e al vicino"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "e io lo guarirò"
+    }
+  ],
+  "timestamp": "2026-08-21T07:56:48.193768995Z",
+  "model": "glm-5.3"
+}

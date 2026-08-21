@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "Ester non dichiarava la sua natalità né ⟨את⟩ il suo popolo, come le aveva ordinato Mardocai; e ⟨את⟩ l'ordine di Mardocai Ester lo osservava, come quando era sotto la sua custodia ⟨את⟩-con lui.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "dichiarava"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "la sua natalità"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il suo popolo"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "il suo popolo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva ordinato"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "le"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardocai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'ordine di Mardocai"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "l'ordine"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "di Mardocai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "osservava"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "era"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "sotto la sua custodia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-con lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:35.016780421Z",
+  "model": "glm-5.3"
+}

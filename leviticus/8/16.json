@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E prese ⟨את⟩ tutto il grasso che ⟨era⟩ sugli intestini, e ⟨את⟩ il lobo del fegato, e ⟨את⟩ i due reni e ⟨את⟩ il loro grasso; e Mosè li fece fumare sull'altare.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "E prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il grasso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "il grasso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "gli intestini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il lobo del fegato"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "il lobo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "del fegato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i due reni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "i due"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "reni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il loro grasso"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "il loro grasso"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "fece fumare"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:13:19.964324601Z",
+  "model": "glm-5.3"
+}

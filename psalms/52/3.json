@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 52,
+  "translation": "Perché ti vanti nel male, o potente? Il chesed di El ⟨dura⟩ tutto il giorno.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ti vanti"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nel male"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "o potente"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "il chesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "il giorno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:27.895988197Z",
+  "model": "glm-5.3"
+}

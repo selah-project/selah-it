@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "E guarda il mio occhio ⟨lo sfacelo⟩ dei miei avversari, ⟨su⟩ quelli che si levano contro di me, i malvagi — lo odono le mie orecchie.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "e guarda"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "il mio occhio"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "⟨lo sfacelo⟩ dei miei avversari"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "quelli che si levano"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contro di me"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "i malvagi"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "lo odono"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "le mie orecchie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:05.160233174Z",
+  "model": "glm-5.3"
+}

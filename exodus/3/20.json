@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E stenderò ⟨את⟩ la mia mano e colpirò ⟨את⟩ l'Egitto con tutte le mie meraviglie che farò in mezzo ad esso; e dopo ciò vi manderà via.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "e stenderò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mia mano"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "la mia mano"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "e colpirò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Egitto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "con tutte"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "le mie meraviglie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "farò"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in mezzo ad esso"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e dopo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ciò"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "vi manderà via"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-vi",
+      "marks": "voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:55:17.420082598Z",
+  "model": "glm-5.3"
+}

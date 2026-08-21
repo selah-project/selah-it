@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E mostrò loro ⟨את⟩ l'ingresso della città, e colpirono ⟨את⟩ la città a fil di spada; e ⟨את⟩ l'uomo e ⟨את⟩ tutta la sua famiglia li lasciarono andare.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "mostrò loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'ingresso della città"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "l'ingresso"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "e colpirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la città"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la città"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "a fil di"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "spada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutta la sua famiglia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutta"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "la sua famiglia"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "lasciarono andare"
+    }
+  ],
+  "timestamp": "2026-08-21T06:58:09.089925052Z",
+  "model": "glm-5.3"
+}

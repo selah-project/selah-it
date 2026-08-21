@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "che abbiamo udito e conosciamo, e che i nostri padri ci hanno raccontato.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "abbiamo udito"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "e conosciamo"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "e i nostri padri"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "hanno raccontato"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:23.921220510Z",
+  "model": "glm-5.3"
+}

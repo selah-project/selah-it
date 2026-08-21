@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Riscatti Elohim ⟨את⟩ Israele da tutte le sue angustie.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "riscatti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "da tutte"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "le sue angustie"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:16.436187746Z",
+  "model": "glm-5.3"
+}

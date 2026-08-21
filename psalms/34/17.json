@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "Il volto di YHWH ⟨è⟩ contro i fautori del male, per recidere dalla terra il loro ricordo.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "il volto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "contro i fautori"
+    },
+    {
+      "surface": "רע",
+      "gloss": "del male"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "per recidere"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dalla terra"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "il loro ricordo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:16.712014474Z",
+  "model": "glm-5.3"
+}

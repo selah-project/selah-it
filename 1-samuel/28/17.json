@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "YHWH ha fatto per sé come aveva parlato per mio mezzo: YHWH ha strappato ⟨את⟩ il regno dalla tua mano e lo ha dato al tuo prossimo, a Davide.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ha fatto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per sé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aveva parlato"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "per mio mezzo"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ha strappato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il regno"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "il regno"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "dalla tua mano"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "e lo ha dato"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "al tuo prossimo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Davide"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:33.426817572Z",
+  "model": "glm-5.3"
+}

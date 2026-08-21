@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non prenderà un uomo ⟨את⟩ la donna di suo padre, e non scoprirà il lembo di suo padre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "יִקָּח",
+      "gloss": "prenderà"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la donna di suo padre"
+    },
+    {
+      "surface": "אֶשֶׁת",
+      "gloss": "la donna (moglie)"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "di suo padre"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "יְגַלֶּה",
+      "gloss": "scoprirà"
+    },
+    {
+      "surface": "כְּנַף",
+      "gloss": "il lembo (l'orlo del mantello)"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "di suo padre"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:59.428175783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "I miei amati e i miei amici davanti alla mia piaga stanno fermi, e i miei parenti da lontano stanno.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "i miei amati"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "e i miei amici"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "davanti"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "alla mia piaga"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stanno fermi"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "e i miei parenti"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "da lontano"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "stanno"
+    }
+  ],
+  "timestamp": "2026-08-21T08:49:41.847165433Z",
+  "model": "glm-5.3"
+}

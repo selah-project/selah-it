@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 103,
+  "translation": "che sazia di bene ⟨il⟩ tuo ornamento — si rinnova come l'aquila la tua giovinezza.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "che sazia"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "di bene"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "il tuo ornamento"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "si rinnova"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "come l'aquila"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "la tua giovinezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:49.411158859Z",
+  "model": "glm-5.3"
+}

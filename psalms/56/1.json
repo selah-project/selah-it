@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "Al direttore del coro. Su « Yonath elem rechokim » — la colomba silenziosa dei lontani. Di David. Mikhtam. Quando afferrarono ⟨את⟩ lui i Filistei a Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Al direttore del coro"
+    },
+    {
+      "surface": "על",
+      "gloss": "Su"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "la colomba"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "silenziosa"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "dei lontani"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Di David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "Quando afferrarono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "i Filistei"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "i Filistei"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "a Gat"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:16.265154331Z",
+  "model": "glm-5.3"
+}

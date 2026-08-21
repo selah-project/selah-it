@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E l'uomo che commette adulterio ⟨את⟩ con la moglie di un uomo, che commette adulterio ⟨את⟩ con la moglie del suo prossimo, sarà messo a morte: l'adultero e l'adultera.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e l'uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "commette adulterio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la moglie di un uomo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la moglie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di un uomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "commette adulterio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la moglie del suo prossimo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la moglie"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "del suo prossimo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "morte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sarà messo a morte"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "l'adultero"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "e l'adultera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:18:21.725504362Z",
+  "model": "glm-5.3"
+}

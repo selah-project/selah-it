@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 34,
+  "translation": "E imparentatevi ⟨את⟩ con noi: le vostre figlie date a noi, e ⟨את⟩ le nostre figlie prendete per voi.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "e imparentatevi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ con noi"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "le vostre figlie"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "date"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le nostre figlie"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "le nostre figlie"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "prendete"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "per voi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:47:11.874273055Z",
+  "model": "glm-5.3"
+}

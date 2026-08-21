@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E il sacerdote diede ai capi delle centurie ⟨את⟩ la lancia e ⟨את⟩ gli scudi che ⟨erano⟩ del re Davide, che ⟨si trovavano⟩ nella casa di YHWH.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "e diede"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ai capi"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "delle centurie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la lancia"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "la lancia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gli scudi"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "gli scudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T07:38:21.600949877Z",
+  "model": "glm-5.3"
+}

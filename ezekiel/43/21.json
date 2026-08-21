@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "E prenderai ⟨את⟩ il giovenco del sacrificio per il peccato e lo brucerai nel luogo designato della casa, fuori dal santuario.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "e prenderai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il giovenco del sacrificio per il peccato"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il giovenco"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "del sacrificio per il peccato"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "e lo brucerai"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "nel luogo designato"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fuori"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "dal santuario"
+    }
+  ],
+  "timestamp": "2026-08-21T08:29:45.681388239Z",
+  "model": "glm-5.3"
+}

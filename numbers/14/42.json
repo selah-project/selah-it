@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Non salite, perché YHWH non ⟨è⟩ in mezzo a voi, e non siate colpiti davanti ai vostri nemici.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Non"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "salite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non ⟨è⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in mezzo a voi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "siate colpiti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ai vostri nemici"
+    }
+  ],
+  "timestamp": "2026-08-21T06:29:23.566867684Z",
+  "model": "glm-5.3"
+}

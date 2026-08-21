@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "E Mosè scrisse ⟨את⟩ le loro partenze secondo le loro tappe, per bocca di YHWH; e queste sono le loro tappe secondo le loro partenze.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "E scrisse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le loro partenze"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "le loro partenze"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "secondo le loro tappe"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bocca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "e queste"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "sono le loro tappe"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "secondo le loro partenze"
+    }
+  ],
+  "timestamp": "2026-08-21T06:38:07.199233961Z",
+  "model": "glm-5.3"
+}

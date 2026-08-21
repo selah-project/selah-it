@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Non ricordarono ⟨את⟩ la sua mano, il giorno in cui li riscattò dall'avversario.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ricordarono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua mano"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "יום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in cui"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "li riscattò"
+    },
+    {
+      "surface": "מני",
+      "gloss": "da"
+    },
+    {
+      "surface": "צר",
+      "gloss": "l'avversario"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:51.888353294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Devastato ⟨è⟩ il campo, in lutto ⟨è⟩ la terra, perché devastato ⟨è⟩ il grano; inaridito ⟨è⟩ il mosto, langue l'olio.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "devastato"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "il campo"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "in lutto"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "devastato"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "il grano"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "inaridito"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "il mosto"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "langue"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "l'olio"
+    }
+  ],
+  "timestamp": "2026-08-21T08:34:18.097633074Z",
+  "model": "glm-5.3"
+}

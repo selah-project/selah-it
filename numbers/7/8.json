@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "E ⟨את⟩ quattro carri e ⟨את⟩ otto buoi diede ai figli di Merari, secondo il loro servizio, sotto la mano di Itamar figlio di Aharon il sacerdote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "quattro carri"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quattro"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "carri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "otto buoi"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "otto"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "buoi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diede"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ai figli di"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "secondo"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "il loro servizio"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sotto la mano di"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio di"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    }
+  ],
+  "timestamp": "2026-08-21T06:25:04.592618626Z",
+  "model": "glm-5.3"
+}

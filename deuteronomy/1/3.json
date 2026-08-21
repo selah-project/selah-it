@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E avvenne nel quarantesimo anno, nell'undicesimo mese, nel primo ⟨giorno⟩ del mese, che Mosè parlò ai figli d'Israele secondo tutto ciò che YHWH ⟨gli⟩ aveva comandato riguardo a loro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "nel quarantesimo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "anno"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "nell'undi-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-cesimo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mese"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "nel primo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "del mese"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parlò"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "secondo tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aveva comandato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui — Mosè, oggetto del comandare"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "riguardo a loro"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:51.962808196Z",
+  "model": "glm-5.3"
+}

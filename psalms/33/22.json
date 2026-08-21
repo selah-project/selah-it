@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 33,
+  "translation": "Sia il tuo chesed, YHWH, su di noi, come abbiamo sperato in te.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sia"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "su di noi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "abbiamo sperato"
+    },
+    {
+      "surface": "לך",
+      "gloss": "in te"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:03.818615248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E ti vestii di ricamo, e ti calzai di ⟨pelle di⟩ tachash, e ti cinsi di lino fino, e ti coprii di seta.",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "e ti vestii"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "di ricamo"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "e ti calzai"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "di ⟨pelle di⟩ tachash"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "e ti cinsi"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "di lino fino"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "e ti coprii"
+    },
+    {
+      "surface": "משי",
+      "gloss": "di seta"
+    }
+  ],
+  "timestamp": "2026-08-21T08:20:08.108243971Z",
+  "model": "glm-5.3"
+}

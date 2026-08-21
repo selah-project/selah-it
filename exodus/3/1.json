@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E Mosè era pastore ⟨את⟩ il gregge di Itro, suo suocero, sacerdote di Midian; e condusse ⟨את⟩ il gregge dietro il deserto, e venne al monte dell'Elohim, a Chorev.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "E Mosè"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pastore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "di Itro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "suo suocero"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sacerdote"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "di Midian"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "e condusse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il gregge"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "il gregge"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "dietro"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "il deserto"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "e venne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הר",
+      "gloss": "al monte"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dell'Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "a Chorev"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:11.090760202Z",
+  "model": "glm-5.3"
+}

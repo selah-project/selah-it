@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E Davide e tutta la casa d'Israele facevano salire ⟨את⟩ l'arca di YHWH con giubilo e al suono dello shofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "e Davide"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "facevano salire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arca di YHWH"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "con giubilo (grido di guerra-esultanza)"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "e al suono"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "dello shofar"
+    }
+  ],
+  "timestamp": "2026-08-21T07:17:32.653758459Z",
+  "model": "glm-5.3"
+}

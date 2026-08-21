@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 29,
+  "translation": "E scannerai ⟨את⟩ il toro davanti a YHWH, all'ingresso della tenda del convegno.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "e scannerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il toro (הפר)"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il toro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:04:34.206148176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E i figli d'Israele partirono per le loro tappe dal deserto di Sinai, e la nube si posò nel deserto di Paran.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "partirono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli di"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "per le loro tappe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dal deserto di"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "e si posò"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nube"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nel deserto di"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-21T06:27:37.578254379Z",
+  "model": "glm-5.3"
+}

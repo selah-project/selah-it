@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 43,
+  "translation": "E si lavò la faccia e uscì, e si trattenne, e disse: Portate pane.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "e si lavò"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "la faccia"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "e uscì"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "e si trattenne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "portate"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    }
+  ],
+  "timestamp": "2026-08-21T05:50:41.716442918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Porterà ⟨את⟩ una benedizione da parte di YHWH, e giustizia da parte dell'Elohim della sua salvezza.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "porterà"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "una benedizione"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "da parte di — una benedizione"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e giustizia"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "da parte dell'Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "della sua salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:29.087288641Z",
+  "model": "glm-5.3"
+}

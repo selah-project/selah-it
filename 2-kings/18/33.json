@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Hanno forse del tutto liberato gli dèi delle nazioni, ciascuno ⟨את⟩ la sua terra, dalla mano del re di Ashsur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "hanno forse del tutto liberato"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "liberato"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gli dèi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "delle nazioni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sua terra"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "la sua terra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla mano"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "di Ashsur"
+    }
+  ],
+  "timestamp": "2026-08-21T07:40:49.421468386Z",
+  "model": "glm-5.3"
+}

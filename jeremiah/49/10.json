@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Poiché io ho spogliato ⟨את⟩ Esav, ho svelato ⟨את⟩ i suoi nascondigli, e nascondersi non potrà: saccheggiato ⟨è⟩ il suo seme, e i suoi fratelli e i suoi vicini, e lui non ⟨è⟩ più.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "ho spogliato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ho svelato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i suoi nascondigli"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "i suoi nascondigli"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "e nascondersi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "potrà"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "saccheggiato"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "il suo seme"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "e i suoi fratelli"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "e i suoi vicini"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "e lui non è più"
+    }
+  ],
+  "timestamp": "2026-08-21T08:14:26.543234781Z",
+  "model": "glm-5.3"
+}

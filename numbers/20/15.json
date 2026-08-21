@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 20:15",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E scesero i nostri padri in Egitto, e abitammo in Egitto giorni molti, e l'Egitto ci fece del male, a noi e ai nostri padri.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "scesero"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "i nostri padri"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "abitammo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Egitto"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "molti"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "fece del male"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Egitto"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ai nostri padri"
+    }
+  ],
+  "timestamp": "2026-08-21T06:31:16.617453794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "La bocca dello stolto ⟨è⟩ rovina per lui, e le sue labbra ⟨sono⟩ un laccio per la sua nefesh.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "la bocca"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dello stolto"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "rovina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "e le sue labbra"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "un laccio"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "per la sua nefesh"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:15.454190808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "Achab chiamò Obadiahu, che ⟨era⟩ sopra la casa; e Obadiahu temeva ⟨את⟩ YHWH grandemente.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "chiamò"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadiahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "על",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "e Obadiahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "era"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "temeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandemente"
+    }
+  ],
+  "timestamp": "2026-08-21T10:08:20.912598582Z",
+  "model": "glm-5.3"
+}

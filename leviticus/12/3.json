@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E nell'ottavo giorno si circoncida la carne del suo prepuzio.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "E nel giorno"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ottavo"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "si circoncida"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la carne"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "del suo prepuzio"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:14.824128661Z",
+  "model": "glm-5.3"
+}

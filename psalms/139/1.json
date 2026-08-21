@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Al direttore del coro. Mizmor di David. YHWH, mi hai scrutato e conosciuto.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "di David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "mi hai scrutato"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "e conosciuto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:05.705713531Z",
+  "model": "glm-5.3"
+}

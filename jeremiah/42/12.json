@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 42,
+  "translation": "E vi darò compassioni, ed egli avrà compassione ⟨את⟩ di voi, e vi farò tornare ⟨את⟩ al vostro suolo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "e darò"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vi"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "compassioni"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "e avrà compassione"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩di voi",
+      "marks": "di voi (avere compassione)"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "e farà tornare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩vi",
+      "marks": "vi (far tornare)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "al vostro suolo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:12:28.169026344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Ma io ⟨sono⟩ povero e dolente: la tua salvezza, o Elohim, mi ponga al sicuro in alto.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma io"
+    },
+    {
+      "surface": "עני",
+      "gloss": "povero"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "e dolente"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "la tua salvezza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "mi ponga al sicuro in alto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:54:07.751089453Z",
+  "model": "glm-5.3"
+}

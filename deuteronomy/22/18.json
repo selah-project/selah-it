@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "E gli anziani di quella città prenderanno ⟨את⟩ l'uomo e ⟨את⟩ lo puniranno;",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "e prenderanno"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "gli anziani"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "e lo puniranno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:57.135540904Z",
+  "model": "glm-5.3"
+}

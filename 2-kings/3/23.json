@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E dissero: sangue ⟨è⟩ questo! I re si sono certo distrutti, hanno colpito ciascuno ⟨את⟩ il suo prossimo; e ora, al bottino, Moab!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "E dissero"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sangue"
+    },
+    {
+      "surface": "זה",
+      "gloss": "questo"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "si sono certo distrutti"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "distrutti (sono)"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "i re"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "hanno colpito"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ciascuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il suo prossimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "il suo prossimo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "al bottino"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-21T07:35:33.546313732Z",
+  "model": "glm-5.3"
+}

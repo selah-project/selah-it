@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 32,
+  "translation": "E non si offuscheranno gli occhi di quelli che vedono, e le orecchie di quelli che ascoltano staranno attente.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "E non"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "si offuscheranno"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gli occhi"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "di quelli che vedono"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "e le orecchie"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "di quelli che ascoltano"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "staranno attente"
+    }
+  ],
+  "timestamp": "2026-08-21T07:49:41.918507353Z",
+  "model": "glm-5.3"
+}

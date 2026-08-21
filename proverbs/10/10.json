@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "Chi ammicca con l'occhio procura dolore, e lo sciocco di labbra cadrà.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "chi ammicca"
+    },
+    {
+      "surface": "עין",
+      "gloss": "con l'occhio"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "procura"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "dolore"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "e lo sciocco"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "di labbra"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "cadrà"
+    }
+  ],
+  "timestamp": "2026-08-21T09:08:24.830057247Z",
+  "model": "glm-5.3"
+}

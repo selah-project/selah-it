@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E ora, abitante di Gerusalemme e uomo di Yehudah, giudicate, vi prego, tra me e la mia vigna.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "abitante"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e uomo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Yehudah"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "giudicate"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vi prego"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tra me"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "la mia vigna"
+    }
+  ],
+  "timestamp": "2026-08-21T07:44:20.979032763Z",
+  "model": "glm-5.3"
+}

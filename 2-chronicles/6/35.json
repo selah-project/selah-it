@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "tu ascolterai dai cieli ⟨את⟩ la loro preghiera e ⟨את⟩ la loro supplica, e farai il loro diritto.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "tu ascolterai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "da"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i cieli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la loro preghiera"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "la loro preghiera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la loro supplica"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "la loro supplica"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "il loro diritto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:55:02.221030042Z",
+  "model": "glm-5.3"
+}

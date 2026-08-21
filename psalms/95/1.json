@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 95,
+  "translation": "Venite, cantiamo a YHWH, acclamiamo alla Rupe della nostra salvezza.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "venite"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "cantiamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a YHWH"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "acclamiamo"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "alla Rupe"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "della nostra salvezza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:58:16.376153018Z",
+  "model": "glm-5.3"
+}

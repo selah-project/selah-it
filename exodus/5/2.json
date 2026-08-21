@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E disse Paroh: chi ⟨è⟩ YHWH, che io ascolti la sua voce per mandar via ⟨את⟩ Israele? Non ho conosciuto ⟨את⟩ YHWH, e anche ⟨את⟩ Israele non manderò via.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "io ascolti"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "la sua voce"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "per mandar via"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ho conosciuto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e anche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "manderò via"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:38.199204878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 65,
+  "translation": "Che fermo ⟨sta⟩ le montagne con la sua forza, cinto di vigore.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "ferma"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "le montagne"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "con la sua forza"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "cinto"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "di vigore"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:16.048750588Z",
+  "model": "glm-5.3"
+}

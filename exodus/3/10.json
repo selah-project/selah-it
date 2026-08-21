@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E ora va', e io ti manderò da Parò, e tu farai uscire ⟨את⟩ il mio popolo, i figli d'Israele, dall'Egitto.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ora"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "va'"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "e io ti manderò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parò"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "e farai uscire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mio popolo, i figli d'Israele"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "il mio popolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dall'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:56.318213910Z",
+  "model": "glm-5.3"
+}

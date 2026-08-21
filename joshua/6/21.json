@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E votarono allo sterminio ⟨את⟩ tutto ciò che era nella città, dall'uomo alla donna, dal ragazzo al vecchio, fino al bue e alla pecora e all'asino, al filo della spada.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "E votarono allo sterminio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto ciò che era nella città"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "era nella città"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dall'uomo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "donna"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "dal ragazzo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "al"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vecchio"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "fino al"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bue"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "e alla pecora"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "e all'asino"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "al filo di"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "spada"
+    }
+  ],
+  "timestamp": "2026-08-21T06:52:19.593209383Z",
+  "model": "glm-5.3"
+}

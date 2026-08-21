@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "In quel giorno si dirà a Gerusalemme: non temere! Tzion, non si slaccino le tue mani!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel giorno"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "si dirà"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "a Gerusalemme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "temere"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "si slaccino"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "le tue mani"
+    }
+  ],
+  "timestamp": "2026-08-21T08:39:58.000087275Z",
+  "model": "glm-5.3"
+}

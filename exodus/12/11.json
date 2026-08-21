@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E così lo mangerete: i vostri fianchi cinti, i sandali ai vostri piedi e il bastone nella vostra mano; e lo mangerete ⟨את⟩ in fretta: ⟨⟨è⟩⟩ il Pesach di YHWH.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "e così"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "i vostri fianchi"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "cinti"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "i vostri sandali"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "ai vostri piedi"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "e il vostro bastone"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "nella vostra mano"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "e mangerete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lo"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "in fretta"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "il Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "di YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:25.326631308Z",
+  "model": "glm-5.3"
+}

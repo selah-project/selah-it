@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "e per dominare ⟨il⟩ giorno e ⟨la⟩ notte, e per separare tra la luce e tra le tenebre; e vide Elohim che ⟨era⟩ buono.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "e per dominare"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "il giorno"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "e la notte"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "e per separare"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tra"
+    },
+    {
+      "surface": "האור",
+      "gloss": "la luce"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e tra"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "le tenebre"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:38.085594964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "Come posso portare, io solo, il vostro peso e il vostro carico e le vostre liti?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "come"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "posso portare"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "io solo"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "il vostro peso"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "e il vostro carico"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "e le vostre liti"
+    }
+  ],
+  "timestamp": "2026-08-21T06:39:53.170445384Z",
+  "model": "glm-5.3"
+}

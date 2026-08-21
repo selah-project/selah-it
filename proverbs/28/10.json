@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 28,
+  "translation": "Chi sviava i retti per una via cattiva, nella fossa che lui scavava cadrà; e i perfetti erederanno il bene.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "chi sviava"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "i retti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "per una via"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cattiva"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "nella fossa che lui scavava"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "cadrà"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "e i perfetti"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "erederanno"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    }
+  ],
+  "timestamp": "2026-08-21T09:12:57.431124473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 69,
+  "translation": "Rispondimi, YHWH, perché buono ⟨è⟩ il tuo chesed; secondo la moltitudine delle tue tenerezze volgiti verso di me.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "rispondimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "secondo la moltitudine"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "delle tue tenerezze"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "volgiti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "verso di me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:41.347275386Z",
+  "model": "glm-5.3"
+}

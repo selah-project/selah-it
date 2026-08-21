@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E i messaggeri tornarono da lui, e disse loro: perché ⟨questo⟩ siete tornati?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "e tornarono"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "i messaggeri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "da lui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "perché"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨questo⟩"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "siete tornati"
+    }
+  ],
+  "timestamp": "2026-08-21T07:34:05.858597159Z",
+  "model": "glm-5.3"
+}

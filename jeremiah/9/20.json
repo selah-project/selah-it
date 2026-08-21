@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 9:20",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "Poiché la morte è salita per le nostre finestre, è entrata nei nostri palazzi, per sterminare il bimbo dalla strada, i giovani dalle piazze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "è salita"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la morte"
+    },
+    {
+      "surface": "בחלונינו",
+      "gloss": "per le nostre finestre"
+    },
+    {
+      "surface": "בא",
+      "gloss": "è entrata"
+    },
+    {
+      "surface": "בארמנותינו",
+      "gloss": "nei nostri palazzi"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "per sterminare"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "il bimbo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dalla strada"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "i giovani"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "dalle piazze"
+    }
+  ],
+  "timestamp": "2026-08-21T08:01:37.120365056Z",
+  "model": "glm-5.3"
+}

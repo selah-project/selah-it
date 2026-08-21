@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E le sue interiora e le sue zampe laverà con l'acqua, e il sacerdote farà salire in fumo ⟨את⟩ il tutto sull'altare: olà (offerta di elevazione), offerta fatta col fuoco, profumo di quiete per YHWH.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "e le sue interiora"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "e le sue zampe"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "laverà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "con l'acqua"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "e farà salire in fumo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tutto"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "il tutto"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sull'altare"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olà"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "offerta fatta col fuoco"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "profumo"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "di quiete"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "per YHWH"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:57.252081442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 49,
+  "translation": "Dall'El di tuo padre, che ti soccorre — e ⟨את⟩ Shaddai, che ti benedica — con benedizioni dei cieli di sopra, benedizioni del profondo che giace sotto, benedizioni dei seni e del grembo.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "dall'El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "di tuo padre"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "che ti soccorre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaddai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "che ti benedica"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "benedizioni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dei cieli"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di sopra"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "benedizioni"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "del profondo"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "che giace"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sotto"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "benedizioni"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "dei seni"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "e del grembo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:27.138424659Z",
+  "model": "glm-5.3"
+}

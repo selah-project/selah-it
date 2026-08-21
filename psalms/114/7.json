@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 114,
+  "translation": "Dinanzi ad Adonai trema, o terra, dinanzi a Eloah di Yaakov!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "dinanzi a"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "trema"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o terra"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dinanzi a"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "di Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T09:00:40.678518953Z",
+  "model": "glm-5.3"
+}

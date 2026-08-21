@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Tutti i sentieri di YHWH ⟨sono⟩ chesed e verità, per quelli che custodiscono il suo patto e le sue testimonianze.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "i sentieri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "e verità"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "per quelli che custodiscono"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "il suo patto"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "e le sue testimonianze"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:24.539938451Z",
+  "model": "glm-5.3"
+}

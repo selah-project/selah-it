@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E il re d'Israele rispose e disse: «Ditegli: non si vanti chi si cinge ⟨l'armatura⟩ come chi la slaccia».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "e rispose"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "si vanti"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "chi si cinge"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "come chi slaccia"
+    }
+  ],
+  "timestamp": "2026-08-21T07:33:17.531873510Z",
+  "model": "glm-5.3"
+}

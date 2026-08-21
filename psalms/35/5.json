@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 35,
+  "translation": "Siano come pula davanti al vento, e un angelo di YHWH li spinga via.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "siano"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "come pula"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vento"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "e un angelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "spinga via"
+    }
+  ],
+  "timestamp": "2026-08-21T08:48:44.900622768Z",
+  "model": "glm-5.3"
+}

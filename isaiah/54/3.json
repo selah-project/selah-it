@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 54,
+  "translation": "Poiché a destra e a sinistra irromperai, e la tua discendenza erediterà le nazioni e farà abitare le città desolate.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "a destra"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "e a sinistra"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "irromperai"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "e la tua discendenza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "le nazioni"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "erediterà"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "e le città"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "desolate"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "farà abitare"
+    }
+  ],
+  "timestamp": "2026-08-21T07:55:39.564265499Z",
+  "model": "glm-5.3"
+}

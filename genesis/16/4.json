@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E venne ⟨da⟩ Hagar, ed ella concepì; e vide che aveva concepito, e la sua padrona divenne leggera ai suoi occhi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "E venne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ed ella concepì"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "aveva concepito"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "divenne leggera"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "la sua padrona"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "ai suoi occhi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:39:41.872827884Z",
+  "model": "glm-5.3"
+}

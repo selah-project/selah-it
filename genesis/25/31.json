@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "E disse Yaakov: « Vendimi come oggi ⟨את⟩ il tuo diritto di primogenitura ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "vendimi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "come oggi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il tuo diritto di primogenitura"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "il tuo diritto di primogenitura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a me"
+    }
+  ],
+  "timestamp": "2026-08-21T05:42:21.623147545Z",
+  "model": "glm-5.3"
+}

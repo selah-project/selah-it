@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E fece Elohim ⟨את⟩ la bestia della terra secondo la sua specie, e ⟨את⟩ il bestiame secondo la sua specie, e ⟨את⟩ ogni rettile del suolo secondo la sua specie; e vide Elohim che ⟨era⟩ buono.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "e fece"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bestia della terra"
+    },
+    {
+      "surface": "חית",
+      "gloss": "la bestia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "secondo la sua specie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il bestiame"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "il bestiame"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "secondo la sua specie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogni rettile del suolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "rettile"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "del suolo"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "secondo la sua specie"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "e vide"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buono"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:26.202041327Z",
+  "model": "glm-5.3"
+}

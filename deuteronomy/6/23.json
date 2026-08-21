@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "E ⟨את⟩ noi fece uscire di là, per farci entrare, per dare a noi ⟨את⟩ la terra che giurò ai nostri padri.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ noi",
+      "marks": "« fece uscire » — l'aleph-tav punta noi, oggetto tratto fuori"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "fece uscire"
+    },
+    {
+      "surface": "משם",
+      "gloss": "di là"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "farci entrare"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ noi",
+      "marks": "« dare » — l'aleph-tav punta noi, destinatari della terra"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "per dare"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a noi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "giurò"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ai nostri padri"
+    }
+  ],
+  "timestamp": "2026-08-21T10:05:51.956276602Z",
+  "model": "glm-5.3"
+}

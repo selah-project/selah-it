@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "it",
+  "chapter": 5,
+  "translation": "E farà bere ⟨את⟩ la donna ⟨את⟩ le acque amare esecranti, e verranno in lei le acque esecranti per amaritudine.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "e farà bere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la donna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la donna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le acque amare"
+    },
+    {
+      "surface": "מי",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "amare"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "esecranti"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "e verranno"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in lei"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "esecranti"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "per amaritudine"
+    }
+  ],
+  "timestamp": "2026-08-21T06:26:08.142347178Z",
+  "model": "glm-5.3"
+}

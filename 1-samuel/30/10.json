@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E inseguì Dawid, lui e quattrocento uomini; e si fermarono duecento uomini, perché ⟨erano⟩ sfiniti dal passare ⟨את⟩ il torrente ha-Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "E inseguì"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e quattro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cento"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "e si fermarono"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "duecento"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uomini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "erano sfiniti"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "dal passare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il torrente ha-Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "torrente"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "ha-Besor"
+    }
+  ],
+  "timestamp": "2026-08-21T07:15:17.470689607Z",
+  "model": "glm-5.3"
+}

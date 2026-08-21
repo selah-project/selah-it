@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E rimasero ⟨lontano⟩ ⟨את⟩ gli eloahim dello straniero dal loro mezzo e servirono ⟨את⟩ YHWH; e la sua nefesh si impazientì per la fatica d'Israele.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "e rimasero lontano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gli eloahim dello straniero"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gli eloahim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "dello straniero"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "dal loro mezzo"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "e servirono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "e si impazientì"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "la sua nefesh"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "per la fatica"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T07:01:43.321878020Z",
+  "model": "glm-5.3"
+}

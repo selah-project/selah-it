@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 102,
+  "translation": "per udire il grido del prigioniero, per schiudere ⟨i carceri ai⟩ figli della morte;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "per udire"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "il grido"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "del prigioniero"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "per schiudere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "figli"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "della morte"
+    }
+  ],
+  "timestamp": "2026-08-21T08:59:13.530144542Z",
+  "model": "glm-5.3"
+}

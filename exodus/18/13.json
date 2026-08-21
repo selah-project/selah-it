@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E avvenne il giorno dopo, e Mosè sedette per giudicare ⟨את⟩ il popolo, e il popolo stette attorno a Mosè dalla mattina fino alla sera.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "E avvenne"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "il giorno dopo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "e sedette"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "per giudicare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il popolo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "e stette"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "attorno a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dalla"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mattina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fino alla"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sera"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:32.556862842Z",
+  "model": "glm-5.3"
+}

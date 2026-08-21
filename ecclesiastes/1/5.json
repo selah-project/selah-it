@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E spunta il sole, e cala il sole, e verso il suo luogo anela, esso che si leva — là ⟨si trova⟩ di nuovo.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "e spunta"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e cala"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "il sole"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e verso"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "il suo luogo"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "anela"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "esso che si leva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T09:28:39.230269035Z",
+  "model": "glm-5.3"
+}

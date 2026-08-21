@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E disse il re d'Israele: prendete ⟨את⟩ Micaia e riconducetelo da Amon, capo della città, e da Ioash, figlio del re.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "prendete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micaia"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Micaia"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "e riconducetelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "capo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "della città"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e da"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Ioash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T09:58:16.310270938Z",
+  "model": "glm-5.3"
+}

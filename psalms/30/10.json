@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "«Che guadagno ⟨c'è⟩ nel mio sangue, nel mio scendere verso la fossa? Ti loderà la polvere? Annuncerà ⟨essa⟩ la tua fedeltà?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "che"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "guadagno"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "nel mio sangue"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "nel mio scendere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verso"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "la fossa"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ti loderà"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la polvere"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "annuncerà"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "la tua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:37.400411726Z",
+  "model": "glm-5.3"
+}

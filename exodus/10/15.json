@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 10,
+  "translation": "E coprì ⟨את⟩ l'occhio di tutta la terra, e la terra si oscurò; e divorò ⟨את⟩ ogni erba della terra e ⟨את⟩ ogni frutto dell'albero che aveva lasciato la grandine; e non rimase nulla di verde nell'albero e nell'erba del campo, in tutta la terra d'Egitto.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "e coprì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'occhio di tutta la terra"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'occhio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "e si oscurò"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "e divorò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogni erba della terra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "erba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "della terra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ogni frutto dell'albero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frutto"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dell'albero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "aveva lasciato"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "la grandine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e non"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "rimase"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nulla"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "di verde"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "nell'albero"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "e nell'erba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "del campo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in tutta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Egitto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:57:01.851065317Z",
+  "model": "glm-5.3"
+}

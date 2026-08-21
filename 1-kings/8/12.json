@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "Allora parlò Shelomoh: «YHWH ha detto di voler abitare nella nube oscura».",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "allora"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "parlò"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha detto"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "di abitare"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "nella nube oscura"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:50.562736420Z",
+  "model": "glm-5.3"
+}

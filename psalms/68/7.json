@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 68,
+  "translation": "Elohim fa abitare in una casa i solitari, fa uscire i prigionieri in prosperità; ma i ribelli abitano in terra arsa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "fa abitare"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "i solitari"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "in una casa"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "fa uscire"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "i prigionieri"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "in prosperità"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "i ribelli"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "abitano"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "terra arsa"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:49.787050995Z",
+  "model": "glm-5.3"
+}

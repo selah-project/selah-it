@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "E ricordò Elohim ⟨את⟩ Noach, ⟨e את⟩ ogni vivente e ⟨את⟩ ogni bestia che ⟨era⟩ con lui nell'arca; e fece passare Elohim un Ruach su ⟨la⟩ terra, e si calmarono le acque.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "e ricordò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨e את⟩",
+      "marks": "ogni vivente"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "vivente"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨e את⟩",
+      "marks": "ogni bestia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ogni"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bestia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "con lui ⟨את⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "nell'arca"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "e fece passare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un Ruach"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "e si calmarono"
+    },
+    {
+      "surface": "המים",
+      "gloss": "le acque"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:57.422060198Z",
+  "model": "glm-5.3"
+}

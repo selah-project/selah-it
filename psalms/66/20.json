@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 66,
+  "translation": "Benedetto Elohim, che non ha allontanato da ⟨את⟩ me la mia preghiera né il suo chesed.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "benedetto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ha allontanato"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "la mia preghiera"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "né il suo chesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "da ⟨את⟩ me",
+      "marks": "me — l'oggetto del non-allontanamento"
+    }
+  ],
+  "timestamp": "2026-08-21T08:53:08.074353359Z",
+  "model": "glm-5.3"
+}

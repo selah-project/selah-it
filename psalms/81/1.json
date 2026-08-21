@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Al direttore del coro, sul ⟨modo di⟩ Ghitit; di Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore del coro"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨il modo di⟩ Ghitit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "di Asaf"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:35.223019571Z",
+  "model": "glm-5.3"
+}

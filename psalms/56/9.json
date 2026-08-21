@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 56,
+  "translation": "Le mie peregrinazioni tu hai contato: tu, metti le mie lacrime nel tuo otre — non ⟨sono esse⟩ nel tuo libro?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "le mie peregrinazioni"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "hai contato"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "metti"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "le mie lacrime"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "nel tuo otre"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "non…?"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "nel tuo libro"
+    }
+  ],
+  "timestamp": "2026-08-21T08:52:00.882835331Z",
+  "model": "glm-5.3"
+}

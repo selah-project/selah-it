@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 25,
+  "translation": "Vedi la mia miseria e la mia fatica, e porta via tutti i miei peccati.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "vedi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "la mia miseria"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "e la mia fatica"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "e porta via"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "i miei peccati"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:34.960421681Z",
+  "model": "glm-5.3"
+}

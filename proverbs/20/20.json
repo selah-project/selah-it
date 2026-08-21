@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "Chi maledice suo padre e sua madre, la sua lampada si spegnerà ⟨nel⟩ cuore ⟨della⟩ tenebra.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "Chi maledice"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "suo padre"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "e sua madre"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "si spegnerà"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "la sua lampada"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "⟨nel⟩ cuore ⟨della⟩"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tenebra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:49.557559034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "Fino a quando, YHWH? Ti nasconderai per sempre? Arderà come il fuoco la tua furia?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Fino a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quando"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ti nasconderai"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per sempre"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "arderà"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "come"
+    },
+    {
+      "surface": "אש",
+      "gloss": "il fuoco"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "la tua furia"
+    }
+  ],
+  "timestamp": "2026-08-21T10:11:07.747366942Z",
+  "model": "glm-5.3"
+}

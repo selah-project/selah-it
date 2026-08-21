@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 7:50",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "e le coppe, e le forbici, e gli aspersori, e le tazze, e i bracieri — oro puro; e i cardini per le porte della casa interna, per il santuario dei santi, e per le porte della casa, per il tempio: oro.",
+  "tokens": [
+    {
+      "surface": "והספות",
+      "gloss": "e le coppe"
+    },
+    {
+      "surface": "והמזמרות",
+      "gloss": "e le forbici"
+    },
+    {
+      "surface": "והמזרקות",
+      "gloss": "e gli aspersori"
+    },
+    {
+      "surface": "והכפות",
+      "gloss": "e le tazze"
+    },
+    {
+      "surface": "והמחתות",
+      "gloss": "e i bracieri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "puro"
+    },
+    {
+      "surface": "והפתות",
+      "gloss": "e i cardini"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "per le porte"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "interna"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "per il santuario"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dei santi"
+    },
+    {
+      "surface": "לדלתי",
+      "gloss": "per le porte"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "del tempio"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oro"
+    }
+  ],
+  "timestamp": "2026-08-21T07:27:31.218421976Z",
+  "model": "glm-5.3"
+}

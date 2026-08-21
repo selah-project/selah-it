@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Non sarà ⟨vi⟩ chi abortisce né sterile nella tua terra; ⟨את⟩ il numero dei tuoi giorni ⟨io⟩ colmerò.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "chi abortisce"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "né sterile"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nella tua terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il numero"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "il numero"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dei tuoi giorni"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "colmerò"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:57.260652018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 44,
+  "translation": "Al direttore ⟨del coro⟩, per i figli di Korach, maskil.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "al direttore"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "per i figli di"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:09.898673159Z",
+  "model": "glm-5.3"
+}

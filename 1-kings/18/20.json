@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 18,
+  "translation": "E Achab mandò fra tutti i figli d'Israele, e radunò ⟨את⟩ i profeti sul monte ⟨il⟩ Carmelo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "E mandò"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fra tutti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israele"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "e radunò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i profeti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "i profeti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "הר",
+      "gloss": "il monte"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "il Carmelo"
+    }
+  ],
+  "timestamp": "2026-08-21T07:32:16.544093577Z",
+  "model": "glm-5.3"
+}

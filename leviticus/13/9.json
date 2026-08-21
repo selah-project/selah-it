@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Quando una piaga di tsaraat sarà in una persona, ⟨egli⟩ sarà portato dal sacerdote.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "piaga"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "di tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quando"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "in una persona"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "sarà portato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:33.629824861Z",
+  "model": "glm-5.3"
+}

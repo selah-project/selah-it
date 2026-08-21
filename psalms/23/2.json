@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "In pascoli di erba tenera mi fa riposare, lungo acque di riposo mi conduce.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "in pascoli"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "di erba tenera"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "mi fa riposare"
+    },
+    {
+      "surface": "על",
+      "gloss": "lungo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "acque"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "di riposo"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "mi conduce"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:06.760428409Z",
+  "model": "glm-5.3"
+}

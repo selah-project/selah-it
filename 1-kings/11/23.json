@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 11,
+  "translation": "E Elohim suscitò contro di lui un avversario: ⟨את⟩ Rezon figlio di Elyada, che era fuggito da ⟨את⟩ Hadad-ezer re di Tzova, suo signore.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "e suscitò"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "contro di lui"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "un avversario"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "di Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "era fuggito"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "da ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad-ezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "re"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "di Tzova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "suo signore"
+    }
+  ],
+  "timestamp": "2026-08-21T07:29:27.258003531Z",
+  "model": "glm-5.3"
+}

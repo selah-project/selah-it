@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E avveniva che quando Mosè alzava la mano, Israele prevaleva; e quando abbassava la mano, prevaleva Amalek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e avveniva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "alzava"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "prevaleva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "e quando"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "abbassava"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la mano"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "prevaleva"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-21T06:00:26.040219365Z",
+  "model": "glm-5.3"
+}

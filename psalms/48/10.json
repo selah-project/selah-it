@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Abbiamo meditato, Elohim, sul tuo chesed ⟨nel⟩ ⟨senso⟩ ⟨del⟩ tuo tempio — dentro il tuo palazzo.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "abbiamo meditato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sul tuo chesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "dentro"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "il tuo palazzo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:17.139409563Z",
+  "model": "glm-5.3"
+}

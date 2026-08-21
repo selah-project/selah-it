@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 21,
+  "translation": "Tortuosa e strana ⟨è⟩ la via dell'uomo ⟨colpevole⟩; ma quanto al puro, retta ⟨è⟩ la sua opera.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "tortuosa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la via"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dell'uomo"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "e strana"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "ma quanto al puro"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "retta"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "la sua opera"
+    }
+  ],
+  "timestamp": "2026-08-21T09:11:15.218279173Z",
+  "model": "glm-5.3"
+}

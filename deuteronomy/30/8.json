@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "E tu tornerai e ascolterai la voce di YHWH, e farai ⟨את⟩ tutti i suoi comandamenti che io ti comando oggi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "e tu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tornerai"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "e ascolterai"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voce di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "e farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi comandamenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "i suoi comandamenti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "io"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti comando"
+    },
+    {
+      "surface": "היום",
+      "gloss": "oggi"
+    }
+  ],
+  "timestamp": "2026-08-21T06:47:46.648744022Z",
+  "model": "glm-5.3"
+}

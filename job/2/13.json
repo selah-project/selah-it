@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E si sedettero ⟨את⟩ lui a ⟨la⟩ terra sette giorni e sette notti, e non ⟨c'era⟩ chi gli parlasse parola, perché vedevano che molto grande ⟨era⟩ il dolore.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "e si sedettero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui — i tre amici accanto a Giobbe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a terra"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sette"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "giorni"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "e sette"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "notti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e non c'era"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chi parlasse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a lui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vedevano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "grande"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "il dolore"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "molto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:26.904717782Z",
+  "model": "glm-5.3"
+}

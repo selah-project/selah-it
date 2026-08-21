@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Perché il tuo chesed ⟨sta⟩ davanti ai miei occhi, e io mi sono comportato nella tua fedeltà.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Perché"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ai miei occhi"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "e mi sono comportato"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "nella tua fedeltà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:41.385171990Z",
+  "model": "glm-5.3"
+}

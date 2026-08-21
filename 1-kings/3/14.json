@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "E se camminerai nelle mie vie per custodire le mie leggi e i miei comandamenti, come camminò Davide tuo padre, prolungherò ⟨את⟩ i tuoi giorni.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E se"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "camminerai"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "nelle mie vie"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "per custodire"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "le mie leggi"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e i miei comandamenti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "come"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "camminò"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tuo padre"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "prolungherò"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i tuoi giorni"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "i tuoi giorni"
+    }
+  ],
+  "timestamp": "2026-08-21T07:25:24.589498913Z",
+  "model": "glm-5.3"
+}

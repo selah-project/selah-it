@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 81,
+  "translation": "Nella stretta chiamasti, e ti liberai; ti risposi nel nascondiglio del tuono, ti provai alle acque di Meriva. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "nella stretta"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "chiamasti"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "e ti liberai"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ti risposi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nel nascondiglio"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "del tuono"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ti provai"
+    },
+    {
+      "surface": "על",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מי",
+      "gloss": "acque"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "di Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:47.224110549Z",
+  "model": "glm-5.3"
+}

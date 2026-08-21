@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Poiché Ezra aveva preparato il suo cuore per cercare ⟨את⟩ la Torah di YHWH, e per fare, e per insegnare in Israele statuto e diritto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "aveva preparato"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "il suo cuore"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "per cercare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Torah di YHWH"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "e per fare"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "e per insegnare"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Israele"
+    },
+    {
+      "surface": "חק",
+      "gloss": "statuto"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e diritto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:38:40.487105872Z",
+  "model": "glm-5.3"
+}

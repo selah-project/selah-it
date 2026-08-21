@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E andò un uomo della casa di Levi e prese ⟨את⟩ una figlia di Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un uomo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "della casa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "di Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "e prese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "una figlia di Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "una figlia"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "di Levi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:49.362439766Z",
+  "model": "glm-5.3"
+}

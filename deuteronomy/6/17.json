@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 6,
+  "translation": "Custodire osserverete ⟨את⟩ i comandamenti di YHWH, vostro Elohim, e le sue testimonianze e i suoi statuti che vi ha comandato.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Custodire"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "osservare osserverete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i comandamenti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "i comandamenti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vostro Elohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "e le sue testimonianze"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "e i suoi statuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "vi ha comandato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:41:24.870958769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 48:10",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 48,
+  "translation": "Maledetto chi fa con negligenza l'opera di YHWH, e maledetto chi trattiene la sua spada dal sangue!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "maledetto"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chi fa"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "l'opera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "con negligenza"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "e maledetto"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "chi trattiene"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "la sua spada"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dal sangue"
+    }
+  ],
+  "timestamp": "2026-08-21T08:13:38.004854810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 78,
+  "translation": "Pane dei potenti mangiò ⟨l'⟩uomo; cibo inviò loro fino a sazietà.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "dei potenti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangiò"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨l'⟩uomo"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "cibo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "inviò"
+    },
+    {
+      "surface": "להם",
+      "gloss": "loro"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "fino a sazietà"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:17.286713607Z",
+  "model": "glm-5.3"
+}

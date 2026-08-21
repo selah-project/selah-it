@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 144,
+  "translation": "Beato ⟨il⟩ popolo che così ⟨sta⟩; beato ⟨il⟩ popolo il cui Elohim ⟨è⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "beato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "che così"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "beato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "il cui ⟨è⟩ YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim di lui"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:38.652681240Z",
+  "model": "glm-5.3"
+}

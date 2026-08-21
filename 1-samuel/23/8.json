@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "E Saul convocò ⟨את⟩ tutto il popolo alla guerra, per scendere a Keilah, per assediare Davide e i suoi uomini.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "e convocò"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutto il popolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "alla guerra"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "per scendere"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "a Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "per assediare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e contro"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "i suoi uomini"
+    }
+  ],
+  "timestamp": "2026-08-21T07:13:04.305341419Z",
+  "model": "glm-5.3"
+}

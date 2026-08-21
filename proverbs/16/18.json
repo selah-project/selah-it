@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "Davanti alla frattura ⟨sta⟩ la superbia, e davanti all'inciampo ⟨sta⟩ uno spirito altero.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "alla frattura"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "la superbia"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e davanti a"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "all'inciampo"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "altero"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "spirito"
+    }
+  ],
+  "timestamp": "2026-08-21T09:10:10.919019064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 16,
+  "translation": "E lapidava con pietre ⟨את⟩ David e ⟨את⟩ tutti i servi del re David; e tutto il popolo e tutti i guerrieri ⟨stavano⟩ alla sua destra e alla sua sinistra.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "e lapidava"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "con pietre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tutti i servi del re David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i servi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "del re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e tutti"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "i guerrieri"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "alla sua destra"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "e alla sua sinistra"
+    }
+  ],
+  "timestamp": "2026-08-21T07:21:28.625964382Z",
+  "model": "glm-5.3"
+}

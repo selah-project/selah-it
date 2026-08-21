@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Dov'è, ora, il tuo re che ti salvi in tutte le tue città? E i tuoi giudici, dei quali dicesti: «Dammi un re e principi»?",
+  "tokens": [
+    {
+      "surface": "אֱהִ֤י",
+      "gloss": "dov'è"
+    },
+    {
+      "surface": "מַלְכְּךָ֙",
+      "gloss": "il tuo re"
+    },
+    {
+      "surface": "אֵפ֔וֹא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "וְיוֹשִֽׁיעֲךָ֖",
+      "gloss": "che ti salvi"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "in tutte"
+    },
+    {
+      "surface": "עָרֶ֑יךָ",
+      "gloss": "le tue città"
+    },
+    {
+      "surface": "וְשֹׁפְטֶ֔יךָ",
+      "gloss": "e i tuoi giudici"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "dei quali"
+    },
+    {
+      "surface": "אָמַ֔רְתָּ",
+      "gloss": "dicesti"
+    },
+    {
+      "surface": "תְּנָ֥ה",
+      "gloss": "dammi"
+    },
+    {
+      "surface": "לִּ֖י",
+      "gloss": "a me"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "un re"
+    },
+    {
+      "surface": "וְשָׂרִֽים",
+      "gloss": "e principi"
+    }
+  ],
+  "timestamp": "2026-08-21T08:33:28.562252369Z",
+  "model": "glm-5.3"
+}

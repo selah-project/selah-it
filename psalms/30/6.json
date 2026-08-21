@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 30,
+  "translation": "Poiché un istante dura il suo sdegno, una vita ⟨c'è⟩ nel suo favore: alla sera si ferma il pianto, e al mattino il giubilo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "un istante"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dura il suo sdegno"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "una vita"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "nel suo favore"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "alla sera"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "si ferma"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "il pianto"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "e al mattino"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "il giubilo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:41.424921389Z",
+  "model": "glm-5.3"
+}

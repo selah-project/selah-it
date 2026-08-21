@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 116,
+  "translation": "Ti prego, YHWH, perché io sono il tuo servo — io, il tuo servo, figlio della tua ancella: hai sciolto le mie catene.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ti prego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sono il tuo servo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "il tuo servo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "della tua ancella"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "hai sciolto"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "le mie catene"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:09.443310236Z",
+  "model": "glm-5.3"
+}

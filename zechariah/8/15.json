@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "it",
+  "chapter": 8,
+  "translation": "così mi sono rivolto ⟨di nuovo⟩: ho tramato in questi giorni di fare del bene a ⟨את⟩ Gerusalemme e a ⟨את⟩ la casa di Giuda. Non temete!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "così"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "mi sono rivolto ⟨di nuovo⟩"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "ho tramato"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in giorni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "questi"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "di fare del bene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerusalemme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Gerusalemme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la casa di Giuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "di Giuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "temete"
+    }
+  ],
+  "timestamp": "2026-08-21T08:41:43.790142729Z",
+  "model": "glm-5.3"
+}

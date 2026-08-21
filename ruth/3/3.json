@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "Làvati e ungiti, e metti il tuo mantello addosso, e scendi all'aia: non ti far conoscere all'uomo finché egli non abbia finito di mangiare e di bere.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "Làvati"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "e ungiti"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "e metti"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "il tuo mantello"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "addosso"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "e scendi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "all'aia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "ti far conoscere"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "all'uomo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "finché"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "egli non abbia finito"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "di mangiare"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "e di bere"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:59.538466653Z",
+  "model": "glm-5.3"
+}

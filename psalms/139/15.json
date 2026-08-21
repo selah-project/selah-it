@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 139,
+  "translation": "Non ⟨fu⟩ nascosto il mio osso da te, quando fui fatto nel segreto, ricamato nelle profondità della terra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "nascosto"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "il mio osso"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "da te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quando"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "fui fatto"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nel segreto"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ricamato"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "nelle profondità"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "della terra"
+    }
+  ],
+  "timestamp": "2026-08-21T09:05:01.700282297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 129,
+  "translation": "Sul mio dorso hanno arato gli aratori, hanno reso lunghi i loro solchi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sul"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "mio dorso"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "hanno arato"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "gli aratori"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "hanno reso lunghi"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "i loro solchi"
+    }
+  ],
+  "timestamp": "2026-08-21T09:04:03.997298386Z",
+  "model": "glm-5.3"
+}

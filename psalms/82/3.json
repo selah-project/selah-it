@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 82,
+  "translation": "Fate giustizia al debole e all'orfano, ⟨statuite⟩ il diritto all'afflitto e al povero.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "fate giustizia"
+    },
+    {
+      "surface": "דל",
+      "gloss": "al debole"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "e all'orfano"
+    },
+    {
+      "surface": "עני",
+      "gloss": "all'afflitto"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "e al povero"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "⟨statuite⟩ il diritto"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:15.105683339Z",
+  "model": "glm-5.3"
+}

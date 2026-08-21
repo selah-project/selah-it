@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E questa ⟨è⟩ la parola del tributo che il re Salomone levò, per costruire ⟨את⟩ la casa di YHWH e ⟨את⟩ la sua casa e ⟨את⟩ il Millo e ⟨את⟩ il muro di Gerusalemme, e ⟨את⟩ Chatsor e ⟨את⟩ Meghiddo e ⟨את⟩ Ghezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "e questa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parola (il conto)"
+    },
+    {
+      "surface": "המס",
+      "gloss": "del tributo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "levò"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "il re"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "per costruire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la casa di YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "la sua casa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "la sua casa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "il Millo (il riempimento)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il muro di Gerusalemme"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "il muro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "di Gerusalemme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Meghiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Meghiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ghezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Ghezer"
+    }
+  ],
+  "timestamp": "2026-08-21T07:28:34.760398709Z",
+  "model": "glm-5.3"
+}

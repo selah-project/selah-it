@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse YHWH a me: hai visto bene a vedere, perché io veglio sulla mia parola per farla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "E disse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "hai visto bene"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a vedere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "io veglio"
+    },
+    {
+      "surface": "אני",
+      "gloss": "io"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "la mia parola"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "per farla"
+    }
+  ],
+  "timestamp": "2026-08-21T07:59:01.067333161Z",
+  "model": "glm-5.3"
+}

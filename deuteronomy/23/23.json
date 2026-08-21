@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 23,
+  "translation": "Ma se ti astieni dal fare un voto, non sarà in te peccato.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma se"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ti astieni"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "dal fare un voto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in te"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "peccato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:45:39.612379097Z",
+  "model": "glm-5.3"
+}

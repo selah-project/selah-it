@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "poiché uccidere lo ucciderai: la tua mano sarà su di lui per prima, per metterlo a morte, e la mano di tutto il popolo dopo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "uccidere"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "lo ucciderai"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "la tua mano"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su di lui"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "per prima"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "per metterlo a morte"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "e la mano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "di tutto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "dopo"
+    }
+  ],
+  "timestamp": "2026-08-21T06:43:10.382654750Z",
+  "model": "glm-5.3"
+}

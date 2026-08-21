@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Nel mio cuore ho nascosto la tua parola, per non peccare contro di te.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "nel mio cuore"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ho nascosto"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "la tua parola"
+    },
+    {
+      "surface": "למען",
+      "gloss": "per"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "peccare"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contro di te"
+    }
+  ],
+  "timestamp": "2026-08-21T10:10:45.125714974Z",
+  "model": "glm-5.3"
+}

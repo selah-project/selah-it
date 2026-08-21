@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "Che ⟨dirò⟩, figlio mio? e che, figlio del mio grembo? e che, figlio dei miei voti?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Che"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "figlio mio"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e che"
+    },
+    {
+      "surface": "בר",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "del mio grembo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e che"
+    },
+    {
+      "surface": "בר",
+      "gloss": "figlio"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "dei miei voti"
+    }
+  ],
+  "timestamp": "2026-08-21T09:13:37.460907173Z",
+  "model": "glm-5.3"
+}

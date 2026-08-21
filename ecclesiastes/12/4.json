@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "e si chiuderanno le porte sulla piazza, quando si abbasserà il rumore della macina, e ci si alzerà al canto dell'uccello, e si abbasseranno tutte le figlie del canto",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "e si chiuderanno"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "le porte"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sulla piazza"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "quando si abbasserà"
+    },
+    {
+      "surface": "קול",
+      "gloss": "il rumore di"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "della macina"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "e ci si alzerà"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "al canto di"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "dell'uccello"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "e si abbasseranno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "le figlie di"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "del canto"
+    }
+  ],
+  "timestamp": "2026-08-21T09:30:26.549053772Z",
+  "model": "glm-5.3"
+}

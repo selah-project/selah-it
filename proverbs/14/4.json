@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "Dove non ci sono buoi, la mangiatoia ⟨è⟩ vuota; e molto raccolto ⟨viene⟩ con la forza del bue.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "dove non ci sono"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "buoi"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "la mangiatoia"
+    },
+    {
+      "surface": "בר",
+      "gloss": "vuota"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e molto"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "raccolto"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "con la forza"
+    },
+    {
+      "surface": "שור",
+      "gloss": "del bue"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:22.265251992Z",
+  "model": "glm-5.3"
+}

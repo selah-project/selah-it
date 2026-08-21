@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E Amasà andò per radunare ⟨את⟩ Giuda, ma tardò oltre il tempo fissato che gli era stato fissato.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "e andò"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasà"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "per radunare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Giuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "ma tardò"
+    },
+    {
+      "surface": "מן",
+      "gloss": "oltre"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "il tempo fissato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "gli era stato fissato"
+    }
+  ],
+  "timestamp": "2026-08-21T07:22:49.792371277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "it",
+  "chapter": 31,
+  "translation": "E posero ⟨את⟩ le sue armi nella casa di Ashtarot, e ⟨את⟩ il suo corpo fissarono alla muraglia di Bet-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "e posero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sue armi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "le sue armi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nella casa"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "di Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il suo corpo"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "il suo corpo"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "fissarono"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "alla muraglia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di Bet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Shan"
+    }
+  ],
+  "timestamp": "2026-08-21T07:16:11.600369002Z",
+  "model": "glm-5.3"
+}

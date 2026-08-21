@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Il tuo chesed, YHWH, riempie la terra; i tuoi statuti insegnami.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "il tuo chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "riempie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terra"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "i tuoi statuti"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "insegnami"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:55.643724334Z",
+  "model": "glm-5.3"
+}

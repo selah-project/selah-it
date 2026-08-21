@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 3,
+  "translation": "poiché Elohim sa che nel giorno in cui ne mangerete, si apriranno i vostri occhi e sarete come Elohim, conoscenti il bene e il male.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "poiché"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "che"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nel giorno"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "in cui ne mangerete"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ne (da esso)"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "si apriranno"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "i vostri occhi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "e sarete"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "come Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "conoscenti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "e il male"
+    }
+  ],
+  "timestamp": "2026-08-21T05:34:37.987080400Z",
+  "model": "glm-5.3"
+}

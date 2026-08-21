@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Libera la mia nefesh dalla spada, dalla zampa del cane la mia unica.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Libera"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dalla spada"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "la mia nefesh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dalla zampa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "del cane"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "la mia unica"
+    }
+  ],
+  "timestamp": "2026-08-21T08:46:51.195740154Z",
+  "model": "glm-5.3"
+}

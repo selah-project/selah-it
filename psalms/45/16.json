@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 45,
+  "translation": "Saranno condotte con esultanza e giubilo, entreranno nel palazzo del re.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "saranno condotte"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "con esultanza"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "e giubilo"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "entreranno"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "nel palazzo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "del re"
+    }
+  ],
+  "timestamp": "2026-08-21T08:50:52.086254469Z",
+  "model": "glm-5.3"
+}

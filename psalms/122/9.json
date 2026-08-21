@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 122,
+  "translation": "Per il bene della casa di YHWH ⟨il⟩ nostro Elohim, io cercherò il bene per te.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "per il bene di"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la casa di"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "il nostro Elohim"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "io cercherò"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il bene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "per te"
+    }
+  ],
+  "timestamp": "2026-08-21T09:03:23.835489054Z",
+  "model": "glm-5.3"
+}

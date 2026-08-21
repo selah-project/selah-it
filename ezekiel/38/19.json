@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 38:19",
+  "book": "ezekiel",
+  "lang": "it",
+  "chapter": 38,
+  "translation": "E nella mia gelosia, nel fuoco della mia ira, ho parlato: certamente in quel giorno vi sarà un grande sussulto sul suolo di Israele.",
+  "tokens": [
+    {
+      "surface": "ובקנאתי",
+      "gloss": "E nella mia gelosia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nel fuoco"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "della mia ira"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ho parlato"
+    },
+    {
+      "surface": "אם",
+      "gloss": "certamente (parte I)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "certamente (parte II)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in quel giorno"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "quel"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vi sarà"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "un sussulto"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "il suolo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    }
+  ],
+  "timestamp": "2026-08-21T08:27:48.708783056Z",
+  "model": "glm-5.3"
+}

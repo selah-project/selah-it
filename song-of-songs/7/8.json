@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "it",
+  "chapter": 7,
+  "translation": "Questa tua statura ⟨è⟩ simile a una palma, e i tuoi seni a grappoli.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "questa"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "tua statura"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "è simile"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "a una palma"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "e i tuoi seni"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "a grappoli"
+    }
+  ],
+  "timestamp": "2026-08-21T09:25:05.737671974Z",
+  "model": "glm-5.3"
+}

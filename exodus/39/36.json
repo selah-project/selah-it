@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 39,
+  "translation": "⟨את⟩ la tavola e ⟨את⟩ tutti i suoi arredi, e ⟨את⟩ il pane della Presenza.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tavola"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la tavola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i suoi arredi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "i suoi arredi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "il pane della Presenza"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il pane"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "della Presenza"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:50.646012669Z",
+  "model": "glm-5.3"
+}

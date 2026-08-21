@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "it",
+  "chapter": 9,
+  "translation": "E Noè si svegliò dal suo vino, e conobbe ⟨את⟩ ciò che gli aveva fatto il figlio ⟨il⟩ più piccolo.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "e si svegliò"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noè"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "dal suo vino"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "e conobbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciò che gli aveva fatto il figlio più piccolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciò che"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aveva fatto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gli"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "il figlio"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "il più piccolo"
+    }
+  ],
+  "timestamp": "2026-08-21T05:35:53.583339698Z",
+  "model": "glm-5.3"
+}

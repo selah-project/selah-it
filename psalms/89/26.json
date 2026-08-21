@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 89,
+  "translation": "E porrò nel mare la sua mano, e sui fiumi la sua destra.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "e porrò"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nel mare"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "la sua mano"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "e sui fiumi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "la sua destra"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:06.642757057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 82,
+  "translation": "Certo, come l'uomo morirete, e come uno dei principi cadrete.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Certo"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "come l'uomo"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "morirete"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "e come uno"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "dei principi"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "cadrete"
+    }
+  ],
+  "timestamp": "2026-08-21T08:56:25.188187553Z",
+  "model": "glm-5.3"
+}

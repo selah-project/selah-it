@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 20,
+  "translation": "E se un altare di pietre farai per me, non lo costruirai ⟨את⟩ di pietre squadrate: perché la tua spada vi hai agitato sopra e lo hai profanato.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "E se"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un altare"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "di pietre"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "farai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "per me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "costruirai"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "di pietre squadrate"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "di pietre squadrate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "perché"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "la tua spada"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "hai agitato"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sopra"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "e lo hai profanato"
+    }
+  ],
+  "timestamp": "2026-08-21T06:01:19.706843496Z",
+  "model": "glm-5.3"
+}

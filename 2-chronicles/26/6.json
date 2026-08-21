@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "E uscì e guerreggiò contro i Filistei, e demolì ⟨את⟩ il muro di Gat e ⟨את⟩ il muro di Yavneh e ⟨את⟩ il muro di Ashdod, e costruì città in Ashdod e tra i Filistei.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "E uscì"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "e guerreggiò"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "contro i Filistei"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "e demolì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il muro di Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "il muro di"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il muro di Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "il muro di"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "il muro di Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "il muro di"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "e costruì"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "città"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "in Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "e tra i Filistei"
+    }
+  ],
+  "timestamp": "2026-08-21T10:00:23.653651983Z",
+  "model": "glm-5.3"
+}

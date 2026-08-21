@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 40,
+  "translation": "E la nube coprì ⟨את⟩ la tenda del convegno, e la gloria di YHWH riempì ⟨את⟩ il mishkan.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "e coprì"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nube"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tenda del convegno"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "e la gloria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "riempì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "il mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "il mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T06:09:52.989495831Z",
+  "model": "glm-5.3"
+}

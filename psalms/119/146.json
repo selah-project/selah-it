@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 119,
+  "translation": "Ti ho invocato: salvami, e custodirò le tue testimonianze.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "ti ho invocato"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "salvami"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "e custodirò"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "le tue testimonianze"
+    }
+  ],
+  "timestamp": "2026-08-21T09:02:37.791423889Z",
+  "model": "glm-5.3"
+}

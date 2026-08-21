@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 1,
+  "translation": "E disse al suo popolo: ecco, il popolo dei figli di Israele è più numeroso e più forte di noi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "al suo popolo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ecco"
+    },
+    {
+      "surface": "עם",
+      "gloss": "il popolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dei figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "רב",
+      "gloss": "più numeroso"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "e più forte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "di noi"
+    }
+  ],
+  "timestamp": "2026-08-21T05:53:51.280714264Z",
+  "model": "glm-5.3"
+}

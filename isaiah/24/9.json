@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "it",
+  "chapter": 24,
+  "translation": "Con il canto non berranno vino; la bevanda inebriante sarà amara per chi la beve.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "con il canto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "berranno"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "sarà amara"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "la bevanda inebriante"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "per chi la beve"
+    }
+  ],
+  "timestamp": "2026-08-21T07:48:12.569573502Z",
+  "model": "glm-5.3"
+}

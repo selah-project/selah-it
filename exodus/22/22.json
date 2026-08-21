@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 22,
+  "translation": "Se affiggendo affiggerete ⟨את⟩ lui — se griderà a me gridando, ascoltando ascolterò il suo grido.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "affiggendo"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "affiggerete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "gridando"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "griderà"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a me"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ascoltando"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ascolterò"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "il suo grido"
+    }
+  ],
+  "timestamp": "2026-08-21T06:02:30.376519261Z",
+  "model": "glm-5.3"
+}

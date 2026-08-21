@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "it",
+  "chapter": 13,
+  "translation": "Chi disprezza ⟨la⟩ parola sarà tenuto in pegno per essa, ma chi teme il comandamento ⟨egli⟩ sarà ripagato.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "disprezza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "la parola"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "sarà tenuto in pegno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "per lui"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ma chi teme"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "il comandamento"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "egli"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sarà ripagato"
+    }
+  ],
+  "timestamp": "2026-08-21T09:09:02.675338426Z",
+  "model": "glm-5.3"
+}

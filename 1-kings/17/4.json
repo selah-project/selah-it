@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "it",
+  "chapter": 17,
+  "translation": "E sarà: dal torrente berrai, e ai corvi ⟨את⟩ ho comandato di nutrirti là ».",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e sarà"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "dal torrente"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "berrai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i corvi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "i corvi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ho comandato"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "di nutrirti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-21T07:31:51.469058079Z",
+  "model": "glm-5.3"
+}

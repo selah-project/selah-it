@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 26,
+  "translation": "Ho odiato l'adunanza dei malvagi, e con ⟨i⟩ malvagi non mi siedo.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ho odiato"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'adunanza"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dei malvagi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e con"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "malvagi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "mi siedo"
+    }
+  ],
+  "timestamp": "2026-08-21T08:47:19.702127515Z",
+  "model": "glm-5.3"
+}

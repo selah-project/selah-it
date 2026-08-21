@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 92,
+  "translation": "Quanto grandi ⟨sono⟩ le tue opere, YHWH! Molto profondi ⟨sono⟩ i tuoi pensieri.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Quanto"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "grandi ⟨sono⟩"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "le tue opere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "Molto"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "profondi ⟨sono⟩"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "i tuoi pensieri"
+    }
+  ],
+  "timestamp": "2026-08-21T08:57:54.092380431Z",
+  "model": "glm-5.3"
+}

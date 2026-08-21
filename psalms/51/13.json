@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 51,
+  "translation": "Non mi gettare via dalla tua presenza, e il tuo Ruach di qodesh non togliere da me.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "mi gettare via"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "dalla tua presenza"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e il Ruach"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "il tuo qodesh (santo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "togliere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "da me"
+    }
+  ],
+  "timestamp": "2026-08-21T08:51:55.146156749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 12,
+  "translation": "E chiamò per Mosè e per Aharon di notte, e disse: alzatevi, uscite dal mezzo del mio popolo, anche voi, anche i figli di Israele, e andate, servite ⟨את⟩ YHWH come avete detto.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "E chiamò"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "per Mosè"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "e per Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di notte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "e disse"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "alzatevi"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "uscite"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dal mezzo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "del mio popolo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "voi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anche"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i figli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "di Israele"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "e andate"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "servite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "come avete detto"
+    }
+  ],
+  "timestamp": "2026-08-21T05:58:53.072531279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 14,
+  "translation": "E il sacerdote che purifica farà stare ⟨in piedi⟩ l'uomo che deve essere purificato e ⟨את⟩ quelle ⟨cose⟩ davanti a YHWH, all'ingresso della tenda del convegno.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "e farà stare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "il sacerdote"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "che purifica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'uomo che deve essere purificato"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'uomo"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "che deve essere purificato"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e ⟨את⟩",
+      "marks": "quelle cose (le offerte)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "all'ingresso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "della tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "del convegno"
+    }
+  ],
+  "timestamp": "2026-08-21T06:14:54.171278605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "it",
+  "chapter": 2,
+  "translation": "E se la tua minchah ⟨è⟩ un qorban sulla griglia: sia di sola mista con olio, matzah sarà.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e se"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah (offerta)"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "la griglia"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "tuo qorban"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sola (fiore di farina)"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "mista"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "con olio"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "matzah (non lievitata)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sarà"
+    }
+  ],
+  "timestamp": "2026-08-21T06:10:00.277360620Z",
+  "model": "glm-5.3"
+}

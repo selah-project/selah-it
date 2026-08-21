@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "it",
+  "chapter": 77,
+  "translation": "Tu ⟨sei⟩ l'El che opera prodigi: hai fatto conoscere tra i popoli la tua forza.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "l'El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "che opera"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "prodigi"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "hai fatto conoscere"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tra i popoli"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "la tua forza"
+    }
+  ],
+  "timestamp": "2026-08-21T08:55:23.248173782Z",
+  "model": "glm-5.3"
+}

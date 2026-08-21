@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "it",
+  "chapter": 4,
+  "translation": "E Mosè riferì ad Aharon ⟨את⟩ tutte le parole di YHWH, che ⟨lo⟩ aveva mandato ⟨את⟩, e ⟨את⟩ tutti i segni che gli aveva comandato.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "e riferì"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosè"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ad Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutte le parole di YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutte"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "le parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "di YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "aveva mandato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutti i segni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tutti"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "i segni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "che"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gli aveva comandato"
+    }
+  ],
+  "timestamp": "2026-08-21T05:54:53.854273702Z",
+  "model": "glm-5.3"
+}
