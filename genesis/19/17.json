@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 19,
-  "translation": "E avvenne, quando li ebbero condotti fuori ⟨אתם⟩ all'aperto, che disse: Fuggi per la tua vita; non guardare dietro di te e non fermarti in tutta la piana; sul monte fuggi, perché tu non sia spazzato via.",
+  "translation": "E avvenne, quando li ebbero condotti fuori ⟨את⟩ ⟨אתם⟩ all'aperto, che disse: Fuggi per la tua vita; non guardare dietro di te e non fermarti in tutta la piana; sul monte fuggi, perché tu non sia spazzato via.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "loro, all'aperto"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "tu sia spazzato via"
     }
   ],
-  "timestamp": "2026-08-21T05:39:24.790140564Z",
+  "timestamp": "2026-08-21T10:18:31.569475465Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 21,
-  "translation": "E Sarah concepì e partorì ad Avraham un figlio per la sua vecchiaia, al tempo fissato di cui aveva parlato ⟨אתו⟩ Elohim.",
+  "translation": "E Sarah concepì e partorì ad Avraham un figlio per la sua vecchiaia, al tempo fissato di cui aveva parlato ⟨את⟩ ⟨אתו⟩ Elohim.",
   "tokens": [
     {
       "surface": "ותהר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Elohim"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-21T05:41:04.140011612Z",
+  "timestamp": "2026-08-21T10:18:31.567477756Z",
   "model": "glm-5.3"
 }

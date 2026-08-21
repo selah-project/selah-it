@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "it",
   "chapter": 34,
-  "translation": "Ma siete tornati e avete profanato ⟨את⟩ il mio nome, e avete fatto tornare ciascuno ⟨את⟩ il suo schiavo e ciascuno ⟨את⟩ la sua schiava, che avevate rimandati liberi secondo la loro volontà, e li avete soggiogati ⟨אתם⟩ perché fossero a voi per schiavi e per schiave.",
+  "translation": "Ma siete tornati e avete profanato ⟨את⟩ il mio nome, e avete fatto tornare ciascuno ⟨את⟩ il suo schiavo e ciascuno ⟨את⟩ la sua schiava, che avevate rimandati liberi secondo la loro volontà, e li avete soggiogati ⟨את⟩ ⟨אתם⟩ perché fossero a voi per schiavi e per schiave.",
   "tokens": [
     {
       "surface": "ותשבו",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "loro"
     },
     {
@@ -96,6 +96,6 @@
       "gloss": "e per schiave"
     }
   ],
-  "timestamp": "2026-08-21T08:09:42.526039876Z",
+  "timestamp": "2026-08-21T10:18:31.571790193Z",
   "model": "glm-5.3"
 }

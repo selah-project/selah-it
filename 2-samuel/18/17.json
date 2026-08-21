@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "it",
   "chapter": 18,
-  "translation": "E presero ⟨את⟩ Assalonne e lo gettarono ⟨את lui⟩ nella foresta, nella grande fossa, e innalzarono su di lui un mucchio di pietre molto grande; e tutto Israele fuggì, ciascuno alla sua tenda.",
+  "translation": "E presero ⟨את⟩ Assalonne e lo gettarono ⟨את⟩ ⟨את lui⟩ nella foresta, nella grande fossa, e innalzarono su di lui un mucchio di pietre molto grande; e tutto Israele fuggì, ciascuno alla sua tenda.",
   "tokens": [
     {
       "surface": "ויקחו",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את lui⟩",
+      "gloss": "⟨את⟩ ⟨את lui⟩",
       "marks": "nella foresta, nella grande fossa"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "alla sua tenda"
     }
   ],
-  "timestamp": "2026-08-21T07:22:19.851040516Z",
+  "timestamp": "2026-08-21T10:18:31.566308709Z",
   "model": "glm-5.3"
 }

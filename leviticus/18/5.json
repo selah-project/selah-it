@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 18,
-  "translation": "E osserverete ⟨את⟩ le mie chukkot e ⟨את⟩ le mie mishpatim, che l'uomo farà ⟨אתם⟩ e vivrà in esse: io ⟨sono⟩ YHWH.",
+  "translation": "E osserverete ⟨את⟩ le mie chukkot e ⟨את⟩ le mie mishpatim, che l'uomo farà ⟨את⟩ ⟨אתם⟩ e vivrà in esse: io ⟨sono⟩ YHWH.",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "l'uomo"
     },
     {
@@ -63,6 +63,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-21T06:17:43.899188535Z",
+  "timestamp": "2026-08-21T10:18:31.585752810Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 38,
-  "translation": "E Yehudah disse a Onan: entra dalla moglie di tuo fratello, compi verso di lei il dovere del levirato ⟨אתה⟩, e suscita una discendenza a tuo fratello.",
+  "translation": "E Yehudah disse a Onan: entra dalla moglie di tuo fratello, compi verso di lei il dovere del levirato ⟨את⟩ ⟨אתה⟩, e suscita una discendenza a tuo fratello.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
+      "gloss": "⟨את⟩ ⟨אתה⟩",
       "marks": "verso di lei"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "a tuo fratello"
     }
   ],
-  "timestamp": "2026-08-21T05:48:19.953885966Z",
+  "timestamp": "2026-08-21T10:18:31.568216852Z",
   "model": "glm-5.3"
 }

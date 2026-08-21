@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 40,
-  "translation": "E la coppa di Faraone nella mia mano; presi ⟨את⟩ gli acini e li spremetti ⟨אתם⟩ nella coppa di Faraone, e posi ⟨את⟩ la coppa sul palmo di Faraone.",
+  "translation": "E la coppa di Faraone nella mia mano; presi ⟨את⟩ gli acini e li spremetti ⟨את⟩ ⟨אתם⟩ nella coppa di Faraone, e posi ⟨את⟩ la coppa sul palmo di Faraone.",
   "tokens": [
     {
       "surface": "וכוס",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "gli acini"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "di Faraone"
     }
   ],
-  "timestamp": "2026-08-21T05:49:01.957616082Z",
+  "timestamp": "2026-08-21T10:18:31.567972234Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "it",
   "chapter": 3,
-  "translation": "E fece nella casa del santo dei santi due keruvim, lavoro scolpito, e li rivestirono ⟨אתם⟩ d'oro.",
+  "translation": "E fece nella casa del santo dei santi due keruvim, lavoro scolpito, e li rivestirono ⟨את⟩ ⟨אתם⟩ d'oro.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "li — i due keruvim"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "d'oro"
     }
   ],
-  "timestamp": "2026-08-21T09:54:30.688102235Z",
+  "timestamp": "2026-08-21T10:18:31.579379842Z",
   "model": "glm-5.3"
 }

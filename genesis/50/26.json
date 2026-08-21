@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 50,
-  "translation": "E morì Giuseppe, figlio di cento e dieci anni; e lo imbalsamarono ⟨אתו⟩ e lo misero in una bara in Egitto.",
+  "translation": "E morì Giuseppe, figlio di cento e dieci anni; e lo imbalsamarono ⟨את⟩ ⟨אתו⟩ e lo misero in una bara in Egitto.",
   "tokens": [
     {
       "surface": "וימת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "lo (Giuseppe)"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "in Egitto"
     }
   ],
-  "timestamp": "2026-08-21T05:52:56.310755577Z",
+  "timestamp": "2026-08-21T10:18:31.567246364Z",
   "model": "glm-5.3"
 }

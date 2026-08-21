@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "it",
   "chapter": 20,
-  "translation": "E Gionatan aggiunse a far giurare ⟨את⟩ Davide, perché lo amava ⟨אתו⟩ con l'amore ⟨della⟩ propria nefesh — con l'amore della sua nefesh lo amava.",
+  "translation": "E Gionatan aggiunse a far giurare ⟨את⟩ Davide, perché lo amava ⟨את⟩ ⟨אתו⟩ con l'amore ⟨della⟩ propria nefesh — con l'amore della sua nefesh lo amava.",
   "tokens": [
     {
       "surface": "ויוסף",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "lui (Davide)"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "lo amava"
     }
   ],
-  "timestamp": "2026-08-21T07:12:28.920776875Z",
+  "timestamp": "2026-08-21T10:18:31.580315723Z",
   "model": "glm-5.3"
 }

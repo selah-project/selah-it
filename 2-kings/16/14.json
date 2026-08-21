@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 16,
-  "translation": "E ⟨את⟩ l'altare di bronzo che era davanti a YHWH lo avvicinò ⟨מאת⟩ il davanti della casa, di tra l'altare e la casa di YHWH, e lo pose sul fianco dell'altare, a settentrione.",
+  "translation": "E ⟨את⟩ l'altare di bronzo che era davanti a YHWH lo avvicinò ⟨את⟩ ⟨מאת⟩ il davanti della casa, di tra l'altare e la casa di YHWH, e lo pose sul fianco dell'altare, a settentrione.",
   "tokens": [
     {
       "surface": "ואת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מאת⟩"
+      "gloss": "⟨את⟩ ⟨מאת⟩"
     },
     {
       "surface": "פני",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ esso",
+      "gloss": "⟨את⟩ ⟨אתו⟩ esso",
       "marks": "sul fianco dell'altare"
     },
     {
@@ -94,6 +94,6 @@
       "gloss": "a settentrione"
     }
   ],
-  "timestamp": "2026-08-21T07:40:04.973701307Z",
+  "timestamp": "2026-08-21T10:18:31.584574806Z",
   "model": "glm-5.3"
 }

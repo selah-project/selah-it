@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 29,
-  "translation": "E sapranno che io ⟨sono⟩ YHWH, ⟨il⟩ loro Elohim, che li ho fatti uscire ⟨אתם⟩ dalla terra d'Egitto per dimorare in mezzo a loro: io ⟨sono⟩ YHWH, ⟨il⟩ loro Elohim.",
+  "translation": "E sapranno che io ⟨sono⟩ YHWH, ⟨il⟩ loro Elohim, che li ho fatti uscire ⟨את⟩ ⟨אתם⟩ dalla terra d'Egitto per dimorare in mezzo a loro: io ⟨sono⟩ YHWH, ⟨il⟩ loro Elohim.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "li (i figli d'Israele)"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "loro Elohim"
     }
   ],
-  "timestamp": "2026-08-21T06:04:09.450441063Z",
+  "timestamp": "2026-08-21T10:18:31.576324555Z",
   "model": "glm-5.3"
 }

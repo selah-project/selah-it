@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 21,
-  "translation": "E Avraham circoncise ⟨את⟩ Yitschaq figlio suo, figlio di otto giorni, come gli aveva comandato ⟨אתו⟩ Elohim.",
+  "translation": "E Avraham circoncise ⟨את⟩ Yitschaq figlio suo, figlio di otto giorni, come gli aveva comandato ⟨את⟩ ⟨אתו⟩ Elohim.",
   "tokens": [
     {
       "surface": "וימל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Elohim"
     },
     {
@@ -58,6 +58,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-21T05:41:04.140484147Z",
+  "timestamp": "2026-08-21T10:18:31.567738035Z",
   "model": "glm-5.3"
 }

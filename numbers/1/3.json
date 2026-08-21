@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 1,
-  "translation": "Da vent'anni in su, ogni uomo che esce nell'esercito in Israele: li recounts ⟨אתם⟩ secondo i loro eserciti, tu e Aharon.",
+  "translation": "Da vent'anni in su, ogni uomo che esce nell'esercito in Israele: li recounts ⟨את⟩ ⟨אתם⟩ secondo i loro eserciti, tu e Aharon.",
   "tokens": [
     {
       "surface": "מבן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "li (i censiti)"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "e Aharon"
     }
   ],
-  "timestamp": "2026-08-21T06:22:28.426810534Z",
+  "timestamp": "2026-08-21T10:18:31.588983070Z",
   "model": "glm-5.3"
 }

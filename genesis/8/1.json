@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 8,
-  "translation": "E ricordò Elohim ⟨את⟩ Noach, ⟨e את⟩ ogni vivente e ⟨את⟩ ogni bestia che ⟨era⟩ con lui nell'arca; e fece passare Elohim un Ruach su ⟨la⟩ terra, e si calmarono le acque.",
+  "translation": "E ricordò Elohim ⟨את⟩ Noach, ⟨את⟩ ⟨e את⟩ ogni vivente e ⟨את⟩ ogni bestia che ⟨era⟩ con lui nell'arca; e fece passare Elohim un Ruach su ⟨la⟩ terra, e si calmarono le acque.",
   "tokens": [
     {
       "surface": "ויזכר",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨e את⟩",
+      "gloss": "⟨את⟩ ⟨e את⟩",
       "marks": "ogni vivente"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨e את⟩",
+      "gloss": "⟨את⟩ ⟨e את⟩",
       "marks": "ogni bestia"
     },
     {
@@ -91,6 +91,6 @@
       "gloss": "le acque"
     }
   ],
-  "timestamp": "2026-08-21T05:35:57.422060198Z",
+  "timestamp": "2026-08-21T10:18:31.569238190Z",
   "model": "glm-5.3"
 }

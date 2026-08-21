@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 34,
-  "translation": "E lo seppellì ⟨אתו⟩ nella valle, nella terra di Moab, di fronte a Bet-Peor; e nessun uomo conosce ⟨את⟩ la sua sepoltura fino a questo giorno.",
+  "translation": "E lo seppellì ⟨את⟩ ⟨אתו⟩ nella valle, nella terra di Moab, di fronte a Bet-Peor; e nessun uomo conosce ⟨את⟩ la sua sepoltura fino a questo giorno.",
   "tokens": [
     {
       "surface": "ויקבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "nella valle"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "questo"
     }
   ],
-  "timestamp": "2026-08-21T06:49:39.668592870Z",
+  "timestamp": "2026-08-21T10:18:31.581342712Z",
   "model": "glm-5.3"
 }

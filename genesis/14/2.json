@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 14,
-  "translation": "fecero guerra ⟨את⟩ Bera re di Sodom ⟨ואת⟩ Birsha re di Gomorrah, Shinav re di Admah e Shemever re di Tsevoim, e il re di Bela — essa ⟨è⟩ Tsoar.",
+  "translation": "fecero guerra ⟨את⟩ Bera re di Sodom ⟨את⟩ ⟨ואת⟩ Birsha re di Gomorrah, Shinav re di Admah e Shemever re di Tsevoim, e il re di Bela — essa ⟨è⟩ Tsoar.",
   "tokens": [
     {
       "surface": "עשו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
+      "gloss": "⟨את⟩ ⟨ואת⟩",
       "marks": "Birsha re di Gomorrah"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "Tsoar"
     }
   ],
-  "timestamp": "2026-08-21T05:37:13.834631088Z",
+  "timestamp": "2026-08-21T10:18:31.569970363Z",
   "model": "glm-5.3"
 }

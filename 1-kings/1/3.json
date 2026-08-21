@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "it",
   "chapter": 1,
-  "translation": "E cercarono una ragazza bella in tutto il confine di Israele, e trovarono ⟨את⟩ Abishag la Sunammita, e la condussero ⟨אתה⟩ al re.",
+  "translation": "E cercarono una ragazza bella in tutto il confine di Israele, e trovarono ⟨את⟩ Abishag la Sunammita, e la condussero ⟨את⟩ ⟨אתה⟩ al re.",
   "tokens": [
     {
       "surface": "ויבקשו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
+      "gloss": "⟨את⟩ ⟨אתה⟩",
       "marks": "al re"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "al re"
     }
   ],
-  "timestamp": "2026-08-21T07:24:09.128524195Z",
+  "timestamp": "2026-08-21T10:18:31.589695805Z",
   "model": "glm-5.3"
 }

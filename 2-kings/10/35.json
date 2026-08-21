@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 10,
-  "translation": "E Iehu si addormentò con i suoi padri, e lo seppellirono ⟨אתו⟩ in Samaria; e regnò al suo posto Iehoachaz suo figlio.",
+  "translation": "E Iehu si addormentò con i suoi padri, e lo seppellirono ⟨את⟩ ⟨אתו⟩ in Samaria; e regnò al suo posto Iehoachaz suo figlio.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "lo (Iehu)"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "al suo posto"
     }
   ],
-  "timestamp": "2026-08-21T07:37:30.085397012Z",
+  "timestamp": "2026-08-21T10:18:31.583575941Z",
   "model": "glm-5.3"
 }

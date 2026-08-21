@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 13,
-  "translation": "E Ieoachaz implorò ⟨את⟩ il volto di YHWH, e YHWH lo ascoltò, perché vide ⟨את⟩ l'oppressione d'Israele — perché li opprimeva ⟨אתם⟩ il re di Aram.",
+  "translation": "E Ieoachaz implorò ⟨את⟩ il volto di YHWH, e YHWH lo ascoltò, perché vide ⟨את⟩ l'oppressione d'Israele — perché li opprimeva ⟨את⟩ ⟨אתם⟩ il re di Aram.",
   "tokens": [
     {
       "surface": "ויחל",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "li"
     },
     {
@@ -83,6 +83,6 @@
       "gloss": "di Aram"
     }
   ],
-  "timestamp": "2026-08-21T07:38:23.848977642Z",
+  "timestamp": "2026-08-21T10:18:31.584817621Z",
   "model": "glm-5.3"
 }

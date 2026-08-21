@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 22,
-  "translation": "E se il tuo fratello non ⟨è⟩ vicino a te e non lo conosci, raccoglierai ⟨אתו⟩ l'animale dentro la tua casa e sarà con te finché il tuo fratello lo richieda, e glielo restituirai.",
+  "translation": "E se il tuo fratello non ⟨è⟩ vicino a te e non lo conosci, raccoglierai ⟨את⟩ ⟨אתו⟩ l'animale dentro la tua casa e sarà con te finché il tuo fratello lo richieda, e glielo restituirai.",
   "tokens": [
     {
       "surface": "ואם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "l'animale (che gli restituirai)"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "a lui"
     }
   ],
-  "timestamp": "2026-08-21T06:45:36.359913132Z",
+  "timestamp": "2026-08-21T10:18:31.581813123Z",
   "model": "glm-5.3"
 }

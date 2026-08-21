@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "it",
   "chapter": 25,
-  "translation": "Non uscire in fretta a contendere, perché non sai che fare alla fine di essa, quando il tuo prossimo ti avrà umiliato ⟨אתך⟩.",
+  "translation": "Non uscire in fretta a contendere, perché non sai che fare alla fine di essa, quando il tuo prossimo ti avrà umiliato ⟨את⟩ ⟨אתך⟩.",
   "tokens": [
     {
       "surface": "אל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
+      "gloss": "⟨את⟩ ⟨אתך⟩",
       "marks": "ti (il prossimo, oggetto dell'umiliazione)"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "il tuo prossimo"
     }
   ],
-  "timestamp": "2026-08-21T09:12:10.997521168Z",
+  "timestamp": "2026-08-21T10:18:31.571321727Z",
   "model": "glm-5.3"
 }
