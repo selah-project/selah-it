@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "it",
   "chapter": 6,
-  "translation": "Ma dimorerà davvero ⟨האמנם⟩ Elohim con ⟨את⟩ l'uomo sulla terra? Ecco, i cieli e i cieli dei cieli non possono contenerti — tanto meno ⟨אף כי⟩ questa casa che ho costruito!",
+  "translation": "Davvero ⟨forse⟩ Elohim abiterà ⟨את⟩ l'uomo sopra ⟨la⟩ terra? Ecco, ⟨i⟩ cieli e i cieli dei cieli non possono contenerti — tanto meno ⟨questa⟩ casa ⟨la⟩ quale ho costruito!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ma"
+      "gloss": "davvero ⟨forse⟩"
     },
     {
       "surface": "האמנם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "dimorerà"
+      "gloss": "abiterà"
     },
     {
       "surface": "אלהים",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "על",
-      "gloss": "su"
+      "gloss": "sopra"
     },
     {
       "surface": "הארץ",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "שמים",
-      "gloss": "i cieli"
+      "gloss": "cieli"
     },
     {
       "surface": "ושמי",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "אף",
-      "gloss": "⟨אף כי⟩ tanto meno"
+      "gloss": "tanto meno"
     },
     {
       "surface": "כי",
-      "gloss": "⟨אף כי⟩"
+      "gloss": "quanto più"
     },
     {
       "surface": "הבית",
-      "gloss": "questa casa"
+      "gloss": "casa"
     },
     {
       "surface": "הזה",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "che"
+      "gloss": "la quale"
     },
     {
       "surface": "בניתי",
       "gloss": "ho costruito"
     }
   ],
-  "timestamp": "2026-08-21T09:54:57.827018111Z",
+  "timestamp": "2026-08-24T20:24:01.615393821Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 19,
-  "translation": "E avvenne, quando li ebbero condotti fuori ⟨את⟩ ⟨אתם⟩ all'aperto, che disse: Fuggi per la tua vita; non guardare dietro di te e non fermarti in tutta la piana; sul monte fuggi, perché tu non sia spazzato via.",
+  "translation": "E avvenne, come li ebbero condotti fuori, che disse: fuggi per la tua vita, non guardare dietro di te e non fermarti in tutta la pianura; al monte fuggi, che tu non sia ⟨swept away⟩.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "כהוציאם",
-      "gloss": "quando li ebbero condotti fuori"
+      "gloss": "come li ebbero condotti fuori"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "loro, all'aperto"
+      "gloss": "⟨את⟩",
+      "marks": "loro"
     },
     {
       "surface": "החוצה",
-      "gloss": "all'aperto"
+      "gloss": "fuori"
     },
     {
       "surface": "ויאמר",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "הככר",
-      "gloss": "la piana"
+      "gloss": "la pianura"
     },
     {
       "surface": "ההרה",
-      "gloss": "sul monte"
+      "gloss": "al monte"
     },
     {
       "surface": "המלט",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "פן",
-      "gloss": "perché… non"
+      "gloss": "che tu non"
     },
     {
       "surface": "תספה",
-      "gloss": "tu sia spazzato via"
+      "gloss": "sia spazzato via"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.569475465Z",
+  "timestamp": "2026-08-24T20:18:31.261238844Z",
   "model": "glm-5.3"
 }

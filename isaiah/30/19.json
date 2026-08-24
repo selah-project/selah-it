@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "it",
   "chapter": 30,
-  "translation": "Poiché ⟨⟨un⟩⟩ popolo in Zion abita, in Gerusalemme; non piangerai più il pianto: pieno di grazia ti sarà grazioso al suono del tuo grido — appena ti avrà udito, ti risponderà.",
+  "translation": "Poiché ⟨è⟩ un popolo che dimora in Tzion, in Gerusalemme: piangendo non piangerai; pieno di grazia ti sarà grazioso al suono del tuo grido — appena ti avrà udito, ti risponderà.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "עם",
-      "gloss": "popolo"
+      "gloss": "un popolo"
     },
     {
       "surface": "בציון",
-      "gloss": "in Zion"
+      "gloss": "in Tzion"
     },
     {
       "surface": "ישב",
-      "gloss": "abita"
+      "gloss": "dimora"
     },
     {
       "surface": "בירושלם",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "בכו",
-      "gloss": "non piangerai"
+      "gloss": "piangendo"
     },
     {
       "surface": "לא",
-      "gloss": "più"
+      "gloss": "non"
     },
     {
       "surface": "תבכה",
-      "gloss": "il pianto"
+      "gloss": "piangerai"
     },
     {
       "surface": "חנון",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לקול",
-      "gloss": "al suono"
+      "gloss": "al suono di"
     },
     {
       "surface": "זעקך",
@@ -64,6 +64,6 @@
       "gloss": "ti risponderà"
     }
   ],
-  "timestamp": "2026-08-21T07:49:57.763922669Z",
+  "timestamp": "2026-08-24T20:24:37.360561152Z",
   "model": "glm-5.3"
 }

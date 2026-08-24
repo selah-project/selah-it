@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 97,
-  "translation": "Poiché tu, YHWH, ⟨sei⟩ l'Altissimo su tutta la terra, molto sei innalzato sopra tutti ⟨gli⟩ אלהים",
+  "translation": "Poiché tu, YHWH, sei ⟨il⟩ Altissimo sopra tutta ⟨la⟩ terra: ⟨sei⟩ straordinariamente innalzato sopra tutti ⟨gli⟩ dèi.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עליון",
-      "gloss": "l'Altissimo"
+      "gloss": "il Sommo"
     },
     {
       "surface": "על",
-      "gloss": "su"
+      "gloss": "sopra"
     },
     {
       "surface": "כל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "molto"
+      "gloss": "straordinariamente"
     },
     {
       "surface": "נעלית",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "gli אלהים"
+      "gloss": "gli dèi"
     }
   ],
-  "timestamp": "2026-08-21T08:58:42.376491046Z",
+  "timestamp": "2026-08-24T20:22:43.789719643Z",
   "model": "glm-5.3"
 }

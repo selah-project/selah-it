@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "it",
   "chapter": 16,
-  "translation": "E portarono ⟨את⟩ l'arca dell'Elohim e la collocarono ⟨את⟩ ⟨אתו⟩ in mezzo alla tenda che Davide aveva teso per essa; e offersero olà (olocausti) e offerte di pace davanti a ⟨il⟩ Elohim.",
+  "translation": "E portarono ⟨את⟩ l'arca dell'Elohim e la collocarono ⟨את⟩ ⟨אתו⟩ in mezzo alla tenda che Davide aveva teso per essa; e presentarono olà (offerte di elevazione) e offerte di shalom davanti all'Elohim.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "e portarono"
+      "gloss": "portarono"
     },
     {
       "surface": "את",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "ויציגו",
-      "gloss": "e la collocarono"
+      "gloss": "collocarono"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "essa (l'arca)"
+      "marks": "in mezzo alla tenda"
     },
     {
       "surface": "בתוך",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ויקריבו",
-      "gloss": "e offersero"
+      "gloss": "presentarono"
     },
     {
       "surface": "עלות",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ושלמים",
-      "gloss": "e offerte di pace"
+      "gloss": "offerte di shalom"
     },
     {
       "surface": "לפני",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨il⟩ Elohim"
+      "gloss": "all'Elohim"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.577815141Z",
+  "timestamp": "2026-08-24T20:45:41.840088354Z",
   "model": "glm-5.3"
 }

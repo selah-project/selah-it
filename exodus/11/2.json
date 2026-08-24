@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 11,
-  "translation": "Parla ora ⟨ti prego⟩ agli orecchi del popolo, e chieda ogni uomo ⟨da⟩את⟩ il suo prossimo, e ogni donna ⟨da⟩את⟩ la sua vicina, oggetti d'argento e oggetti d'oro.",
+  "translation": "Parla ora, ti prego, negli orecchi del popolo, e chieda ⟨ciascun⟩ uomo a ⟨את⟩ il suo prossimo e ⟨ciascuna⟩ donna a ⟨את⟩ la sua vicina oggetti d'argento e oggetti d'oro.",
   "tokens": [
     {
       "surface": "דבר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "ora"
+      "gloss": "ti prego"
     },
     {
       "surface": "באזני",
-      "gloss": "agli orecchi di"
+      "gloss": "negli orecchi di"
     },
     {
       "surface": "העם",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "איש",
-      "gloss": "ogni uomo"
+      "gloss": "uomo"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ⟨da⟩את⟩",
-      "marks": "il suo prossimo"
+      "gloss": "⟨את⟩",
+      "marks": "a ⟨את⟩ il suo prossimo"
     },
     {
       "surface": "רעהו",
@@ -42,12 +42,12 @@
     },
     {
       "surface": "ואשה",
-      "gloss": "e ogni donna"
+      "gloss": "e donna"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ⟨da⟩את⟩",
-      "marks": "la sua vicina"
+      "gloss": "⟨את⟩",
+      "marks": "a ⟨את⟩ la sua vicina"
     },
     {
       "surface": "רעותה",
@@ -70,6 +70,6 @@
       "gloss": "oro"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.575433712Z",
+  "timestamp": "2026-08-24T20:18:58.011835890Z",
   "model": "glm-5.3"
 }

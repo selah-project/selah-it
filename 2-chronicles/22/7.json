@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "it",
   "chapter": 22,
-  "translation": "E da Elohim ⟨provenne⟩ la rovina di Achiahu, ⟨nel⟩ suo venire da Ioram; quando fu venuto, uscì con Ieoram incontro a Iehu figlio di Nimshi, che YHWH aveva unto per sterminare ⟨את⟩ la casa di Ahab.",
+  "translation": "E da Elohim fu ⟨la⟩ rovina di Achazia, ⟨quando⟩ andò da Ioram; e al suo arrivare uscì con Iehoram verso Iehu figlio di Nimshi, che YHWH aveva unto per sterminare ⟨את⟩ la casa di Achab.",
   "tokens": [
     {
       "surface": "ומאלהים",
-      "gloss": "e da Elohim"
+      "gloss": "E da Elohim"
     },
     {
       "surface": "היתה",
-      "gloss": "⟨provenne⟩ fu"
+      "gloss": "fu"
     },
     {
       "surface": "תבוסת",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אחזיהו",
-      "gloss": "di Achiahu"
+      "gloss": "di Achazia"
     },
     {
       "surface": "לבוא",
-      "gloss": "al venire"
+      "gloss": "andò"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ובבאו",
-      "gloss": "e quando fu venuto"
+      "gloss": "al suo arrivare"
     },
     {
       "surface": "יצא",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "יהורם",
-      "gloss": "Ieoram"
+      "gloss": "Iehoram"
     },
     {
       "surface": "אל",
-      "gloss": "incontro a"
+      "gloss": "verso"
     },
     {
       "surface": "יהוא",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "figlio di"
+      "gloss": "figlio"
     },
     {
       "surface": "נמשי",
-      "gloss": "Nimshi"
+      "gloss": "di Nimshi"
     },
     {
       "surface": "אשר",
@@ -86,7 +86,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la casa"
+      "marks": "la casa di Achab"
     },
     {
       "surface": "בית",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "di Ahab"
+      "gloss": "di Achab"
     }
   ],
-  "timestamp": "2026-08-21T09:59:39.539274738Z",
+  "timestamp": "2026-08-24T20:24:12.789923328Z",
   "model": "glm-5.3"
 }

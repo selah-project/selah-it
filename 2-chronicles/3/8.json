@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "it",
   "chapter": 3,
-  "translation": "E fece ⟨את⟩ il luogo santo dei santi: la sua lunghezza di fronte alla larghezza della casa, venti cubiti, e la sua larghezza venti cubiti; e lo rivestì d'oro buono, per seicento talenti.",
+  "translation": "E fece ⟨את⟩ ⟨il⟩ santuario dei santuari: la sua lunghezza secondo la faccia della larghezza della casa, venti cubiti, e la sua larghezza venti cubiti; e lo rivestì d'oro buono, per seicento talenti.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -14,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il luogo santo dei santi"
+      "marks": "il santuario dei santuari"
     },
     {
       "surface": "בית",
-      "gloss": "il luogo"
+      "gloss": "santuario"
     },
     {
       "surface": "קדש",
-      "gloss": "santo"
+      "gloss": "di santità"
     },
     {
       "surface": "הקדשים",
-      "gloss": "dei santi"
+      "gloss": "dei santuari"
     },
     {
       "surface": "ארכו",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "על",
-      "gloss": "di fronte a"
+      "gloss": "secondo"
     },
     {
       "surface": "פני",
-      "gloss": "il davanti"
+      "gloss": "la faccia"
     },
     {
       "surface": "רחב",
-      "gloss": "alla larghezza"
+      "gloss": "la larghezza"
     },
     {
       "surface": "הבית",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "אמות",
-      "gloss": "cubitи"
+      "gloss": "cubi"
     },
     {
       "surface": "עשרים",
-      "gloss": "venti"
+      "gloss": "ti"
     },
     {
       "surface": "ורחבו",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "אמות",
-      "gloss": "cubitи"
+      "gloss": "cubi"
     },
     {
       "surface": "עשרים",
-      "gloss": "venti"
+      "gloss": "ti"
     },
     {
       "surface": "ויחפהו",
@@ -93,6 +93,6 @@
       "gloss": "cento"
     }
   ],
-  "timestamp": "2026-08-21T09:54:38.273210378Z",
+  "timestamp": "2026-08-24T20:24:02.504224522Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "it",
   "chapter": 40,
-  "translation": "Ed egli, poiché ⟨non tornava indietro⟩ ⟨disse⟩: Torna da Ghedalia figlio di Achikam figlio di Shafan, che il re di Babilonia ha preposto alle città di Yehudah, e abita ⟨את⟩-con-lui in mezzo al popolo; oppure, ovunque sia retto ai tuoi occhi andare, va'. E il capo delle guardie ⟨רב טבחים⟩ gli diede una razione di cibo e un dono, e lo mandò via.",
+  "translation": "Mentre ⟨lui⟩ non ⟨era⟩ ancora tornato indietro, ⟨disse⟩: Torna da Ghedalìa figlio di Achikàm figlio di Shafàn, che il re di Babilonia ha preposto alle città di Giuda, e abita ⟨את⟩ lui in mezzo al popolo, o dove tutto ciò che è retto ai tuoi occhi per andare — là vai. E il capo dei carnefici gli diede una razione e un dono, e lo mandò via.",
   "tokens": [
     {
       "surface": "ועודנו",
-      "gloss": "poiché egli ancora"
+      "gloss": "mentre ⟨lui⟩ non… ancora"
     },
     {
       "surface": "לא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "tornava indietro"
+      "gloss": "tornato indietro"
     },
     {
-      "surface": "וישבה אל",
-      "gloss": "Torna"
+      "surface": "ושבה",
+      "gloss": "torna"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "גדליה",
-      "gloss": "Ghedalia"
+      "gloss": "Ghedalìa"
     },
     {
       "surface": "בן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Achikam"
+      "gloss": "Achikàm"
     },
     {
       "surface": "בן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שפן",
-      "gloss": "Shafan"
+      "gloss": "Shafàn"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "Giuda"
     },
     {
       "surface": "ושב",
@@ -77,7 +77,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ con lui"
+      "gloss": "⟨את⟩ lui",
+      "marks": "con lui — qui אִתּוֹ è preposizione « con lui », non il marcatore di oggetto"
     },
     {
       "surface": "בתוך",
@@ -89,19 +90,19 @@
     },
     {
       "surface": "או",
-      "gloss": "oppure"
+      "gloss": "o"
     },
     {
       "surface": "אל",
-      "gloss": "verso"
+      "gloss": "dove"
     },
     {
       "surface": "כל",
-      "gloss": "ovunque"
+      "gloss": "tutto ciò che"
     },
     {
       "surface": "הישר",
-      "gloss": "sia retto"
+      "gloss": "è retto"
     },
     {
       "surface": "בעיניך",
@@ -109,11 +110,11 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "andare"
+      "gloss": "per andare"
     },
     {
       "surface": "לך",
-      "gloss": "va'"
+      "gloss": "vai"
     },
     {
       "surface": "ויתן",
@@ -121,19 +122,19 @@
     },
     {
       "surface": "לו",
-      "gloss": "a lui"
+      "gloss": "gli"
     },
     {
       "surface": "רב",
-      "gloss": "il capo delle"
+      "gloss": "capo"
     },
     {
       "surface": "טבחים",
-      "gloss": "guardie (boia)"
+      "gloss": "dei carnefici"
     },
     {
       "surface": "ארחה",
-      "gloss": "una razione di cibo"
+      "gloss": "una razione"
     },
     {
       "surface": "ומשאת",
@@ -144,6 +145,6 @@
       "gloss": "e lo mandò via"
     }
   ],
-  "timestamp": "2026-08-21T08:11:34.678440001Z",
+  "timestamp": "2026-08-24T20:22:22.795714534Z",
   "model": "glm-5.3"
 }

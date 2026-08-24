@@ -5,8 +5,73 @@
   "book": "1-samuel",
   "lang": "it",
   "chapter": 14,
-  "translation": "E Yonatan salì ⟨את⟩ le sue mani e ⟨את⟩ i suoi piedi — letteralmente: su mani e piedi — e il portatore delle sue armi dietro di lui; ed essi caddero davanti a Yonatan, e il portatore delle sue armi finiva ⟨את⟩ dietro di lui.",
-  "tokens": [],
-  "timestamp": "2026-08-21T07:10:02.653111959Z",
+  "translation": "E Gionatan salì su ⟨le⟩ mani e su ⟨i⟩ piedi, e ⟨il⟩ portatore delle ⟨sue⟩ armi dietro di lui; ed essi caddero davanti a Gionatan, e ⟨il⟩ portatore delle armi ⟨li⟩ uccideva dietro di lui.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "e salì"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Gionatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "le sue mani"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e su"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "i suoi piedi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e ⟨il⟩ portatore"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "delle sue armi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dietro di lui"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ed essi caddero"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "davanti a"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Gionatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e ⟨il⟩ portatore"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "delle armi"
+    },
+    {
+      "surface": "ממותת",
+      "gloss": "uccideva"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dietro di lui"
+    }
+  ],
+  "timestamp": "2026-08-24T20:24:38.748413450Z",
   "model": "glm-5.3"
 }

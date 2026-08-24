@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 24,
-  "translation": "Fuori resterai in piedi, e l'uomo verso cui hai un credito porterà fuori a te ⟨את⟩ il pegno, all'aperto.",
+  "translation": "Fuori starai in piedi, e l'uomo ⟨che⟩ tu ⟨hai⟩ prestato ⟨a⟩ lui porterà fuori a te ⟨את⟩ il pegno, fuori.",
   "tokens": [
     {
       "surface": "בחוץ",
-      "gloss": "Fuori"
+      "gloss": "fuori"
     },
     {
       "surface": "תעמד",
-      "gloss": "resteraі in piedi"
+      "gloss": "starai in piedi"
     },
     {
       "surface": "והאיש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "verso cui"
+      "gloss": "che"
     },
     {
       "surface": "אתה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "נשה",
-      "gloss": "hai un credito"
+      "gloss": "prestato"
     },
     {
       "surface": "בו",
-      "gloss": "su di lui"
+      "gloss": "a lui"
     },
     {
       "surface": "יוציא",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "החוצה",
-      "gloss": "all'aperto"
+      "gloss": "fuori"
     }
   ],
-  "timestamp": "2026-08-21T06:46:16.186689601Z",
+  "timestamp": "2026-08-24T20:19:46.824736143Z",
   "model": "glm-5.3"
 }

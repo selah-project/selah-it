@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 5,
-  "translation": "E il sacerdote coprirà per lui ⟨כפר⟩ davanti a YHWH, e gli sarà perdonato, riguardo a una sola di tutte le cose che fa essendo in colpa in essa.",
+  "translation": "E il sacerdote espiarà per lui davanti a YHWH, e gli sarà perdonato, per una di tutte le cose che fa per esservi colpevole in essa.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "e coprirà"
+      "gloss": "espiarà"
     },
     {
       "surface": "עליו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "על",
-      "gloss": "riguardo a"
+      "gloss": "per"
     },
     {
       "surface": "אחת",
-      "gloss": "una sola"
+      "gloss": "una"
     },
     {
       "surface": "מכל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "le cose che"
+      "gloss": "che"
     },
     {
       "surface": "יעשה",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "לאשמה",
-      "gloss": "essendo in colpa"
+      "gloss": "per esservi colpevole"
     },
     {
       "surface": "בה",
       "gloss": "in essa"
     }
   ],
-  "timestamp": "2026-08-21T06:11:07.193176568Z",
+  "timestamp": "2026-08-24T20:19:31.963809742Z",
   "model": "glm-5.3"
 }

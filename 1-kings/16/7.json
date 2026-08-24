@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "it",
   "chapter": 16,
-  "translation": "E anche per mano di Iehu figlio di Chanani il profeta fu ⟨la⟩ parola di YHWH contro Baasha e contro la sua casa, per tutto il male che fece agli occhi di YHWH, per provocarlo a ira con l'opera delle sue mani, per essere come la casa di Ierovam, e perché ⟨questi⟩ lo colpì ⟨את lui⟩.",
+  "translation": "E anche per mano di Iehu figlio di Chanani, il navì, fu la parola di YHWH contro Baasha e contro la sua casa, e per tutto il male che egli fece agli occhi di YHWH, per provocarlo a ira con l'opera delle sue mani, per diventare come la casa di Iarovam, e per il fatto che ⟨lo⟩ colpì ⟨את lui⟩.",
   "tokens": [
     {
       "surface": "וגם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ביד",
-      "gloss": "per mano di"
+      "gloss": "per mano"
     },
     {
       "surface": "יהוא",
-      "gloss": "di Iehu"
+      "gloss": "Iehu"
     },
     {
       "surface": "בן",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "il profeta"
+      "gloss": "il navì"
     },
     {
       "surface": "דבר",
-      "gloss": "parola"
+      "gloss": "la parola"
     },
     {
       "surface": "יהוה",
-      "gloss": "di YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "היה",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "agli occhi di"
+      "gloss": "agli occhi"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "di YHWH"
     },
     {
       "surface": "להכעיסו",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "במעשה",
-      "gloss": "con l'opera di"
+      "gloss": "con l'opera"
     },
     {
       "surface": "ידיו",
@@ -101,19 +101,19 @@
     },
     {
       "surface": "להיות",
-      "gloss": "per essere come"
+      "gloss": "per diventare"
     },
     {
       "surface": "כבית",
-      "gloss": "la casa di"
+      "gloss": "come la casa"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Ierovam"
+      "gloss": "di Iarovam"
     },
     {
       "surface": "ועל",
-      "gloss": "e perché"
+      "gloss": "e per"
     },
     {
       "surface": "אשר",
@@ -126,9 +126,9 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lui — Baasha, oggetto del colpo"
+      "marks": "lui"
     }
   ],
-  "timestamp": "2026-08-21T07:31:22.356893559Z",
+  "timestamp": "2026-08-24T20:21:50.012031019Z",
   "model": "glm-5.3"
 }

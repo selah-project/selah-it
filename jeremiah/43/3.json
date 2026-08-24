@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "it",
   "chapter": 43,
-  "translation": "«Poiché Baruk figlio di Neria ti istiga contro di noi, per consegnarci ⟨אתנו⟩ in mano ai Kasdim, per farci morire ⟨אתנו⟩ e per deportarci ⟨אתנו⟩ a Bavel».",
+  "translation": "poiché Baruch figlio di Neria ti istiga contro di noi, per dare ⟨את⟩ noi in mano ai Kasdim, per metterci a morte e per deportarci a Babilonia.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "Baruk"
+      "gloss": "Baruch"
     },
     {
       "surface": "בן",
-      "gloss": "figlio di"
+      "gloss": "figlio"
     },
     {
       "surface": "נריה",
-      "gloss": "Neria"
+      "gloss": "di Neria"
     },
     {
       "surface": "מסית",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ te"
+      "gloss": "⟨את⟩",
+      "marks": "ti"
     },
     {
       "surface": "בנו",
@@ -41,15 +42,16 @@
     },
     {
       "surface": "תת",
-      "gloss": "consegnare"
+      "gloss": "dare"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ noi"
+      "gloss": "⟨את⟩",
+      "marks": "noi"
     },
     {
       "surface": "ביד",
-      "gloss": "in mano a"
+      "gloss": "in mano"
     },
     {
       "surface": "הכשדים",
@@ -57,25 +59,27 @@
     },
     {
       "surface": "להמית",
-      "gloss": "per far morire"
+      "gloss": "per metterci a morte"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ noi"
+      "gloss": "⟨את⟩",
+      "marks": "noi (a morte)"
     },
     {
       "surface": "ולהגלות",
-      "gloss": "e per deportare"
+      "gloss": "e per deportarci"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ noi"
+      "gloss": "⟨את⟩",
+      "marks": "noi (in deportazione)"
     },
     {
       "surface": "בבל",
-      "gloss": "a Bavel"
+      "gloss": "a Babilonia"
     }
   ],
-  "timestamp": "2026-08-21T08:12:21.935849423Z",
+  "timestamp": "2026-08-24T20:22:17.838687660Z",
   "model": "glm-5.3"
 }

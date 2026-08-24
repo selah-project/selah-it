@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 3,
-  "translation": "E Mosè prese ⟨את⟩ il denaro del riscatto ⟨את⟩ da ⟨מאת⟩ coloro che eccedevano i riscattati mediante i Leviti.",
+  "translation": "E Mosè prese ⟨את⟩ il denaro del riscatto da ⟨את⟩ coloro che eccedevano sui riscattati mediante i leviti.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -30,7 +30,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ da ⟨מאת⟩"
+      "gloss": "da ⟨את⟩",
+      "marks": "coloro che eccedevano"
     },
     {
       "surface": "העדפים",
@@ -38,7 +39,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sopra"
+      "gloss": "su"
     },
     {
       "surface": "פדויי",
@@ -46,9 +47,9 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "i Leviti"
+      "gloss": "mediante i leviti"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.588521948Z",
+  "timestamp": "2026-08-24T20:20:20.376893912Z",
   "model": "glm-5.3"
 }

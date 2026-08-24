@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 2,
-  "translation": "Cibo comprerete ⟨מאתם⟩ da loro per denaro e mangerete; anche acqua comprerete ⟨מאתם⟩ da loro per denaro e berrete.",
+  "translation": "Cibo comprerete ⟨את⟩ da loro per argento e mangerete; anche acqua comprerete ⟨את⟩ da loro per argento e berrete.",
   "tokens": [
     {
       "surface": "אכל",
@@ -17,11 +17,12 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ loro"
+      "gloss": "⟨את⟩",
+      "marks": "da loro"
     },
     {
       "surface": "בכסף",
-      "gloss": "per denaro"
+      "gloss": "per argento"
     },
     {
       "surface": "ואכלתם",
@@ -41,17 +42,18 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ loro"
+      "gloss": "⟨את⟩",
+      "marks": "da loro"
     },
     {
       "surface": "בכסף",
-      "gloss": "per denaro"
+      "gloss": "per argento"
     },
     {
       "surface": "ושתיתם",
       "gloss": "e berrete"
     }
   ],
-  "timestamp": "2026-08-21T10:05:39.393368954Z",
+  "timestamp": "2026-08-24T20:20:04.063245556Z",
   "model": "glm-5.3"
 }

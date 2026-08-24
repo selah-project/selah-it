@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 40,
-  "translation": "E li ungerai come hai unto ⟨את⟩ loro padre, ed essi eserciteranno il sacerdozio per me; e la loro unzione sarà loro per un sacerdozio eterno, per le loro generazioni.",
+  "translation": "E li ungerai ⟨את⟩ come hai unto ⟨את⟩ loro padre, e mi serviranno come sacerdoti; e la loro unzione sarà loro per un sacerdozio eterno, per le loro generazioni.",
   "tokens": [
     {
       "surface": "ומשחת",
-      "gloss": "e li ungerai"
+      "gloss": "e ungerai"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ loro",
-      "marks": "li ungerai"
+      "gloss": "⟨את⟩",
+      "marks": "li (loro)"
     },
     {
       "surface": "כאשר",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "וכהנו",
-      "gloss": "ed essi eserciteranno il sacerdozio"
+      "gloss": "e mi serviranno come sacerdoti"
     },
     {
       "surface": "לי",
@@ -70,6 +70,6 @@
       "gloss": "per le loro generazioni"
     }
   ],
-  "timestamp": "2026-08-21T06:09:30.824032415Z",
+  "timestamp": "2026-08-24T20:19:26.719085024Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 22,
-  "translation": "E venne Elohim da Bilam di notte e gli disse: se gli uomini sono venuti a chiamarti, àlzati, va' con loro; ma soltanto la parola che io ti dirò, quella ⟨את⟩ farai.",
+  "translation": "E venne Elohim da Balaam di notte e gli disse: se gli uomini sono venuti a chiamarti, àlzati, va' ⟨את⟩ con loro — ma soltanto ⟨את⟩ la parola che io ti dirò, quella ⟨את⟩ farai.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בלעם",
-      "gloss": "Bilam"
+      "gloss": "Balaam"
     },
     {
       "surface": "לילה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ con loro (את preposizionale)"
+      "gloss": "⟨את⟩ con loro"
     },
     {
       "surface": "ואך",
@@ -95,13 +95,13 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "quella (farai)"
+      "marks": "quella"
     },
     {
       "surface": "תעשה",
       "gloss": "farai"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.588752409Z",
+  "timestamp": "2026-08-24T20:20:04.970532041Z",
   "model": "glm-5.3"
 }

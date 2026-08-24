@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 26,
-  "translation": "E farai per la cortina cinque colonne di legno di acacia ⟨שטים⟩, e le rivestirai ⟨את⟩ d'oro, e i loro ganci d'oro, e fonderai per loro cinque basi di rame.",
+  "translation": "E farai per la cortina cinque colonne di legno di acacia ⟨shittim⟩, e le rivestirai d'oro, ⟨את⟩ loro, e le loro uncini d'oro, e fonderai per loro cinque basi di rame.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שטים",
-      "gloss": "acacia"
+      "gloss": "acacia ⟨shittim⟩"
     },
     {
       "surface": "וצפית",
@@ -34,19 +34,19 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "d'oro (le cinque colonne)"
+      "marks": "loro"
     },
     {
       "surface": "זהב",
-      "gloss": "oro"
+      "gloss": "d'oro"
     },
     {
-      "surface": "ולוהם",
-      "gloss": "e i loro ganci"
+      "surface": "וגויהם",
+      "gloss": "e le loro uncini"
     },
     {
       "surface": "זהב",
-      "gloss": "oro"
+      "gloss": "d'oro"
     },
     {
       "surface": "ויצקת",
@@ -69,6 +69,6 @@
       "gloss": "rame"
     }
   ],
-  "timestamp": "2026-08-21T06:02:42.342281392Z",
+  "timestamp": "2026-08-24T20:19:10.582757499Z",
   "model": "glm-5.3"
 }

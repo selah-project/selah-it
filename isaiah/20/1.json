@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "it",
   "chapter": 20,
-  "translation": "Nell'anno in cui il Tartan venne ad Ashdod, quando Sargon re di Asshur lo mandò ⟨את⟩ ⟨את lui⟩, e combatté contro Ashdod e la catturò:",
+  "translation": "Nell'anno in cui il Tartan venne ad Ashdod, quando Sargon re di Ashshur ⟨lo⟩ mandò e combatté contro Ashdod e la catturò.",
   "tokens": [
     {
       "surface": "בשנת",
-      "gloss": "nell'anno"
+      "gloss": "Nell'anno"
     },
     {
       "surface": "בא",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "בשלח",
-      "gloss": "quando mandò"
+      "gloss": "quando ⟨lo⟩ mandò"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨את lui⟩",
-      "marks": "Sargon"
+      "gloss": "⟨את⟩",
+      "marks": "Sargon (l'oggetto mandato: il Tartan)"
     },
     {
       "surface": "סרגון",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "di Asshur"
+      "gloss": "di Ashshur"
     },
     {
       "surface": "וילחם",
@@ -57,6 +57,6 @@
       "gloss": "e la catturò"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.587184622Z",
+  "timestamp": "2026-08-24T20:22:20.339686648Z",
   "model": "glm-5.3"
 }

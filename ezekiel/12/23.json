@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "it",
   "chapter": 12,
-  "translation": "Perciò dì loro: così ha detto Adonai YHWH: ho fatto cessare ⟨את⟩ questo proverbio, e non lo useranno più come proverbio in Israele; ma dì loro: si sono avvicinati i giorni e la parola di ogni visione.",
+  "translation": "Perciò di' loro: così ha detto ⟨il⟩ Signore ⟨Adonai⟩ YHWH: ho fatto cessare ⟨את⟩ questo proverbio, e non lo useranno più come proverbio in Israele; ma parla loro: si sono avvicinati i giorni e ⟨l'adempimento⟩ di ogni visione.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Perciò"
+      "gloss": "percioò"
     },
     {
       "surface": "אמר",
-      "gloss": "dì"
+      "gloss": "di'"
     },
     {
       "surface": "אליהם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "המשל",
-      "gloss": "questo proverbio"
+      "gloss": "il proverbio"
     },
     {
       "surface": "הזה",
@@ -63,7 +63,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "più (il proverbio, oggetto)"
+      "marks": "più (l'oggetto: il proverbio)"
     },
     {
       "surface": "עוד",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "(costrutto כי אם: bensì)"
+      "gloss": "—"
     },
     {
       "surface": "דבר",
-      "gloss": "dì"
+      "gloss": "parla"
     },
     {
       "surface": "אליהם",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "ודבר",
-      "gloss": "e la parola"
+      "gloss": "e ⟨l'adempimento⟩"
     },
     {
       "surface": "כל",
@@ -110,6 +110,6 @@
       "gloss": "visione"
     }
   ],
-  "timestamp": "2026-08-21T08:19:03.162611790Z",
+  "timestamp": "2026-08-24T20:22:50.503866119Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 7,
-  "translation": "Il suo qorban: una scodella d'argento, del peso di centotrenta sicli, un vaso aspersorio d'argento di settanta sicli, secondo il siclo del Santuario; entrambi pieni di semola impastata con olio per la minchà.",
+  "translation": "Il suo qorban: una scodella d'argento, una sola, di centotrenta sicli ⟨era⟩ il suo peso; un bacino d'argento, uno solo, di settanta sicli, secondo il siclo del Santuario; entrambi pieni di semola impastata con olio, per un'offerta di minchà.",
   "tokens": [
     {
       "surface": "קרבנו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אחת",
-      "gloss": "una"
+      "gloss": "una sola"
     },
     {
       "surface": "שלשים",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מזרק",
-      "gloss": "un vaso aspersorio"
+      "gloss": "un bacino"
     },
     {
       "surface": "אחד",
-      "gloss": "uno"
+      "gloss": "uno solo"
     },
     {
       "surface": "כסף",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שבעים",
-      "gloss": "settantа"
+      "gloss": "settanta"
     },
     {
       "surface": "שקל",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "למנחה",
-      "gloss": "per la minchà (oblazione)"
+      "gloss": "per un'offerta di minchà"
     }
   ],
-  "timestamp": "2026-08-21T06:25:41.473553051Z",
+  "timestamp": "2026-08-24T20:19:47.975170575Z",
   "model": "glm-5.3"
 }

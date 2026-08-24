@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 11,
-  "translation": "E amerai ⟨את⟩ YHWH, il tuo Elohim, e custodirai la sua veglia, e le sue prescriptions — le sue חקּוֹת — e le sue sentenze e i suoi comandamenti, tutti i giorni.",
+  "translation": "E amerai ⟨את⟩ YHWH, il tuo Elohim, e custodirai la sua custodia, e le sue statue e le sue norme e i suoi precetti, tutti i giorni.",
   "tokens": [
     {
       "surface": "ואהבת",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "משמרתו",
-      "gloss": "la sua veglia"
+      "gloss": "la sua custodia"
     },
     {
       "surface": "וחקתיו",
-      "gloss": "e le sue prescrizioni"
+      "gloss": "e le sue statue"
     },
     {
       "surface": "ומשפטיו",
-      "gloss": "e le sue sentenze"
+      "gloss": "e le sue norme"
     },
     {
       "surface": "ומצותיו",
-      "gloss": "e i suoi comandamenti"
+      "gloss": "e i suoi precetti"
     },
     {
       "surface": "כל",
@@ -53,6 +53,6 @@
       "gloss": "i giorni"
     }
   ],
-  "timestamp": "2026-08-21T06:42:46.406398707Z",
+  "timestamp": "2026-08-24T20:24:35.142641850Z",
   "model": "glm-5.3"
 }

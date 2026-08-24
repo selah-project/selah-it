@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "it",
   "chapter": 29,
-  "translation": "Ed ecco, i nostri padri sono caduti ⟨ב⟩ per la spada, e i nostri figli e le nostre figlie e le nostre mogli ⟨sono⟩ in prigionia per questo.",
+  "translation": "Ecco, i nostri padri sono caduti ⟨ב⟩⟨la⟩ spada, e i nostri figli e le nostre figlie e le nostre mogli in esilio — per questo.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "ed ecco"
+      "gloss": "ecco"
     },
     {
       "surface": "נפלו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "per la spada"
+      "gloss": "⟨dalla⟩ spada"
     },
     {
       "surface": "ובנינו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בשבי",
-      "gloss": "in prigionia"
+      "gloss": "in esilio"
     },
     {
       "surface": "על",
@@ -48,6 +48,6 @@
       "gloss": "questo"
     }
   ],
-  "timestamp": "2026-08-21T10:00:18.910895744Z",
+  "timestamp": "2026-08-24T20:23:55.982557978Z",
   "model": "glm-5.3"
 }

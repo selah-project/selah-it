@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "it",
   "chapter": 12,
-  "translation": "E si purificarono i sacerdoti e i leviti, e purificarono ⟨את⟩ il popolo, ⟨ואת⟩ le porte e ⟨ואת⟩ il muro.",
+  "translation": "E si purificarono i sacerdoti e i leviti; e purificarono ⟨את⟩ il popolo e ⟨את⟩ le porte e ⟨את⟩ il muro.",
   "tokens": [
     {
       "surface": "ויטהרו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "le porte"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "e ⟨את⟩",
       "marks": "il muro"
     },
     {
@@ -51,6 +51,6 @@
       "gloss": "il muro"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.585992740Z",
+  "timestamp": "2026-08-24T20:23:47.110038433Z",
   "model": "glm-5.3"
 }

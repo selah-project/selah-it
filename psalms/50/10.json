@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 50,
-  "translation": "poiché mio ⟨è⟩ ogni bestia della foresta, le bestie sui monti di אלף.",
+  "translation": "Poiché mio è ogni bestia della foresta, e le bestie sui monti di mille.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "poiché"
+      "gloss": "Poiché"
     },
     {
       "surface": "לי",
-      "gloss": "mio"
+      "gloss": "mio è"
     },
     {
       "surface": "כל",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "אלף",
-      "gloss": "di אלף"
+      "gloss": "di mille"
     }
   ],
-  "timestamp": "2026-08-21T08:51:12.768557550Z",
+  "timestamp": "2026-08-24T20:22:47.426890214Z",
   "model": "glm-5.3"
 }

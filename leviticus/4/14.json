@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 4,
-  "translation": "quando il peccato che hanno commesso diventa noto, l'assemblea presenterà un toro, figlio di mandria, come offerta per il peccato, e lo porteranno ⟨אתו⟩ davanti alla tenda del convegno.",
+  "translation": "e ⟨quando⟩ il peccato che hanno commesso contro di essa ⟨sia⟩ conosciuto, allora la comunità presenterà un giovane toro, figlio di grosso bestiame, come sacrificio per il peccato, e lo porterà ⟨את⟩ davanti alla tenda del convegno.",
   "tokens": [
     {
       "surface": "ונודעה",
-      "gloss": "quando diventa noto"
+      "gloss": "sarà conosciuto"
     },
     {
       "surface": "החטאת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "riguardo ad essa"
+      "gloss": "contro di essa"
     },
     {
       "surface": "והקריבו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הקהל",
-      "gloss": "l'assemblea"
+      "gloss": "la comunità"
     },
     {
       "surface": "פר",
-      "gloss": "un toro"
+      "gloss": "un giovane toro"
     },
     {
       "surface": "בן",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "בקר",
-      "gloss": "di mandria"
+      "gloss": "di grosso bestiame"
     },
     {
       "surface": "לחטאת",
-      "gloss": "come offerta per il peccato"
+      "gloss": "come sacrificio per il peccato"
     },
     {
       "surface": "והביאו",
-      "gloss": "e porteranno"
+      "gloss": "e porterà"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lo (il toro)"
+      "marks": "esso — il giovane toro"
     },
     {
       "surface": "לפני",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "אהל",
-      "gloss": "alla tenda"
+      "gloss": "la tenda"
     },
     {
       "surface": "מועד",
       "gloss": "del convegno"
     }
   ],
-  "timestamp": "2026-08-21T06:11:20.569020253Z",
+  "timestamp": "2026-08-24T20:19:38.777468898Z",
   "model": "glm-5.3"
 }

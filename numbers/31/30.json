@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 31,
-  "translation": "E dalla metà dei figli d'Israele prenderai uno preso su cinquanta, degli esseri umani, del bestiame bovino, degli asini e del piccolo bestiame, di ogni bestia; e li darai ⟨אתם⟩ ai leviti, custodi della custodia del mishkan di YHWH.",
+  "translation": "E dalla metà dei figli di Israele prenderai uno su cinquanta, preso dalle persone, dai buoi, dagli asini e dalle pecore, da ogni bestia; e darai ⟨את⟩ loro ai leviti, custodi della custodia del mishkan ⟨di⟩ YHWH.",
   "tokens": [
     {
       "surface": "וממחצת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "d'Israele"
+      "gloss": "di Israele"
     },
     {
       "surface": "תקח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "su"
+      "gloss": "da"
     },
     {
       "surface": "החמשים",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "מן",
-      "gloss": "degli"
+      "gloss": "da"
     },
     {
       "surface": "האדם",
-      "gloss": "esseri umani"
+      "gloss": "le persone"
     },
     {
       "surface": "מן",
-      "gloss": "del"
+      "gloss": "dai"
     },
     {
       "surface": "הבקר",
-      "gloss": "bestiame bovino"
+      "gloss": "buoi"
     },
     {
       "surface": "מן",
-      "gloss": "degli"
+      "gloss": "dagli"
     },
     {
       "surface": "החמרים",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "ומן",
-      "gloss": "e del"
+      "gloss": "e dalle"
     },
     {
       "surface": "הצאן",
-      "gloss": "piccolo bestiame"
+      "gloss": "pecore"
     },
     {
       "surface": "מכל",
-      "gloss": "di ogni"
+      "gloss": "da ogni"
     },
     {
       "surface": "הבהמה",
@@ -86,7 +86,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "li — i leviti"
+      "marks": "loro — i leviti"
     },
     {
       "surface": "ללוים",
@@ -109,6 +109,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-21T06:37:52.286138690Z",
+  "timestamp": "2026-08-24T20:19:57.858181871Z",
   "model": "glm-5.3"
 }

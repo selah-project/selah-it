@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 7,
-  "translation": "Questa ⟨fu⟩ la dedicazione dell'altare, il giorno in cui fu unto, da parte dei principi di Israele: dodici piatti d'argento, dodici coppe d'argento, dodici coppe d'oro.",
+  "translation": "Questa ⟨fu⟩ la consacrazione dell'altare, il giorno in cui fu unto: da parte dei principi d'Israele, dodici piatti d'argento, dodici coppe d'argento, dodici coppette d'oro.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "questa"
+      "gloss": "Questa"
     },
     {
       "surface": "חנכת",
-      "gloss": "la dedicazione"
+      "gloss": "consacrazione"
     },
     {
       "surface": "המזבח",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "המשח",
-      "gloss": "fu unto"
+      "gloss": "in cui fu unto"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ esso"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "מאת",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "di Israele"
+      "gloss": "d'Israele"
     },
     {
       "surface": "קערת",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "⟨dieci⟩"
+      "gloss": ""
     },
     {
       "surface": "מזרקי",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "עשר",
-      "gloss": "⟨dieci⟩"
+      "gloss": ""
     },
     {
       "surface": "כפות",
-      "gloss": "coppe"
+      "gloss": "coppette"
     },
     {
       "surface": "זהב",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "⟨dieci⟩"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-21T06:26:46.939434585Z",
+  "timestamp": "2026-08-24T20:19:56.478183986Z",
   "model": "glm-5.3"
 }

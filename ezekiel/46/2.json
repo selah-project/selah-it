@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "it",
   "chapter": 46,
-  "translation": "E il nasi entrerà per la via del portico della porta, dall'esterno, e si fermerà presso lo stipite della porta; e i sacerdoti faranno ⟨את⟩ la sua olà ⟨את⟩ e ⟨את⟩ ⟨ואת⟩ i suoi shelamim, ed egli si prostrerà sulla soglia della porta, e uscirà; e la porta non sarà chiusa fino alla sera.",
+  "translation": "E il nasi entrerà per la via del vestibolo del portone, dall'esterno, e starà presso lo stipite del portone; e i sacerdoti faranno ⟨את⟩ la sua olà e ⟨את⟩ i suoi sacrifici di shalom, e si prostrerà sulla soglia del portone, e uscirà; ma il portone non sarà chiuso fino alla sera.",
   "tokens": [
     {
       "surface": "ובא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אולם",
-      "gloss": "del portico"
+      "gloss": "del vestibolo"
     },
     {
       "surface": "השער",
-      "gloss": "della porta"
+      "gloss": "del portone"
     },
     {
       "surface": "מחוץ",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ועמד",
-      "gloss": "e si fermerà"
+      "gloss": "e starà"
     },
     {
       "surface": "על",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "השער",
-      "gloss": "della porta"
+      "gloss": "del portone"
     },
     {
       "surface": "ועשו",
@@ -66,12 +66,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
-      "marks": "i suoi shelamim"
+      "gloss": "⟨את⟩",
+      "marks": "i suoi sacrifici di shalom"
     },
     {
       "surface": "שלמיו",
-      "gloss": "i suoi shelamim"
+      "gloss": "i suoi sacrifici di shalom"
     },
     {
       "surface": "והשתחוה",
@@ -79,15 +79,15 @@
     },
     {
       "surface": "על",
-      "gloss": "sulla"
+      "gloss": "su"
     },
     {
       "surface": "מפתן",
-      "gloss": "soglia"
+      "gloss": "la soglia"
     },
     {
       "surface": "השער",
-      "gloss": "della porta"
+      "gloss": "del portone"
     },
     {
       "surface": "ויצא",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "והשער",
-      "gloss": "e la porta"
+      "gloss": "ma il portone"
     },
     {
       "surface": "לא",
@@ -103,17 +103,17 @@
     },
     {
       "surface": "יסגר",
-      "gloss": "sarà chiusa"
+      "gloss": "sarà chiuso"
     },
     {
       "surface": "עד",
-      "gloss": "fino"
+      "gloss": "fino a"
     },
     {
       "surface": "הערב",
       "gloss": "alla sera"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.583343296Z",
+  "timestamp": "2026-08-24T20:22:52.464400850Z",
   "model": "glm-5.3"
 }

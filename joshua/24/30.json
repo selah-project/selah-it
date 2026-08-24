@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "it",
   "chapter": 24,
-  "translation": "E lo seppellirono ⟨אתו⟩ nel confine della sua eredità, a Timnat-Serach, che ⟨si trova⟩ nel monte di Efraim, a nord del monte Gaash.",
+  "translation": "E lo seppellirono ⟨את⟩ lui nel confine della sua eredità, a Timnat-Serach, che ⟨è⟩ nel monte di Efraim, a nord del monte Gaash.",
   "tokens": [
     {
       "surface": "ויקברו",
@@ -14,7 +14,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lo (Giosuè)"
+      "marks": "lui (Giosuè)"
     },
     {
       "surface": "בגבול",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "סרח",
-      "gloss": "Serach"
+      "gloss": "-Serach"
     },
     {
       "surface": "אשר",
@@ -57,6 +57,6 @@
       "gloss": "Gaash"
     }
   ],
-  "timestamp": "2026-08-21T06:57:22.168137392Z",
+  "timestamp": "2026-08-24T20:24:27.814520440Z",
   "model": "glm-5.3"
 }

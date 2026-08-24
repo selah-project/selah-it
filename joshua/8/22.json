@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "it",
   "chapter": 8,
-  "translation": "E questi uscirono dalla città incontro a loro, e furono per Israele in mezzo — questi da una parte e quelli dall'altra — e li colpirono ⟨את⟩ ⟨אותם⟩ finché non rimase ⟨loro⟩ né superstite né fuggito.",
+  "translation": "E questi uscirono dalla città incontro a loro, e si trovarono in mezzo a Israele, questi di qua e quelli di là; e li colpirono fino a non lasciare ⟨a lui⟩ né superstite né fuggito.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "e furono"
+      "gloss": "e si trovarono"
     },
     {
       "surface": "לישראל",
-      "gloss": "per Israele"
+      "gloss": "in mezzo a Israele"
     },
     {
       "surface": "בתוך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מזה",
-      "gloss": "da una parte"
+      "gloss": "di qua"
     },
     {
       "surface": "ואלה",
@@ -53,20 +53,20 @@
     },
     {
       "surface": "מזה",
-      "gloss": "dall'altra"
+      "gloss": "di là"
     },
     {
       "surface": "ויכו",
-      "gloss": "e colpirono"
+      "gloss": "e li colpirono"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "loro"
+      "gloss": "⟨את⟩ loro",
+      "marks": "loro — gli uomini di Ai, l'oggetto colpito"
     },
     {
       "surface": "עד",
-      "gloss": "finché"
+      "gloss": "fino a"
     },
     {
       "surface": "בלתי",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "השאיר",
-      "gloss": "rimase"
+      "gloss": "lasciare"
     },
     {
       "surface": "לו",
-      "gloss": "⟨loro⟩"
+      "gloss": "⟨a lui⟩"
     },
     {
       "surface": "שריד",
@@ -89,6 +89,6 @@
       "gloss": "né fuggito"
     }
   ],
-  "timestamp": "2026-08-21T06:52:39.282080276Z",
+  "timestamp": "2026-08-24T20:20:42.488152557Z",
   "model": "glm-5.3"
 }

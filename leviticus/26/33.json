@@ -5,12 +5,12 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 26,
-  "translation": "E ⟨את⟩ voi io disperderò fra le nazioni, e sguainerò dietro a voi la spada; e la vostra terra sarà ⟨⟨the⟩⟩ una desolazione e le vostre città saranno un deserto.",
+  "translation": "E ⟨את⟩ voi disperderò fra le nazioni, e sguainerò la spada dietro di voi; e la vostra terra sarà ⟨una⟩ desolazione e le vostre città saranno una ruina.",
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "⟨את⟩ voi",
-      "marks": "voi (i destinatari dispersi)"
+      "gloss": "e ⟨את⟩ voi",
+      "marks": "voi — oggetto marcato di «disperderò»"
     },
     {
       "surface": "אזרה",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "והריקתי",
-      "gloss": "sguainerò"
+      "gloss": "e sguainerò"
     },
     {
       "surface": "אחריכם",
-      "gloss": "dietro a voi"
+      "gloss": "dietro di voi"
     },
     {
       "surface": "חרב",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "sarà"
+      "gloss": "e sarà"
     },
     {
       "surface": "ארצכם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "שממה",
-      "gloss": "una desolazione"
+      "gloss": "desolazione"
     },
     {
       "surface": "ועריכם",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "חרבה",
-      "gloss": "un deserto"
+      "gloss": "una ruina"
     }
   ],
-  "timestamp": "2026-08-21T06:22:07.409504686Z",
+  "timestamp": "2026-08-24T20:19:31.650954903Z",
   "model": "glm-5.3"
 }

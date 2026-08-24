@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 19,
-  "translation": "allora gli anziani della sua città manderanno ⟨a prenderlo⟩ e lo prenderanno di là ⟨אתו⟩, e lo consegneranno ⟨אתו⟩ in mano al goel del sangue, ed egli morirà.",
+  "translation": "Allora gli anziani della sua città manderanno ⟨a prenderlo⟩ e lo prenderanno di là, e lo consegneranno in mano al goel del sangue, ed egli morirà.",
   "tokens": [
     {
       "surface": "ושלחו",
-      "gloss": "e manderanno"
+      "gloss": "manda\/no — e manderanno"
     },
     {
       "surface": "זקני",
@@ -25,8 +25,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "lui (dall'insieme « di là »)"
+      "gloss": "⟨את⟩",
+      "marks": "lo (l'assassino, preso di là)"
     },
     {
       "surface": "משם",
@@ -38,8 +38,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "in mano al goel del sangue"
+      "gloss": "⟨את⟩",
+      "marks": "lo (consegnato in mano al goel)"
     },
     {
       "surface": "ביד",
@@ -58,6 +58,6 @@
       "gloss": "ed egli morirà"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.582281539Z",
+  "timestamp": "2026-08-24T20:20:13.368818928Z",
   "model": "glm-5.3"
 }

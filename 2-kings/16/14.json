@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 16,
-  "translation": "E ⟨את⟩ l'altare di bronzo che era davanti a YHWH lo avvicinò ⟨את⟩ ⟨מאת⟩ il davanti della casa, di tra l'altare e la casa di YHWH, e lo pose sul fianco dell'altare, a settentrione.",
+  "translation": "E ⟨את⟩ l'altare di bronzo che era davanti a YHWH lo avvicinò dal lato ⟨את⟩ del fronte della casa, tra l'altare e la casa di YHWH, e lo mise sul lato dell'altare, a settentrione.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "l'altare di bronzo"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "era davanti a"
+      "gloss": "davanti a"
     },
     {
       "surface": "יהוה",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ⟨מאת⟩"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "פני",
-      "gloss": "il davanti"
+      "gloss": "il fronte"
     },
     {
       "surface": "הבית",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "מבין",
-      "gloss": "di tra"
+      "gloss": "tra"
     },
     {
       "surface": "המזבח",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ומבין",
-      "gloss": "e di tra"
+      "gloss": "e tra"
     },
     {
       "surface": "בית",
@@ -70,12 +70,12 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "e lo pose"
+      "gloss": "e lo mise"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ esso",
-      "marks": "sul fianco dell'altare"
+      "gloss": "⟨את⟩",
+      "marks": "lo (l'altare)"
     },
     {
       "surface": "על",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ירך",
-      "gloss": "il fianco"
+      "gloss": "il lato"
     },
     {
       "surface": "המזבח",
@@ -94,6 +94,6 @@
       "gloss": "a settentrione"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.584574806Z",
+  "timestamp": "2026-08-24T20:24:31.251814549Z",
   "model": "glm-5.3"
 }

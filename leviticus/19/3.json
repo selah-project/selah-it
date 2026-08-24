@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 19,
-  "translation": "Ciascuno ⟨⟨את⟩ tema⟩ sua madre e suo padre, e ⟨את⟩ i miei shabbat custodite; io ⟨sono⟩ YHWH Elohim vostro.",
+  "translation": "Ognuno ⟨di voi⟩ temerà sua madre e suo padre, e ⟨את⟩ i miei shabbat guarderete: io ⟨sono⟩ YHWH ⟨il⟩ vostro Elohim.",
   "tokens": [
     {
       "surface": "איש",
-      "gloss": "ciascuno"
+      "gloss": "ognuno"
     },
     {
       "surface": "אמו",
@@ -20,12 +20,8 @@
       "gloss": "e suo padre"
     },
     {
-      "surface": "תיראאו",
-      "gloss": ""
-    },
-    {
       "surface": "תיראו",
-      "gloss": "⟨את⟩ tema"
+      "gloss": "temerete"
     },
     {
       "surface": "ואת",
@@ -38,7 +34,7 @@
     },
     {
       "surface": "תשמרו",
-      "gloss": "custodite"
+      "gloss": "guarderete"
     },
     {
       "surface": "אני",
@@ -50,9 +46,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim vostro"
+      "gloss": "vostro Elohim"
     }
   ],
-  "timestamp": "2026-08-21T06:16:25.935132115Z",
+  "timestamp": "2026-08-24T20:19:10.500712862Z",
   "model": "glm-5.3"
 }

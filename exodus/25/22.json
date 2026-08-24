@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 25,
-  "translation": "E mi farò trovare lì con te, e parlerò con te ⟨אתך⟩ da sopra il coperchio, di tra i due keruvim che sono sull'arca della testimonianza: ⟨את⟩ tutto ciò che io ti comanderò riguardo ai figli d'Israele.",
+  "translation": "E là Mi darò convegno con te, e parlerò con te da sopra il coperchio ⟨dell'espiazione⟩, tra i due keruvim che sono sull'arca della testimonianza: ⟨את⟩ tutto ciò che ti ordinerò riguardo ai figli d'Israele.",
   "tokens": [
     {
       "surface": "ונועדתי",
-      "gloss": "e mi farò trovare"
+      "gloss": "E Mi darò convegno"
     },
     {
       "surface": "לך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "lì"
+      "gloss": "là"
     },
     {
       "surface": "ודברתי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩ con te"
+      "gloss": "con te ⟨את⟩"
     },
     {
       "surface": "מעל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "il coperchio"
+      "gloss": "il coperchio dell'espiazione"
     },
     {
       "surface": "מבין",
-      "gloss": "di tra"
+      "gloss": "tra"
     },
     {
       "surface": "שני",
@@ -66,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tutto ciò che comanderò"
+      "marks": "tutto ciò che ti ordinerò"
     },
     {
       "surface": "כל",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "אצוה",
-      "gloss": "io comanderò"
+      "gloss": "ti ordinerò"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ⟨אותך⟩ te"
+      "gloss": "ti ⟨את⟩"
     },
     {
       "surface": "אל",
@@ -97,6 +97,6 @@
       "gloss": "d'Israele"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.576794274Z",
+  "timestamp": "2026-08-24T20:18:53.006618539Z",
   "model": "glm-5.3"
 }

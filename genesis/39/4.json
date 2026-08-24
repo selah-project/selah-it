@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 39,
-  "translation": "E Giuseppe trovò grazia ai suoi occhi, e lo servì ⟨אתו⟩; e lo costituì sopra la sua casa, e tutto ciò che aveva pose nella sua mano.",
+  "translation": "E Giuseppe trovò grazia ai suoi occhi e lo servì; e lo costituì ⟨את⟩ sopra la sua casa, e tutto ciò che aveva lo diede nella sua mano.",
   "tokens": [
     {
       "surface": "וימצא",
-      "gloss": "E trovò"
+      "gloss": "e trovò"
     },
     {
       "surface": "יוסף",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "וישרת",
-      "gloss": "e servì"
+      "gloss": "e lo servì"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lo (servì lui)"
+      "marks": "lo (Giuseppe, oggetto del servire e del costituire)"
     },
     {
       "surface": "ויפקדהו",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "pose"
+      "gloss": "diede"
     },
     {
       "surface": "בידו",
       "gloss": "nella sua mano"
     }
   ],
-  "timestamp": "2026-08-21T05:48:25.032369288Z",
+  "timestamp": "2026-08-24T20:19:02.468998405Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 16,
-  "translation": "E farà il kippur il sacerdote che sarà unto e che sarà consacrato ⟨את⟩ per esercitare il sacerdozio al posto di suo padre; e indosserà ⟨את⟩ le vesti di lino, le vesti ⟨della⟩ santità.",
+  "translation": "E farà copertura il sacerdote che sarà unto e di cui sarà riempita ⟨את⟩ la mano per esercitare il sacerdozio al posto di suo padre, e indosserà ⟨את⟩ le vesti di lino, le vesti ⟨il⟩ sante:",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "E farà il kippur"
+      "gloss": "e farà copertura"
     },
     {
       "surface": "הכהן",
@@ -25,8 +25,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lui",
-      "marks": "lui (il sacerdote)"
+      "gloss": "⟨את⟩",
+      "marks": "il sacerdote"
     },
     {
       "surface": "ואשר",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "ימלא",
-      "gloss": "sarà consacrato"
+      "gloss": "sarà riempita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la sua mano"
+      "marks": "la mano"
     },
     {
       "surface": "ידו",
-      "gloss": "la sua mano"
+      "gloss": "la mano di lui"
     },
     {
       "surface": "לכהן",
@@ -68,11 +68,11 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "le vesti"
+      "gloss": "le vesti di"
     },
     {
       "surface": "הבד",
-      "gloss": "di lino"
+      "gloss": "il lino"
     },
     {
       "surface": "בגדי",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "della santità"
+      "gloss": "il santo"
     }
   ],
-  "timestamp": "2026-08-21T06:16:59.174332003Z",
+  "timestamp": "2026-08-24T20:19:24.335220096Z",
   "model": "glm-5.3"
 }

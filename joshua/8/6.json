@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "it",
   "chapter": 8,
-  "translation": "Essi usciranno dietro di noi, finché li avremo tirati via ⟨את loro⟩ dalla città; perché diranno: «Fuggono davanti a noi, come la prima volta»; e noi fuggiremo davanti a loro.",
+  "translation": "«Ed essi usciranno dietro a noi finché li avremo sradicati ⟨את⟩ loro dalla città, perché diranno: fuggono davanti a noi, come la prima volta; e fuggiremo davanti a loro».",
   "tokens": [
     {
       "surface": "ויצאו",
-      "gloss": "usciranno"
+      "gloss": "ed essi usciranno"
     },
     {
       "surface": "אחרינו",
-      "gloss": "dietro di noi"
+      "gloss": "dietro a noi"
     },
     {
       "surface": "עד",
@@ -21,19 +21,20 @@
     },
     {
       "surface": "התיקנו",
-      "gloss": "avremo tirati via"
+      "gloss": "li avremo sradicati"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ loro"
+      "gloss": "⟨את⟩",
+      "marks": "loro"
     },
     {
       "surface": "מן",
-      "gloss": "dalla"
+      "gloss": "da"
     },
     {
       "surface": "העיר",
-      "gloss": "città"
+      "gloss": "la città"
     },
     {
       "surface": "כי",
@@ -61,13 +62,13 @@
     },
     {
       "surface": "ונסנו",
-      "gloss": "e noi fuggiremo"
+      "gloss": "e fuggiremo"
     },
     {
       "surface": "לפניהם",
       "gloss": "davanti a loro"
     }
   ],
-  "timestamp": "2026-08-21T06:52:02.294256913Z",
+  "timestamp": "2026-08-24T20:20:45.168556838Z",
   "model": "glm-5.3"
 }

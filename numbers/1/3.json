@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 1,
-  "translation": "Da vent'anni in su, ogni uomo che esce nell'esercito in Israele: li recounts ⟨את⟩ ⟨אתם⟩ secondo i loro eserciti, tu e Aharon.",
+  "translation": "Da figlio di vent'anni in su, chiunque esce alla schiera in Israele — li newArrerete secondo le loro schiere, tu e Aharon.",
   "tokens": [
     {
       "surface": "מבן",
-      "gloss": "dai ⟨figli di⟩"
+      "gloss": "da figlio di"
     },
     {
       "surface": "עשרים",
-      "gloss": "venti"
+      "gloss": "vent'"
     },
     {
       "surface": "שנה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "ogni"
+      "gloss": "chiunque"
     },
     {
       "surface": "יצא",
-      "gloss": "che esce"
+      "gloss": "esce"
     },
     {
       "surface": "צבא",
-      "gloss": "nell'esercito"
+      "gloss": "alla schiera"
     },
     {
       "surface": "בישראל",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "תפקדו",
-      "gloss": "li recensite"
+      "gloss": "li newArrerete"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "li (i censiti)"
+      "gloss": "⟨את⟩",
+      "marks": "li (essi)"
     },
     {
       "surface": "לצבאתם",
-      "gloss": "secondo i loro eserciti"
+      "gloss": "secondo le loro schiere"
     },
     {
       "surface": "אתה",
@@ -61,6 +61,6 @@
       "gloss": "e Aharon"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.588983070Z",
+  "timestamp": "2026-08-24T20:19:53.925629663Z",
   "model": "glm-5.3"
 }

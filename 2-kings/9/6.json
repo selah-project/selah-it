@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 9,
-  "translation": "E si alzò ed entrò nella casa, e versò l'olio sulla sua testa, e gli disse: così ha detto YHWH, Elohim d'Israele: ti ho unto come re sul popolo di YHWH, su Israele.",
+  "translation": "E si alzò, ed entrò nella casa, e versò l'olio sulla sua testa, e gli disse: così dice YHWH, Elohim d'Israele: ti ho unto ⟨per⟩ re sul popolo di YHWH, su Israele.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ha detto"
+      "gloss": "dice"
     },
     {
       "surface": "יהוה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "come re"
+      "gloss": "⟨per⟩ re"
     },
     {
       "surface": "אל",
@@ -92,6 +92,6 @@
       "gloss": "Israele"
     }
   ],
-  "timestamp": "2026-08-21T07:36:48.250436852Z",
+  "timestamp": "2026-08-24T20:21:44.725305308Z",
   "model": "glm-5.3"
 }

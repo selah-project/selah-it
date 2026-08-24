@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 7,
-  "translation": "E darà i loro re in ⟨la⟩ tua mano, e tu farai perire ⟨את⟩ il loro nome di sotto ai cieli; nessuno si terrà saldo davanti a te, finché tu li abbia distrutti ⟨את⟩ ⟨אתם⟩.",
+  "translation": "E darà i loro re nella tua mano, e tu farai perire ⟨את⟩ il loro nome da sotto i cieli; nessuno ⟨si⟩ terrà saldo, un uomo, davanti a te, finché tu non li abbia distrutti.",
   "tokens": [
     {
       "surface": "ונתן",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "מתחת",
-      "gloss": "di sotto a"
+      "gloss": "da sotto"
     },
     {
       "surface": "השמים",
-      "gloss": "ai cieli"
+      "gloss": "i cieli"
     },
     {
       "surface": "לא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "nessuno"
+      "gloss": "nessun uomo"
     },
     {
       "surface": "בפניך",
@@ -62,14 +62,14 @@
     },
     {
       "surface": "השמדך",
-      "gloss": "tu abbia distrutti"
+      "gloss": "tu abbia distrutto"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "loro"
+      "gloss": "⟨את⟩",
+      "marks": "li (loro)"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.581573323Z",
+  "timestamp": "2026-08-24T20:19:56.344707393Z",
   "model": "glm-5.3"
 }

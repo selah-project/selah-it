@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "it",
   "chapter": 37,
-  "translation": "E accosta ⟨אתם⟩ l'uno all'altro, per te, in un legno solo, e diventeranno uno nella tua mano.",
+  "translation": "E accosta ⟨את⟩ esse, l'una all'altra, per te, in un solo legno, e siano unite in una cosa sola nella tua mano.",
   "tokens": [
     {
       "surface": "וקרב",
@@ -14,19 +14,19 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "l'uno"
+      "marks": "esse, l'una all'altra"
     },
     {
       "surface": "אחד",
-      "gloss": "l'uno"
+      "gloss": "l'una"
     },
     {
       "surface": "אל",
-      "gloss": "a"
+      "gloss": "all'"
     },
     {
       "surface": "אחד",
-      "gloss": "all'altro"
+      "gloss": "altra"
     },
     {
       "surface": "לך",
@@ -34,25 +34,25 @@
     },
     {
       "surface": "לעץ",
-      "gloss": "in un legno"
+      "gloss": "in un solo legno"
     },
     {
       "surface": "אחד",
-      "gloss": "solo"
+      "gloss": "uno"
     },
     {
       "surface": "והיו",
-      "gloss": "e diventeranno"
+      "gloss": "e siano unite"
     },
     {
       "surface": "לאחדים",
-      "gloss": "uno (uniti)"
+      "gloss": "in una cosa sola"
     },
     {
       "surface": "בידך",
       "gloss": "nella tua mano"
     }
   ],
-  "timestamp": "2026-08-21T08:27:11.472861489Z",
+  "timestamp": "2026-08-24T20:22:55.703948230Z",
   "model": "glm-5.3"
 }

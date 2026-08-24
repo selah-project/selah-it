@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "it",
   "chapter": 14,
-  "translation": "E disse loro Shimson: « Voglio proporvi, vi prego, un indovinello: se me lo dichiarerete ⟨את esso⟩ chiaramente entro i sette giorni del banchetto e lo troverete, io vi darò trenta tuniche di lino e trenta cambi di vesti ».",
+  "translation": "E disse loro Shimshon: voglio annodarvi, vi prego, un indovinello. Se me ⟨את⟩ dichiarerete dichiarandolo entro i sette giorni del banchetto e lo troverete, allora vi darò trenta tuniche di lino e trenta cambi di vesti.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שמשון",
-      "gloss": "Shimson"
+      "gloss": "Shimshon"
     },
     {
       "surface": "אחודה",
-      "gloss": "voglio proporre"
+      "gloss": "voglio annodare"
     },
     {
       "surface": "נא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "vi"
+      "gloss": "a voi"
     },
     {
       "surface": "חידה",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "תגידו",
-      "gloss": "chiaramente"
+      "gloss": "dichiarandolo"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ esso",
+      "gloss": "⟨את⟩",
       "marks": "lo (l'indovinello)"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "entro i sette"
+      "gloss": "i sette"
     },
     {
       "surface": "ימי",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "ומצאתם",
-      "gloss": "e troverete"
+      "gloss": "e lo troverete"
     },
     {
       "surface": "ונתתי",
-      "gloss": "darò"
+      "gloss": "allora darò"
     },
     {
       "surface": "לכם",
-      "gloss": "vi"
+      "gloss": "a voi"
     },
     {
       "surface": "שלשים",
@@ -101,6 +101,6 @@
       "gloss": "di vesti"
     }
   ],
-  "timestamp": "2026-08-21T07:02:18.027549300Z",
+  "timestamp": "2026-08-24T20:21:20.636388005Z",
   "model": "glm-5.3"
 }

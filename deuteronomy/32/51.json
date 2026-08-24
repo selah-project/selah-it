@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 32,
-  "translation": "Perché trasgrediste contro di me in mezzo ai figli di Israele, alle acque di Merivà di Qadesh, nel deserto di Tsin, perché non mi santificaste ⟨את⟩ ⟨אותי⟩ in mezzo ai figli di Israele.",
+  "translation": "Perché agiste con perfidia verso di me, in mezzo ai figli d'Israele, alle acque di Meribat-Kades, nel deserto di Tsin: perché non mi santificaste ⟨את⟩ in mezzo ai figli d'Israele.",
   "tokens": [
     {
       "surface": "על",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ciò che⟩"
+      "gloss": "ciò che"
     },
     {
       "surface": "מעלתם",
-      "gloss": "trasgrediste"
+      "gloss": "agiste con perfidia"
     },
     {
       "surface": "בי",
-      "gloss": "contro di me"
+      "gloss": "verso di me"
     },
     {
       "surface": "בתוך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "di Israele"
+      "gloss": "d'Israele"
     },
     {
       "surface": "במי",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "מריבת",
-      "gloss": "di Merivà"
+      "gloss": "di Meribat"
     },
     {
       "surface": "קדש",
-      "gloss": "di Qadesh"
+      "gloss": "Kades"
     },
     {
       "surface": "מדבר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ciò che⟩"
+      "gloss": "ciò che"
     },
     {
       "surface": "לא",
@@ -73,7 +73,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אותי⟩"
+      "gloss": "⟨את⟩",
+      "marks": "mi"
     },
     {
       "surface": "בתוך",
@@ -85,9 +86,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "di Israele"
+      "gloss": "d'Israele"
     }
   ],
-  "timestamp": "2026-08-21T06:49:35.516282930Z",
+  "timestamp": "2026-08-24T20:20:42.261899875Z",
   "model": "glm-5.3"
 }

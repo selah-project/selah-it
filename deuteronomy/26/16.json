@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 26,
-  "translation": "«Oggi YHWH tuo Elohim ti comanda di fare questi statuti e ⟨את⟩ questi giudizi; e osserverai e farai ⟨⟨את⟩ li⟩ con tutto il tuo cuore e con tutta la tua nefesh.",
+  "translation": "Oggi YHWH, ⟨il⟩ tuo Elohim, ti comanda di fare ⟨את⟩ questi statuti e ⟨את⟩ questi giudizi; e tu li custodirai e li farai con tutto il tuo cuore e con tutta la tua nefesh.",
   "tokens": [
     {
       "surface": "היום",
-      "gloss": "oggi"
+      "gloss": "Oggi"
     },
     {
       "surface": "הזה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "החקים",
-      "gloss": "gli statuti"
+      "gloss": "questi statuti"
     },
     {
       "surface": "האלה",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "המשפטים",
-      "gloss": "i giudizi"
+      "gloss": "questi giudizi"
     },
     {
       "surface": "ושמרת",
-      "gloss": "e osserverai"
+      "gloss": "e li custodirai"
     },
     {
       "surface": "ועשית",
-      "gloss": "e farai"
+      "gloss": "e li farai"
     },
     {
       "surface": "אותם",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "e con tutta"
+      "gloss": "e con tutto"
     },
     {
       "surface": "נפשך",
       "gloss": "la tua nefesh"
     }
   ],
-  "timestamp": "2026-08-21T06:47:10.911816475Z",
+  "timestamp": "2026-08-24T20:20:15.546171813Z",
   "model": "glm-5.3"
 }

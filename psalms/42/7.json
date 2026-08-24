@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 42,
-  "translation": "Elohim mio, su di me si affonda la mia nefesh; perciò io ti ricordo, dalla terra del Giordano e dell'Hermonim, dal monte Mitsar.",
+  "translation": "Elohim mio, su di me la mia nefesh si prostra abbattuta; perciò ti ricordo dalla terra del Giordano e degli Chermonim, dal monte Mitsar.",
   "tokens": [
     {
       "surface": "אלהי",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "תשתוחח",
-      "gloss": "si affonda"
+      "gloss": "si prostra abbattuta"
     },
     {
       "surface": "על",
-      "gloss": "percio"
+      "gloss": "per"
     },
     {
       "surface": "כן",
-      "gloss": "[con על:] perciò"
+      "gloss": "ciò"
     },
     {
       "surface": "אזכרך",
-      "gloss": "io ti ricordo"
+      "gloss": "ti ricordo"
     },
     {
       "surface": "מארץ",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וחרמונים",
-      "gloss": "e dell'Hermonim"
+      "gloss": "e degli Chermonim"
     },
     {
       "surface": "מהר",
@@ -56,6 +56,6 @@
       "gloss": "Mitsar"
     }
   ],
-  "timestamp": "2026-08-21T08:50:17.074359177Z",
+  "timestamp": "2026-08-24T20:22:53.465725302Z",
   "model": "glm-5.3"
 }

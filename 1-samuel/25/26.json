@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "it",
   "chapter": 25,
-  "translation": "E ora, mio signore, ⟨com'> vive YHWH e ⟨com'> vive la tua ⟨nefesh⟩, ⟨colui⟩ che ti ha trattenuto YHWH dal venire ⟨sparire⟩ sangue e dal salvare la tua mano per te — e ora siano i tuoi nemici come Nabal, e quelli che cercano male al mio signore.",
+  "translation": "E ora, mio signore, vive YHWH e vive la tua nefesh, ⟨colei che⟩ ti ha trattenuto YHWH dal venire con sangue e dal portare la tua mano ⟨in soccorso⟩ per te: e ora, siano come Naval i tuoi nemici e quelli che cercano male contro il mio signore.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -24,7 +24,7 @@
       "gloss": "YHWH"
     },
     {
-      "surface": "וחי",
+      "surface": "ו-חי",
       "gloss": "e vive"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "colui che"
+      "gloss": "che"
     },
     {
       "surface": "מנעך",
@@ -44,15 +44,15 @@
       "gloss": "YHWH"
     },
     {
-      "surface": "מבוא",
+      "surface": "מ-בוא",
       "gloss": "dal venire"
     },
     {
-      "surface": "בדמים",
-      "gloss": "sangue"
+      "surface": "ב-דמים",
+      "gloss": "con sangue"
     },
     {
-      "surface": "והושע",
+      "surface": "והושיע",
       "gloss": "e dal salvare"
     },
     {
@@ -72,8 +72,8 @@
       "gloss": "siano"
     },
     {
-      "surface": "כנבל",
-      "gloss": "come Nabal"
+      "surface": "כ-נבל",
+      "gloss": "come Naval"
     },
     {
       "surface": "איביך",
@@ -85,17 +85,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "a"
+      "gloss": "contro"
     },
     {
       "surface": "אדני",
-      "gloss": "mio signore"
+      "gloss": "il mio signore"
     },
     {
       "surface": "רעה",
-      "gloss": "male"
+      "gloss": "il male"
     }
   ],
-  "timestamp": "2026-08-21T07:14:10.849883799Z",
+  "timestamp": "2026-08-24T20:21:36.361409058Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "amos",
   "lang": "it",
   "chapter": 6,
-  "translation": "Voi che gioite per un nulla di ⟨davvero⟩ — לֹא דָבָר — e che dite: « Non è forse con la nostra forza che abbiamo preso per noi le corna? »",
+  "translation": "⟨Voi⟩ che gioite per un non-nulla, che dite: « Non forse con la nostra forza abbiamo preso per noi corna? »",
   "tokens": [
     {
       "surface": "השמחים",
-      "gloss": "voi che gioite"
+      "gloss": "che gioite"
     },
     {
       "surface": "ללא",
-      "gloss": "per un nulla"
+      "gloss": "per un non-nulla"
     },
     {
       "surface": "דבר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "האמרים",
-      "gloss": "e che dicono"
+      "gloss": "che dicono"
     },
     {
       "surface": "הלוא",
-      "gloss": "non è forse"
+      "gloss": "non forse"
     },
     {
       "surface": "בחזקנו",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "קרנים",
-      "gloss": "le corna"
+      "gloss": "corna"
     }
   ],
-  "timestamp": "2026-08-21T08:35:10.543146815Z",
+  "timestamp": "2026-08-24T20:23:08.353931640Z",
   "model": "glm-5.3"
 }

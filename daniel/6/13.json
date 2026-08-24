@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "it",
   "chapter": 6,
-  "translation": "Allora si avvicinarono e dissero davanti al re, riguardo all'interdetto del re: «Non hai forse firmato ⟨un⟩ interdetto, che ogni uomo che chieda ⟨una richiesta⟩ a qualsiasi ⟨אלה⟩ dio o uomo fino a trenta giorni, se non da te, o re, sia gettato nella fossa dei leoni?». Il re rispose e disse: «La cosa ⟨è⟩ ferma, secondo la legge dei Medi e dei Persiani, che non si cambia».",
+  "translation": "Allora si avvicinarono e dissero davanti al re, riguardo all'interdetto del re: «Non hai forse firmato un interdetto, che ogni uomo che chieda ⟨una petizione⟩ a qualunque elah o a un uomo, per trenta giorni, tranne che a te, o re, sia gettato nella fossa dei leoni?». Il re rispose e disse: «La cosa ⟨è⟩ ferma, secondo la legge dei Medi e dei Persiani, che non si cambia».",
   "tokens": [
     {
       "surface": "באדין",
-      "gloss": "allora"
+      "gloss": "Allora"
     },
     {
       "surface": "קריבו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הלא",
-      "gloss": "non forse"
+      "gloss": "Non… forse"
     },
     {
       "surface": "אסר",
-      "gloss": "interdetto"
+      "gloss": "un interdetto"
     },
     {
       "surface": "רשמת",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "qualsiasi"
+      "gloss": "qualunque"
     },
     {
       "surface": "אלה",
-      "gloss": "dio"
+      "gloss": "elah"
     },
     {
       "surface": "ואנש",
-      "gloss": "o uomo"
+      "gloss": "o a un uomo"
     },
     {
       "surface": "עד",
@@ -101,11 +101,11 @@
     },
     {
       "surface": "להן",
-      "gloss": "se non"
+      "gloss": "tranne"
     },
     {
       "surface": "מנך",
-      "gloss": "da te"
+      "gloss": "che a te"
     },
     {
       "surface": "מלכא",
@@ -168,6 +168,6 @@
       "gloss": "si cambia"
     }
   ],
-  "timestamp": "2026-08-21T09:36:26.445963238Z",
+  "timestamp": "2026-08-24T20:23:51.118050890Z",
   "model": "glm-5.3"
 }

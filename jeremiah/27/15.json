@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "it",
   "chapter": 27,
-  "translation": "Perché io non li ho mandati — oracolo di YHWH — e loro profetizzano nel mio nome falsamente, per sviarvi ⟨את⟩ ⟨אתכם⟩ e farvi perire, voi e i profeti che profetizzano a voi.",
+  "translation": "Poiché io non li ho mandati — oracolo di YHWH — e loro profetizzano nel mio nome ⟨לשקר⟩ falsamente, per allontanarvi e farvi perire, voi e i profeti che profetizzano a voi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "perché"
+      "gloss": "poiché"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שלחתים",
-      "gloss": "li ho mandati"
+      "gloss": "io non li ho mandati"
     },
     {
       "surface": "נאם",
@@ -49,12 +49,12 @@
     },
     {
       "surface": "הדיחי",
-      "gloss": "sviarvi"
+      "gloss": "allontanarvi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "vi"
+      "gloss": "⟨את⟩",
+      "marks": "voi"
     },
     {
       "surface": "ואבדתם",
@@ -77,6 +77,6 @@
       "gloss": "a voi"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.572418292Z",
+  "timestamp": "2026-08-24T20:22:03.140543462Z",
   "model": "glm-5.3"
 }

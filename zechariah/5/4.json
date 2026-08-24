@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "it",
   "chapter": 5,
-  "translation": "« La farò uscire », oracolo di YHWH degli eserciti, « ed essa entrerà nella casa del ladro e nella casa di chi giura in modo falso nel mio nome; pernوترà in mezzo alla sua casa e la consumerà, con ⟨את⟩ i suoi legni e con ⟨את⟩ le sue pietre ».",
+  "translation": "Io la faccio uscire — oracolo di YHWH degli eserciti — ed essa entra nella casa del ladro e nella casa di chi giura nel mio nome ⟨per⟩ la menzogna, e pernotta in mezzo alla sua casa e la consuma, ⟨insieme a⟩ ⟨את⟩ i suoi legni e ⟨את⟩ le sue pietre.",
   "tokens": [
     {
       "surface": "הוצאתיה",
-      "gloss": "La farò uscire"
+      "gloss": "Io la faccio uscire"
     },
     {
       "surface": "נאם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "di YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "צבאות",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ובאה",
-      "gloss": "ed essa entrerà"
+      "gloss": "ed essa entra"
     },
     {
       "surface": "אל",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "לשקר",
-      "gloss": "in modo falso"
+      "gloss": "la menzogna"
     },
     {
       "surface": "ולנה",
-      "gloss": "e pernوترà"
+      "gloss": "e pernotta"
     },
     {
       "surface": "בתוך",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "וכלתו",
-      "gloss": "e la consumerà"
+      "gloss": "e la consuma"
     },
     {
       "surface": "ואת",
@@ -94,6 +94,6 @@
       "gloss": "le sue pietre"
     }
   ],
-  "timestamp": "2026-08-21T08:42:05.831872219Z",
+  "timestamp": "2026-08-24T20:23:03.698418098Z",
   "model": "glm-5.3"
 }

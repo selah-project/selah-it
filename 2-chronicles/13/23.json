@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "it",
   "chapter": 13,
-  "translation": "Abijah giacque con i suoi padri e lo seppellirono ⟨את⟩ ⟨אתו⟩ nella città di David; e regnò Asa suo figlio al suo posto; ai suoi giorni la terra fu quieta dieci anni.",
+  "translation": "E si coricò Abijah con i suoi padri, e lo seppellirono ⟨אתו⟩ nella città di David; e regnò Asa suo figlio al suo posto; ai suoi giorni ⟨fu⟩ quieta la terra, dieci anni.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "e giacque"
+      "gloss": "E si coricò"
     },
     {
       "surface": "אביה",
@@ -29,8 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Abijah (lo seppellirono ⟨אתו⟩)"
+      "gloss": "⟨את⟩",
+      "marks": "lui — Abijah"
     },
     {
       "surface": "בעיר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "שקטה",
-      "gloss": "fu quieta"
+      "gloss": "quieta"
     },
     {
       "surface": "הארץ",
@@ -77,6 +77,6 @@
       "gloss": "anni"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.579850643Z",
+  "timestamp": "2026-08-24T20:24:01.640335267Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "it",
   "chapter": 45,
-  "translation": "Poiché così disse YHWH, creatore dei cieli — ⟨egli⟩ ⟨è⟩ Elohim, formatore della terra e suo artefice, ⟨egli⟩ l'ha fondata; non come תהו la creò, perché la formò perché fosse abitata: io ⟨sono⟩ YHWH, e non ve n'⟨è⟩ alcun altro.",
+  "translation": "Perché così ha detto YHWH, creatore dei cieli — ⟨egli⟩ ⟨è⟩ Elohim — formatore della terra e suo artefice, ⟨egli⟩ l'ha fondata: non come deserto l'ha creata, per essere abitata l'ha formata: io ⟨sono⟩ YHWH, e non ⟨vi⟩ ⟨è⟩ nessun altro.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "poiché"
+      "gloss": "Perché"
     },
     {
       "surface": "כה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "disse"
+      "gloss": "ha detto"
     },
     {
       "surface": "יהוה",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "תהו",
-      "gloss": "come תהו (caos)"
+      "gloss": "come deserto"
     },
     {
       "surface": "בראה",
-      "gloss": "la creò"
+      "gloss": "l'ha creata"
     },
     {
       "surface": "לשבת",
-      "gloss": "perché fosse abitata"
+      "gloss": "per essere abitata"
     },
     {
       "surface": "יצרה",
-      "gloss": "la formò"
+      "gloss": "l'ha formata"
     },
     {
       "surface": "אני",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "ואין",
-      "gloss": "e non ve n'è"
+      "gloss": "e non"
     },
     {
       "surface": "עוד",
-      "gloss": "alcun altro"
+      "gloss": "nessun altro"
     }
   ],
-  "timestamp": "2026-08-21T07:53:58.601282428Z",
+  "timestamp": "2026-08-24T20:24:32.372804978Z",
   "model": "glm-5.3"
 }

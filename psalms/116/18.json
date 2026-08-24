@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 116,
-  "translation": "I miei voti a YHWH pagherò, davanti a lui ⟨נגדה⟩, ora ⟨נא⟩, davanti a tutto il suo popolo.",
+  "translation": "I miei voti a YHWH pagherò, sì, ora ⟨davanti⟩ a tutto il suo popolo.",
   "tokens": [
     {
       "surface": "נדרי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "ora ⟨נא⟩"
+      "gloss": "sì, ora"
     },
     {
       "surface": "לכל",
@@ -36,6 +36,6 @@
       "gloss": "il suo popolo"
     }
   ],
-  "timestamp": "2026-08-21T09:01:33.567053707Z",
+  "timestamp": "2026-08-24T20:22:42.622939116Z",
   "model": "glm-5.3"
 }

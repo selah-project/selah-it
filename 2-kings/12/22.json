@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 12,
-  "translation": "E Iozabad figlio di Shimat e Iehozabad figlio di Shomer, suoi servi, lo colpirono, ed egli morì; e lo seppellirono ⟨את⟩ ⟨אתו⟩ con i suoi padri nella città di Davide; e regnò Amatsia suo figlio al suo posto.",
+  "translation": "E Yoazar figlio di Shimàt e Yehozavàd figlio di Shomer, suoi servi, lo colpirono, ed egli morì; e lo seppellirono ⟨את⟩ con i suoi padri nella città di Davide; e regnò Amatzia suo figlio al suo posto.",
   "tokens": [
     {
       "surface": "ויוזבד",
-      "gloss": "E Iozabad"
+      "gloss": "E Yoazar"
     },
     {
       "surface": "בן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שמעת",
-      "gloss": "di Shimat"
+      "gloss": "di Shimàt"
     },
     {
       "surface": "ויהוזבד",
-      "gloss": "e Iehozabad"
+      "gloss": "e Yehozavàd"
     },
     {
       "surface": "בן",
@@ -49,8 +49,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "lo (Ioash)"
+      "gloss": "⟨את⟩",
+      "marks": "lo"
     },
     {
       "surface": "עם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אמציה",
-      "gloss": "Amatsia"
+      "gloss": "Amatzia"
     },
     {
       "surface": "בנו",
@@ -85,6 +85,6 @@
       "gloss": "al suo posto"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.584275220Z",
+  "timestamp": "2026-08-24T20:21:30.652329523Z",
   "model": "glm-5.3"
 }

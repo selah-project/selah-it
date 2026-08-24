@@ -5,16 +5,16 @@
   "book": "judges",
   "lang": "it",
   "chapter": 11,
-  "translation": "Non ⟨⟨è forse⟩⟩ così: ⟨את⟩ ciò che Kemosh, il tuo Elohim, ti fa possedere — quello tu lo possiedi; e ⟨את⟩ tutto ciò che YHWH, il nostro Elohim, ha spodestato davanti a noi — quello noi lo possederemo.",
+  "translation": "Non ⟨forse⟩ ⟨את⟩ ciò che Kemosh, il tuo Elohim, ti fa possedere — quello lo possiederai tu? E ⟨את⟩ tutto ciò che YHWH, il nostro Elohim, ha fatto possedere davanti a noi — quello lo possediamo noi.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "non è forse così"
+      "gloss": "Non ⟨forse⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ciò che Kemosh ti fa possedere"
+      "marks": "ciò che ti fa possedere Kemosh"
     },
     {
       "surface": "אשר",
@@ -34,16 +34,17 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ quello"
+      "gloss": "⟨את⟩",
+      "marks": "quello"
     },
     {
       "surface": "תירש",
-      "gloss": "tu lo possiedi"
+      "gloss": "lo possiederai tu"
     },
     {
       "surface": "ואת",
-      "gloss": "e ⟨את⟩",
-      "marks": "tutto ciò che YHWH ha spodestato"
+      "gloss": "E ⟨את⟩",
+      "marks": "tutto ciò che YHWH ha fatto possedere"
     },
     {
       "surface": "כל",
@@ -55,7 +56,7 @@
     },
     {
       "surface": "הוריש",
-      "gloss": "ha spodestato"
+      "gloss": "ha fatto possedere"
     },
     {
       "surface": "יהוה",
@@ -71,13 +72,14 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ quello"
+      "gloss": "⟨את⟩",
+      "marks": "quello"
     },
     {
       "surface": "נירש",
-      "gloss": "noi lo possederemo"
+      "gloss": "lo possediamo noi"
     }
   ],
-  "timestamp": "2026-08-21T07:01:58.985625949Z",
+  "timestamp": "2026-08-24T20:20:33.425975033Z",
   "model": "glm-5.3"
 }

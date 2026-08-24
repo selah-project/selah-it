@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 12,
-  "translation": "Soltanto, secondo tutto il desiderio della tua nefesh ⟨⟨potrai⟩⟩ macellare e mangiare carne, secondo la benedizione di YHWH tuo Elohim che ti ha dato in tutte le tue porte; il impuro e il puro lo mangeranno, come la gazzella e come il cervo.",
+  "translation": "Solo, secondo ogni desiderio della tua nefesh, potrai macellare e mangiare carne in tutte le tue città, secondo la benedizione di YHWH, il tuo Elohim, che ti ha dato; il non puro e il puro la mangeranno allo stesso modo, come ⟨si mangia⟩ la gazzella e come il cervo.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "soltanto"
+      "gloss": "solo"
     },
     {
       "surface": "בכל",
-      "gloss": "secondo tutto"
+      "gloss": "secondo ogni"
     },
     {
       "surface": "אות",
-      "gloss": "il desiderio"
+      "gloss": "desiderio"
     },
     {
       "surface": "נפשך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "תזבח",
-      "gloss": "macellerai"
+      "gloss": "potrai macellare"
     },
     {
       "surface": "ואכלת",
-      "gloss": "e mangerai"
+      "gloss": "e mangiare"
     },
     {
       "surface": "בשר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "di YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהיך",
-      "gloss": "tuo Elohim"
+      "gloss": "il tuo Elohim"
     },
     {
       "surface": "אשר",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "שעריך",
-      "gloss": "le tue porte"
+      "gloss": "le tue città"
     },
     {
       "surface": "הטמא",
-      "gloss": "l'impuro"
+      "gloss": "il non puro"
     },
     {
       "surface": "והטהור",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "יאכלנו",
-      "gloss": "lo mangeranno"
+      "gloss": "la mangeranno"
     },
     {
       "surface": "כצבי",
@@ -88,6 +88,6 @@
       "gloss": "e come il cervo"
     }
   ],
-  "timestamp": "2026-08-21T06:43:06.011855864Z",
+  "timestamp": "2026-08-24T20:20:17.905611516Z",
   "model": "glm-5.3"
 }

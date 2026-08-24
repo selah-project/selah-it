@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 14,
-  "translation": "fecero guerra ⟨את⟩ Bera re di Sodom ⟨את⟩ ⟨ואת⟩ Birsha re di Gomorrah, Shinav re di Admah e Shemever re di Tsevoim, e il re di Bela — essa ⟨è⟩ Tsoar.",
+  "translation": "fecero guerra ⟨את⟩ Bera re di Sedom e ⟨את⟩ Birsha re di Amorah, Shinav re di Admah e Shemever re di Tsevoim, e il re di Bela — essa ⟨è⟩ Tsoar.",
   "tokens": [
     {
       "surface": "עשו",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bera re di Sodom"
+      "marks": "Bera re di Sedom"
     },
     {
       "surface": "ברע",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "מלך",
-      "gloss": "re di"
+      "gloss": "re"
     },
     {
       "surface": "סדם",
-      "gloss": "Sodom"
+      "gloss": "di Sedom"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
-      "marks": "Birsha re di Gomorrah"
+      "gloss": "e ⟨את⟩",
+      "marks": "Birsha re di Amorah"
     },
     {
       "surface": "ברשע",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "re di"
+      "gloss": "re"
     },
     {
       "surface": "עמרה",
-      "gloss": "Gomorrah"
+      "gloss": "di Amorah"
     },
     {
       "surface": "שנאב",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "re di"
+      "gloss": "re"
     },
     {
       "surface": "אדמה",
-      "gloss": "Admah"
+      "gloss": "di Admah"
     },
     {
       "surface": "ושמאבר",
@@ -67,19 +67,19 @@
     },
     {
       "surface": "מלך",
-      "gloss": "re di"
+      "gloss": "re"
     },
     {
       "surface": "צביים",
-      "gloss": "Tsevoim"
+      "gloss": "di Tsevoim"
     },
     {
       "surface": "ומלך",
-      "gloss": "e il re di"
+      "gloss": "e il re"
     },
     {
       "surface": "בלע",
-      "gloss": "Bela"
+      "gloss": "di Bela"
     },
     {
       "surface": "היא",
@@ -90,6 +90,6 @@
       "gloss": "Tsoar"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.569970363Z",
+  "timestamp": "2026-08-24T20:18:38.177622483Z",
   "model": "glm-5.3"
 }

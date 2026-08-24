@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 21,
-  "translation": "E lo seppellirono ⟨את⟩ ⟨אתו⟩ nella sua sepoltura, nel giardino di Uzza; e regnò Gioshiahu suo figlio al posto suo.",
+  "translation": "E lo seppellirono nella sua tomba nel giardino di Uzza, e regnò Yoshiyahu suo figlio al suo posto.",
   "tokens": [
     {
       "surface": "ויקבר",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "lui (Amon)"
+      "gloss": "⟨את⟩",
+      "marks": "lo (Amon)"
     },
     {
       "surface": "בקברתו",
-      "gloss": "nella sua sepoltura"
+      "gloss": "nella sua tomba"
     },
     {
       "surface": "בגן",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Gioshiahu"
+      "gloss": "Yoshiyahu"
     },
     {
       "surface": "בנו",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "al posto suo"
+      "gloss": "al suo posto"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.583808717Z",
+  "timestamp": "2026-08-24T20:21:55.973294287Z",
   "model": "glm-5.3"
 }

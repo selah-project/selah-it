@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "it",
   "chapter": 8,
-  "translation": "E Shaharaim generò ⟨figli⟩ nel campo di Moab dopo che ebbe mandato via ⟨את⟩ ⟨אתם⟩ — Chushim e ⟨את⟩ Baara, le sue mogli.",
+  "translation": "E Shacharaim generò nel campo di Moab, dopo che ebbe mandato via ⟨את⟩ loro, Chushim e ⟨את⟩ Baara, le sue mogli.",
   "tokens": [
     {
       "surface": "ושחרים",
-      "gloss": "e Shaharaim"
+      "gloss": "E Shacharaim"
     },
     {
       "surface": "הוליד",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "nel campo di"
+      "gloss": "nel campo"
     },
     {
       "surface": "מואב",
-      "gloss": "Moab"
+      "gloss": "di Moab"
     },
     {
       "surface": "מן",
-      "gloss": "dopo"
+      "gloss": "dopo che"
     },
     {
       "surface": "שלחו",
-      "gloss": "che ebbe mandato via"
+      "gloss": "ebbe mandato via"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "Chushim e Baara"
+      "gloss": "⟨את⟩",
+      "marks": "loro — Chushim e Baara"
     },
     {
       "surface": "חושים",
@@ -54,6 +54,6 @@
       "gloss": "le sue mogli"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.577561825Z",
+  "timestamp": "2026-08-24T20:23:49.971644905Z",
   "model": "glm-5.3"
 }

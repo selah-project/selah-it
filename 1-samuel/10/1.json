@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "it",
   "chapter": 10,
-  "translation": "E Shemuël prese ⟨את⟩ il flacone dell'olio e lo versò sul suo capo, e lo baciò, e disse: « Non ⟨è forse⟩ perché YHWH ti ha unto sulla sua eredità, come principe? »",
+  "translation": "E prese Shemuël ⟨את⟩ la fiasca dell'olio, e la versò sulla sua testa, e lo baciò, e disse: « Non ⟨è⟩ forse così: ti ha unto YHWH sulla sua eredità לנגיד — a capo? »",
   "tokens": [
     {
       "surface": "ויקח",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il flacone"
+      "marks": "la fiasca dell'olio"
     },
     {
       "surface": "פך",
-      "gloss": "il flacone"
+      "gloss": "la fiasca"
     },
     {
       "surface": "השמן",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויצק",
-      "gloss": "e lo versò"
+      "gloss": "e la versò"
     },
     {
       "surface": "על",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "il suo capo"
+      "gloss": "la sua testa"
     },
     {
       "surface": "וישקהו",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "non ⟨è forse⟩"
+      "gloss": "non forse"
     },
     {
       "surface": "כי",
-      "gloss": "perché"
+      "gloss": "così \/ che"
     },
     {
       "surface": "משחך",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "לנגיד",
-      "gloss": "come principe"
+      "gloss": "a capo (per principe)"
     }
   ],
-  "timestamp": "2026-08-21T07:08:53.165100927Z",
+  "timestamp": "2026-08-24T20:20:51.141709089Z",
   "model": "glm-5.3"
 }

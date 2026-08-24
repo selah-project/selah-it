@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 4,
-  "translation": "E prenderanno ⟨את⟩ tutti gli strumenti del servizio con i quali si serve nel santuario, e li porranno su un panno di tchelet e li copriranno ⟨אותם⟩ con una copertura di pelle di tachash, e li poseranno sulla barella.",
+  "translation": "E prenderanno ⟨את⟩ tutti gli utensili del servizio con cui si serve nel santuario, e li porranno su un panno di tchelet (viola), e li copriranno ⟨את⟩ ⟨אותם⟩ con una copertura di pelle di tachash, e li porranno sulla sbarra.",
   "tokens": [
     {
       "surface": "ולקחו",
-      "gloss": "e prenderanno"
+      "gloss": "E prenderanno"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tutti gli strumenti del servizio"
+      "marks": "tutti gli utensili del servizio"
     },
     {
       "surface": "כל",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "gli strumenti"
+      "gloss": "gli utensili"
     },
     {
       "surface": "השרת",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "che"
+      "gloss": "con cui"
     },
     {
       "surface": "ישרתו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "תכלת",
-      "gloss": "di tchelet"
+      "gloss": "di tchelet (viola)"
     },
     {
       "surface": "וכסו",
@@ -66,8 +66,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ loro",
-      "marks": "essi (gli strumenti)"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "gli utensili del servizio"
     },
     {
       "surface": "במכסה",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "e li poseranno"
+      "gloss": "e li porranno"
     },
     {
       "surface": "על",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "המוט",
-      "gloss": "la barella"
+      "gloss": "la sbarra"
     }
   ],
-  "timestamp": "2026-08-21T06:24:10.547386534Z",
+  "timestamp": "2026-08-24T20:20:21.200059706Z",
   "model": "glm-5.3"
 }

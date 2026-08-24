@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 35,
-  "translation": "E la comunità salverà ⟨את⟩ l'omicida dalla mano del goel del sangue, e la comunità lo riporterà ⟨את⟩ lui alla città del suo rifugio, dove era fuggito; e abiterà in essa fino alla morte del sacerdote più grande, che ha unto ⟨את⟩ lui con l'olio del santo.",
+  "translation": "E la comunità salverà ⟨את⟩ l'omicida dalla mano del goel del sangue, e la comunità lo riporterà alla città del suo rifugio, dove ⟨egli⟩ era fuggito; e ⟨egli⟩ dimorerà in essa fino alla morte del sacerdote ⟨il⟩ grande, colui che ungé ⟨את⟩ lui con l'olio ⟨il⟩ santo.",
   "tokens": [
     {
       "surface": "והצילו",
-      "gloss": "e salverà"
+      "gloss": "salverà"
     },
     {
       "surface": "העדה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "גאל",
-      "gloss": "del goel"
+      "gloss": "goel"
     },
     {
       "surface": "הדם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "והשיבו",
-      "gloss": "e lo riporterà"
+      "gloss": "riporterà"
     },
     {
       "surface": "אתו",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "עיר",
-      "gloss": "la città"
+      "gloss": "alla città"
     },
     {
       "surface": "מקלטו",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "e abiterà"
+      "gloss": "dimorerà"
     },
     {
       "surface": "בה",
@@ -95,20 +95,20 @@
     },
     {
       "surface": "הגדל",
-      "gloss": "più grande"
+      "gloss": "il grande"
     },
     {
       "surface": "אשר",
-      "gloss": "che"
+      "gloss": "colui che"
     },
     {
       "surface": "משח",
-      "gloss": "ha unto"
+      "gloss": "ungé"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ lui",
-      "marks": "il sacerdote più grande"
+      "marks": "il sacerdote grande"
     },
     {
       "surface": "בשמן",
@@ -116,9 +116,9 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "del santo"
+      "gloss": "il santo"
     }
   ],
-  "timestamp": "2026-08-21T06:38:59.699731565Z",
+  "timestamp": "2026-08-24T20:20:03.751370394Z",
   "model": "glm-5.3"
 }

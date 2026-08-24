@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 10,
-  "translation": "E Iehu si addormentò con i suoi padri, e lo seppellirono ⟨את⟩ ⟨אתו⟩ in Samaria; e regnò al suo posto Iehoachaz suo figlio.",
+  "translation": "E Iehu si coricò con i suoi padri, e lo seppellirono ⟨את⟩ a Shomron; e regnò Iehoachaz suo figlio al posto suo.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "e si addormentò"
+      "gloss": "e si coricò"
     },
     {
       "surface": "יהוא",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "lo (Iehu)"
+      "gloss": "⟨את⟩",
+      "marks": "lo seppellirono — il marcato è Iehu"
     },
     {
       "surface": "בשמרון",
-      "gloss": "in Samaria"
+      "gloss": "a Shomron"
     },
     {
       "surface": "וימלך",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "al suo posto"
+      "gloss": "al posto suo"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.583575941Z",
+  "timestamp": "2026-08-24T20:21:13.856773679Z",
   "model": "glm-5.3"
 }

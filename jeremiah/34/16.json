@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "it",
   "chapter": 34,
-  "translation": "Ma siete tornati e avete profanato ⟨את⟩ il mio nome, e avete fatto tornare ciascuno ⟨את⟩ il suo schiavo e ciascuno ⟨את⟩ la sua schiava, che avevate rimandati liberi secondo la loro volontà, e li avete soggiogati ⟨את⟩ ⟨אתם⟩ perché fossero a voi per schiavi e per schiave.",
+  "translation": "E siete tornati e avete profanato ⟨את⟩ il mio Nome, e avete fatto tornare ciascuno ⟨את⟩ il suo servo e ciascuno ⟨את⟩ la sua serva, che avevate rimandati liberi secondo la loro volontà, e li avete soggiogati perché fossero per voi come servi e come serve.",
   "tokens": [
     {
       "surface": "ותשבו",
-      "gloss": "ma siete tornati"
+      "gloss": "e siete tornati"
     },
     {
       "surface": "ותחללו",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il mio nome"
+      "marks": "il mio Nome"
     },
     {
       "surface": "שמי",
-      "gloss": "il mio nome"
+      "gloss": "il mio Nome"
     },
     {
       "surface": "ותשבו",
@@ -35,11 +35,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il suo schiavo"
+      "marks": "il suo servo"
     },
     {
       "surface": "עבדו",
-      "gloss": "il suo schiavo"
+      "gloss": "il suo servo"
     },
     {
       "surface": "ואיש",
@@ -48,11 +48,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "la sua schiava"
+      "marks": "la sua serva"
     },
     {
       "surface": "שפחתו",
-      "gloss": "la sua schiava"
+      "gloss": "la sua serva"
     },
     {
       "surface": "אשר",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "loro"
     },
     {
@@ -85,17 +85,17 @@
     },
     {
       "surface": "לכם",
-      "gloss": "a voi"
+      "gloss": "per voi"
     },
     {
       "surface": "לעבדים",
-      "gloss": "per schiavi"
+      "gloss": "come servi"
     },
     {
       "surface": "ולשפחות",
-      "gloss": "e per schiave"
+      "gloss": "e come serve"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.571790193Z",
+  "timestamp": "2026-08-24T20:22:43.062618078Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "it",
   "chapter": 3,
-  "translation": "Perisca il giorno in cui nacqui, e la notte che disse: ⟨⟨un maschio è stato concepito⟩⟩.",
+  "translation": "Perisca il giorno in cui nacqui, e la notte che disse: ⟨è⟩ stato concepito un maschio.",
   "tokens": [
     {
       "surface": "יאבד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אולד",
-      "gloss": "nacqui"
+      "gloss": "in cui nacqui"
     },
     {
       "surface": "בו",
-      "gloss": "in cui"
+      "gloss": ""
     },
     {
       "surface": "והלילה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "disse"
+      "gloss": "che disse"
     },
     {
       "surface": "הרה",
@@ -40,6 +40,6 @@
       "gloss": "un maschio"
     }
   ],
-  "timestamp": "2026-08-21T09:14:08.719090266Z",
+  "timestamp": "2026-08-24T20:23:22.322390525Z",
   "model": "glm-5.3"
 }

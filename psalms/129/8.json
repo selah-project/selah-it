@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 129,
-  "translation": "E i passanti non dicono: « La benedizione di YHWH su di voi! Vi abbiamo benedetti ⟨אתכם⟩ nel nome di YHWH ».",
+  "translation": "E non dissero i passanti: « ⟨La⟩ benedizione di YHWH ⟨sia⟩ su di voi; vi abbiamo benedetti ⟨את⟩ nel Nome di YHWH ».",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "e non"
+      "gloss": "E non"
     },
     {
       "surface": "אמרו",
-      "gloss": "dicono"
+      "gloss": "dissero"
     },
     {
       "surface": "העברים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ברכת",
-      "gloss": "la benedizione di"
+      "gloss": "benedizione di"
     },
     {
       "surface": "יהוה",
@@ -38,17 +38,17 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "voi"
+      "marks": "nel Nome di YHWH"
     },
     {
       "surface": "בשם",
-      "gloss": "nel nome di"
+      "gloss": "nel Nome di"
     },
     {
       "surface": "יהוה",
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-21T09:03:56.509900940Z",
+  "timestamp": "2026-08-24T20:23:22.051991912Z",
   "model": "glm-5.3"
 }

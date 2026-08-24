@@ -5,15 +5,15 @@
   "book": "ruth",
   "lang": "it",
   "chapter": 1,
-  "translation": "Forse ⟨⟨dovreste⟩⟩ attendere finché siano cresciuti? Forse ⟨⟨dovreste⟩⟩ rinchiudervi dal non essere per un uomo? No, figlie mie, perché più amaro ⟨è⟩ per me che per voi, perché è uscita contro di me la mano di YHWH.",
+  "translation": "Forse ⟨dovreste⟩ aspettare finché siano cresciuti? Forse ⟨dovreste⟩ rinchiudervi per loro, senza essere ⟨di⟩ un marito? No, figlie mie, poiché più amara di ⟨quella⟩ di voi ⟨è⟩ per me, perché contro di me è uscita la mano di YHWH.",
   "tokens": [
     {
       "surface": "הלהן",
-      "gloss": "forse"
+      "gloss": "forse (per loro)"
     },
     {
       "surface": "תשברנה",
-      "gloss": "attendereste"
+      "gloss": "aspettereste"
     },
     {
       "surface": "עד",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "הלהן",
-      "gloss": "forse"
+      "gloss": "forse (per loro)"
     },
     {
       "surface": "תעגנה",
-      "gloss": "vi rinchiudereste"
+      "gloss": "rinchiudervi"
     },
     {
       "surface": "לבלתי",
-      "gloss": "dal non"
+      "gloss": "senza"
     },
     {
       "surface": "היות",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "per un uomo"
+      "gloss": "di un marito"
     },
     {
       "surface": "אל",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "perché"
+      "gloss": "poiché"
     },
     {
       "surface": "מר",
-      "gloss": "amaro"
+      "gloss": "amara"
     },
     {
       "surface": "לי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "מכם",
-      "gloss": "più che per voi"
+      "gloss": "più di (voi)"
     },
     {
       "surface": "כי",
@@ -96,6 +96,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-21T09:25:41.702362429Z",
+  "timestamp": "2026-08-24T20:23:48.026510937Z",
   "model": "glm-5.3"
 }

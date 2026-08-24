@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 24,
-  "translation": "E parlò Mosè ai figli d'Israele, e condussero fuori ⟨את⟩ il bestemmiatore fuori dall'accampamento, e lo lapidarono ⟨את⟩ ⟨אתו⟩ con pietre; e i figli d'Israele fecero come aveva comandato YHWH ⟨את⟩ Mosè.",
+  "translation": "E parlò Mosè ai figli d'Israele, e portarono fuori ⟨את⟩ il maledicente fuori dell'accampamento, e lo lapidarono con pietre; e i figli d'Israele fecero come aveva comandato YHWH ⟨את⟩ Mosè.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "ויוציאו",
-      "gloss": "e condussero fuori"
+      "gloss": "e portarono fuori"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il bestemmiatore"
+      "marks": "il maledicente"
     },
     {
       "surface": "המקלל",
-      "gloss": "il bestemmiatore"
+      "gloss": "il maledicente"
     },
     {
       "surface": "אל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "dall'accampamento"
+      "gloss": "dell'accampamento"
     },
     {
       "surface": "וירגמו",
@@ -99,6 +99,6 @@
       "gloss": "Mosè"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.585510757Z",
+  "timestamp": "2026-08-24T20:45:41.841369681Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 25,
-  "translation": "E dopo questo uscì suo fratello, e la sua mano ⟨era⟩ presa al calcagno di Esav; e chiamò il suo nome Yaakov; e Yitschak ⟨era⟩ figlio di sessant'anni alla loro nascita ⟨את⟩ ⟨אתם⟩.",
+  "translation": "E dopo questo uscì suo fratello, e la sua mano aggrappata al tallone di Esav; e chiamò il suo nome Giacobbe. E Isacco ⟨era⟩ figlio di sessant'anni quando lei li partorì ⟨את⟩.",
   "tokens": [
     {
       "surface": "ואחרי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אחזת",
-      "gloss": "presa"
+      "gloss": "aggrappata"
     },
     {
       "surface": "בעקב",
-      "gloss": "al calcagno"
+      "gloss": "al tallone"
     },
     {
       "surface": "עשו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakov"
+      "gloss": "Giacobbe"
     },
     {
       "surface": "ויצחק",
-      "gloss": "e Yitschak"
+      "gloss": "e Isacco"
     },
     {
       "surface": "בן",
@@ -69,14 +69,14 @@
     },
     {
       "surface": "בלדת",
-      "gloss": "alla nascita"
+      "gloss": "quando lei partorì"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "loro"
+      "gloss": "⟨את⟩",
+      "marks": "loro (i due gemelli)"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.568695960Z",
+  "timestamp": "2026-08-24T20:18:39.340545680Z",
   "model": "glm-5.3"
 }

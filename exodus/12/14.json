@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 12,
-  "translation": "E questo giorno sarà per voi un memoriale, e celebrerete ⟨אתו⟩ come festa per YHWH; per le vostre generazioni, statuto perpetuo: lo celebrerete.",
+  "translation": "E sarà ⟨il⟩ giorno questo per voi come ricordo, e festeggerete ⟨את⟩ esso festa per YHWH, per le vostre generazioni: statuto per sempre lo festeggerete.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "e sarà"
+      "gloss": "E sarà"
     },
     {
       "surface": "היום",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "לזכרון",
-      "gloss": "un memoriale"
+      "gloss": "come ricordo"
     },
     {
       "surface": "וחגתם",
-      "gloss": "e celebrerete"
+      "gloss": "e festeggerete"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "esso (il giorno di festa)"
+      "marks": "esso — l'oggetto è la festa (חג)"
     },
     {
       "surface": "חג",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "עולם",
-      "gloss": "perpetuo"
+      "gloss": "per sempre"
     },
     {
       "surface": "תחגהו",
-      "gloss": "lo celebrerete"
+      "gloss": "lo festeggerete"
     }
   ],
-  "timestamp": "2026-08-21T05:58:07.025721957Z",
+  "timestamp": "2026-08-24T20:18:50.134878681Z",
   "model": "glm-5.3"
 }

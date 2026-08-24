@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 29,
-  "translation": "Sette giorni espierai ⟨kipper⟩ sull'altare e lo santificherai ⟨את⟩ ⟨אתו⟩; e sarà l'altare santità di santità: tutto ciò che tocca l'altare sarà consacrato.",
+  "translation": "Sette giorni farai espiazione sull'altare e lo consacrerai ⟨את⟩; e sarà l'altare santità delle santità — tutto ciò che tocca l'altare sarà santo.",
   "tokens": [
     {
       "surface": "שבעת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תכפר",
-      "gloss": "espierai (coprirai)"
+      "gloss": "farai espiazione"
     },
     {
       "surface": "על",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "וקדשת",
-      "gloss": "e santificherai"
+      "gloss": "e lo consacrerai"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "lo (l'altare)"
+      "gloss": "⟨את⟩",
+      "marks": "l'altare"
     },
     {
       "surface": "והיה",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "di santità"
+      "gloss": "delle santità"
     },
     {
       "surface": "כל",
-      "gloss": "tutto ciò che"
+      "gloss": "tutto"
     },
     {
       "surface": "הנגע",
-      "gloss": "tocca"
+      "gloss": "ciò che tocca"
     },
     {
       "surface": "במזבח",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "יקדש",
-      "gloss": "sarà consacrato"
+      "gloss": "sarà santo"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.576102049Z",
+  "timestamp": "2026-08-24T20:19:30.319963576Z",
   "model": "glm-5.3"
 }

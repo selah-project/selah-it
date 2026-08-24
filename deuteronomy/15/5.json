@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 15,
-  "translation": "Solo, se ascoltando ascolterai la voce di YHWH, tuo Elohim, per custodire e per fare tutta ⟨את⟩ questa纳 commandenza che io ti comando oggi",
+  "translation": "soltanto, se ascolterai davvero ascoltando la voce di YHWH ⟨il tuo⟩ Elohim, per custodire e per fare ⟨את⟩ tutto questo comandamento che io ti comando oggi",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "solo"
+      "gloss": "soltanto"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שמוע",
-      "gloss": "ascoltando"
+      "gloss": "davvero ascoltando"
     },
     {
       "surface": "תשמע",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "tuo Elohim"
+      "gloss": "⟨il tuo⟩ Elohim"
     },
     {
       "surface": "לשמר",
@@ -46,19 +46,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tutta questa commandenza"
+      "marks": "tutto questo comandamento"
     },
     {
       "surface": "כל",
-      "gloss": "tutta"
+      "gloss": "tutto"
     },
     {
       "surface": "המצוה",
-      "gloss": "la commandenza"
+      "gloss": "il comandamento"
     },
     {
       "surface": "הזאת",
-      "gloss": "questa"
+      "gloss": "questo"
     },
     {
       "surface": "אשר",
@@ -77,6 +77,6 @@
       "gloss": "oggi"
     }
   ],
-  "timestamp": "2026-08-21T06:43:08.429267418Z",
+  "timestamp": "2026-08-24T20:24:37.312547134Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,38 @@
   "book": "job",
   "lang": "it",
   "chapter": 9,
-  "translation": "che fa l'Orsa, Orione, le Pleiadi ⟨וכימה → e le Pleiadi⟩ e le stanze del sud.",
+  "translation": "⟨Colui⟩ che fa ⟨את⟩ l'Orsa, ⟨את⟩ Orione e le Pleiadi, e le stanze del sud.",
   "tokens": [
     {
-      "surface": "עשה",
+      "surface": "עֹֽשֶׂה",
       "gloss": "che fa"
     },
     {
-      "surface": "עש",
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Orsa"
+    },
+    {
+      "surface": "עָ֭שׁ",
       "gloss": "l'Orsa"
     },
     {
-      "surface": "כסיל",
+      "surface": "כְּסִ֥יל",
       "gloss": "Orione"
     },
     {
-      "surface": "וכימה",
+      "surface": "וְכִימָ֗ה",
       "gloss": "e le Pleiadi"
     },
     {
-      "surface": "וחדרי",
+      "surface": "וְחַדְרֵ֥י",
       "gloss": "e le stanze"
     },
     {
-      "surface": "תמן",
+      "surface": "תֵמָֽן",
       "gloss": "del sud"
     }
   ],
-  "timestamp": "2026-08-21T09:15:31.834277545Z",
+  "timestamp": "2026-08-24T20:23:37.554900461Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "it",
   "chapter": 14,
-  "translation": "E avvenne, quando lo videro ⟨את lui⟩, che presero trenta compagni, e furono ⟨את⟩ con lui.",
+  "translation": "E avvenne, quando lo videro, che presero trenta compagni, e furono con lui ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "כראותם",
-      "gloss": "quando videro"
+      "gloss": "quando lo videro"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ lui",
-      "marks": "lo (oggetto di « videro »)"
+      "gloss": "⟨את⟩",
+      "marks": "lo (Shimshon)"
     },
     {
       "surface": "ויקחו",
-      "gloss": "che presero"
+      "gloss": "presero"
     },
     {
       "surface": "שלשים",
@@ -38,10 +38,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ con lui",
-      "marks": "con lui"
+      "gloss": "con lui ⟨את⟩"
     }
   ],
-  "timestamp": "2026-08-21T07:02:18.027386721Z",
+  "timestamp": "2026-08-24T20:21:20.636136423Z",
   "model": "glm-5.3"
 }

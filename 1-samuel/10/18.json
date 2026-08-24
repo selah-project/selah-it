@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "it",
   "chapter": 10,
-  "translation": "E disse ai figli d'Israele: così ha detto YHWH, Elohim d'Israele: io ho fatto salire ⟨את⟩ Israele dall'Egitto, e vi ho liberati ⟨אתכם⟩ dalla mano dell'Egitto e dalla mano di tutti i regni che vi opprimono ⟨אתכם⟩.",
+  "translation": "e disse ai figli d'Israele: così ha detto YHWH, Elohim d'Israele: io ho fatto salire ⟨את⟩ Israele dall'Egitto, e vi ho liberati ⟨את⟩ voi dalla mano dell'Egitto e dalla mano di tutti i regni che vi opprimevano ⟨את⟩ voi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "ai figli"
+      "gloss": "figli"
     },
     {
       "surface": "ישראל",
-      "gloss": "d'Israele"
+      "gloss": "Israele"
     },
     {
       "surface": "כה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ voi",
       "marks": "voi"
     },
     {
@@ -95,14 +95,14 @@
     },
     {
       "surface": "הלחצים",
-      "gloss": "che opprimono"
+      "gloss": "che opprimevano"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "voi"
+      "gloss": "⟨את⟩ voi",
+      "marks": ""
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.580085112Z",
+  "timestamp": "2026-08-24T20:20:42.119315146Z",
   "model": "glm-5.3"
 }

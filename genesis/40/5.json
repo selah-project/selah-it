@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 40,
-  "translation": "E sognarono un sogno entrambi — ⟨l'>uomo ⟨il⟩ suo sogno in una notte — ⟨ciascun uomo secondo l'interpretazione del suo sogno, ⟨cioè⟩ il coppiere e il panettiere del re d'Egitto, che erano legati nella casa della prigione.",
+  "translation": "E sognarono un sogno entrambi — ognuno il proprio sogno in una notte sola, ognuno secondo l'interpretazione del proprio sogno: il coppiere e il fornaio del re d'Egitto, che ⟨erano⟩ legati nella casa della prigione.",
   "tokens": [
     {
       "surface": "ויחלמו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "⟨l'>uomo"
+      "gloss": "ognuno"
     },
     {
       "surface": "חלמו",
-      "gloss": "il suo sogno"
+      "gloss": "il proprio sogno"
     },
     {
       "surface": "בלילה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "una (sola)"
+      "gloss": "sola (una sola)"
     },
     {
       "surface": "איש",
-      "gloss": "ciascun uomo"
+      "gloss": "ognuno"
     },
     {
       "surface": "כפתרון",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "חלמו",
-      "gloss": "del suo sogno"
+      "gloss": "del proprio sogno"
     },
     {
       "surface": "המשקה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "והאפה",
-      "gloss": "e il panettiere"
+      "gloss": "e il fornaio"
     },
     {
       "surface": "אשר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אסורים",
-      "gloss": "erano legati"
+      "gloss": "legati"
     },
     {
       "surface": "בבית",
@@ -84,6 +84,6 @@
       "gloss": "della prigione"
     }
   ],
-  "timestamp": "2026-08-21T05:49:24.691924167Z",
+  "timestamp": "2026-08-24T20:18:44.435550754Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "it",
   "chapter": 16,
-  "translation": "E dirai loro: « Perché i vostri padri mi hanno abbandonato — oracolo di YHWH — e sono andati dietro ad altri elohim, e li hanno serviti e si sono prostrati davanti a loro; e me hanno abbandonato ⟨את⟩ ⟨אותי⟩ e ⟨את⟩ la mia Torah non hanno custodito ».",
+  "translation": "E dirai loro: Perché i vostri padri hanno abbandonato me — oracolo di YHWH — e sono andati dietro ad altri dèi, e li hanno serviti e si sono prostrati davanti a loro; e me hanno abbandonato, e ⟨את⟩ la mia Torah non hanno custodito.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "e dirai"
+      "gloss": "E dirai"
     },
     {
       "surface": "אליהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "perché"
+      "gloss": "Perché"
     },
     {
       "surface": "אשר",
-      "gloss": "〈che〉"
+      "gloss": "⟨che⟩"
     },
     {
       "surface": "עזבו",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ⟨אותי⟩",
-      "marks": "me (hanno abbandonato)"
+      "gloss": "⟨את⟩ me",
+      "marks": "l'oracolo di YHWH, oggetto dell'abbandono"
     },
     {
       "surface": "נאם",
-      "gloss": "oracolo di"
+      "gloss": "oracolo"
     },
     {
       "surface": "יהוה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "altri elohim"
+      "gloss": "dèi"
     },
     {
       "surface": "אחרים",
@@ -74,8 +74,8 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ ⟨אותי⟩",
-      "marks": "me"
+      "gloss": "e ⟨את⟩ me",
+      "marks": "me, oggetto dell'abbandono"
     },
     {
       "surface": "עזבו",
@@ -99,6 +99,6 @@
       "gloss": "hanno custodito"
     }
   ],
-  "timestamp": "2026-08-21T08:03:57.271231124Z",
+  "timestamp": "2026-08-24T20:22:18.221762363Z",
   "model": "glm-5.3"
 }

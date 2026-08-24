@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "it",
   "chapter": 1,
-  "translation": "Tornate alla mia correzione — ecco, farò sgorgare per voi il mio Ruach, vi farò conoscere le mie parole ⟨אתכם⟩.",
+  "translation": "Tornate ⟨a⟩ ⟨la⟩ mia correzione: ecco, io effonderò ⟨את⟩ il mio spirito su di voi, farò conoscere ⟨את⟩ le mie parole a voi.",
   "tokens": [
     {
       "surface": "תשובו",
-      "gloss": "tornate"
+      "gloss": "Tornate"
     },
     {
       "surface": "לתוכחתי",
-      "gloss": "alla mia correzione"
+      "gloss": "⟨a⟩ ⟨la⟩ mia correzione"
     },
     {
       "surface": "הנה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אביעה",
-      "gloss": "farò sgorgare"
+      "gloss": "io effonderò"
     },
     {
       "surface": "לכם",
-      "gloss": "per voi"
+      "gloss": "su di voi"
     },
     {
       "surface": "רוחי",
-      "gloss": "il mio Ruach"
+      "gloss": "il mio spirito"
     },
     {
       "surface": "אודיעה",
@@ -42,9 +42,9 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "vi — l'oggetto marcato dal ל di אודיעה ל…; BSB read conditionally"
+      "marks": "le mie parole (a voi)"
     }
   ],
-  "timestamp": "2026-08-21T09:06:22.879552156Z",
+  "timestamp": "2026-08-24T20:23:23.456047750Z",
   "model": "glm-5.3"
 }

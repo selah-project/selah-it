@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "it",
   "chapter": 22,
-  "translation": "E fu ⟨את⟩ loro nel tempio ⟨בית האלהים⟩ di Elohim, nascosto sei anni; e Atalia regnava sul paese.",
+  "translation": "E fu con loro ⟨את⟩-loro nascosto nel tempio dell'Elohim per sei anni; e Atalia regnava sulla terra.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "e fu"
+      "gloss": "E fu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ loro",
-      "marks": "essi (Ioash e la nutrice)"
+      "gloss": "⟨את⟩ con loro",
+      "marks": "con loro — Joash e la sua nutrice"
     },
     {
       "surface": "בבית",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "di Elohim"
+      "gloss": "dell'Elohim"
     },
     {
       "surface": "מתחבא",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "il paese"
+      "gloss": "la terra"
     }
   ],
-  "timestamp": "2026-08-21T09:59:27.411056624Z",
+  "timestamp": "2026-08-24T20:23:58.522317809Z",
   "model": "glm-5.3"
 }

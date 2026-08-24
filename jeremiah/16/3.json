@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "it",
   "chapter": 16,
-  "translation": "Poiché così ha detto YHWH, sui figli e sulle figlie nati in questo luogo, e sulle loro madri che li hanno partoriti ⟨אתם⟩, e sui loro padri che li hanno generati ⟨אתם⟩ in questa terra:",
+  "translation": "Poiché così ha detto YHWH riguardo ai figli e riguardo alle figlie che nascono in questo luogo, e riguardo alle loro madri che li hanno partoriti, e riguardo ai loro padri che li hanno generati in questa terra:",
   "tokens": [
     {
       "surface": "כי",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "על",
-      "gloss": "su"
+      "gloss": "riguardo a"
     },
     {
       "surface": "הבנים",
-      "gloss": "i figli"
+      "gloss": "ai figli"
     },
     {
       "surface": "ועל",
-      "gloss": "e su"
+      "gloss": "e riguardo a"
     },
     {
       "surface": "הבנות",
-      "gloss": "le figlie"
+      "gloss": "alle figlie"
     },
     {
       "surface": "הילודים",
-      "gloss": "nati"
+      "gloss": "che nascono"
     },
     {
       "surface": "במקום",
@@ -53,37 +53,35 @@
     },
     {
       "surface": "ועל",
-      "gloss": "e su"
+      "gloss": "e riguardo a"
     },
     {
       "surface": "אמתם",
-      "gloss": "le loro madri"
+      "gloss": "alle loro madri"
     },
     {
       "surface": "הילדות",
-      "gloss": "che partorivano"
+      "gloss": "che partoriscono"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "li (le madri li partorivano)"
+      "gloss": "⟨את⟩ li"
     },
     {
       "surface": "ועל",
-      "gloss": "e su"
+      "gloss": "e riguardo a"
     },
     {
       "surface": "אבותם",
-      "gloss": "i loro padri"
+      "gloss": "ai loro padri"
     },
     {
       "surface": "המולדים",
-      "gloss": "che generavano"
+      "gloss": "che generano"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "li (i padri li generavano)"
+      "gloss": "⟨את⟩ li"
     },
     {
       "surface": "בארץ",
@@ -94,6 +92,6 @@
       "gloss": "questa terra"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.572923841Z",
+  "timestamp": "2026-08-24T20:22:28.525325721Z",
   "model": "glm-5.3"
 }

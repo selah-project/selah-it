@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 30,
-  "translation": "Quando alzerai ⟨את⟩ la testa dei figli d'Israele per il loro censimento, essi daranno ciascun uomo un riscatto della propria nefesh a YHWH, quando li censirai ⟨אתם⟩, e non sarà fra loro piaga, quando li censirai ⟨אתם⟩.",
+  "translation": "Quando alzerai ⟨את⟩ la testa dei figli d'Israele per il loro censimento, essi daranno ciascun uomo un kofer per la sua nefesh a YHWH quando li si conta; e non sarà tra loro piaga quando li si conta.",
   "tokens": [
     {
       "surface": "כי",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "כפר",
-      "gloss": "un riscatto"
+      "gloss": "un kofer"
     },
     {
       "surface": "נפשו",
-      "gloss": "della propria nefesh"
+      "gloss": "per la sua nefesh"
     },
     {
       "surface": "ליהוה",
@@ -58,12 +58,12 @@
     },
     {
       "surface": "בפקד",
-      "gloss": "quando… censirai"
+      "gloss": "quando si conta"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "li"
+      "gloss": "⟨את⟩",
+      "marks": "li (loro)"
     },
     {
       "surface": "ולא",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "fra loro"
+      "gloss": "tra loro"
     },
     {
       "surface": "נגף",
@@ -83,14 +83,14 @@
     },
     {
       "surface": "בפקד",
-      "gloss": "quando… censirai"
+      "gloss": "quando si conta"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "li"
+      "gloss": "⟨את⟩",
+      "marks": "li (loro)"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.575196307Z",
+  "timestamp": "2026-08-24T20:24:31.943630985Z",
   "model": "glm-5.3"
 }

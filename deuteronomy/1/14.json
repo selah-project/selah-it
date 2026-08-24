@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 1,
-  "translation": "E mi rispondeste ⟨את⟩ e diceste: buona ⟨סה⟩ la cosa che hai parlato da fare.",
+  "translation": "E mi rispondeste ⟨את⟩ e diceste: buono ⟨is⟩ la cosa che hai parlato da fare.",
   "tokens": [
     {
-      "surface": "וותענו",
+      "surface": "ותענו",
       "gloss": "e mi rispondeste"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mi (l'oggetto: Mosè)"
+      "marks": "mi"
     },
     {
       "surface": "ותאמרו",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "buona"
+      "gloss": "buono"
     },
     {
       "surface": "הדבר",
@@ -41,6 +41,6 @@
       "gloss": "da fare"
     }
   ],
-  "timestamp": "2026-08-21T06:39:28.389035362Z",
+  "timestamp": "2026-08-24T20:19:55.501136734Z",
   "model": "glm-5.3"
 }

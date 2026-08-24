@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "it",
   "chapter": 5,
-  "translation": "E mandò Chiram re di Tiro ⟨את⟩ i suoi servi a Shelomò, perché aveva udito che ⟨את⟩ lui avevano unto re al posto di suo padre; perché Chiram era stato amico di Davide tutti i giorni.",
+  "translation": "E Chiram, re di Tiro, mandò ⟨את⟩ i suoi servi a Shelomoh, perché aveva sentito che ⟨lo⟩ avevano unto come re al posto di suo padre; perché Chiram era stato amante di David tutti i giorni.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomò"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "כי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "aveva udito"
+      "gloss": "aveva sentito"
     },
     {
       "surface": "כי",
@@ -55,7 +55,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ lui",
-      "marks": "avevano unto"
+      "marks": "avevano unto (lui)"
     },
     {
       "surface": "משחו",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "re"
+      "gloss": "come re"
     },
     {
       "surface": "תחת",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אהב",
-      "gloss": "amico \/ amava"
+      "gloss": "amante"
     },
     {
       "surface": "היה",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "לדוד",
-      "gloss": "di Davide"
+      "gloss": "di David"
     },
     {
       "surface": "כל",
@@ -102,6 +102,6 @@
       "gloss": "i giorni"
     }
   ],
-  "timestamp": "2026-08-21T07:26:20.450271095Z",
+  "timestamp": "2026-08-24T20:21:39.787452851Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 13,
-  "translation": "E Ieoachaz implorò ⟨את⟩ il volto di YHWH, e YHWH lo ascoltò, perché vide ⟨את⟩ l'oppressione d'Israele — perché li opprimeva ⟨את⟩ ⟨אתם⟩ il re di Aram.",
+  "translation": "E Jehoachaz supplicò ⟨את⟩ il volto di YHWH, e YHWH lo ascoltò, perché vide ⟨את⟩ l'oppressione di Israele — perché ⟨את⟩ li opprimeva il re di Aram.",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "e implorò"
+      "gloss": "supplicò"
     },
     {
       "surface": "יהואחז",
-      "gloss": "Ieoachaz"
+      "gloss": "Jehoachaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "il volto di YHWH"
+      "marks": "il volto"
     },
     {
       "surface": "פני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "di YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "וישמע",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "lo"
+      "gloss": "verso di lui"
     },
     {
       "surface": "יהוה",
@@ -51,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l'oppressione d'Israele"
+      "marks": "l'oppressione"
     },
     {
       "surface": "לחץ",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "d'Israele"
+      "gloss": "di Israele"
     },
     {
       "surface": "כי",
@@ -71,8 +71,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "li"
+      "gloss": "⟨את⟩ li"
     },
     {
       "surface": "מלך",
@@ -83,6 +82,6 @@
       "gloss": "di Aram"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.584817621Z",
+  "timestamp": "2026-08-24T20:21:34.868922065Z",
   "model": "glm-5.3"
 }

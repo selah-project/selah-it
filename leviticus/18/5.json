@@ -5,29 +5,29 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 18,
-  "translation": "E osserverete ⟨את⟩ le mie chukkot e ⟨את⟩ le mie mishpatim, che l'uomo farà ⟨את⟩ ⟨אתם⟩ e vivrà in esse: io ⟨sono⟩ YHWH.",
+  "translation": "E custodirete ⟨את⟩ le mie statues e ⟨את⟩ i miei verdetti, che l'uomo farà ⟨את⟩ essi e vivrà in essi: io ⟨sono⟩ YHWH.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "e osserverete"
+      "gloss": "e custodirete"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "le mie chukkot"
+      "marks": "le mie statues"
     },
     {
       "surface": "חקתי",
-      "gloss": "le mie chukkot (statuti)"
+      "gloss": "le mie statues"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "le mie mishpatim"
+      "marks": "i miei verdetti"
     },
     {
       "surface": "משפטי",
-      "gloss": "le mie mishpatim (norme di diritto)"
+      "gloss": "i miei verdetti"
     },
     {
       "surface": "אשר",
@@ -39,8 +39,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "l'uomo"
+      "gloss": "⟨את⟩ essi",
+      "marks": "essi"
     },
     {
       "surface": "האדם",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "in esse"
+      "gloss": "in essi"
     },
     {
       "surface": "אני",
@@ -63,6 +63,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.585752810Z",
+  "timestamp": "2026-08-24T20:19:13.198436665Z",
   "model": "glm-5.3"
 }

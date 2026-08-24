@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 14,
-  "translation": "E ogni piccolo essere che brulica ⟨che⟩ ⟨ha⟩ le ali ⟨⟨è⟩ impuro per voi; non si mangino⟩",
+  "translation": "E ogni ⟨il⟩ brulichante dell'uccello ⟨è⟩ impuro ⟨esso⟩ per voi; non si mangiano.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שרץ",
-      "gloss": "essere che brulica"
+      "gloss": "brulichante"
     },
     {
       "surface": "העוף",
-      "gloss": "alato"
+      "gloss": "l'uccello"
     },
     {
       "surface": "טמא",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "יאכלו",
-      "gloss": "si mangino"
+      "gloss": "si mangiano"
     }
   ],
-  "timestamp": "2026-08-21T06:43:01.811283057Z",
+  "timestamp": "2026-08-24T20:19:45.969897101Z",
   "model": "glm-5.3"
 }

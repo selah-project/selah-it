@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "it",
   "chapter": 5,
-  "translation": "Ruggirà come il leone ⟨לו⟩, e ruggirà come i giovani leoni; e grugnirà, e afferrerà ⟨את⟩ la preda, e la strapperà via, e non vi ⟨è⟩ chi salvi.",
+  "translation": "Ruggito ⟨per esso⟩ come ⟨il⟩ leone, e ruggisce come i leoncelli, e grugnisce e afferra ⟨את⟩ la preda e la mette in salvo, e non ⟨c'è⟩ chi salvi.",
   "tokens": [
     {
       "surface": "שאגה",
-      "gloss": "ruggirà"
+      "gloss": "ruggito"
     },
     {
       "surface": "לו",
@@ -21,19 +21,24 @@
     },
     {
       "surface": "ושאג",
-      "gloss": "e ruggirà"
+      "gloss": "e ruggisce"
     },
     {
       "surface": "ככפירים",
-      "gloss": "come i giovani leoni"
+      "gloss": "come i leoncelli"
     },
     {
       "surface": "וינהם",
-      "gloss": "e grugnirà"
+      "gloss": "e grugnisce"
     },
     {
       "surface": "ויאחז",
-      "gloss": "e afferrerà"
+      "gloss": "e afferra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la preda"
     },
     {
       "surface": "טרף",
@@ -41,17 +46,17 @@
     },
     {
       "surface": "ויפליט",
-      "gloss": "e la strapperà via"
+      "gloss": "e la mette in salvo"
     },
     {
       "surface": "ואין",
-      "gloss": "e non vi è"
+      "gloss": "e non"
     },
     {
       "surface": "מציל",
       "gloss": "chi salvi"
     }
   ],
-  "timestamp": "2026-08-21T07:43:58.587295152Z",
+  "timestamp": "2026-08-24T20:22:11.800774518Z",
   "model": "glm-5.3"
 }

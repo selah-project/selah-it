@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 5,
-  "translation": "e il sacerdote la presenterà ⟨אתה⟩ e la farà stare in piedi davanti a YHWH.",
+  "translation": "E il sacerdote la presenterà ⟨את⟩lei e la farà stare in piedi davanti a YHWH.",
   "tokens": [
     {
       "surface": "והקריב",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "lei"
+      "gloss": "⟨את⟩lei",
+      "marks": "la donna"
     },
     {
       "surface": "הכהן",
@@ -33,6 +33,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-21T06:24:51.403936548Z",
+  "timestamp": "2026-08-24T20:19:46.452103023Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 7,
-  "translation": "E il sacerdote li farà salire in fumo ⟨את⟩ sull'altare, offerta di fuoco a YHWH: ⟨⟨è⟩⟩ un sacrificio di colpa (asham).",
+  "translation": "E il sacerdote li farà fumare ⟨את⟩ sull'altare, offerta di fuoco per YHWH: è un'offerta di colpa.",
   "tokens": [
     {
       "surface": "והקטיר",
-      "gloss": "farà salire in fumo"
+      "gloss": "farà fumare"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "essi (le parti grasse)"
+      "marks": "li"
     },
     {
       "surface": "הכהן",
@@ -30,17 +30,17 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "a YHWH"
+      "gloss": "per YHWH"
     },
     {
       "surface": "אשם",
-      "gloss": "sacrificio di colpa (asham)"
+      "gloss": "offerta di colpa"
     },
     {
       "surface": "הוא",
-      "gloss": "esso è"
+      "gloss": "è"
     }
   ],
-  "timestamp": "2026-08-21T06:12:13.445300123Z",
+  "timestamp": "2026-08-24T20:19:41.146338187Z",
   "model": "glm-5.3"
 }

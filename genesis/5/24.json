@@ -5,19 +5,19 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 5,
-  "translation": "E camminò Hanoch con ⟨את⟩ Elohim, e non ⟨fu⟩ più, perché Elohim lo prese ⟨את⟩ ⟨אתו⟩.",
+  "translation": "E Camusceò camminò con ⟨את⟩ Elohim, e non ⟨era⟩ più, perché Elohim lo ⟨prese⟩ ⟨את⟩ lui.",
   "tokens": [
     {
       "surface": "ויתהלך",
-      "gloss": "E camminò"
+      "gloss": "e camminò"
     },
     {
       "surface": "חנוך",
-      "gloss": "Hanoch"
+      "gloss": "Camusceò"
     },
     {
       "surface": "את",
-      "gloss": "con ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Elohim"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואיננו",
-      "gloss": "e non ⟨fu⟩ più"
+      "gloss": "e non era più"
     },
     {
       "surface": "כי",
@@ -38,14 +38,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "lo (Hanoch)"
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui"
     },
     {
       "surface": "אלהים",
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.566666920Z",
+  "timestamp": "2026-08-24T20:18:27.251128578Z",
   "model": "glm-5.3"
 }

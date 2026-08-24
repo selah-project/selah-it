@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 45,
-  "translation": "Hai amato la giustizia e hai odiato la malvagità; perciò ti ha unto Elohim, il tuo Elohim, con olio di esultanza più dei tuoi compagni.",
+  "translation": "Hai amato la giustizia e odiato la malvagità; perciò ⟨ti ha unto⟩ Elohim, il tuo Elohim, con olio di esultanza, ⟨più⟩ dei tuoi compagni.",
   "tokens": [
     {
       "surface": "אהבת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ותשנא",
-      "gloss": "e hai odiato"
+      "gloss": "e odiato"
     },
     {
       "surface": "רשע",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "על",
-      "gloss": "per"
+      "gloss": "⟨più⟩ di"
     },
     {
       "surface": "כן",
-      "gloss": "ciò"
+      "gloss": "perciò"
     },
     {
       "surface": "משחך",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "מחבריך",
-      "gloss": "più dei tuoi compagni"
+      "gloss": "dei tuoi compagni"
     }
   ],
-  "timestamp": "2026-08-21T08:50:37.214979604Z",
+  "timestamp": "2026-08-24T20:22:57.270131276Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "it",
   "chapter": 22,
-  "translation": "Chi semina l'ingiustizia mieterà ⟨l'>affanno, e lo scettro della sua furia verrà meno.",
+  "translation": "Chi semina ⟨la⟩ ingiustizia mieterà ⟨il⟩ nulla, e ⟨il⟩ bastone della sua furia verrà meno.",
   "tokens": [
     {
       "surface": "זורע",
-      "gloss": "Chi semina"
+      "gloss": "semina"
     },
     {
       "surface": "עולה",
-      "gloss": "l'ingiustizia"
+      "gloss": "ingiustizia"
     },
     {
       "surface": "יקצור",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "און",
-      "gloss": "affanno"
+      "gloss": "il nulla"
     },
     {
       "surface": "ושבט",
-      "gloss": "e lo scettro"
+      "gloss": "e ⟨il⟩ bastone"
     },
     {
       "surface": "עברתו",
@@ -36,6 +36,6 @@
       "gloss": "verrà meno"
     }
   ],
-  "timestamp": "2026-08-21T09:11:17.711156888Z",
+  "timestamp": "2026-08-24T20:23:22.579411923Z",
   "model": "glm-5.3"
 }

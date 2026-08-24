@@ -5,12 +5,11 @@
   "book": "2-kings",
   "lang": "it",
   "chapter": 9,
-  "translation": "Ed essi dissero: « ⟨È⟩ menzogna! Racconta, ti prego, a noi ». Ed ⟨egli⟩ disse: « Così e così mi ha detto, dicendo: Così ha detto YHWH: ti ho unto come re su Israele ».",
+  "translation": "E dissero: ⟨è⟩ menzogna; racconta dunque a noi. E disse: così e così mi ha detto, per dire: così parla YHWH: ti ho unto Mashiach come re su Israele.",
   "tokens": [
     {
-      "surface": "ואאמרו",
-      "gloss": "Ed essi dissero",
-      "note": "superficie: ויאמרו"
+      "surface": "ויאמרו",
+      "gloss": "E dissero"
     },
     {
       "surface": "שקר",
@@ -22,7 +21,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "ti prego"
+      "gloss": "dunque"
     },
     {
       "surface": "לנו",
@@ -30,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ed ⟨egli⟩ disse"
+      "gloss": "E disse"
     },
     {
       "surface": "כזאת",
@@ -46,11 +45,11 @@
     },
     {
       "surface": "אלי",
-      "gloss": "mi"
+      "gloss": "a me"
     },
     {
       "surface": "לאמר",
-      "gloss": "dicendo"
+      "gloss": "per dire"
     },
     {
       "surface": "כה",
@@ -58,7 +57,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ha detto"
+      "gloss": "parla"
     },
     {
       "surface": "יהוה",
@@ -81,6 +80,6 @@
       "gloss": "Israele"
     }
   ],
-  "timestamp": "2026-08-21T07:36:39.972441312Z",
+  "timestamp": "2026-08-24T20:21:43.048171011Z",
   "model": "glm-5.3"
 }

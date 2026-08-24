@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 13,
-  "translation": "פֶּן־יֹאמַר אוֹיְבִי «יְכֹלְתִּיו» — לְמַעַן לֹא יֹאמַר אוֹיְבִי «יָכֹלְתִּיו», וְלֹא יָגִילוּ צָרַי בְּמוֹטִי. בַּתַּרְגּוּם: Che non dica il mio nemico: «l'ho sopraffatto»; che i miei avversari non esultino quando io vacillo.",
+  "translation": "che non dica il mio nemico: « l'ho prevalso ⟨su di lui⟩ », e che non esultino i miei avversari quando ⟨io⟩ vacillo.",
   "tokens": [
     {
       "surface": "פן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יכלתיו",
-      "gloss": "l'ho sopraffatto"
+      "gloss": "l'ho prevalso ⟨su di lui⟩"
     },
     {
       "surface": "צרי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יגילו",
-      "gloss": "non esultino"
+      "gloss": "esultino"
     },
     {
       "surface": "כי",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "אמוט",
-      "gloss": "io vacillo"
+      "gloss": "vacillo"
     }
   ],
-  "timestamp": "2026-08-21T08:45:16.311418142Z",
+  "timestamp": "2026-08-24T20:24:28.473071107Z",
   "model": "glm-5.3"
 }

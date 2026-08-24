@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "it",
   "chapter": 11,
-  "translation": " Questa non vi sarà per pentola, e voi sarete in mezzo ad essa come carne; fino al confine di Israele vi giudicherò ⟨אתכם⟩.",
+  "translation": "Essa non vi sarà ⟨per⟩ pentola, e voi sarete in mezzo ad essa ⟨per⟩ carne; al confine di Israele vi giudicherò ⟨את⟩voi.",
   "tokens": [
     {
       "surface": "היא",
-      "gloss": "Questa"
+      "gloss": "Essa"
     },
     {
       "surface": "לא",
@@ -41,30 +41,30 @@
     },
     {
       "surface": "לבשר",
-      "gloss": "come carne"
+      "gloss": "per carne"
     },
     {
       "surface": "אל",
-      "gloss": "fino a"
+      "gloss": "al"
     },
     {
       "surface": "גבול",
-      "gloss": "al confine"
+      "gloss": "confine"
     },
     {
       "surface": "ישראל",
-      "gloss": "di Israele"
+      "gloss": "Israele"
     },
     {
-      "surface": "אשפוט",
-      "gloss": "vi giudicherò"
+      "surface": "אשפט",
+      "gloss": "judicherò"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "«voi» — oggetto marcato del giudizio"
+      "marks": "vi \/ voi"
     }
   ],
-  "timestamp": "2026-08-21T08:18:15.881313655Z",
+  "timestamp": "2026-08-24T20:22:57.656402304Z",
   "model": "glm-5.3"
 }

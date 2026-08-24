@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "it",
   "chapter": 9,
-  "translation": "Guarda la vita con ⟨la⟩ donna che hai amato tutti i giorni della tua vita di hevel, che ti ⟨è⟩ stata data sotto il sole, tutti i giorni del tuo hevel; perché quella è la tua parte nella vita e nel tuo travaglio, con cui tu fatichi sotto il sole.",
+  "translation": "Guarda la vita con la donna che hai amato, tutti i giorni della vita del tuo hevel, che ti ⟨è⟩ stato dato sotto il sole, tutti i giorni del tuo hevel; perché quella ⟨è⟩ la tua parte nella vita e nella tua fatica, che tu ti affatichi sotto il sole.",
   "tokens": [
     {
       "surface": "ראה",
-      "gloss": "guarda"
+      "gloss": "Guarda"
     },
     {
       "surface": "חיים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "donna"
+      "gloss": "la donna"
     },
     {
       "surface": "אשר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ימי",
-      "gloss": "i giorni di"
+      "gloss": "i giorni"
     },
     {
       "surface": "חיי",
-      "gloss": "la vita di"
+      "gloss": "della vita"
     },
     {
       "surface": "הבלך",
-      "gloss": "il tuo hevel"
+      "gloss": "del tuo hevel"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "〈è〉 stata data"
+      "gloss": "è stato dato"
     },
     {
       "surface": "לך",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ימי",
-      "gloss": "i giorni di"
+      "gloss": "i giorni"
     },
     {
       "surface": "הבלך",
-      "gloss": "il tuo hevel"
+      "gloss": "del tuo hevel"
     },
     {
       "surface": "כי",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "חלקך",
-      "gloss": "è la tua parte"
+      "gloss": "la tua parte"
     },
     {
       "surface": "בחיים",
@@ -97,11 +97,11 @@
     },
     {
       "surface": "ובעמלך",
-      "gloss": "e nel tuo travaglio"
+      "gloss": "e nella tua fatica"
     },
     {
       "surface": "אשר",
-      "gloss": "con cui"
+      "gloss": "che"
     },
     {
       "surface": "אתה",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "עמל",
-      "gloss": "fatichi"
+      "gloss": "ti affatichi"
     },
     {
       "surface": "תחת",
@@ -120,6 +120,6 @@
       "gloss": "il sole"
     }
   ],
-  "timestamp": "2026-08-21T09:30:10.867816368Z",
+  "timestamp": "2026-08-24T20:23:37.539061343Z",
   "model": "glm-5.3"
 }

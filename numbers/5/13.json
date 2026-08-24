@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 5,
-  "translation": "e un uomo giacque con lei ⟨אתה⟩ — un giacere di seme — e la cosa fu nascosta agli occhi di suo marito, ed ella si nascose mentre ⟨era⟩ contaminata, e non c'è testimone contro di lei, ed ella non è stata colta in fallo.",
+  "translation": "e un uomo giace con ⟨את⟩ lei, un giacere di seme, e ⟨ciò⟩ ⟨è⟩ nascosto agli occhi del marito di lei, e lei si ⟨è⟩ nascosta, e lei ⟨si⟩ ⟨è⟩ contaminata, e testimone non ⟨c'è⟩ in lei, e lei non ⟨è⟩ stata colta ⟨in flagrante⟩.",
   "tokens": [
     {
       "surface": "ושכב",
-      "gloss": "e giacque"
+      "gloss": "e giace"
     },
     {
       "surface": "איש",
@@ -18,7 +18,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "lei"
+      "marks": "lei — oggetto del giacere"
     },
     {
       "surface": "שכבת",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ונעלם",
-      "gloss": "e fu nascosta"
+      "gloss": "e ⟨è⟩ nascosto"
     },
     {
       "surface": "מעיני",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "אישה",
-      "gloss": "suo marito"
+      "gloss": "il marito di lei"
     },
     {
       "surface": "ונסתרה",
-      "gloss": "ed ella si nascose"
+      "gloss": "e si ⟨è⟩ nascosta"
     },
     {
       "surface": "והיא",
-      "gloss": "mentre ella"
+      "gloss": "e lei"
     },
     {
       "surface": "נטמאה",
-      "gloss": "è contaminata"
+      "gloss": "⟨si⟩ ⟨è⟩ contaminata"
     },
     {
       "surface": "ועד",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "אין",
-      "gloss": "non c'è"
+      "gloss": "non ⟨c'è⟩"
     },
     {
       "surface": "בה",
-      "gloss": "contro di lei"
+      "gloss": "in lei"
     },
     {
       "surface": "והוא",
-      "gloss": "ed ella"
+      "gloss": "e lei"
     },
     {
       "surface": "לא",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "נתפשה",
-      "gloss": "è stata colta"
+      "gloss": "⟨è⟩ stata colta"
     }
   ],
-  "timestamp": "2026-08-21T06:24:51.403320964Z",
+  "timestamp": "2026-08-24T20:19:57.762665579Z",
   "model": "glm-5.3"
 }

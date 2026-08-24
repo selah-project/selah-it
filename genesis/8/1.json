@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 8,
-  "translation": "E ricordò Elohim ⟨את⟩ Noach, ⟨את⟩ ⟨e את⟩ ogni vivente e ⟨את⟩ ogni bestia che ⟨era⟩ con lui nell'arca; e fece passare Elohim un Ruach su ⟨la⟩ terra, e si calmarono le acque.",
+  "translation": "E Elohim si ricordò ⟨את⟩ di Noach, e ⟨את⟩ di ogni essere vivente e ⟨את⟩ di ogni bestia che ⟨את⟩ era con lui nell'arca; e fece passare Elohim un Ruach su ⟨la⟩ terra, e le acque si calmarono.",
   "tokens": [
     {
       "surface": "ויזכר",
-      "gloss": "e ricordò"
+      "gloss": "e si ricordò"
     },
     {
       "surface": "אלהים",
@@ -26,8 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨e את⟩",
-      "marks": "ogni vivente"
+      "gloss": "e ⟨את⟩",
+      "marks": "di ogni essere vivente"
     },
     {
       "surface": "כל",
@@ -35,12 +35,12 @@
     },
     {
       "surface": "החיה",
-      "gloss": "vivente"
+      "gloss": "l'essere vivente"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨e את⟩",
-      "marks": "ogni bestia"
+      "gloss": "e ⟨את⟩",
+      "marks": "di ogni bestia"
     },
     {
       "surface": "כל",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "bestia"
+      "gloss": "la bestia"
     },
     {
       "surface": "אשר",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "con lui ⟨את⟩"
+      "gloss": "⟨את⟩ con lui"
     },
     {
       "surface": "בתבה",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "la terra"
+      "gloss": "⟨la⟩ terra"
     },
     {
       "surface": "וישכו",
@@ -91,6 +91,6 @@
       "gloss": "le acque"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.569238190Z",
+  "timestamp": "2026-08-24T20:18:41.497880415Z",
   "model": "glm-5.3"
 }

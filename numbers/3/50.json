@@ -5,19 +5,20 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 3,
-  "translation": "Da ⟨מאת⟩ i primogeniti dei figli d'Israele prese ⟨את⟩ il denaro: cinque e sessanta e trecento e mille, in sicli ⟨del⟩ santuario —",
+  "translation": "Da ⟨את⟩ i primogeniti dei figli d'Israele prese ⟨את⟩ il denaro: mille e trecento sessantacinque, secondo lo siclo del santuario.",
   "tokens": [
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ da ⟨מאת⟩"
+      "gloss": "da ⟨את⟩",
+      "marks": "i primogeniti dei figli d'Israele"
     },
     {
       "surface": "בכור",
-      "gloss": "primogeniti"
+      "gloss": "i primogeniti"
     },
     {
       "surface": "בני",
-      "gloss": "figli"
+      "gloss": "dei figli"
     },
     {
       "surface": "ישראל",
@@ -50,7 +51,7 @@
     },
     {
       "surface": "מאות",
-      "gloss": "centinaia"
+      "gloss": "cento"
     },
     {
       "surface": "ואלף",
@@ -58,13 +59,13 @@
     },
     {
       "surface": "בשקל",
-      "gloss": "in sicli"
+      "gloss": "secondo lo siclo"
     },
     {
       "surface": "הקדש",
       "gloss": "del santuario"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.588303501Z",
+  "timestamp": "2026-08-24T20:20:20.377204029Z",
   "model": "glm-5.3"
 }

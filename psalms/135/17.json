@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 135,
-  "translation": "Orecchie hanno, ma non ascoltano; anche: non c'è ⟨⟨alcun⟩⟩ soffio nella loro bocca.",
+  "translation": "Orecchie hanno, ma non odono; anche, non c'è ⟨è⟩ ruach nella loro bocca.",
   "tokens": [
     {
       "surface": "אזנים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יאזינו",
-      "gloss": "ascoltano"
+      "gloss": "odono"
     },
     {
       "surface": "אף",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "אין",
-      "gloss": "non c'è"
+      "gloss": "non"
     },
     {
       "surface": "יש",
-      "gloss": ""
+      "gloss": "c'è"
     },
     {
       "surface": "רוח",
-      "gloss": "soffio"
+      "gloss": "ruach"
     },
     {
       "surface": "בפיהם",
       "gloss": "nella loro bocca"
     }
   ],
-  "timestamp": "2026-08-21T09:04:16.520697799Z",
+  "timestamp": "2026-08-24T20:23:35.875078435Z",
   "model": "glm-5.3"
 }

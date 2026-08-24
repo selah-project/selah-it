@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 4,
-  "translation": "E sull'altare d'oro stenderanno un panno di tchelet e lo copriranno ⟨אתו⟩ con una copertura di pelle di tachash, e poseranno ⟨את⟩ le sue stanghe.",
+  "translation": "E sull'altare d'oro stenderanno un panno di tchelet (viola), e lo copriranno ⟨את⟩ ⟨אתו⟩ con una copertura di pelle di tachash, e poseranno ⟨את⟩ le sue barre.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "e su"
+      "gloss": "E su"
     },
     {
       "surface": "מזבח",
-      "gloss": "l'altare"
+      "gloss": "altare"
     },
     {
       "surface": "הזהב",
-      "gloss": "d'oro"
+      "gloss": "l'oro"
     },
     {
       "surface": "יפרשו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תכלת",
-      "gloss": "di tchelet"
+      "gloss": "di tchelet (viola)"
     },
     {
       "surface": "וכסו",
@@ -37,8 +37,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ lui",
-      "marks": "esso (l'altare)"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "l'altare d'oro"
     },
     {
       "surface": "במכסה",
@@ -59,13 +59,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "le sue stanghe"
+      "marks": "le sue barre"
     },
     {
       "surface": "בדיו",
-      "gloss": "le sue stanghe"
+      "gloss": "le sue barre"
     }
   ],
-  "timestamp": "2026-08-21T06:24:10.547239155Z",
+  "timestamp": "2026-08-24T20:45:41.842013590Z",
   "model": "glm-5.3"
 }

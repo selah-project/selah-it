@@ -5,16 +5,15 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 15,
-  "translation": "E il sacerdote li sacrificherà ⟨אתם⟩: l'uno come offerta per il peccato e l'altro come olà; e il sacerdote compirà su di lui l'espiazione davanti a YHWH, per il suo flusso.",
+  "translation": "E li offrirà ⟨את⟩ il sacerdote: l'uno come sacrificio per il peccato e l'altro come olà (offerta di elevazione); e il sacerdote farà espiazione per lui davanti a YHWH, a motivo della sua perdita.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "E sacrificherà"
+      "gloss": "E offrirà"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "li (le due offerte)"
+      "gloss": "⟨את⟩ li"
     },
     {
       "surface": "הכהן",
@@ -26,7 +25,7 @@
     },
     {
       "surface": "חטאת",
-      "gloss": "come offerta per il peccato"
+      "gloss": "come sacrificio per il peccato"
     },
     {
       "surface": "והאחד",
@@ -34,15 +33,15 @@
     },
     {
       "surface": "עלה",
-      "gloss": "come olà"
+      "gloss": "come olà (offerta di elevazione)"
     },
     {
       "surface": "וכפר",
-      "gloss": "e compirà l'espiazione"
+      "gloss": "e farà espiazione"
     },
     {
       "surface": "עליו",
-      "gloss": "su di lui"
+      "gloss": "per lui"
     },
     {
       "surface": "הכהן",
@@ -58,9 +57,9 @@
     },
     {
       "surface": "מזובו",
-      "gloss": "per il suo flusso"
+      "gloss": "a motivo della sua perdita"
     }
   ],
-  "timestamp": "2026-08-21T06:17:05.185807932Z",
+  "timestamp": "2026-08-24T20:19:32.912361347Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "it",
   "chapter": 3,
-  "translation": "E fece nella casa del santo dei santi due keruvim, lavoro scolpito, e li rivestirono ⟨את⟩ ⟨אתם⟩ d'oro.",
+  "translation": "E fece nel Santo dei santi due keruvim, opera scolpita, e li rivestì d'oro ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "e fece"
+      "gloss": "fece"
     },
     {
       "surface": "בבית",
-      "gloss": "nella casa"
+      "gloss": "nel"
     },
     {
       "surface": "קדש",
-      "gloss": "del santo"
+      "gloss": "Santo"
     },
     {
       "surface": "הקדשים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כרובים",
-      "gloss": "due keruvim"
+      "gloss": "keruvim"
     },
     {
       "surface": "שנים",
@@ -33,26 +33,26 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "lavoro"
+      "gloss": "opera"
     },
     {
       "surface": "צעצעים",
-      "gloss": "scolpito"
+      "gloss": "scolpita"
     },
     {
       "surface": "ויצפו",
-      "gloss": "e rivestirono"
+      "gloss": "rivestirono"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "li — i due keruvim"
+      "gloss": "⟨את⟩",
+      "marks": "li (i keruvim)"
     },
     {
       "surface": "זהב",
-      "gloss": "d'oro"
+      "gloss": "oro"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.579379842Z",
+  "timestamp": "2026-08-24T20:23:54.217694811Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "it",
   "chapter": 29,
-  "translation": "E diranno: perché hanno abbandonato ⟨את⟩ il patto di YHWH, Elohim dei loro padri, che stabilì con loro quando li fece uscire ⟨את⟩ ⟨אתם⟩ dalla terra d'Egitto,",
+  "translation": "E diranno: perché hanno abbandonato ⟨את⟩ il patto di YHWH, Elohim dei loro padri, che egli aveva tagliato con loro quando li fece uscire ⟨את⟩ loro dalla terra d'Egitto.",
   "tokens": [
     {
       "surface": "ואמרו",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "על",
-      "gloss": "perché (su)"
+      "gloss": "perché"
     },
     {
       "surface": "אשר",
-      "gloss": "(ciò) che"
+      "gloss": "che"
     },
     {
       "surface": "עזבו",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "di YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "אלהי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "כרת",
-      "gloss": "stabilì"
+      "gloss": "aveva tagliato"
     },
     {
       "surface": "עמם",
@@ -62,8 +62,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "dalla terra d'Egitto"
+      "gloss": "⟨את⟩",
+      "marks": "loro"
     },
     {
       "surface": "מארץ",
@@ -74,6 +74,6 @@
       "gloss": "d'Egitto"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.582042792Z",
+  "timestamp": "2026-08-24T20:24:30.178643643Z",
   "model": "glm-5.3"
 }

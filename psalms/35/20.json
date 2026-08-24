@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "it",
   "chapter": 35,
-  "translation": "Perché non ⟨⟨proferiscono⟩⟩ shalom, e contro i quieti della terra parole d'inganno tramano.",
+  "translation": "Poiché non ⟨il⟩ shalom parlano, e contro i quieti della terra parole d'inganno tramano.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Perché"
+      "gloss": "poiché"
     },
     {
       "surface": "לא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ידברו",
-      "gloss": "proferiscono"
+      "gloss": "parlano"
     },
     {
       "surface": "ועל",
@@ -48,6 +48,6 @@
       "gloss": "tramano"
     }
   ],
-  "timestamp": "2026-08-21T08:49:00.187888832Z",
+  "timestamp": "2026-08-24T20:22:47.710021207Z",
   "model": "glm-5.3"
 }

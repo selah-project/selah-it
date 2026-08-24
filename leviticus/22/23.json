@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 22,
-  "translation": "E un bue o un agnaggio allungato o mancante: come offerta volontaria lo potrai fare ⟨אתו⟩, ma per un voto non sarà accetto.",
+  "translation": "E un bue o una pecora con un membro troppo lungo o mancante — come nedavà lo puoi fare offrire, ma come adempimento di un neder non sarà accettato.",
   "tokens": [
     {
       "surface": "ושור",
@@ -13,32 +13,32 @@
     },
     {
       "surface": "ושה",
-      "gloss": "o un agnello"
+      "gloss": "o una pecora"
     },
     {
       "surface": "שרוע",
-      "gloss": "allungato"
+      "gloss": "con un membro troppo lungo (deforme)"
     },
     {
       "surface": "וקלוט",
-      "gloss": "o mancante"
+      "gloss": "o mancante (rachitico)"
     },
     {
       "surface": "נדבה",
-      "gloss": "come offerta volontaria"
+      "gloss": "come offerta volontaria (nedavà)"
     },
     {
       "surface": "תעשה",
-      "gloss": "potrai fare"
+      "gloss": "puoi fare"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "esso (il bue o l'agnello)"
+      "marks": "un bue o una pecora con un membro troppo lungo o mancante"
     },
     {
       "surface": "ולנדר",
-      "gloss": "ma per un voto"
+      "gloss": "e per un voto (neder)"
     },
     {
       "surface": "לא",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "ירצה",
-      "gloss": "sarà accetto"
+      "gloss": "sarà accettato"
     }
   ],
-  "timestamp": "2026-08-21T06:19:22.210245779Z",
+  "timestamp": "2026-08-24T20:19:16.793767251Z",
   "model": "glm-5.3"
 }

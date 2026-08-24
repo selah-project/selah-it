@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 26,
-  "translation": "e volgerò la mia faccia contro di voi, e sarete sconfitti davanti ai vostri nemici, e domineranno su di voi quelli che vi odiano, e fuggirete e non ⟨vi sarà⟩ nessuno che insegua ⟨אתכם⟩.",
+  "translation": "E porrò la mia faccia contro di voi, e sarete colpiti davanti ai vostri nemici, e domineranno su di voi quelli che vi odiano, e fuggirete e non ⟨vi⟩ sarà chi vi insegua ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "e volgerò"
+      "gloss": "e porrò"
     },
     {
       "surface": "פני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ונגפתם",
-      "gloss": "e sarete sconfitti"
+      "gloss": "e sarete colpiti"
     },
     {
       "surface": "לפני",
@@ -49,18 +49,18 @@
     },
     {
       "surface": "ואין",
-      "gloss": "e non ⟨vi sarà⟩"
+      "gloss": "e non c'è"
     },
     {
       "surface": "רדף",
-      "gloss": "che insegua"
+      "gloss": "chi insegua"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "voi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "vi"
     }
   ],
-  "timestamp": "2026-08-21T10:05:00.401254414Z",
+  "timestamp": "2026-08-24T20:45:41.841010388Z",
   "model": "glm-5.3"
 }

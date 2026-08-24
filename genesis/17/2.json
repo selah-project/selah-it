@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 17,
-  "translation": "E porrò il mio patto (berit) tra me e ⟨את⟩ te, e ti moltiplicherò ⟨ אותך ⟩ oltremisura, moltissimo.",
+  "translation": "E porrò il mio patto ⟨את⟩ fra me e te, e ti moltiplicherò ⟨in⟩ misura grandissima.",
   "tokens": [
     {
       "surface": "ואתנה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ביני",
-      "gloss": "tra me"
+      "gloss": "fra me"
     },
     {
       "surface": "ובינך",
@@ -25,22 +25,22 @@
     },
     {
       "surface": "וארבה",
-      "gloss": "e ti moltiplicherò"
+      "gloss": "e moltiplicherò"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ te",
+      "gloss": "⟨את⟩",
       "marks": "ti"
     },
     {
       "surface": "במאד",
-      "gloss": "oltremisura"
+      "gloss": "in misura"
     },
     {
       "surface": "מאד",
-      "gloss": "moltissimo"
+      "gloss": "grandissima"
     }
   ],
-  "timestamp": "2026-08-21T05:38:45.278198437Z",
+  "timestamp": "2026-08-24T20:18:37.624737045Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "it",
   "chapter": 18,
-  "translation": "Così eleverete anche voi l'offerta di elevazione di YHWH da tutte le vostre decime che prendete ⟨את⟩ ⟨מאת⟩ dai figli d'Israele, e darete di essa ⟨את⟩ l'offerta di elevazione di YHWH ad Aharon il sacerdote.",
+  "translation": "Così anche voi eleverete la terumà di YHWH da tutte le vostre decime, che prenderete da ⟨את⟩ i figli d'Israele, e darete di esse ⟨את⟩ la terumà di YHWH ad Aharon il sacerdote.",
   "tokens": [
     {
       "surface": "כן",
-      "gloss": "Così"
+      "gloss": "così"
     },
     {
       "surface": "תרימו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "תרומת",
-      "gloss": "l'offerta di elevazione"
+      "gloss": "la terumà"
     },
     {
       "surface": "יהוה",
-      "gloss": "di YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "מכל",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "תקחו",
-      "gloss": "prendete"
+      "gloss": "prenderete"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ⟨מאת⟩ da",
-      "marks": "בני ישראל — i figli d'Israele"
+      "gloss": "da ⟨את⟩",
+      "marks": "i figli d'Israele"
     },
     {
       "surface": "בני",
@@ -61,25 +61,25 @@
       "gloss": "d'Israele"
     },
     {
-      "surface": "ונתתם",
+      "surface": "וונתתם",
       "gloss": "e darete"
     },
     {
       "surface": "ממנו",
-      "gloss": "di essa"
+      "gloss": "di esse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "תרומת יהוה — l'offerta di elevazione di YHWH"
+      "marks": "la terumà di YHWH"
     },
     {
       "surface": "תרומת",
-      "gloss": "l'offerta di elevazione"
+      "gloss": "la terumà"
     },
     {
       "surface": "יהוה",
-      "gloss": "di YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "לאהרן",
@@ -90,6 +90,6 @@
       "gloss": "il sacerdote"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.589208060Z",
+  "timestamp": "2026-08-24T20:20:12.937373188Z",
   "model": "glm-5.3"
 }

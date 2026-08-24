@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "it",
   "chapter": 41,
-  "translation": "E disse Faraone a Giuseppe: « Dopo che Elohim ti ha fatto conoscere ⟨אותך→te⟩ tutto questo, non ⟨c'è⟩ nessuno intelligente e saggio come te ».",
+  "translation": "E disse Paroh a Yossef: poiché Elohim ⟨את⟩ ti ha fatto conoscere ⟨את⟩ tutto questo, non ⟨vi⟩ ⟨è⟩ nessuno intendente e saggio come te.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "e disse"
+      "gloss": "E disse"
     },
     {
       "surface": "פרעה",
-      "gloss": "Faraone"
+      "gloss": "Paroh"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Giuseppe"
+      "gloss": "Yossef"
     },
     {
       "surface": "אחרי",
-      "gloss": "dopo che"
+      "gloss": "poiché"
     },
     {
       "surface": "הודיע",
@@ -37,8 +37,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ te",
-      "marks": "אותך — marcatore di oggetto con suffisso: « ti »"
+      "gloss": "⟨את⟩ ti",
+      "marks": "ti"
     },
     {
       "surface": "את",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "non ⟨c'è⟩"
+      "gloss": "non"
     },
     {
       "surface": "נבון",
-      "gloss": "intelligente"
+      "gloss": "intendente"
     },
     {
       "surface": "וחכם",
@@ -70,6 +70,6 @@
       "gloss": "come te"
     }
   ],
-  "timestamp": "2026-08-21T05:49:40.675620694Z",
+  "timestamp": "2026-08-24T20:18:35.170113784Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "it",
   "chapter": 24,
-  "translation": "Ecco, oggi i tuoi occhi hanno visto ⟨את⟩ ciò che YHWH ti ha dato oggi in mia mano nella grotta; ed ⟨esso⟩ disse di ucciderti, ma io ho avuto pietà di te, e ho detto: Non stenderò la mia mano sul mio signore, perché ⟨egli⟩ è l'Unto di YHWH.",
+  "translation": "Ecco, oggi i tuoi occhi hanno visto ⟨את⟩ ciò che YHWH ti ha dato oggi in mano mia nella caverna; e mi fu detto di ucciderti, ma il mio occhio ti ha risparmiato; e io ho detto: non stenderò la mia mano sul mio signore, perché ⟨è⟩ l'Unto di YHWH, lui.",
   "tokens": [
     {
       "surface": "הנה",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ciò"
+      "marks": "ciò che"
     },
     {
       "surface": "אשר",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "בידי",
-      "gloss": "in mia mano"
+      "gloss": "in mano mia"
     },
     {
       "surface": "במערה",
-      "gloss": "nella grotta"
+      "gloss": "nella caverna"
     },
     {
       "surface": "ואמר",
-      "gloss": "ed ⟨esso⟩ disse"
+      "gloss": "e fu detto"
     },
     {
       "surface": "להרגך",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ותחס",
-      "gloss": "ma ⟨io⟩ ho avuto pietà"
+      "gloss": "e ha avuto pietà"
     },
     {
       "surface": "עליך",
@@ -102,13 +102,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "di YHWH"
+      "gloss": "YHWH"
     },
     {
       "surface": "הוא",
-      "gloss": "egli ⟨è⟩"
+      "gloss": "lui"
     }
   ],
-  "timestamp": "2026-08-21T07:14:13.754465888Z",
+  "timestamp": "2026-08-24T20:21:20.596884414Z",
   "model": "glm-5.3"
 }

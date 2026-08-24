@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "it",
   "chapter": 42,
-  "translation": "E vennero a lui tutti i suoi fratelli e tutte le sue sorelle e tutti i suoi conoscenti di prima, e mangiarono con lui pane nella sua casa, e mossero il capo su di lui e lo consolarono ⟨אתו⟩ riguardo a tutto il male che YHWH aveva portato su di lui; e gli diedero: ciascuno una qesitah, e ciascuno un anello d'oro, uno.",
+  "translation": "E vennero da lui tutti i suoi fratelli e tutte le sue sorelle e tutti i suoi conoscenti di prima, e mangiarono con lui pane nella sua casa, e si condolsero con lui e lo consolarono ⟨את⟩ per tutto il male che YHWH aveva portato su di lui; e gli diedero ⟨l'uno⟩ una qesitah ciascuno e ⟨l'altro⟩ un anello d'oro ciascuno.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "a lui"
+      "gloss": "da lui"
     },
     {
       "surface": "כל",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "וינדו",
-      "gloss": "e mossero il capo"
+      "gloss": "e si condolsero"
     },
     {
       "surface": "לו",
-      "gloss": "su di lui"
+      "gloss": "con lui"
     },
     {
       "surface": "וינחמו",
@@ -74,11 +74,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lui"
+      "marks": "lui — l'oggetto consolato"
     },
     {
       "surface": "על",
-      "gloss": "riguardo a"
+      "gloss": "per"
     },
     {
       "surface": "כל",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "a lui"
+      "gloss": "gli"
     },
     {
       "surface": "איש",
@@ -141,6 +141,6 @@
       "gloss": "uno"
     }
   ],
-  "timestamp": "2026-08-21T09:24:26.857273334Z",
+  "timestamp": "2026-08-24T20:23:48.797346559Z",
   "model": "glm-5.3"
 }

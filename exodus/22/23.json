@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "it",
   "chapter": 22,
-  "translation": "E si accenderà il mio furore e vi ucciderò ⟨את⟩ ⟨אתכם⟩ con la spada, e saranno le vostre donne vedove e i vostri figli orfani.",
+  "translation": "E si accenderà la mia ira e vi ucciderò ⟨אתכם⟩ con la spada, e le vostre mogli saranno vedove e i vostri figli orfani.",
   "tokens": [
     {
       "surface": "וחרה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אפי",
-      "gloss": "il mio furore"
+      "gloss": "la mia ira"
     },
     {
       "surface": "והרגתי",
@@ -21,8 +21,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "voi"
+      "gloss": "⟨את⟩",
+      "marks": "vi"
     },
     {
       "surface": "בחרב",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "נשיכם",
-      "gloss": "le vostre donne"
+      "gloss": "le vostre mogli"
     },
     {
       "surface": "אלמנות",
@@ -49,6 +49,6 @@
       "gloss": "orfani"
     }
   ],
-  "timestamp": "2026-08-21T10:18:31.575667309Z",
+  "timestamp": "2026-08-24T20:18:48.274313107Z",
   "model": "glm-5.3"
 }

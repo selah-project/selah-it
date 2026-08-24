@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "it",
   "chapter": 6,
-  "translation": "Perché ecco, io suscito contro di voi, casa d'Israele — oracolo di YHWH, Elohim degli eserciti — una nazione, e vi opprimeranno ⟨אתכם⟩ dall'ingresso di Hamat fino al torrente dell'Arava.",
+  "translation": "Perché ecco, io suscito contro di voi, casa d'Israele — oracolo di YHWH, Elohim degli eserciti — una nazione, e ⟨quella⟩ vi opprimerà ⟨את⟩ dall'ingresso di Chamat fino al torrente dell'Arava.",
   "tokens": [
     {
       "surface": "כי",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "ולחצו",
-      "gloss": "e vi opprimeranno"
+      "gloss": "e vi opprimerà"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "voi (l'oggetto premuto da Hamat all'Arava)"
+      "marks": "voi"
     },
     {
       "surface": "מלבוא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "חמת",
-      "gloss": "di Hamat"
+      "gloss": "di Chamat"
     },
     {
       "surface": "עד",
@@ -81,6 +81,6 @@
       "gloss": "dell'Arava"
     }
   ],
-  "timestamp": "2026-08-21T08:35:10.543404700Z",
+  "timestamp": "2026-08-24T20:23:08.354185546Z",
   "model": "glm-5.3"
 }

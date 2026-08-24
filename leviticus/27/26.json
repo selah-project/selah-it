@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "it",
   "chapter": 27,
-  "translation": "Soltanto il primogenito, che nasce primogenito a YHWH tra il bestiame, nessun uomo lo consacrerà ⟨אתו⟩: sia bue sia agnello, di YHWH ⟨è⟩.",
+  "translation": "Solo il primogenito della bestia, che nasce primogenito a YHWH, nessun uomo lo consacrerà ⟨את⟩; sia bue sia pecora, di YHWH ⟨esso⟩ è.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "soltanto"
+      "gloss": "solo"
     },
     {
       "surface": "בכור",
-      "gloss": "il primogenito"
+      "gloss": "primogenito"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בבהמה",
-      "gloss": "tra il bestiame"
+      "gloss": "della bestia"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יקדיש",
-      "gloss": "consacrerà"
+      "gloss": "consecrerà"
     },
     {
       "surface": "איש",
@@ -46,7 +46,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "il primogenito"
+      "marks": "lo (il primogenito)"
     },
     {
       "surface": "אם",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "שה",
-      "gloss": "agnello"
+      "gloss": "pecora"
     },
     {
       "surface": "ליהוה",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨è⟩"
+      "gloss": "esso è"
     }
   ],
-  "timestamp": "2026-08-21T06:22:13.692849166Z",
+  "timestamp": "2026-08-24T20:19:20.574893151Z",
   "model": "glm-5.3"
 }
