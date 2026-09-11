@@ -66,3 +66,8 @@ con l'ebraico, con le regole, con le fonti e con l'allineamento —
 possono accettare, correggere insieme a te, attendere altre prove,
 o respingere con la ragione. È il testo a essere valutato, non la
 persona.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
